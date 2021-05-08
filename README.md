@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
+>Chuck Norris brushes his teeth with a mixture of iron shavings, industrial paint remover, and wood-grain alcohol.
 <!-- /joke -->
 
-*Last update: Sat, 08 May 2021 17:41:09 GMT*
+*Last update: Sat, 08 May 2021 18:28:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
