@@ -1,12 +1,12 @@
 name: Update joke
 
-# ToDo: Change to a scheduled trigger
-# on:
-#   schedule:
-#     - cron: "*/5 * * * *"
-
 on:
-  issue_comment:
+  schedule:
+    - cron: '0 */1 * * *'
+
+# For debugging you can trigger the workflow with a comment
+# on:
+#   issue_comment:
 
 jobs:
   funny:
@@ -22,5 +22,5 @@ jobs:
       - run: |
           git config --global user.name 'HappyBot'
           git config --global user.email 'h-a-p-p-y-b-o-t@users.noreply.github.com'
-          git commit -am "Funny joke"
+          git commit -am "Updated joke"
           git push
