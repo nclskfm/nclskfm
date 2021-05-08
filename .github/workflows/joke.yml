@@ -13,12 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.HAPPY_BOT_TOKEN }}
       - uses: actions/setup-node@v1
         with:
           node-version: 12.8
       - run: node new-joke.js
       - run: |
           git config --global user.name 'Jokebot'
-          git config --global user.email 'funny.joke@pm.me'
+          git config --global user.email 'h-a-p-p-y-b-o-t@users.noreply.github.com'
           git commit -am "Funny joke"
           git push
