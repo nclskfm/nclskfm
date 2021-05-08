@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris is the reason why Waldo is hiding.
+>Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by the naked eye.
 <!-- /joke -->
 
-*Last update: Sat, 08 May 2021 22:25:16 GMT*
+*Last update: Sat, 08 May 2021 23:22:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
