@@ -2,7 +2,7 @@
 
 ### Joke of the hour
 <!-- joke -->
->They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
+>They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them...
 <!-- /joke -->
 *Last update: Sat, 08 May 2021 09:37:16 GMT*
 
