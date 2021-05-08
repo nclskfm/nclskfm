@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't play god. Playing is for children.
+>Sticks and stones may break your bones, but a Chuck Norris glare will liquefy your kidneys.
 <!-- /joke -->
 
-*Last update: Sat, 08 May 2021 11:18:18 GMT*
+*Last update: Sat, 08 May 2021 12:30:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
