@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+>Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
 <!-- /joke -->
 
-*Last update: Sat, 08 May 2021 13:26:58 GMT*
+*Last update: Sat, 08 May 2021 14:20:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
