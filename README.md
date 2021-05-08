@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->While urinating, Chuck Norris is easily capable of welding titanium.
+>Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
 <!-- /joke -->
 
-*Last update: Sat, 08 May 2021 15:23:05 GMT*
+*Last update: Sat, 08 May 2021 16:36:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
