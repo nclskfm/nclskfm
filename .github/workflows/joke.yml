@@ -20,7 +20,7 @@ jobs:
           node-version: 12.8
       - run: node new-joke.js
       - run: |
-          git config --global user.name 'Jokebot'
+          git config --global user.name 'HappyBot'
           git config --global user.email 'h-a-p-p-y-b-o-t@users.noreply.github.com'
           git commit -am "Funny joke"
           git push
