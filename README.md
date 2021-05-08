@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
+>Chuck Norris doesn't needs try-catch, exceptions are too afraid to raise.
 <!-- /joke -->
 
-*Last update: Sat, 08 May 2021 19:17:24 GMT*
+*Last update: Sat, 08 May 2021 20:21:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
