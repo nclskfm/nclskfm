@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Sticks and stones may break your bones, but a Chuck Norris glare will liquefy your kidneys.
+>Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
 <!-- /joke -->
 
-*Last update: Sat, 08 May 2021 12:30:34 GMT*
+*Last update: Sat, 08 May 2021 13:26:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
