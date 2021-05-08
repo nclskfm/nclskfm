@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
+>For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
 <!-- /joke -->
 
-*Last update: Sat, 08 May 2021 16:36:40 GMT*
+*Last update: Sat, 08 May 2021 17:41:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
