@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
+>In a fight between Batman and Darth Vader, the winner would be Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 03:26:58 GMT*
+*Last update: Sun, 09 May 2021 04:26:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
