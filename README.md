@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn't expect a ternary joke.
+>Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 07:22:35 GMT*
+*Last update: Sun, 09 May 2021 08:23:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
