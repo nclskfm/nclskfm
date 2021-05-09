@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
+>Why do fish likes nibbles the size of 2^n? So they can byte
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 11:18:06 GMT*
+*Last update: Sun, 09 May 2021 12:30:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
