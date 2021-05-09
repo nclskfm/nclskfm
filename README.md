@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by the naked eye.
+>If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
 <!-- /joke -->
 
-*Last update: Sat, 08 May 2021 23:22:35 GMT*
+*Last update: Sun, 09 May 2021 01:05:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
