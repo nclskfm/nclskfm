@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
+>MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 01:05:23 GMT*
+*Last update: Sun, 09 May 2021 02:42:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
