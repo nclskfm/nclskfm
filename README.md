@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
+>Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 13:27:04 GMT*
+*Last update: Sun, 09 May 2021 14:20:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
