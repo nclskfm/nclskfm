@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't pair program.
+>Why did the chicken cross the road? It was called with theOtherSide(chicken)
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 05:22:54 GMT*
+*Last update: Sun, 09 May 2021 06:26:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
