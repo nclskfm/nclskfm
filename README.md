@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
+>Chuck Norris sheds his skin twice a year.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 22:26:16 GMT*
+*Last update: Sun, 09 May 2021 23:21:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
