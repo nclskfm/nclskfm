@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->For Chuck Norris, NP-Hard = O(1).
+>The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 09:23:28 GMT*
+*Last update: Sun, 09 May 2021 10:22:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
