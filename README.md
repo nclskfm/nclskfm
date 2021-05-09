@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris is not Politically Correct. He is just Correct. Always.
+>Le gf: I'll dump you.Le bf: hex dump or binary dump? 
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 18:28:09 GMT*
+*Last update: Sun, 09 May 2021 19:18:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
