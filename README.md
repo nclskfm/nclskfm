@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Why do fish likes nibbles the size of 2^n? So they can byte
+>Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 12:30:29 GMT*
+*Last update: Sun, 09 May 2021 13:27:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
