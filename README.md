@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
+>For Chuck Norris, NP-Hard = O(1).
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 08:23:52 GMT*
+*Last update: Sun, 09 May 2021 09:23:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
