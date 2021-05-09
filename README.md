@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
+>Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 02:42:49 GMT*
+*Last update: Sun, 09 May 2021 03:26:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
