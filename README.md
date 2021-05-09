@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
+>July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 15:23:04 GMT*
+*Last update: Sun, 09 May 2021 16:37:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
