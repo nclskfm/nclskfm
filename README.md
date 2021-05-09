@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
+>Archeologists unearthed an old english dictionary dating back to the year 1236. It defined 'victim' as 'one who has encountered Chuck Norris'
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 16:37:20 GMT*
+*Last update: Sun, 09 May 2021 17:41:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
