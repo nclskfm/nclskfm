@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
+>For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 14:20:05 GMT*
+*Last update: Sun, 09 May 2021 15:23:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
