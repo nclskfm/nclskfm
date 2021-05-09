@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Why did the chicken cross the road? It was called with theOtherSide(chicken)
+>There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn't expect a ternary joke.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 06:26:06 GMT*
+*Last update: Sun, 09 May 2021 07:22:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
