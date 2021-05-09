@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->In a fight between Batman and Darth Vader, the winner would be Chuck Norris.
+>Chuck Norris doesn't pair program.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 04:26:10 GMT*
+*Last update: Sun, 09 May 2021 05:22:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
