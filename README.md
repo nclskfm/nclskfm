@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris' house has no doors, only walls that he walks through.
+>Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 21:19:49 GMT*
+*Last update: Sun, 09 May 2021 22:26:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
