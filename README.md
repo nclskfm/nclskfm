@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can install iTunes without installing Quicktime.
+>The Bible was originally titled 'Chuck Norris and Friends'
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 08:25:21 GMT*
+*Last update: Mon, 10 May 2021 09:23:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
