@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can touch MC Hammer.
+>Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 12:31:54 GMT*
+*Last update: Mon, 10 May 2021 13:28:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
