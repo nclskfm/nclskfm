@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
+>It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 22:26:25 GMT*
+*Last update: Mon, 10 May 2021 23:21:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
