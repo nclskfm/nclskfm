@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
+>There are three kinds of people: those who can count and those who can’t.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 05:24:05 GMT*
+*Last update: Mon, 10 May 2021 06:26:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
