@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
+>Since 1940, the year Chuck Norris was born, roundhouse kick related deaths have increased 13,000 percent.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 02:47:46 GMT*
+*Last update: Mon, 10 May 2021 03:31:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
