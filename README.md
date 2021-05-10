@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->There are three kinds of people: those who can count and those who can’t.
+>In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 06:26:47 GMT*
+*Last update: Mon, 10 May 2021 07:23:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
