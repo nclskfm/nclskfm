@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Since 1940, the year Chuck Norris was born, roundhouse kick related deaths have increased 13,000 percent.
+>The US did not boycott the 1980 Summer Olympics in Moscow due to political reasons: Chuck Norris killed the entire US team with a single round-house kick during TaeKwonDo practice.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 03:31:39 GMT*
+*Last update: Mon, 10 May 2021 04:28:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
