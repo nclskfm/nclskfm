@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Some kids play Kick the can. Chuck Norris played Kick the keg.
+>Chuck Norris once ate four 30lb bowling balls without chewing.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 18:33:32 GMT*
+*Last update: Mon, 10 May 2021 19:22:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
