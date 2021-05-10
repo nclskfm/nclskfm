@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can instantiate an abstract class.
+>Chuck Norris can touch MC Hammer.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 11:18:30 GMT*
+*Last update: Mon, 10 May 2021 12:31:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
