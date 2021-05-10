@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
+>Chuck Norris can instantiate an abstract class.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 10:23:03 GMT*
+*Last update: Mon, 10 May 2021 11:18:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
