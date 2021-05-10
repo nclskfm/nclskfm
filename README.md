@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once ate four 30lb bowling balls without chewing.
+>Programmer (noun.): A machine that turns coffee into code
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 19:22:05 GMT*
+*Last update: Mon, 10 May 2021 20:22:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
