@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The Bible was originally titled 'Chuck Norris and Friends'
+>1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 09:23:31 GMT*
+*Last update: Mon, 10 May 2021 10:23:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
