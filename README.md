@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Black holes are where God divided by zero.
+>Some kids play Kick the can. Chuck Norris played Kick the keg.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 17:45:56 GMT*
+*Last update: Mon, 10 May 2021 18:33:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
