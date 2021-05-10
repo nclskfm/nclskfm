@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris sheds his skin twice a year.
+>Chuck Norris can solve the Towers of Hanoi in one move.
 <!-- /joke -->
 
-*Last update: Sun, 09 May 2021 23:21:38 GMT*
+*Last update: Mon, 10 May 2021 01:04:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
