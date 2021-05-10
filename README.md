@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Programmer (noun.): A machine that turns coffee into code
+>If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 20:22:37 GMT*
+*Last update: Mon, 10 May 2021 21:20:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
