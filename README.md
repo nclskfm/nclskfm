@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't shower, he only takes blood baths.
+>If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 14:21:12 GMT*
+*Last update: Mon, 10 May 2021 15:22:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
