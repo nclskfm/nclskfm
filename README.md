@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Chuck Norris was chasing the Tyrannosaurus AND the jeep.
+>Chuck Norris can install iTunes without installing Quicktime.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 07:23:44 GMT*
+*Last update: Mon, 10 May 2021 08:25:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
