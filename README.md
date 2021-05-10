@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+>According to the Bible, God created the universe in six days. Before that, Chuck Norris created God by snapping his fingers.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 15:22:15 GMT*
+*Last update: Mon, 10 May 2021 16:38:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
