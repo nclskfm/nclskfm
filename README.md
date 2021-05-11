@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Time waits for no man. Unless that man is Chuck Norris.
+>Chuck Norris was what Willis was talkin' about.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 11:18:30 GMT*
+*Last update: Tue, 11 May 2021 12:32:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
