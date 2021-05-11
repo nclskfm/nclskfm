@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Chuck Norris says 'More cowbell', he MEANS it.
+>Chuck Norris doesn't see dead people. He makes people dead.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 07:23:06 GMT*
+*Last update: Tue, 11 May 2021 08:25:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
