@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
+>When Chuck Norris plays Oregon Trail, his family does not die from cholera or dysentery, but rather, roundhouse kicks to the face. He also requires no wagon, since he carries the oxen, axels, and buffalo meat on his back. He always makes it to Oregon before you.
 <!-- /joke -->
 
-*Last update: Mon, 10 May 2021 23:21:35 GMT*
+*Last update: Tue, 11 May 2021 01:03:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
