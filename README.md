@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Only Chuck Norris can prevent forest fires.
+>Project managers never ask Chuck Norris for estimations... ever.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 18:33:36 GMT*
+*Last update: Tue, 11 May 2021 19:22:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
