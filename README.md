@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->In the medical community, death is referred to as 'Chuck Norris Disease'
+>1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 05:24:37 GMT*
+*Last update: Tue, 11 May 2021 06:26:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
