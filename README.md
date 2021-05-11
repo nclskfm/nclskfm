@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Project managers never ask Chuck Norris for estimations... ever.
+>One day Chuck Norris walked down the street with a massive erection. There were no survivors.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 19:22:24 GMT*
+*Last update: Tue, 11 May 2021 20:23:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
