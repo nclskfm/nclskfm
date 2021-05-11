@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->TNT was originally developed by Chuck Norris to cure indigestion.
+>When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 02:45:09 GMT*
+*Last update: Tue, 11 May 2021 03:29:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
