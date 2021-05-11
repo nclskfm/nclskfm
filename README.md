@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+>Chuck Norris does not teabag the ladies. He potato-sacks them.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 03:29:22 GMT*
+*Last update: Tue, 11 May 2021 04:27:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
