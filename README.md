@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->One day Chuck Norris walked down the street with a massive erection. There were no survivors.
+>Chuck Norris? favourite cut of meat is the roundhouse.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 20:23:53 GMT*
+*Last update: Tue, 11 May 2021 21:19:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
