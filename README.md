@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris is the only man to ever defeat a brick wall in a game of tennis.
+>Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 22:26:33 GMT*
+*Last update: Tue, 11 May 2021 23:22:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
