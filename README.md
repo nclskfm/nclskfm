@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Enter any 11-digit prime number to continue.
+>Chuck Norris built a time machine and went back in time to stop the JFK assassination. As Oswald shot, Chuck met all three bullets with his beard, deflecting them. JFK's head exploded out of sheer amazement.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 15:25:06 GMT*
+*Last update: Tue, 11 May 2021 16:40:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
