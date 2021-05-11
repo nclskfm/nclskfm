@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris? favourite cut of meat is the roundhouse.
+>Chuck Norris is the only man to ever defeat a brick wall in a game of tennis.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 21:19:54 GMT*
+*Last update: Tue, 11 May 2021 22:26:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
