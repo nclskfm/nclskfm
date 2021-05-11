@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
+>When Chuck Norris says 'More cowbell', he MEANS it.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 06:26:46 GMT*
+*Last update: Tue, 11 May 2021 07:23:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
