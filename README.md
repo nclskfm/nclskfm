@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
+>Enter any 11-digit prime number to continue.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 14:21:17 GMT*
+*Last update: Tue, 11 May 2021 15:25:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
