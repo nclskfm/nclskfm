@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I have a good joke on Information Technology, but you won't get IT
+>When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 06:27:41 GMT*
+*Last update: Wed, 12 May 2021 07:25:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
