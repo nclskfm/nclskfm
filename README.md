@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
+>The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 03:32:07 GMT*
+*Last update: Wed, 12 May 2021 04:31:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
