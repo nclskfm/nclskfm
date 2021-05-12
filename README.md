@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The only pattern Chuck Norris knows is God Object.
+>If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 22:27:54 GMT*
+*Last update: Wed, 12 May 2021 23:23:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
