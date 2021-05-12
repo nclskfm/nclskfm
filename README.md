@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Some things Man was never meant to know. For everything else there’s Google.
+>I told him I can't open the jar, he said download and install Java
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 10:23:49 GMT*
+*Last update: Wed, 12 May 2021 11:19:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
