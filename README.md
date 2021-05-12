@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.
+>Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 17:48:32 GMT*
+*Last update: Wed, 12 May 2021 18:37:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
