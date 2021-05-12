@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+>Chuck Norris doesn't use GUI, he prefers COMMAND line.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 04:31:01 GMT*
+*Last update: Wed, 12 May 2021 05:27:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
