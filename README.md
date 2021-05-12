@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Newton's Third Law is wrong: Although it states that for each action, there is an equal and opposite reaction, there is no force equal in reaction to a Chuck Norris roundhouse kick.
+>Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 02:48:12 GMT*
+*Last update: Wed, 12 May 2021 03:32:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
