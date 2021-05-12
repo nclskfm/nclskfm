@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Newton's Third Law is wrong: Although it states that for each action, there is an equal and opposite reaction, there is no force equal in reaction to a Chuck Norris roundhouse kick.
+>Nobody doesn't like Sara Lee. Except Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 19:25:41 GMT*
+*Last update: Wed, 12 May 2021 20:24:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
