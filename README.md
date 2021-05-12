@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
+>Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 11 May 2021 23:22:04 GMT*
+*Last update: Wed, 12 May 2021 01:06:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
