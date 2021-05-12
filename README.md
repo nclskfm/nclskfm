@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris got his drivers license at the age of 16. Seconds.
+>The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 12:34:37 GMT*
+*Last update: Wed, 12 May 2021 13:32:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
