@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
+>Chuck Norris can spawn threads that complete before they are started.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 15:26:39 GMT*
+*Last update: Wed, 12 May 2021 16:43:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
