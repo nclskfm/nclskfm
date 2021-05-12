@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Nobody doesn't like Sara Lee. Except Chuck Norris.
+>Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 20:24:19 GMT*
+*Last update: Wed, 12 May 2021 21:21:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
