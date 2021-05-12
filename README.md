@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
+>Some things Man was never meant to know. For everything else there’s Google.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 09:24:08 GMT*
+*Last update: Wed, 12 May 2021 10:23:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
