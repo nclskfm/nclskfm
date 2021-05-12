@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can spawn threads that complete before they are started.
+>Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 16:43:26 GMT*
+*Last update: Wed, 12 May 2021 17:48:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
