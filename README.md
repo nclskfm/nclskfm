@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I told him I can't open the jar, he said download and install Java
+>Chuck Norris got his drivers license at the age of 16. Seconds.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 11:19:21 GMT*
+*Last update: Wed, 12 May 2021 12:34:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
