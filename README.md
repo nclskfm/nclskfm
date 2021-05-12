@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
+>I've got a really good UDP joke to tell you, but i don't know if you'll get it
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 07:25:38 GMT*
+*Last update: Wed, 12 May 2021 08:25:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
