@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't use GUI, he prefers COMMAND line.
+>I have a good joke on Information Technology, but you won't get IT
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 05:27:45 GMT*
+*Last update: Wed, 12 May 2021 06:27:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
