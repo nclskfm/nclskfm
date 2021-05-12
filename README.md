@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
+>3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 14:22:12 GMT*
+*Last update: Wed, 12 May 2021 15:26:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
