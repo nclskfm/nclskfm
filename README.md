@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The box said ‘Requires Windows Vista or better’. So I installed LINUX.
+>Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 13:32:37 GMT*
+*Last update: Wed, 12 May 2021 14:22:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
