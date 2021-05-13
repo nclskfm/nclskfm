@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
+>Chuck Norris is not Politically Correct. He is just Correct. Always.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 16:42:42 GMT*
+*Last update: Thu, 13 May 2021 17:48:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
