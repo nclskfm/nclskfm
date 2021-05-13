@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can slam a revolving door.
+>I don't see women as objects. I consider each to be in a class of her own.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 04:33:01 GMT*
+*Last update: Thu, 13 May 2021 05:29:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
