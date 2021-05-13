@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Chuck Norris does a pushup, he isn't lifting himself up, he's pushing the Earth down.
+>Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 22:28:13 GMT*
+*Last update: Thu, 13 May 2021 23:25:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
