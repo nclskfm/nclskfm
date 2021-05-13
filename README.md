@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris always knows the EXACT location of Carmen SanDiego.
+>Chuck Norris can access private methods.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 12:33:43 GMT*
+*Last update: Thu, 13 May 2021 13:31:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
