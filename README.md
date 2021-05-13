@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris sleeps with a pillow under his gun.
+>What does a subatomic duck say? Quark.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 14:22:27 GMT*
+*Last update: Thu, 13 May 2021 15:26:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
