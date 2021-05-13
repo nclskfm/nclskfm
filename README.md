@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->What does a subatomic duck say? Quark.
+>Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 15:26:18 GMT*
+*Last update: Thu, 13 May 2021 16:42:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
