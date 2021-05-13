@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
+>Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 07:26:11 GMT*
+*Last update: Thu, 13 May 2021 08:26:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
