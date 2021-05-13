@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+>Chuck Norris can take a screenshot of his blue screen.
 <!-- /joke -->
 
-*Last update: Wed, 12 May 2021 23:23:24 GMT*
+*Last update: Thu, 13 May 2021 01:10:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
