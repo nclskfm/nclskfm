@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+>Chuck Norris can slam a revolving door.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 03:34:30 GMT*
+*Last update: Thu, 13 May 2021 04:33:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
