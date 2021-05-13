@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
+>SON: What are clouds made of? DAD: Linux servers, mostly
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 08:26:13 GMT*
+*Last update: Thu, 13 May 2021 09:25:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
