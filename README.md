@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
+>Chuck Norris doesn't step on toes. Chuck Norris steps on necks.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 10:24:18 GMT*
+*Last update: Thu, 13 May 2021 11:20:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
