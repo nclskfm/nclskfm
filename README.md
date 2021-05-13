@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris finished World of Warcraft.
+>When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 19:26:20 GMT*
+*Last update: Thu, 13 May 2021 20:24:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
