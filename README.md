@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
+>Chuck Norris finished World of Warcraft.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 18:38:08 GMT*
+*Last update: Thu, 13 May 2021 19:26:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
