@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't step on toes. Chuck Norris steps on necks.
+>Chuck Norris always knows the EXACT location of Carmen SanDiego.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 11:20:39 GMT*
+*Last update: Thu, 13 May 2021 12:33:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
