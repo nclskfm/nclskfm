@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->SON: What are clouds made of? DAD: Linux servers, mostly
+>My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 09:25:04 GMT*
+*Last update: Thu, 13 May 2021 10:24:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
