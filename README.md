@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I don't see women as objects. I consider each to be in a class of her own.
+>It is believed dinosaurs are extinct due to a giant meteor. That's true if you want to call Chuck Norris a giant meteor.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 05:29:41 GMT*
+*Last update: Thu, 13 May 2021 06:28:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
