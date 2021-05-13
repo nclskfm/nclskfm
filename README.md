@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->It is believed dinosaurs are extinct due to a giant meteor. That's true if you want to call Chuck Norris a giant meteor.
+>They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 06:28:18 GMT*
+*Last update: Thu, 13 May 2021 07:26:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
