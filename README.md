@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->No statement can catch the ChuckNorrisException.
+>Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 02:51:15 GMT*
+*Last update: Fri, 14 May 2021 03:36:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
