@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris does not own a house. He walks into random houses and people move.
+>Le gf: I'll dump you.Le bf: hex dump or binary dump? 
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 17:49:32 GMT*
+*Last update: Fri, 14 May 2021 18:39:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
