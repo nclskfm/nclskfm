@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I’m not anti-social; I’m just not user friendly.
+>When Chuck Norris throws exceptions, it's across the room.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 07:27:10 GMT*
+*Last update: Fri, 14 May 2021 08:28:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
