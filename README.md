@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris proved that we are alone in the universe. We weren't before his first space expedition.
+>You know how they say if you die in your dream then you will die in real life? In actuality, if you dream of death then Chuck Norris will find you and kill you.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 14:23:12 GMT*
+*Last update: Fri, 14 May 2021 15:25:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
