@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris always knows the EXACT location of Carmen SanDiego.
+>We live in an expanding universe. All of it is trying to get away from Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 21:21:15 GMT*
+*Last update: Fri, 14 May 2021 22:27:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
