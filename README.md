@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->We live in an expanding universe. All of it is trying to get away from Chuck Norris.
+>If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 22:27:43 GMT*
+*Last update: Fri, 14 May 2021 23:24:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
