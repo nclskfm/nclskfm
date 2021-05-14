@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->You know how they say if you die in your dream then you will die in real life? In actuality, if you dream of death then Chuck Norris will find you and kill you.
+>Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 15:25:55 GMT*
+*Last update: Fri, 14 May 2021 16:43:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
