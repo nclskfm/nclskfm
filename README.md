@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
+>Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
 <!-- /joke -->
 
-*Last update: Thu, 13 May 2021 23:25:51 GMT*
+*Last update: Fri, 14 May 2021 01:12:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
