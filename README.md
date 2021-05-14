@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
+>With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 12:33:15 GMT*
+*Last update: Fri, 14 May 2021 13:37:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
