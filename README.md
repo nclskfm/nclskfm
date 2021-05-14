@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
+>Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 11:19:24 GMT*
+*Last update: Fri, 14 May 2021 12:33:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
