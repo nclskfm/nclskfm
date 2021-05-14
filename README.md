@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
+>Chuck Norris always knows the EXACT location of Carmen SanDiego.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 20:24:22 GMT*
+*Last update: Fri, 14 May 2021 21:21:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
