@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris solved the halting problem.
+>I’m not anti-social; I’m just not user friendly.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 06:28:38 GMT*
+*Last update: Fri, 14 May 2021 07:27:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
