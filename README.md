@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
+>In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 19:26:50 GMT*
+*Last update: Fri, 14 May 2021 20:24:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
