@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Le gf: I'll dump you.Le bf: hex dump or binary dump? 
+>Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 18:39:03 GMT*
+*Last update: Fri, 14 May 2021 19:26:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
