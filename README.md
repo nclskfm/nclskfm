@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
+>No statement can catch the ChuckNorrisException.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 01:12:10 GMT*
+*Last update: Fri, 14 May 2021 02:51:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
