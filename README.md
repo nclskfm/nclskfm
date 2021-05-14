@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
+>Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 10:24:39 GMT*
+*Last update: Fri, 14 May 2021 11:19:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
