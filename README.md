@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
+>Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 03:36:45 GMT*
+*Last update: Fri, 14 May 2021 04:33:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
