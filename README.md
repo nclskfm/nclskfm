@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
+>Chuck Norris does not own a house. He walks into random houses and people move.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 16:43:09 GMT*
+*Last update: Fri, 14 May 2021 17:49:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
