@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
+>Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 04:33:38 GMT*
+*Last update: Fri, 14 May 2021 05:29:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
