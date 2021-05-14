@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
+>Chuck Norris proved that we are alone in the universe. We weren't before his first space expedition.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 13:37:24 GMT*
+*Last update: Fri, 14 May 2021 14:23:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
