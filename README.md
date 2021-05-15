@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
+>When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 17:47:09 GMT*
+*Last update: Sat, 15 May 2021 18:36:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
