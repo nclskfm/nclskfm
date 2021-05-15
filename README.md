@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can start a fire by rubbing two ice cubes together.
+>MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 15:25:02 GMT*
+*Last update: Sat, 15 May 2021 16:41:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
