@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
+>When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
 <!-- /joke -->
 
-*Last update: Fri, 14 May 2021 23:24:26 GMT*
+*Last update: Sat, 15 May 2021 01:09:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
