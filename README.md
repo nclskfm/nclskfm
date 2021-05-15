@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
+>Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 19:24:55 GMT*
+*Last update: Sat, 15 May 2021 20:24:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
