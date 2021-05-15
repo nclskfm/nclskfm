@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
+>3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 08:26:47 GMT*
+*Last update: Sat, 15 May 2021 09:24:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
