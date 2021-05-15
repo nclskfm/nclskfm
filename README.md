@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Black holes are where God divided by zero.
+>Chuck Norris doesn't cheat death. He wins fair and square.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 22:27:19 GMT*
+*Last update: Sat, 15 May 2021 23:23:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
