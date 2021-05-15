@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
+>When J. Robert Oppenheimer said 'I am become death, the destroyer Of worlds', He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 11:19:27 GMT*
+*Last update: Sat, 15 May 2021 12:32:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
