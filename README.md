@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
+>Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 16:41:18 GMT*
+*Last update: Sat, 15 May 2021 17:47:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
