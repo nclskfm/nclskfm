@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
+>'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 07:25:47 GMT*
+*Last update: Sat, 15 May 2021 08:26:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
