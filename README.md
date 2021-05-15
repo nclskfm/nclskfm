@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can blow bubbles with beef jerky.
+>Chuck Norris has volunteered to remain on earth after the Rapture; he will spend his time fighting the Anti-Christ.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 05:27:24 GMT*
+*Last update: Sat, 15 May 2021 06:28:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
