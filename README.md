@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
+>Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 18:36:03 GMT*
+*Last update: Sat, 15 May 2021 19:24:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
