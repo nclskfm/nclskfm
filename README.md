@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+>When Chuck Norris says 'More cowbell', he MEANS it.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 03:32:15 GMT*
+*Last update: Sat, 15 May 2021 04:31:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
