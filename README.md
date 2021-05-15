@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
+>Chuck Norris can start a fire by rubbing two ice cubes together.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 14:21:50 GMT*
+*Last update: Sat, 15 May 2021 15:25:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
