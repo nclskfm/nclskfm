@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+>Chuck Norris can believe it's not butter.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 20:24:00 GMT*
+*Last update: Sat, 15 May 2021 21:20:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
