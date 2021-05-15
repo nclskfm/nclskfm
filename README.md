@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can believe it's not butter.
+>Black holes are where God divided by zero.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 21:20:44 GMT*
+*Last update: Sat, 15 May 2021 22:27:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
