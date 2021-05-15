@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Chuck Norris says 'More cowbell', he MEANS it.
+>Chuck Norris can blow bubbles with beef jerky.
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 04:31:16 GMT*
+*Last update: Sat, 15 May 2021 05:27:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
