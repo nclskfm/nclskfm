@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I told him I can't open the jar, he said download and install Java
+>The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 06:28:10 GMT*
+*Last update: Sun, 16 May 2021 07:25:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
