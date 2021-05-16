@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesnt wear a watch, HE decides what time it is.
+>Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 16:42:53 GMT*
+*Last update: Sun, 16 May 2021 17:50:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
