@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can slam a revolving door.
+>Chuck Norris doesn't needs try-catch, exceptions are too afraid to raise.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 18:37:59 GMT*
+*Last update: Sun, 16 May 2021 19:25:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
