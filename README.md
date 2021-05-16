@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
+>To err is human – and to blame it on a computer is even more so.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 01:16:35 GMT*
+*Last update: Sun, 16 May 2021 02:55:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
