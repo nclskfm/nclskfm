@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Archeologists unearthed an old english dictionary dating back to the year 1236. It defined 'victim' as 'one who has encountered Chuck Norris'
+>Chuck Norris's beard can type 140 wpm.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 11:31:10 GMT*
+*Last update: Sun, 16 May 2021 14:37:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
