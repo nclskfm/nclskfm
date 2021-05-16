@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->There are two types of people in the world... people that suck, and Chuck Norris.
+>A man once claimed Chuck Norris kicked his ass twice, but it was promptly dismissed as false - no one could survive it the first time.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 03:41:25 GMT*
+*Last update: Sun, 16 May 2021 04:35:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
