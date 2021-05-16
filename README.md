@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The phrase 'balls to the wall' was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
+>Archeologists unearthed an old english dictionary dating back to the year 1236. It defined 'victim' as 'one who has encountered Chuck Norris'
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 10:40:54 GMT*
+*Last update: Sun, 16 May 2021 11:31:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
