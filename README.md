@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->To err is human – and to blame it on a computer is even more so.
+>There are two types of people in the world... people that suck, and Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 02:55:37 GMT*
+*Last update: Sun, 16 May 2021 03:41:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
