@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't cheat death. He wins fair and square.
+>Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 <!-- /joke -->
 
-*Last update: Sat, 15 May 2021 23:23:28 GMT*
+*Last update: Sun, 16 May 2021 01:16:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
