@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris's beard can type 140 wpm.
+>Chuck Norris' first job was as a paperboy. There were no survivors.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 14:37:35 GMT*
+*Last update: Sun, 16 May 2021 15:33:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
