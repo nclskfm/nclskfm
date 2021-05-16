@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+>A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 07:25:31 GMT*
+*Last update: Sun, 16 May 2021 08:26:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
