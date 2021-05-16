@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->A man once claimed Chuck Norris kicked his ass twice, but it was promptly dismissed as false - no one could survive it the first time.
+>Chuck Norris does, in fact, live in a round house.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 04:35:30 GMT*
+*Last update: Sun, 16 May 2021 05:29:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
