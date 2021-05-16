@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris' first job was as a paperboy. There were no survivors.
+>Chuck Norris doesnt wear a watch, HE decides what time it is.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 15:33:21 GMT*
+*Last update: Sun, 16 May 2021 16:42:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
