@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
+>Chuck Norris can set ants on fire with a magnifying glass. At night.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 08:26:26 GMT*
+*Last update: Sun, 16 May 2021 09:39:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
