@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't needs try-catch, exceptions are too afraid to raise.
+>Chuck Norris invented a language that incorporates karate and roundhouse kicks. So next time Chuck Norris is kicking your ass, don?t be offended or hurt, he may be just trying to tell you he likes your hat.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 19:25:29 GMT*
+*Last update: Sun, 16 May 2021 20:23:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
