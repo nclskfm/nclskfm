@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+>Chuck Norris can slam a revolving door.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 17:50:02 GMT*
+*Last update: Sun, 16 May 2021 18:37:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
