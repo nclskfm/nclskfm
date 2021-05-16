@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can set ants on fire with a magnifying glass. At night.
+>The phrase 'balls to the wall' was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 09:39:42 GMT*
+*Last update: Sun, 16 May 2021 10:40:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
