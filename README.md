@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris does, in fact, live in a round house.
+>I told him I can't open the jar, he said download and install Java
 <!-- /joke -->
 
-*Last update: Sun, 16 May 2021 05:29:49 GMT*
+*Last update: Sun, 16 May 2021 06:28:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
