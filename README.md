@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
+>Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 11:19:23 GMT*
+*Last update: Mon, 17 May 2021 12:35:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
