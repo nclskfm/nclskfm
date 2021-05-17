@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Hellen Keller's favorite color is Chuck Norris.
+>The Internet: where men are men women are men and children are FBI agents.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 22:28:27 GMT*
+*Last update: Mon, 17 May 2021 23:24:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
