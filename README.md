@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->There are two types of people in the world... people that suck, and Chuck Norris.
+>If Chuck Norris were a calendar, every month would be named Chucktober, and every day he'd kick your ass.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 17:48:30 GMT*
+*Last update: Mon, 17 May 2021 18:38:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
