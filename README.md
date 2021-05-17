@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If Chuck Norris were a calendar, every month would be named Chucktober, and every day he'd kick your ass.
+>Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 18:38:44 GMT*
+*Last update: Mon, 17 May 2021 19:25:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
