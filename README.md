@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
+>When Chuck Norris does division, there are no remainders.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 12:35:10 GMT*
+*Last update: Mon, 17 May 2021 13:34:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
