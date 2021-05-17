@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
+>When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 14:21:31 GMT*
+*Last update: Mon, 17 May 2021 15:26:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
