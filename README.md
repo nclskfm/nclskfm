@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can retrieve anything from /dev/null.
+>Chuck Norris can't test for equality because he has no equal.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 06:28:51 GMT*
+*Last update: Mon, 17 May 2021 07:26:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
