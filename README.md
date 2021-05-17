@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The code that is the hardest to debug is the code that you know cannot possibly be wrong.
+>There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 10:25:14 GMT*
+*Last update: Mon, 17 May 2021 11:19:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
