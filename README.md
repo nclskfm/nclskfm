@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+>Hellen Keller's favorite color is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 21:21:25 GMT*
+*Last update: Mon, 17 May 2021 22:28:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
