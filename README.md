@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle.
+>Chuck Norris shot the sheriff, but he round house kicked the deputy.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 15:26:03 GMT*
+*Last update: Mon, 17 May 2021 16:43:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
