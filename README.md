@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Chuck Norris wants an egg, he cracks open a chicken.
+>When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 03:36:33 GMT*
+*Last update: Mon, 17 May 2021 04:33:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
