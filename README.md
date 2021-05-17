@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When an episode of Walker Texas Ranger was aired in France, the French surrendered to Chuck Norris just to be on the safe side.
+>The code that is the hardest to debug is the code that you know cannot possibly be wrong.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 09:25:11 GMT*
+*Last update: Mon, 17 May 2021 10:25:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
