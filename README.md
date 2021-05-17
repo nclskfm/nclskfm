@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
+>When Chuck Norris wants an egg, he cracks open a chicken.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 02:51:05 GMT*
+*Last update: Mon, 17 May 2021 03:36:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
