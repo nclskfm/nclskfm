@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
+>Be nice to the nerds; for all you know they might be the next Bill Gates!
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 19:25:39 GMT*
+*Last update: Mon, 17 May 2021 20:24:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
