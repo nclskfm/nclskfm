@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
+>When you play Monopoly with Chuck Norris, you do not pass go, and you do not collect two hundred dollars. You will be lucky if you make it out alive.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 04:33:40 GMT*
+*Last update: Mon, 17 May 2021 05:29:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
