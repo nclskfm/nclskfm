@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Be nice to the nerds; for all you know they might be the next Bill Gates!
+>Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 20:24:52 GMT*
+*Last update: Mon, 17 May 2021 21:21:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
