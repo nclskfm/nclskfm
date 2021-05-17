@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
+>If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 01:09:41 GMT*
+*Last update: Mon, 17 May 2021 02:51:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
