@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris does not own a house. He walks into random houses and people move.
+>The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 17:51:22 GMT*
+*Last update: Tue, 18 May 2021 18:41:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
