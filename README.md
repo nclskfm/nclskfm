@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->One time, Chuck Norris accidentally stubbed his toe. It destroyed the entire state of Ohio.
+>All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 08:26:58 GMT*
+*Last update: Tue, 18 May 2021 09:25:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
