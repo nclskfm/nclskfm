@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
+>Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 09:25:10 GMT*
+*Last update: Tue, 18 May 2021 10:24:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
