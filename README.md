@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
+>Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 11:19:33 GMT*
+*Last update: Tue, 18 May 2021 12:34:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
