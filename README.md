@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Fact: Chuck Norris doesn't consider it sex if the woman survives.
+>One time, Chuck Norris accidentally stubbed his toe. It destroyed the entire state of Ohio.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 07:26:30 GMT*
+*Last update: Tue, 18 May 2021 08:26:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
