@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
+>For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 10:24:28 GMT*
+*Last update: Tue, 18 May 2021 11:19:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
