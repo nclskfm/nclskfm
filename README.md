@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can divide by zero.
+>There are two types of people in the world... people that suck, and Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 02:51:56 GMT*
+*Last update: Tue, 18 May 2021 03:37:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
