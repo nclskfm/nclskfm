@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
+>Chuck Norris once shat blood - the blood of 11,940 natives he had killed and eaten.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 14:22:10 GMT*
+*Last update: Tue, 18 May 2021 15:25:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
