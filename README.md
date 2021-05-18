@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The First rule of Chuck Norris is: you do not talk about Chuck Norris.
+>Chuck Norris can divide by zero.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 01:13:10 GMT*
+*Last update: Tue, 18 May 2021 02:51:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
