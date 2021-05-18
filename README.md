@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The Internet: where men are men women are men and children are FBI agents.
+>The First rule of Chuck Norris is: you do not talk about Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 17 May 2021 23:24:32 GMT*
+*Last update: Tue, 18 May 2021 01:13:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
