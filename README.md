@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
+>TNT was originally developed by Chuck Norris to cure indigestion.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 12:34:52 GMT*
+*Last update: Tue, 18 May 2021 13:32:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
