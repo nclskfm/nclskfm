@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
+>Fact: Chuck Norris doesn't consider it sex if the woman survives.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 06:28:22 GMT*
+*Last update: Tue, 18 May 2021 07:26:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
