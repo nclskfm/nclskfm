@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once shat blood - the blood of 11,940 natives he had killed and eaten.
+>Chuck Norris was what Willis was talkin' about.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 15:25:46 GMT*
+*Last update: Tue, 18 May 2021 16:42:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
