@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->There are two types of people in the world... people that suck, and Chuck Norris.
+>Chuck Norris can install iTunes without installing Quicktime.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 03:37:31 GMT*
+*Last update: Tue, 18 May 2021 04:34:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
