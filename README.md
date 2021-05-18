@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
+>James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 18:41:56 GMT*
+*Last update: Tue, 18 May 2021 19:28:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
