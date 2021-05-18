@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I can't access Git. I guess I have... commitment issues
+>Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 22:27:11 GMT*
+*Last update: Tue, 18 May 2021 23:24:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
