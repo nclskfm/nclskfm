@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once lost the remote, but maintained control of the TV by yelling at it in between bites of his 'Filet of Child' sandwich.
+>I can't access Git. I guess I have... commitment issues
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 21:20:44 GMT*
+*Last update: Tue, 18 May 2021 22:27:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
