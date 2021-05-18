@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris was what Willis was talkin' about.
+>Chuck Norris does not own a house. He walks into random houses and people move.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 16:42:36 GMT*
+*Last update: Tue, 18 May 2021 17:51:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
