@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger.
+>4 out of 5 doctors fail to recommend Chuck Norris as a solution to most problems. Also, 80% of doctors die unexplained, needlessly brutal deaths.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 19:28:09 GMT*
+*Last update: Tue, 18 May 2021 20:24:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
