@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->4 out of 5 doctors fail to recommend Chuck Norris as a solution to most problems. Also, 80% of doctors die unexplained, needlessly brutal deaths.
+>Chuck Norris once lost the remote, but maintained control of the TV by yelling at it in between bites of his 'Filet of Child' sandwich.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 20:24:13 GMT*
+*Last update: Tue, 18 May 2021 21:20:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
