@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can install iTunes without installing Quicktime.
+>Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 04:34:57 GMT*
+*Last update: Tue, 18 May 2021 05:30:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
