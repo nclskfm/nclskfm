@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+>The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 05:30:55 GMT*
+*Last update: Tue, 18 May 2021 06:28:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
