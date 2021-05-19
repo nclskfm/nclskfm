@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris eats lightning and shits out thunder.
+>Don't fart in an Apple Store, because they don't have Windows.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 02:46:59 GMT*
+*Last update: Wed, 19 May 2021 03:31:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
