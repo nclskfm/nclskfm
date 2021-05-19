@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
+>If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 19:26:50 GMT*
+*Last update: Wed, 19 May 2021 20:24:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
