@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
+>Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 12:34:09 GMT*
+*Last update: Wed, 19 May 2021 13:31:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
