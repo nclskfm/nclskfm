@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
+>If Chuck Norris wants your opinion, he'll beat it into you.
 <!-- /joke -->
 
-*Last update: Tue, 18 May 2021 23:24:13 GMT*
+*Last update: Wed, 19 May 2021 01:09:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
