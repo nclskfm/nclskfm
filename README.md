@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Don't fart in an Apple Store, because they don't have Windows.
+>One time, Chuck Norris accidentally stubbed his toe. It destroyed the entire state of Ohio.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 03:31:56 GMT*
+*Last update: Wed, 19 May 2021 04:30:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
