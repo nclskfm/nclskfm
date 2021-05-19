@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->One time, Chuck Norris accidentally stubbed his toe. It destroyed the entire state of Ohio.
+>Chuck Norris doesn't use GUI, he prefers COMMAND line.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 04:30:31 GMT*
+*Last update: Wed, 19 May 2021 05:27:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
