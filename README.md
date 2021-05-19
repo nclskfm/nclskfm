@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If Chuck Norris wants your opinion, he'll beat it into you.
+>Chuck Norris eats lightning and shits out thunder.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 01:09:00 GMT*
+*Last update: Wed, 19 May 2021 02:46:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
