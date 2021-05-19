@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
+>Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 18:39:27 GMT*
+*Last update: Wed, 19 May 2021 19:26:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
