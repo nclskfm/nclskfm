@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Fact: Chuck Norris doesn't consider it sex if the woman survives.
+>One day Chuck Norris walked down the street with a massive erection. There were no survivors.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 21:20:51 GMT*
+*Last update: Wed, 19 May 2021 22:27:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
