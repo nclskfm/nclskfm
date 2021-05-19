@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
+>Fact: Chuck Norris doesn't consider it sex if the woman survives.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 20:24:29 GMT*
+*Last update: Wed, 19 May 2021 21:20:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
