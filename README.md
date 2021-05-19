@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Once you go Norris, you are physically unable to go back.
+>An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 07:26:34 GMT*
+*Last update: Wed, 19 May 2021 08:26:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
