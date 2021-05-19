@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris is the only person in the world that can actually email a roundhouse kick.
+>Evolution is God’s way of issuing upgrades.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 10:23:39 GMT*
+*Last update: Wed, 19 May 2021 11:19:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
