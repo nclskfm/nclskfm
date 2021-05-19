@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
+>Chuck Norris is the only person in the world that can actually email a roundhouse kick.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 09:25:07 GMT*
+*Last update: Wed, 19 May 2021 10:23:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
