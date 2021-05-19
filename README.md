@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
+>One time, Chuck Norris accidentally stubbed his toe. It destroyed the entire state of Ohio.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 13:31:57 GMT*
+*Last update: Wed, 19 May 2021 14:21:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
