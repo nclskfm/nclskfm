@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Why did the programmer quit his job? Because he didn't get arrays.
+>If Chuck Norris were a calendar, every month would be named Chucktober, and every day he'd kick your ass.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 16:42:40 GMT*
+*Last update: Wed, 19 May 2021 17:48:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
