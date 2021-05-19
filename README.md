@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If Chuck Norris were a calendar, every month would be named Chucktober, and every day he'd kick your ass.
+>Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 17:48:58 GMT*
+*Last update: Wed, 19 May 2021 18:39:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
