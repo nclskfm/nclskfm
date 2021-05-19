@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->One day Chuck Norris walked down the street with a massive erection. There were no survivors.
+>Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 22:27:07 GMT*
+*Last update: Wed, 19 May 2021 23:23:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
