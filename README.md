@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.
+>When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 08:26:25 GMT*
+*Last update: Wed, 19 May 2021 09:25:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
