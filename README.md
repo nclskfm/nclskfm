@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can believe it's not butter.
+>Chuck Norris invented the internet? just so he had a place to store his porn.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 17:51:33 GMT*
+*Last update: Thu, 20 May 2021 18:41:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
