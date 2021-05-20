@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can slam a revolving door.
+>If brute force doesn’t solve your problems... then you aren’t using enough.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 06:28:15 GMT*
+*Last update: Thu, 20 May 2021 07:27:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
