@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+>Chuck Norris can slam a revolving door.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 05:29:01 GMT*
+*Last update: Thu, 20 May 2021 06:28:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
