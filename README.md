@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris did in fact, build Rome in a day.
+># Chuck Norris's show is called Walker: Texas Ranger, because Chuck Norris doesn't run.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 10:24:00 GMT*
+*Last update: Thu, 20 May 2021 11:19:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
