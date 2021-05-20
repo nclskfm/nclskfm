@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Programmer (noun.): A machine that turns coffee into code
+>When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 22:26:29 GMT*
+*Last update: Thu, 20 May 2021 23:23:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
