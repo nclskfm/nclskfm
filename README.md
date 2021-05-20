@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
+>When Chuck Norris has sex with a man, it won't be because he is gay. It will be because he has run out of women.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 02:48:06 GMT*
+*Last update: Thu, 20 May 2021 03:33:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
