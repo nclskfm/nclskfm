@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Hellen Keller's favorite color is Chuck Norris.
+>Chuck Norris can believe it's not butter.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 16:43:44 GMT*
+*Last update: Thu, 20 May 2021 17:51:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
