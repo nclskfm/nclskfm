@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Chuck Norris has sex with a man, it won't be because he is gay. It will be because he has run out of women.
+>TNT was originally developed by Chuck Norris to cure indigestion.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 03:33:20 GMT*
+*Last update: Thu, 20 May 2021 04:32:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
