@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The pie scene in 'American Pie' is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris' case, the 'pie' was the molten crater of an active volcano.
+>Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 01:06:57 GMT*
+*Last update: Thu, 20 May 2021 02:48:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
