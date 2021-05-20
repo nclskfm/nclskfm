@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris invented a language that incorporates karate and roundhouse kicks. So next time Chuck Norris is kicking your ass, don?t be offended or hurt, he may be just trying to tell you he likes your hat.
+>When Chuck Norris is in a crowded area, he doesn't walk around people. He walks through them.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 19:29:00 GMT*
+*Last update: Thu, 20 May 2021 20:22:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
