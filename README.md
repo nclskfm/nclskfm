@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can install iTunes without installing Quicktime.
+>Hellen Keller's favorite color is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 15:25:44 GMT*
+*Last update: Thu, 20 May 2021 16:43:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
