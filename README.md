@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
+>The pie scene in 'American Pie' is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris' case, the 'pie' was the molten crater of an active volcano.
 <!-- /joke -->
 
-*Last update: Wed, 19 May 2021 23:23:51 GMT*
+*Last update: Thu, 20 May 2021 01:06:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
