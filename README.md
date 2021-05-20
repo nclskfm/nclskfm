@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
+>Chuck Norris did in fact, build Rome in a day.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 09:24:52 GMT*
+*Last update: Thu, 20 May 2021 10:24:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
