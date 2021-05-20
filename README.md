@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
+>Chuck Norris can install iTunes without installing Quicktime.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 14:20:13 GMT*
+*Last update: Thu, 20 May 2021 15:25:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
