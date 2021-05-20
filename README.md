@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
+>Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 08:26:08 GMT*
+*Last update: Thu, 20 May 2021 09:24:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
