@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If brute force doesn’t solve your problems... then you aren’t using enough.
+>There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 07:27:45 GMT*
+*Last update: Thu, 20 May 2021 08:26:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
