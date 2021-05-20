@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
-># Chuck Norris's show is called Walker: Texas Ranger, because Chuck Norris doesn't run.
+>Computers make very fast and very accurate mistakes.
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 11:19:34 GMT*
+*Last update: Thu, 20 May 2021 12:34:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
