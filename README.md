@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
+>Programmer (noun.): A machine that turns coffee into code
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 21:21:11 GMT*
+*Last update: Thu, 20 May 2021 22:26:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
