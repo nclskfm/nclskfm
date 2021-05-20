@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->TNT was originally developed by Chuck Norris to cure indigestion.
+>Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 <!-- /joke -->
 
-*Last update: Thu, 20 May 2021 04:32:25 GMT*
+*Last update: Thu, 20 May 2021 05:29:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
