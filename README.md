@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
+>Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 05:30:14 GMT*
+*Last update: Fri, 21 May 2021 06:28:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
