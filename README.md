@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
+>Chuck Norris is widely predicted to be first black president. If you're thinking to yourself, 'But Chuck Norris isn't black', then you are dead wrong. And stop being a racist.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 16:44:04 GMT*
+*Last update: Fri, 21 May 2021 17:53:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
