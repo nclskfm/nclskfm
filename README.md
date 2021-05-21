@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->To be or not to be? That is the question. The answer? Chuck Norris.
+>Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 19:32:43 GMT*
+*Last update: Fri, 21 May 2021 20:24:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
