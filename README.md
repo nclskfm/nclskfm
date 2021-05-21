@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
+>To be or not to be? That is the question. The answer? Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 18:44:37 GMT*
+*Last update: Fri, 21 May 2021 19:32:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
