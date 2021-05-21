@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
+>The air around Chuck Norris is always a balmy 78 degrees.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 02:50:39 GMT*
+*Last update: Fri, 21 May 2021 03:35:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
