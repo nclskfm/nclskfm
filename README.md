@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
+>The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 01:10:51 GMT*
+*Last update: Fri, 21 May 2021 02:50:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
