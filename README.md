@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can unit test entire applications with a single assert.
+>Why do Java programmers have to wear glasses? Because they don't C#.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 10:24:43 GMT*
+*Last update: Fri, 21 May 2021 11:19:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
