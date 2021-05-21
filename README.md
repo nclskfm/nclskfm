@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
+>Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 14:21:16 GMT*
+*Last update: Fri, 21 May 2021 15:25:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
