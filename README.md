@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris is widely predicted to be first black president. If you're thinking to yourself, 'But Chuck Norris isn't black', then you are dead wrong. And stop being a racist.
+>If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 17:53:14 GMT*
+*Last update: Fri, 21 May 2021 18:44:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
