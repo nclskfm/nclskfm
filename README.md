@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 06:28:06 GMT*
+*Last update: Fri, 21 May 2021 07:27:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
