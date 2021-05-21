@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->A UDP packet walks into a bar. The bartender doesn't acknowledge him.
+>Chuck Norris proved that we are alone in the universe. We weren't before his first space expedition.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 07:27:08 GMT*
+*Last update: Fri, 21 May 2021 08:27:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
