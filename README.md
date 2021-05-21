@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris has 12 moons. One of those moons is the Earth.
+>Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 22:23:18 GMT*
+*Last update: Fri, 21 May 2021 23:23:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
