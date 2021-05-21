@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
+>Chuck Norris doesn't look both ways before he crosses the street... he just roundhouses any cars that get too close.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 20:24:45 GMT*
+*Last update: Fri, 21 May 2021 21:21:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
