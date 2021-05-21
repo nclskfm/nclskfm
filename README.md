@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.
+>Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 04:33:52 GMT*
+*Last update: Fri, 21 May 2021 05:30:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
