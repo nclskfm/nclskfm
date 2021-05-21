@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The air around Chuck Norris is always a balmy 78 degrees.
+>Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 03:35:16 GMT*
+*Last update: Fri, 21 May 2021 04:33:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
