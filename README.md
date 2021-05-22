@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Why is C sad? Because C++ told him 'You have no class'.
+>They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 16:41:25 GMT*
+*Last update: Sat, 22 May 2021 17:50:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
