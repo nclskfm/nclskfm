@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Why do fish likes nibbles the size of 2^n? So they can byte
+>The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 08:26:35 GMT*
+*Last update: Sat, 22 May 2021 09:24:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
