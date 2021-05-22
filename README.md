@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris hosting is 101% uptime guaranteed.
+>Chuck Norris has banned rainbows from the state of North Dakota.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 05:31:48 GMT*
+*Last update: Sat, 22 May 2021 06:28:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
