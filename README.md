@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
+>CAPS LOCK – Preventing Login Since 1980.
 <!-- /joke -->
 
-*Last update: Fri, 21 May 2021 23:23:41 GMT*
+*Last update: Sat, 22 May 2021 01:09:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
