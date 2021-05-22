@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris has banned rainbows from the state of North Dakota.
+>The only pattern Chuck Norris knows is God Object.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 06:28:39 GMT*
+*Last update: Sat, 22 May 2021 07:27:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
