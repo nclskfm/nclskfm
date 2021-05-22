@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris hosting is 101% uptime guaranteed.
+>When Chuck Norris calls 1-900 numbers, he doesn't get charged. He holds up the phone and money falls out.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 03:35:03 GMT*
+*Last update: Sat, 22 May 2021 04:34:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
