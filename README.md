@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can start a fire by rubbing two ice cubes together.
+>Why do fish likes nibbles the size of 2^n? So they can byte
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 12:34:35 GMT*
+*Last update: Sat, 22 May 2021 13:32:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
