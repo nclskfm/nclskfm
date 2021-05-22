@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+>All wiyht. Rho sritched mg kegtops awound?
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 22:22:58 GMT*
+*Last update: Sat, 22 May 2021 23:23:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
