@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The quickest way to a man's heart is with Chuck Norris' fist.
+>Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 20:24:08 GMT*
+*Last update: Sat, 22 May 2021 21:20:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
