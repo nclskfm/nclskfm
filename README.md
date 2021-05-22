@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't need sudo, he just types 'Chuck Norris' before his commands.
+>Chuck Norris hosting is 101% uptime guaranteed.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 02:49:51 GMT*
+*Last update: Sat, 22 May 2021 03:35:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
