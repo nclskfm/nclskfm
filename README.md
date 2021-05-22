@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The Bible was originally titled 'Chuck Norris and Friends'
+>Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 10:25:18 GMT*
+*Last update: Sat, 22 May 2021 11:19:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
