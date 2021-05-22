@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
+>The Bible was originally titled 'Chuck Norris and Friends'
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 09:24:56 GMT*
+*Last update: Sat, 22 May 2021 10:25:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
