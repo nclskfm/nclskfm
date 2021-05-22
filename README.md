@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Why do fish likes nibbles the size of 2^n? So they can byte
+>In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 13:32:20 GMT*
+*Last update: Sat, 22 May 2021 14:19:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
