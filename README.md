@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+>CPU (Coffee Processing Unit)
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 18:40:57 GMT*
+*Last update: Sat, 22 May 2021 19:28:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
