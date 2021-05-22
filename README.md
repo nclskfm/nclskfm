@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
+>Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 17:50:09 GMT*
+*Last update: Sat, 22 May 2021 18:40:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
