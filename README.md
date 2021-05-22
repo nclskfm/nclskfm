@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
+>If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 21:20:35 GMT*
+*Last update: Sat, 22 May 2021 22:22:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
