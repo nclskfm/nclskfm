@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->CAPS LOCK – Preventing Login Since 1980.
+>Chuck Norris doesn't need sudo, he just types 'Chuck Norris' before his commands.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 01:09:53 GMT*
+*Last update: Sat, 22 May 2021 02:49:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
