@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+>Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 18:39:05 GMT*
+*Last update: Sun, 23 May 2021 19:27:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
