@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I don't see women as objects. I consider each to be in a class of her own.
+>Chuck Norris can access private methods.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 10:23:59 GMT*
+*Last update: Sun, 23 May 2021 11:19:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
