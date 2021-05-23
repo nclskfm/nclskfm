@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->All wiyht. Rho sritched mg kegtops awound?
+>The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
 <!-- /joke -->
 
-*Last update: Sat, 22 May 2021 23:23:04 GMT*
+*Last update: Sun, 23 May 2021 01:19:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
