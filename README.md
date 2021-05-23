@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+>The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 01:19:32 GMT*
+*Last update: Sun, 23 May 2021 02:58:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
