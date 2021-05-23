@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
+>The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 12:34:21 GMT*
+*Last update: Sun, 23 May 2021 13:33:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
