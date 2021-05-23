@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can delete the Recycling Bin.
+>When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 17:48:49 GMT*
+*Last update: Sun, 23 May 2021 18:39:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
