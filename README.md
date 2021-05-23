@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
+>I don't see women as objects. I consider each to be in a class of her own.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 09:24:18 GMT*
+*Last update: Sun, 23 May 2021 10:23:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
