@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
+>Those aren't credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 21:20:44 GMT*
+*Last update: Sun, 23 May 2021 22:22:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
