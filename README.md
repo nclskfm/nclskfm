@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Those aren't credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
+>It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 22:22:56 GMT*
+*Last update: Sun, 23 May 2021 23:23:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
