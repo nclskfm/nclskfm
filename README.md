@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
+>Chuck Norris knows everything there is to know - Except for the definition of mercy.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 02:58:28 GMT*
+*Last update: Sun, 23 May 2021 03:50:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
