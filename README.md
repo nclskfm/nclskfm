@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris knows everything there is to know - Except for the definition of mercy.
+>Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 03:50:55 GMT*
+*Last update: Sun, 23 May 2021 04:39:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
