@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
+>Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 05:33:27 GMT*
+*Last update: Sun, 23 May 2021 06:28:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
