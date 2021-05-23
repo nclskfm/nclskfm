@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
+>Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 13:33:56 GMT*
+*Last update: Sun, 23 May 2021 14:20:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
