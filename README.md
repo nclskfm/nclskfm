@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+>Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 04:39:31 GMT*
+*Last update: Sun, 23 May 2021 05:33:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
