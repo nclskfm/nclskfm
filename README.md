@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->No statement can catch the ChuckNorrisException.
+>Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 08:25:54 GMT*
+*Last update: Sun, 23 May 2021 09:24:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
