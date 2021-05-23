@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+>If Ruby is not and Perl is the answer then you don’t understand the question.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 15:25:07 GMT*
+*Last update: Sun, 23 May 2021 16:41:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
