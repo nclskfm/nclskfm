@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
+>Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 20:24:13 GMT*
+*Last update: Sun, 23 May 2021 21:20:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
