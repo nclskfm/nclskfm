@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If Ruby is not and Perl is the answer then you don’t understand the question.
+>Chuck Norris can delete the Recycling Bin.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 16:41:43 GMT*
+*Last update: Sun, 23 May 2021 17:48:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
