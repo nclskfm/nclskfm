@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris burst the dot com bubble.
+>Chuck Norris drinks napalm to quell his heartburn.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 19:38:01 GMT*
+*Last update: Mon, 24 May 2021 20:25:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
