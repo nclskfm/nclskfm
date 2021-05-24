@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I can't access Git. I guess I have... commitment issues
+>To be or not to be? That is the question. The answer? Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 06:29:55 GMT*
+*Last update: Mon, 24 May 2021 07:29:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
