@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
+>In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
 <!-- /joke -->
 
-*Last update: Sun, 23 May 2021 23:23:26 GMT*
+*Last update: Mon, 24 May 2021 01:16:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
