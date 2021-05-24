@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the show when he's on a mission. Chuck Norris is always on a mission.
+>I've got a really good UDP joke to tell you, but i don't know if you'll get it
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 13:38:52 GMT*
+*Last update: Mon, 24 May 2021 14:24:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
