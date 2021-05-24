@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Bugs come in through open Windows.
+>Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 09:26:52 GMT*
+*Last update: Mon, 24 May 2021 10:28:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
