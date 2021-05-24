@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->To be or not to be? That is the question. The answer? Chuck Norris.
+>Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 07:29:39 GMT*
+*Last update: Mon, 24 May 2021 08:26:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
