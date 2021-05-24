@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
+>What was going through the minds of all of Chuck Norris' victims before they died? His shoe.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 01:16:59 GMT*
+*Last update: Mon, 24 May 2021 02:58:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
