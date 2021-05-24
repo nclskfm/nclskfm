@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
+>Chuck Norris runs on batteries. Specifically, Die Hards.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 17:59:32 GMT*
+*Last update: Mon, 24 May 2021 18:53:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
