@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->70% of a human's weight is water. 70% of Chuck Norris' weight is his dick.
+>Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 21:22:37 GMT*
+*Last update: Mon, 24 May 2021 22:24:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
