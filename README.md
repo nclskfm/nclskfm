@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
+>Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 22:24:43 GMT*
+*Last update: Mon, 24 May 2021 23:23:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
