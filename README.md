@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->What was going through the minds of all of Chuck Norris' victims before they died? His shoe.
+>Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 02:58:14 GMT*
+*Last update: Mon, 24 May 2021 03:47:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
