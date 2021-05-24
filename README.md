@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris drinks napalm to quell his heartburn.
+>70% of a human's weight is water. 70% of Chuck Norris' weight is his dick.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 20:25:46 GMT*
+*Last update: Mon, 24 May 2021 21:22:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
