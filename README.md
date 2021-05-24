@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
+>President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 04:38:09 GMT*
+*Last update: Mon, 24 May 2021 05:34:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
