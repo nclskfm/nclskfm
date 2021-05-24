@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I can't access Git. I guess I have... commitment issues
+>Chuck Norris eats beef jerky and craps gunpowder. Then, he uses that gunpowder to make a bullet, which he uses to kill a cow and make more beef jerky. Some people refer to this as the 'Circle of Life.'
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 11:24:12 GMT*
+*Last update: Mon, 24 May 2021 12:37:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
