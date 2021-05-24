@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
+>I can't access Git. I guess I have... commitment issues
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 10:28:10 GMT*
+*Last update: Mon, 24 May 2021 11:24:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
