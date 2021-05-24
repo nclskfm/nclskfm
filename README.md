@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
+>Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 15:26:42 GMT*
+*Last update: Mon, 24 May 2021 16:49:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
