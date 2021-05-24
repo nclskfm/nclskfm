@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
+>The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 03:47:36 GMT*
+*Last update: Mon, 24 May 2021 04:38:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
