@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->I've got a really good UDP joke to tell you, but i don't know if you'll get it
+>Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 14:24:46 GMT*
+*Last update: Mon, 24 May 2021 15:26:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
