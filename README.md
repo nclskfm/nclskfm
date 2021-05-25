@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can judge a book by its cover.
+>When Chuck Norris wants an egg, he cracks open a chicken.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 21:21:44 GMT*
+*Last update: Tue, 25 May 2021 22:26:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
