@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
+>Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug killing.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 03:05:17 GMT*
+*Last update: Tue, 25 May 2021 04:46:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
