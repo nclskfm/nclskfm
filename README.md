@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris does not need to type-cast. The Chuck-Norris Compiler (CNC) sees through things. All way down. Always.
+>They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 12:37:37 GMT*
+*Last update: Tue, 25 May 2021 13:43:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
