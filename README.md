@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
+>Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 15:27:13 GMT*
+*Last update: Tue, 25 May 2021 16:53:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
