@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris solved the halting problem.
+>Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 14:28:11 GMT*
+*Last update: Tue, 25 May 2021 15:27:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
