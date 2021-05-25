@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris proved that we are alone in the universe. We weren't before his first space expedition.
+>In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 06:38:04 GMT*
+*Last update: Tue, 25 May 2021 07:37:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
