@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->When Chuck Norris wants an egg, he cracks open a chicken.
+>Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 22:26:06 GMT*
+*Last update: Tue, 25 May 2021 23:28:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
