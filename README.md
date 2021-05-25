@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can solve the Towers of Hanoi in one move.
+>Chuck Norris does not need to type-cast. The Chuck-Norris Compiler (CNC) sees through things. All way down. Always.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 11:27:36 GMT*
+*Last update: Tue, 25 May 2021 12:37:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
