@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
+>Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 07:37:14 GMT*
+*Last update: Tue, 25 May 2021 08:32:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
