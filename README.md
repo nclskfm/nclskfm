@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
+>When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 01:13:41 GMT*
+*Last update: Tue, 25 May 2021 03:05:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
