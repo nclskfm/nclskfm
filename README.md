@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+>Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 08:32:27 GMT*
+*Last update: Tue, 25 May 2021 09:30:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
