@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
+>The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 09:30:48 GMT*
+*Last update: Tue, 25 May 2021 10:32:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
