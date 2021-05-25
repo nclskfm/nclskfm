@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->MySpace actually isn't your space, it's Chuck's (he just lets you use it).
+>Chuck Norris proved that we are alone in the universe. We weren't before his first space expedition.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 05:44:43 GMT*
+*Last update: Tue, 25 May 2021 06:38:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
