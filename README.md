@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
+>Chuck Norris can solve the Towers of Hanoi in one move.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 10:32:29 GMT*
+*Last update: Tue, 25 May 2021 11:27:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
