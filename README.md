@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
+>They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
 <!-- /joke -->
 
-*Last update: Mon, 24 May 2021 23:23:57 GMT*
+*Last update: Tue, 25 May 2021 01:13:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
