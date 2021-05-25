@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
+>Chuck Norris solved the halting problem.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 13:43:20 GMT*
+*Last update: Tue, 25 May 2021 14:28:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
