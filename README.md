@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->What do computers and air conditioners have in common? They both become useless when you open windows.
+>Chuck Norris can binary search unsorted data.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 19:37:13 GMT*
+*Last update: Tue, 25 May 2021 20:26:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
