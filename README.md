@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
+>What do computers and air conditioners have in common? They both become useless when you open windows.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 18:09:35 GMT*
+*Last update: Tue, 25 May 2021 19:37:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
