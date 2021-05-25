@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can binary search unsorted data.
+>Chuck Norris can judge a book by its cover.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 20:26:42 GMT*
+*Last update: Tue, 25 May 2021 21:21:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
