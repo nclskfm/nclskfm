@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
+>There are no steroids in baseball. Just players Chuck Norris has breathed on.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 06:46:30 GMT*
+*Last update: Wed, 26 May 2021 07:48:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
