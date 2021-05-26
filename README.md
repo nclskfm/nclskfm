@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris' fists is inside his own body.
+>Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 01:29:21 GMT*
+*Last update: Wed, 26 May 2021 03:32:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
