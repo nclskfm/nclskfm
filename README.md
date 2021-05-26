@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
+>The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 08:38:49 GMT*
+*Last update: Wed, 26 May 2021 09:35:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
