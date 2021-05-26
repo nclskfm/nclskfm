@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
+>Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 18:58:05 GMT*
+*Last update: Wed, 26 May 2021 19:56:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
