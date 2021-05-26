@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->One day Chuck Norris walked down the street with a massive erection. There were no survivors.
+>Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 13:51:20 GMT*
+*Last update: Wed, 26 May 2021 14:35:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
