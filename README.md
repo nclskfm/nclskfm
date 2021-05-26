@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->There are no steroids in baseball. Just players Chuck Norris has breathed on.
+>If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 07:48:09 GMT*
+*Last update: Wed, 26 May 2021 08:38:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
