@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris can set ants on fire with a magnifying glass. At night.
+>An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 05:54:24 GMT*
+*Last update: Wed, 26 May 2021 06:46:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
