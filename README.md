@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
+>Chuck Norris can set ants on fire with a magnifying glass. At night.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 04:56:58 GMT*
+*Last update: Wed, 26 May 2021 05:54:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
