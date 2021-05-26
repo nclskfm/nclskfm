@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
+>Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 11:30:56 GMT*
+*Last update: Wed, 26 May 2021 12:39:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
