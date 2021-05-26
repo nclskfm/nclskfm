@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris does not need to know about class factory pattern. He can instantiate interfaces.
+>Chuck Norris does not code in cycles, he codes in strikes.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 20:39:41 GMT*
+*Last update: Wed, 26 May 2021 21:26:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
