@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
+>The truth is out there. Anybody got the URL?
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 14:35:10 GMT*
+*Last update: Wed, 26 May 2021 15:28:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
