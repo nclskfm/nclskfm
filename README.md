@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+>One day Chuck Norris walked down the street with a massive erection. There were no survivors.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 12:39:39 GMT*
+*Last update: Wed, 26 May 2021 13:51:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
