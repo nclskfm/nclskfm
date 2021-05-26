@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
+>Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris' fists is inside his own body.
 <!-- /joke -->
 
-*Last update: Tue, 25 May 2021 23:28:29 GMT*
+*Last update: Wed, 26 May 2021 01:29:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
