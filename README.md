@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
+>NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 09:35:10 GMT*
+*Last update: Wed, 26 May 2021 10:36:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
