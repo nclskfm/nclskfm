@@ -2,7 +2,7 @@ name: Update joke
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '1 0 */1 * *'
 
 # For debugging you can trigger the workflow with a comment
 # on:

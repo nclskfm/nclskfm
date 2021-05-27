@@ -20,7 +20,11 @@ fs.readFile('README.md', 'utf8', (err, file) => {
         const oldDate = new RegExp(/\*Last update: .+\*/);
         const newDate = '*Last update: ' + date.toUTCString() + '*';
         file = file.replace(oldDate, newDate);
-        console.log(date.toLocaleString());
+
+        const oldHeading = new RegExp(/### Joke of the day \(.+/);
+        const newHeading = '### Joke of the day (' + date.toDateString() + ')';
+        file = file.replace(oldHeading, newHeading);
+
         fs.writeFile('README.md', file, (err) => {
           if (err) {
             throw err;
