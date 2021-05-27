@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
+>For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
 <!-- /joke -->
 
-*Last update: Thu, 27 May 2021 01:42:43 GMT*
+*Last update: Thu, 27 May 2021 03:47:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
