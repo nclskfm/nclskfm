@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
+>Chuck Norris doesn't use web standards as the web will conform to him.
 <!-- /joke -->
 
-*Last update: Thu, 27 May 2021 03:47:31 GMT*
+*Last update: Thu, 27 May 2021 05:09:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
