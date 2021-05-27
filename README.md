@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Le gf: I'll dump you.Le bf: hex dump or binary dump? 
+>If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
 <!-- /joke -->
 
-*Last update: Wed, 26 May 2021 23:30:16 GMT*
+*Last update: Thu, 27 May 2021 01:42:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
