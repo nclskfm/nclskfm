@@ -2,10 +2,10 @@
 
 ### Joke of the hour
 <!-- joke -->
->Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and smothers it in pig's blood.
+>The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
 <!-- /joke -->
 
-*Last update: Thu, 27 May 2021 06:52:17 GMT*
+*Last update: Thu, 27 May 2021 07:56:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
