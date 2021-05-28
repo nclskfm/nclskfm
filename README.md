@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 27 2021)
+### Joke of the day (Fri May 28 2021)
 <!-- joke -->
->99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
+>Chuck Norris? favourite cut of meat is the roundhouse.
 <!-- /joke -->
 
-*Last update: Thu, 27 May 2021 08:44:36 GMT*
+*Last update: Fri, 28 May 2021 00:55:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
