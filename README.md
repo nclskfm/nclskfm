@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 28 2021)
+### Joke of the day (Sat May 29 2021)
 <!-- joke -->
->Chuck Norris? favourite cut of meat is the roundhouse.
+>When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 <!-- /joke -->
 
-*Last update: Fri, 28 May 2021 00:55:59 GMT*
+*Last update: Sat, 29 May 2021 01:05:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
