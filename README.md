@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 29 2021)
+### Joke of the day (Sun May 30 2021)
 <!-- joke -->
->When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
+>For Spring Break '05, Chuck Norris drove to Madagascar, riding a chariot pulled by two electric eels.
 <!-- /joke -->
 
-*Last update: Sat, 29 May 2021 01:05:30 GMT*
+*Last update: Sun, 30 May 2021 01:12:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
