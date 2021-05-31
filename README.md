@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 30 2021)
+### Joke of the day (Mon May 31 2021)
 <!-- joke -->
->For Spring Break '05, Chuck Norris drove to Madagascar, riding a chariot pulled by two electric eels.
+>CNN was originally created as the 'Chuck Norris Network' to update Americans with on-the-spot ass kicking in real-time.
 <!-- /joke -->
 
-*Last update: Sun, 30 May 2021 01:12:58 GMT*
+*Last update: Mon, 31 May 2021 01:23:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
