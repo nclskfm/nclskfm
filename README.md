@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 31 2021)
+### Joke of the day (Tue Jun 01 2021)
 <!-- joke -->
->CNN was originally created as the 'Chuck Norris Network' to update Americans with on-the-spot ass kicking in real-time.
+>Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
 <!-- /joke -->
 
-*Last update: Mon, 31 May 2021 01:23:51 GMT*
+*Last update: Tue, 01 Jun 2021 01:42:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
