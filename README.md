@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 01 2021)
+### Joke of the day (Wed Jun 02 2021)
 <!-- joke -->
->Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
+>The air around Chuck Norris is always a balmy 78 degrees.
 <!-- /joke -->
 
-*Last update: Tue, 01 Jun 2021 01:42:35 GMT*
+*Last update: Wed, 02 Jun 2021 01:50:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
