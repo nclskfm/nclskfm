@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 02 2021)
+### Joke of the day (Thu Jun 03 2021)
 <!-- joke -->
->The air around Chuck Norris is always a balmy 78 degrees.
+>Chuck Norris got his drivers license at the age of 16. Seconds.
 <!-- /joke -->
 
-*Last update: Wed, 02 Jun 2021 01:50:03 GMT*
+*Last update: Thu, 03 Jun 2021 01:28:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
