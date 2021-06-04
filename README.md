@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 03 2021)
+### Joke of the day (Fri Jun 04 2021)
 <!-- joke -->
->Chuck Norris got his drivers license at the age of 16. Seconds.
+>In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
 <!-- /joke -->
 
-*Last update: Thu, 03 Jun 2021 01:28:39 GMT*
+*Last update: Fri, 04 Jun 2021 01:19:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
