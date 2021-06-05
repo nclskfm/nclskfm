@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 04 2021)
+### Joke of the day (Sat Jun 05 2021)
 <!-- joke -->
->In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
+>Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
 <!-- /joke -->
 
-*Last update: Fri, 04 Jun 2021 01:19:45 GMT*
+*Last update: Sat, 05 Jun 2021 00:59:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
