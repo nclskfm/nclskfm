@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 06 2021)
+### Joke of the day (Mon Jun 07 2021)
 <!-- joke -->
->Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
+>If I wanted a warm fuzzy feeling... I’d antialias my graphics!
 <!-- /joke -->
 
-*Last update: Sun, 06 Jun 2021 00:52:30 GMT*
+*Last update: Mon, 07 Jun 2021 00:53:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
