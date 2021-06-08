@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 07 2021)
+### Joke of the day (Tue Jun 08 2021)
 <!-- joke -->
->If I wanted a warm fuzzy feeling... I’d antialias my graphics!
+>How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
 <!-- /joke -->
 
-*Last update: Mon, 07 Jun 2021 00:53:07 GMT*
+*Last update: Tue, 08 Jun 2021 00:53:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
