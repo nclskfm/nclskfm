@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 08 2021)
+### Joke of the day (Wed Jun 09 2021)
 <!-- joke -->
->How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
+>Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
 <!-- /joke -->
 
-*Last update: Tue, 08 Jun 2021 00:53:06 GMT*
+*Last update: Wed, 09 Jun 2021 00:34:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
