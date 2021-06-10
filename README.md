@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 09 2021)
+### Joke of the day (Thu Jun 10 2021)
 <!-- joke -->
->Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
+>Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
 <!-- /joke -->
 
-*Last update: Wed, 09 Jun 2021 00:34:59 GMT*
+*Last update: Thu, 10 Jun 2021 00:33:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
