@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 10 2021)
+### Joke of the day (Fri Jun 11 2021)
 <!-- joke -->
->Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
+>Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
 <!-- /joke -->
 
-*Last update: Thu, 10 Jun 2021 00:33:41 GMT*
+*Last update: Fri, 11 Jun 2021 00:30:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
