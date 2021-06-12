@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 11 2021)
+### Joke of the day (Sat Jun 12 2021)
 <!-- joke -->
->Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
+>I have a good joke on Information Technology, but you won't get IT
 <!-- /joke -->
 
-*Last update: Fri, 11 Jun 2021 00:30:12 GMT*
+*Last update: Sat, 12 Jun 2021 00:27:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
