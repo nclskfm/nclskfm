@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 13 2021)
+### Joke of the day (Mon Jun 14 2021)
 <!-- joke -->
->Chuck Norris burst the dot com bubble.
+>There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 <!-- /joke -->
 
-*Last update: Sun, 13 Jun 2021 00:32:40 GMT*
+*Last update: Mon, 14 Jun 2021 00:29:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
