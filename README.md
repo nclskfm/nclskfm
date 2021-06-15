@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 14 2021)
+### Joke of the day (Tue Jun 15 2021)
 <!-- joke -->
->There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
+>Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
 <!-- /joke -->
 
-*Last update: Mon, 14 Jun 2021 00:29:19 GMT*
+*Last update: Tue, 15 Jun 2021 00:31:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
