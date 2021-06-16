@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 15 2021)
+### Joke of the day (Wed Jun 16 2021)
 <!-- joke -->
->Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
+>The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 <!-- /joke -->
 
-*Last update: Tue, 15 Jun 2021 00:31:01 GMT*
+*Last update: Wed, 16 Jun 2021 00:31:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
