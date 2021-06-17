@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 16 2021)
+### Joke of the day (Thu Jun 17 2021)
 <!-- joke -->
->The box said ‘Requires Windows Vista or better’. So I installed LINUX.
+>When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 16 Jun 2021 00:31:26 GMT*
+*Last update: Thu, 17 Jun 2021 00:29:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
