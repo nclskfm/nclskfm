@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 17 2021)
+### Joke of the day (Fri Jun 18 2021)
 <!-- joke -->
->When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
+>Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
 <!-- /joke -->
 
-*Last update: Thu, 17 Jun 2021 00:29:44 GMT*
+*Last update: Fri, 18 Jun 2021 00:30:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
