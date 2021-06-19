@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 18 2021)
+### Joke of the day (Sat Jun 19 2021)
 <!-- joke -->
->Chuck Norris once shot down a German fighter plane with his finger. By yelling 'Bang!'
+>Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 <!-- /joke -->
 
-*Last update: Fri, 18 Jun 2021 00:30:20 GMT*
+*Last update: Sat, 19 Jun 2021 00:30:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
