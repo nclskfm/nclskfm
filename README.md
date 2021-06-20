@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 19 2021)
+### Joke of the day (Sun Jun 20 2021)
 <!-- joke -->
->Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+>Fact: Chuck Norris doesn't consider it sex if the woman survives.
 <!-- /joke -->
 
-*Last update: Sat, 19 Jun 2021 00:30:23 GMT*
+*Last update: Sun, 20 Jun 2021 00:32:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
