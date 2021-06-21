@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 20 2021)
+### Joke of the day (Mon Jun 21 2021)
 <!-- joke -->
->Fact: Chuck Norris doesn't consider it sex if the woman survives.
+>Chuck Norris once round-house kicked a salesman. Over the phone.
 <!-- /joke -->
 
-*Last update: Sun, 20 Jun 2021 00:32:07 GMT*
+*Last update: Mon, 21 Jun 2021 00:32:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
