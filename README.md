@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 21 2021)
+### Joke of the day (Tue Jun 22 2021)
 <!-- joke -->
->Chuck Norris once round-house kicked a salesman. Over the phone.
+>Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
 <!-- /joke -->
 
-*Last update: Mon, 21 Jun 2021 00:32:19 GMT*
+*Last update: Tue, 22 Jun 2021 00:28:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
