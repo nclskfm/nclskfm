@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 22 2021)
+### Joke of the day (Wed Jun 23 2021)
 <!-- joke -->
->Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+>E-mail returned to sender... insufficient voltage.
 <!-- /joke -->
 
-*Last update: Tue, 22 Jun 2021 00:28:59 GMT*
+*Last update: Wed, 23 Jun 2021 00:29:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
