@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 23 2021)
+### Joke of the day (Thu Jun 24 2021)
 <!-- joke -->
->E-mail returned to sender... insufficient voltage.
+>Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
 <!-- /joke -->
 
-*Last update: Wed, 23 Jun 2021 00:29:26 GMT*
+*Last update: Thu, 24 Jun 2021 00:24:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
