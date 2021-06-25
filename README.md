@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 24 2021)
+### Joke of the day (Fri Jun 25 2021)
 <!-- joke -->
->Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
+>Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
 <!-- /joke -->
 
-*Last update: Thu, 24 Jun 2021 00:24:06 GMT*
+*Last update: Fri, 25 Jun 2021 00:25:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
