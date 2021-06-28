@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 27 2021)
+### Joke of the day (Mon Jun 28 2021)
 <!-- joke -->
->Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
+>Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
 <!-- /joke -->
 
-*Last update: Sun, 27 Jun 2021 00:26:01 GMT*
+*Last update: Mon, 28 Jun 2021 00:25:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
