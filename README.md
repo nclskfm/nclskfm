@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 29 2021)
+### Joke of the day (Wed Jun 30 2021)
 <!-- joke -->
->Chuck Norris's keyboard has the Any key.
+>It takes Chuck Norris 20 minutes to watch 60 Minutes.
 <!-- /joke -->
 
-*Last update: Tue, 29 Jun 2021 00:23:07 GMT*
+*Last update: Wed, 30 Jun 2021 00:22:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
