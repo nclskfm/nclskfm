@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 30 2021)
+### Joke of the day (Thu Jul 01 2021)
 <!-- joke -->
->It takes Chuck Norris 20 minutes to watch 60 Minutes.
+>When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
 <!-- /joke -->
 
-*Last update: Wed, 30 Jun 2021 00:22:43 GMT*
+*Last update: Thu, 01 Jul 2021 00:24:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
