@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 01 2021)
+### Joke of the day (Fri Jul 02 2021)
 <!-- joke -->
->When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
+>For Chuck Norris, NP-Hard = O(1).
 <!-- /joke -->
 
-*Last update: Thu, 01 Jul 2021 00:24:59 GMT*
+*Last update: Fri, 02 Jul 2021 00:22:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
