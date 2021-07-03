@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 02 2021)
+### Joke of the day (Sat Jul 03 2021)
 <!-- joke -->
->For Chuck Norris, NP-Hard = O(1).
+>Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 <!-- /joke -->
 
-*Last update: Fri, 02 Jul 2021 00:22:29 GMT*
+*Last update: Sat, 03 Jul 2021 00:22:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
