@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 03 2021)
+### Joke of the day (Sun Jul 04 2021)
 <!-- joke -->
->Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
+>Chuck Norris does not need to know about class factory pattern. He can instantiate interfaces.
 <!-- /joke -->
 
-*Last update: Sat, 03 Jul 2021 00:22:01 GMT*
+*Last update: Sun, 04 Jul 2021 00:22:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
