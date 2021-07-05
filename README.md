@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 04 2021)
+### Joke of the day (Mon Jul 05 2021)
 <!-- joke -->
->Chuck Norris does not need to know about class factory pattern. He can instantiate interfaces.
+>Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 <!-- /joke -->
 
-*Last update: Sun, 04 Jul 2021 00:22:14 GMT*
+*Last update: Mon, 05 Jul 2021 00:21:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
