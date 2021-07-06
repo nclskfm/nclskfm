@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 05 2021)
+### Joke of the day (Tue Jul 06 2021)
 <!-- joke -->
->Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+>No one has ever spoken during review of Chuck Norris' code and lived to tell about it.
 <!-- /joke -->
 
-*Last update: Mon, 05 Jul 2021 00:21:18 GMT*
+*Last update: Tue, 06 Jul 2021 00:23:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
