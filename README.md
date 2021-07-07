@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 06 2021)
+### Joke of the day (Wed Jul 07 2021)
 <!-- joke -->
->No one has ever spoken during review of Chuck Norris' code and lived to tell about it.
+>In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
 <!-- /joke -->
 
-*Last update: Tue, 06 Jul 2021 00:23:55 GMT*
+*Last update: Wed, 07 Jul 2021 00:24:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
