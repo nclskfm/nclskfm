@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 07 2021)
+### Joke of the day (Thu Jul 08 2021)
 <!-- joke -->
->In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
+>Chuck Norris can skeletize a cow in two minutes.
 <!-- /joke -->
 
-*Last update: Wed, 07 Jul 2021 00:24:29 GMT*
+*Last update: Thu, 08 Jul 2021 00:21:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
