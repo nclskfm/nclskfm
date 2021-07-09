@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 08 2021)
+### Joke of the day (Fri Jul 09 2021)
 <!-- joke -->
->Chuck Norris can skeletize a cow in two minutes.
+>Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
 <!-- /joke -->
 
-*Last update: Thu, 08 Jul 2021 00:21:15 GMT*
+*Last update: Fri, 09 Jul 2021 00:24:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
