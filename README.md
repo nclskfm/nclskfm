@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 09 2021)
+### Joke of the day (Sat Jul 10 2021)
 <!-- joke -->
->Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
+>Penguins love cold... they wont survive the sun.
 <!-- /joke -->
 
-*Last update: Fri, 09 Jul 2021 00:24:03 GMT*
+*Last update: Sat, 10 Jul 2021 00:22:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
