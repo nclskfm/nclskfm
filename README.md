@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 10 2021)
+### Joke of the day (Sun Jul 11 2021)
 <!-- joke -->
->Penguins love cold... they wont survive the sun.
+>Everybody loves Raymond. Except Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 10 Jul 2021 00:22:52 GMT*
+*Last update: Sun, 11 Jul 2021 00:23:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
