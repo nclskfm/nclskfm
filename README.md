@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 11 2021)
+### Joke of the day (Mon Jul 12 2021)
 <!-- joke -->
->Everybody loves Raymond. Except Chuck Norris.
+>Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
 <!-- /joke -->
 
-*Last update: Sun, 11 Jul 2021 00:23:38 GMT*
+*Last update: Mon, 12 Jul 2021 00:24:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
