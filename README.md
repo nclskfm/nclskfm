@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 12 2021)
+### Joke of the day (Tue Jul 13 2021)
 <!-- joke -->
->Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
+>President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
 <!-- /joke -->
 
-*Last update: Mon, 12 Jul 2021 00:24:00 GMT*
+*Last update: Tue, 13 Jul 2021 00:24:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
