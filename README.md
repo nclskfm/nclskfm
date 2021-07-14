@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 13 2021)
+### Joke of the day (Wed Jul 14 2021)
 <!-- joke -->
->President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
+>The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
 <!-- /joke -->
 
-*Last update: Tue, 13 Jul 2021 00:24:49 GMT*
+*Last update: Wed, 14 Jul 2021 00:21:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
