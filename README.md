@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 14 2021)
+### Joke of the day (Thu Jul 15 2021)
 <!-- joke -->
->The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
+>Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
 <!-- /joke -->
 
-*Last update: Wed, 14 Jul 2021 00:21:28 GMT*
+*Last update: Thu, 15 Jul 2021 00:21:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
