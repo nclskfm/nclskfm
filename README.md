@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 15 2021)
+### Joke of the day (Fri Jul 16 2021)
 <!-- joke -->
->Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
+>While urinating, Chuck Norris is easily capable of welding titanium.
 <!-- /joke -->
 
-*Last update: Thu, 15 Jul 2021 00:21:52 GMT*
+*Last update: Fri, 16 Jul 2021 00:23:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
