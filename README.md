@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 16 2021)
+### Joke of the day (Sat Jul 17 2021)
 <!-- joke -->
->While urinating, Chuck Norris is easily capable of welding titanium.
+>In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
 <!-- /joke -->
 
-*Last update: Fri, 16 Jul 2021 00:23:00 GMT*
+*Last update: Sat, 17 Jul 2021 00:23:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
