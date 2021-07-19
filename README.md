@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 18 2021)
+### Joke of the day (Mon Jul 19 2021)
 <!-- joke -->
->No one has ever pair-programmed with Chuck Norris and lived to tell about it.
+>There are no such things as tornados. Chuck Norris just hates trailer parks.
 <!-- /joke -->
 
-*Last update: Sun, 18 Jul 2021 00:23:50 GMT*
+*Last update: Mon, 19 Jul 2021 00:23:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
