@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 19 2021)
+### Joke of the day (Tue Jul 20 2021)
 <!-- joke -->
->There are no such things as tornados. Chuck Norris just hates trailer parks.
+>Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
 <!-- /joke -->
 
-*Last update: Mon, 19 Jul 2021 00:23:44 GMT*
+*Last update: Tue, 20 Jul 2021 00:23:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
