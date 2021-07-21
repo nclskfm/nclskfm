@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 20 2021)
+### Joke of the day (Wed Jul 21 2021)
 <!-- joke -->
->Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
+>When taking the SAT, write 'Chuck Norris' for every answer. You will score over 8000.
 <!-- /joke -->
 
-*Last update: Tue, 20 Jul 2021 00:23:34 GMT*
+*Last update: Wed, 21 Jul 2021 00:23:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
