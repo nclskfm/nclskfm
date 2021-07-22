@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 21 2021)
+### Joke of the day (Thu Jul 22 2021)
 <!-- joke -->
->When taking the SAT, write 'Chuck Norris' for every answer. You will score over 8000.
+>Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
 <!-- /joke -->
 
-*Last update: Wed, 21 Jul 2021 00:23:51 GMT*
+*Last update: Thu, 22 Jul 2021 00:23:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
