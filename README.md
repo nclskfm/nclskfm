@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 22 2021)
+### Joke of the day (Fri Jul 23 2021)
 <!-- joke -->
->Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
+>That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
 <!-- /joke -->
 
-*Last update: Thu, 22 Jul 2021 00:23:58 GMT*
+*Last update: Fri, 23 Jul 2021 00:24:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
