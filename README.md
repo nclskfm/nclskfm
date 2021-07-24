@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 23 2021)
+### Joke of the day (Sat Jul 24 2021)
 <!-- joke -->
->That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
+>The code that is the hardest to debug is the code that you know cannot possibly be wrong.
 <!-- /joke -->
 
-*Last update: Fri, 23 Jul 2021 00:24:14 GMT*
+*Last update: Sat, 24 Jul 2021 00:22:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
