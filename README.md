@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 24 2021)
+### Joke of the day (Sun Jul 25 2021)
 <!-- joke -->
->The code that is the hardest to debug is the code that you know cannot possibly be wrong.
+>Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
 <!-- /joke -->
 
-*Last update: Sat, 24 Jul 2021 00:22:16 GMT*
+*Last update: Sun, 25 Jul 2021 00:23:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
