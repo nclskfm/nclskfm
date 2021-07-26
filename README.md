@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 25 2021)
+### Joke of the day (Mon Jul 26 2021)
 <!-- joke -->
->Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+>Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
 <!-- /joke -->
 
-*Last update: Sun, 25 Jul 2021 00:23:04 GMT*
+*Last update: Mon, 26 Jul 2021 00:22:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
