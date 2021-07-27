@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 26 2021)
+### Joke of the day (Tue Jul 27 2021)
 <!-- joke -->
->Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
+>If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
 <!-- /joke -->
 
-*Last update: Mon, 26 Jul 2021 00:22:43 GMT*
+*Last update: Tue, 27 Jul 2021 00:23:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
