@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 27 2021)
+### Joke of the day (Wed Jul 28 2021)
 <!-- joke -->
->If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
+>Whiteboards are white because Chuck Norris scared them that way.
 <!-- /joke -->
 
-*Last update: Tue, 27 Jul 2021 00:23:10 GMT*
+*Last update: Wed, 28 Jul 2021 00:24:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
