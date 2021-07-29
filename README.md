@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 28 2021)
+### Joke of the day (Thu Jul 29 2021)
 <!-- joke -->
->Whiteboards are white because Chuck Norris scared them that way.
+>If at first you don’t succeed; call it version 1.0.
 <!-- /joke -->
 
-*Last update: Wed, 28 Jul 2021 00:24:35 GMT*
+*Last update: Thu, 29 Jul 2021 00:22:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
