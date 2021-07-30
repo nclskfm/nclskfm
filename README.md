@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 29 2021)
+### Joke of the day (Fri Jul 30 2021)
 <!-- joke -->
->If at first you don’t succeed; call it version 1.0.
+>As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
 <!-- /joke -->
 
-*Last update: Thu, 29 Jul 2021 00:22:25 GMT*
+*Last update: Fri, 30 Jul 2021 00:23:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
