@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 30 2021)
+### Joke of the day (Sat Jul 31 2021)
 <!-- joke -->
->As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
+>For Spring Break '05, Chuck Norris drove to Madagascar, riding a chariot pulled by two electric eels.
 <!-- /joke -->
 
-*Last update: Fri, 30 Jul 2021 00:23:06 GMT*
+*Last update: Sat, 31 Jul 2021 00:23:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
