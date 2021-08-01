@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 31 2021)
+### Joke of the day (Sun Aug 01 2021)
 <!-- joke -->
->For Spring Break '05, Chuck Norris drove to Madagascar, riding a chariot pulled by two electric eels.
+>The Internet: where men are men women are men and children are FBI agents.
 <!-- /joke -->
 
-*Last update: Sat, 31 Jul 2021 00:23:18 GMT*
+*Last update: Sun, 01 Aug 2021 00:27:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
