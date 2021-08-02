@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 01 2021)
+### Joke of the day (Mon Aug 02 2021)
 <!-- joke -->
->The Internet: where men are men women are men and children are FBI agents.
+>Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
 <!-- /joke -->
 
-*Last update: Sun, 01 Aug 2021 00:27:05 GMT*
+*Last update: Mon, 02 Aug 2021 00:23:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
