@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 03 2021)
+### Joke of the day (Wed Aug 04 2021)
 <!-- joke -->
->Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
+>In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
 <!-- /joke -->
 
-*Last update: Tue, 03 Aug 2021 00:26:19 GMT*
+*Last update: Wed, 04 Aug 2021 00:22:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
