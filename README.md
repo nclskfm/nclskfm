@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 04 2021)
+### Joke of the day (Thu Aug 05 2021)
 <!-- joke -->
->In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
+>Chuck Norris can instantiate an abstract class.
 <!-- /joke -->
 
-*Last update: Wed, 04 Aug 2021 00:22:07 GMT*
+*Last update: Thu, 05 Aug 2021 00:25:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
