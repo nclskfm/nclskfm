@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 05 2021)
+### Joke of the day (Fri Aug 06 2021)
 <!-- joke -->
->Chuck Norris can instantiate an abstract class.
+>Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
 <!-- /joke -->
 
-*Last update: Thu, 05 Aug 2021 00:25:29 GMT*
+*Last update: Fri, 06 Aug 2021 00:24:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
