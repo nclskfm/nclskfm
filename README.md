@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 06 2021)
+### Joke of the day (Sat Aug 07 2021)
 <!-- joke -->
->Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
+>To be or not to be? That is the question. The answer? Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 06 Aug 2021 00:24:11 GMT*
+*Last update: Sat, 07 Aug 2021 00:22:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
