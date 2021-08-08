@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 07 2021)
+### Joke of the day (Sun Aug 08 2021)
 <!-- joke -->
->To be or not to be? That is the question. The answer? Chuck Norris.
+>Chuck Norris has banned rainbows from the state of North Dakota.
 <!-- /joke -->
 
-*Last update: Sat, 07 Aug 2021 00:22:30 GMT*
+*Last update: Sun, 08 Aug 2021 00:24:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
