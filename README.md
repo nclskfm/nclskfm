@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 08 2021)
+### Joke of the day (Mon Aug 09 2021)
 <!-- joke -->
->Chuck Norris has banned rainbows from the state of North Dakota.
+>Chuck Norris can skeletize a cow in two minutes.
 <!-- /joke -->
 
-*Last update: Sun, 08 Aug 2021 00:24:47 GMT*
+*Last update: Mon, 09 Aug 2021 00:25:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
