@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 09 2021)
+### Joke of the day (Tue Aug 10 2021)
 <!-- joke -->
->Chuck Norris can skeletize a cow in two minutes.
+>Chuck Norris doesn't need sudo, he just types 'Chuck Norris' before his commands.
 <!-- /joke -->
 
-*Last update: Mon, 09 Aug 2021 00:25:25 GMT*
+*Last update: Tue, 10 Aug 2021 00:25:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
