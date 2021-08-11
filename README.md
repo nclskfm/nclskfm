@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 10 2021)
+### Joke of the day (Wed Aug 11 2021)
 <!-- joke -->
->Chuck Norris doesn't need sudo, he just types 'Chuck Norris' before his commands.
+>With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
 <!-- /joke -->
 
-*Last update: Tue, 10 Aug 2021 00:25:29 GMT*
+*Last update: Wed, 11 Aug 2021 00:29:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
