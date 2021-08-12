@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 11 2021)
+### Joke of the day (Thu Aug 12 2021)
 <!-- joke -->
->With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
+>Chuck Norris can set ants on fire with a magnifying glass. At night.
 <!-- /joke -->
 
-*Last update: Wed, 11 Aug 2021 00:29:58 GMT*
+*Last update: Thu, 12 Aug 2021 00:24:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
