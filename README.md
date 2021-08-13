@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 12 2021)
+### Joke of the day (Fri Aug 13 2021)
 <!-- joke -->
->Chuck Norris can set ants on fire with a magnifying glass. At night.
+>With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
 <!-- /joke -->
 
-*Last update: Thu, 12 Aug 2021 00:24:52 GMT*
+*Last update: Fri, 13 Aug 2021 00:24:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
