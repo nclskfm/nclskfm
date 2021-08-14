@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 13 2021)
+### Joke of the day (Sat Aug 14 2021)
 <!-- joke -->
->With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
+>Once you go Norris, you are physically unable to go back.
 <!-- /joke -->
 
-*Last update: Fri, 13 Aug 2021 00:24:34 GMT*
+*Last update: Sat, 14 Aug 2021 00:22:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
