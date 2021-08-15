@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 14 2021)
+### Joke of the day (Sun Aug 15 2021)
 <!-- joke -->
->Once you go Norris, you are physically unable to go back.
+>While urinating, Chuck Norris is easily capable of welding titanium.
 <!-- /joke -->
 
-*Last update: Sat, 14 Aug 2021 00:22:38 GMT*
+*Last update: Sun, 15 Aug 2021 00:24:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
