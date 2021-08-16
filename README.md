@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 15 2021)
+### Joke of the day (Mon Aug 16 2021)
 <!-- joke -->
->While urinating, Chuck Norris is easily capable of welding titanium.
+>There are no steroids in baseball. Just players Chuck Norris has breathed on.
 <!-- /joke -->
 
-*Last update: Sun, 15 Aug 2021 00:24:28 GMT*
+*Last update: Mon, 16 Aug 2021 00:25:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
