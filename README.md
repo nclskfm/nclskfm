@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 16 2021)
+### Joke of the day (Tue Aug 17 2021)
 <!-- joke -->
->There are no steroids in baseball. Just players Chuck Norris has breathed on.
+>Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
 <!-- /joke -->
 
-*Last update: Mon, 16 Aug 2021 00:25:03 GMT*
+*Last update: Tue, 17 Aug 2021 00:24:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
