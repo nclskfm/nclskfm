@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 18 2021)
+### Joke of the day (Thu Aug 19 2021)
 <!-- joke -->
->Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
+>UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
 <!-- /joke -->
 
-*Last update: Wed, 18 Aug 2021 00:23:50 GMT*
+*Last update: Thu, 19 Aug 2021 00:20:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
