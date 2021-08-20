@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 19 2021)
+### Joke of the day (Fri Aug 20 2021)
 <!-- joke -->
->UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
+>If Ruby is not and Perl is the answer then you don’t understand the question.
 <!-- /joke -->
 
-*Last update: Thu, 19 Aug 2021 00:20:49 GMT*
+*Last update: Fri, 20 Aug 2021 00:24:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
