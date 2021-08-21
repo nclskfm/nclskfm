@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 20 2021)
+### Joke of the day (Sat Aug 21 2021)
 <!-- joke -->
->If Ruby is not and Perl is the answer then you don’t understand the question.
+>No one has ever spoken during review of Chuck Norris' code and lived to tell about it.
 <!-- /joke -->
 
-*Last update: Fri, 20 Aug 2021 00:24:02 GMT*
+*Last update: Sat, 21 Aug 2021 00:22:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
