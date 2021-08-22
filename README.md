@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 21 2021)
+### Joke of the day (Sun Aug 22 2021)
 <!-- joke -->
->No one has ever spoken during review of Chuck Norris' code and lived to tell about it.
+>Chuck Norris's keyboard has the Any key.
 <!-- /joke -->
 
-*Last update: Sat, 21 Aug 2021 00:22:56 GMT*
+*Last update: Sun, 22 Aug 2021 00:23:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
