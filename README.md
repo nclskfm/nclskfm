@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 22 2021)
+### Joke of the day (Mon Aug 23 2021)
 <!-- joke -->
->Chuck Norris's keyboard has the Any key.
+>Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 <!-- /joke -->
 
-*Last update: Sun, 22 Aug 2021 00:23:50 GMT*
+*Last update: Mon, 23 Aug 2021 00:22:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
