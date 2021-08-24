@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 23 2021)
+### Joke of the day (Tue Aug 24 2021)
 <!-- joke -->
->Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
+>When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
 <!-- /joke -->
 
-*Last update: Mon, 23 Aug 2021 00:22:40 GMT*
+*Last update: Tue, 24 Aug 2021 00:24:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
