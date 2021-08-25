@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 24 2021)
+### Joke of the day (Wed Aug 25 2021)
 <!-- joke -->
->When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
+>Chuck Norris' Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 <!-- /joke -->
 
-*Last update: Tue, 24 Aug 2021 00:24:16 GMT*
+*Last update: Wed, 25 Aug 2021 00:24:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
