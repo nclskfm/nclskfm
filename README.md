@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 25 2021)
+### Joke of the day (Thu Aug 26 2021)
 <!-- joke -->
->Chuck Norris' Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+>If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
 <!-- /joke -->
 
-*Last update: Wed, 25 Aug 2021 00:24:55 GMT*
+*Last update: Thu, 26 Aug 2021 00:22:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
