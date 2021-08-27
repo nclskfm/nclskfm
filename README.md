@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 26 2021)
+### Joke of the day (Fri Aug 27 2021)
 <!-- joke -->
->If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
+>Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
 <!-- /joke -->
 
-*Last update: Thu, 26 Aug 2021 00:22:35 GMT*
+*Last update: Fri, 27 Aug 2021 00:27:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
