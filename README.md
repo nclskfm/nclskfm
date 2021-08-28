@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 27 2021)
+### Joke of the day (Sat Aug 28 2021)
 <!-- joke -->
->Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
+>Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
 <!-- /joke -->
 
-*Last update: Fri, 27 Aug 2021 00:27:00 GMT*
+*Last update: Sat, 28 Aug 2021 00:22:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
