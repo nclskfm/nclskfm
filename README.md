@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 28 2021)
+### Joke of the day (Sun Aug 29 2021)
 <!-- joke -->
->Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
+>Chuck Norris solved the halting problem.
 <!-- /joke -->
 
-*Last update: Sat, 28 Aug 2021 00:22:29 GMT*
+*Last update: Sun, 29 Aug 2021 00:25:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
