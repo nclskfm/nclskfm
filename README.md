@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 30 2021)
+### Joke of the day (Tue Aug 31 2021)
 <!-- joke -->
->What does a subatomic duck say? Quark.
+>What's the object-oriented way to become wealthy? Inheritance.
 <!-- /joke -->
 
-*Last update: Mon, 30 Aug 2021 00:25:23 GMT*
+*Last update: Tue, 31 Aug 2021 00:24:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
