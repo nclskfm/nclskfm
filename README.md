@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 31 2021)
+### Joke of the day (Wed Sep 01 2021)
 <!-- joke -->
->What's the object-oriented way to become wealthy? Inheritance.
+>I don't see women as objects. I consider each to be in a class of her own.
 <!-- /joke -->
 
-*Last update: Tue, 31 Aug 2021 00:24:23 GMT*
+*Last update: Wed, 01 Sep 2021 00:26:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
