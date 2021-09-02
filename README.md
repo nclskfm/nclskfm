@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 01 2021)
+### Joke of the day (Thu Sep 02 2021)
 <!-- joke -->
->I don't see women as objects. I consider each to be in a class of her own.
+>The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 01 Sep 2021 00:26:10 GMT*
+*Last update: Thu, 02 Sep 2021 00:24:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
