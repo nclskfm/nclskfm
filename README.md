@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 02 2021)
+### Joke of the day (Fri Sep 03 2021)
 <!-- joke -->
->The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
+>99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
 <!-- /joke -->
 
-*Last update: Thu, 02 Sep 2021 00:24:17 GMT*
+*Last update: Fri, 03 Sep 2021 00:23:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
