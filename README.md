@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 03 2021)
+### Joke of the day (Sat Sep 04 2021)
 <!-- joke -->
->99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
+>Chuck Norris can compile syntax errors.
 <!-- /joke -->
 
-*Last update: Fri, 03 Sep 2021 00:23:39 GMT*
+*Last update: Sat, 04 Sep 2021 00:23:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
