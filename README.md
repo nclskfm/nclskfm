@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 04 2021)
+### Joke of the day (Sun Sep 05 2021)
 <!-- joke -->
->Chuck Norris can compile syntax errors.
+>When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
 <!-- /joke -->
 
-*Last update: Sat, 04 Sep 2021 00:23:36 GMT*
+*Last update: Sun, 05 Sep 2021 00:25:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
