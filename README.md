@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 05 2021)
+### Joke of the day (Mon Sep 06 2021)
 <!-- joke -->
->When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
+>Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
 <!-- /joke -->
 
-*Last update: Sun, 05 Sep 2021 00:25:57 GMT*
+*Last update: Mon, 06 Sep 2021 00:28:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
