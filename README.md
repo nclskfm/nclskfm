@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 06 2021)
+### Joke of the day (Tue Sep 07 2021)
 <!-- joke -->
->Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Mon, 06 Sep 2021 00:28:00 GMT*
+*Last update: Tue, 07 Sep 2021 00:23:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
