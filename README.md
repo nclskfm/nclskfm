@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 07 2021)
+### Joke of the day (Wed Sep 08 2021)
 <!-- joke -->
->A UDP packet walks into a bar. The bartender doesn't acknowledge him.
+>Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
 <!-- /joke -->
 
-*Last update: Tue, 07 Sep 2021 00:23:46 GMT*
+*Last update: Wed, 08 Sep 2021 00:23:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
