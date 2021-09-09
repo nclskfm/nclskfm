@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 08 2021)
+### Joke of the day (Thu Sep 09 2021)
 <!-- joke -->
->Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
+>There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 <!-- /joke -->
 
-*Last update: Wed, 08 Sep 2021 00:23:25 GMT*
+*Last update: Thu, 09 Sep 2021 00:26:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
