@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 09 2021)
+### Joke of the day (Fri Sep 10 2021)
 <!-- joke -->
->There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
+>Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
 <!-- /joke -->
 
-*Last update: Thu, 09 Sep 2021 00:26:39 GMT*
+*Last update: Fri, 10 Sep 2021 00:28:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
