@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 10 2021)
+### Joke of the day (Sat Sep 11 2021)
 <!-- joke -->
->Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
+>There are only 10 types of people in the world: those that understand binary and those that don’t.
 <!-- /joke -->
 
-*Last update: Fri, 10 Sep 2021 00:28:14 GMT*
+*Last update: Sat, 11 Sep 2021 00:24:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
