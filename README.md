@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 11 2021)
+### Joke of the day (Sun Sep 12 2021)
 <!-- joke -->
->There are only 10 types of people in the world: those that understand binary and those that don’t.
+>Chuck Norris can delete the Recycling Bin.
 <!-- /joke -->
 
-*Last update: Sat, 11 Sep 2021 00:24:54 GMT*
+*Last update: Sun, 12 Sep 2021 00:27:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
