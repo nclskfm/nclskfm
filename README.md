@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 12 2021)
+### Joke of the day (Mon Sep 13 2021)
 <!-- joke -->
->Chuck Norris can delete the Recycling Bin.
+>Roses are #ff0000, violets are #0000ff, I use hex codes, but I'd use RGB for you
 <!-- /joke -->
 
-*Last update: Sun, 12 Sep 2021 00:27:05 GMT*
+*Last update: Mon, 13 Sep 2021 00:27:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
