@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 13 2021)
+### Joke of the day (Tue Sep 14 2021)
 <!-- joke -->
->Roses are #ff0000, violets are #0000ff, I use hex codes, but I'd use RGB for you
+>There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn't expect a ternary joke.
 <!-- /joke -->
 
-*Last update: Mon, 13 Sep 2021 00:27:06 GMT*
+*Last update: Tue, 14 Sep 2021 00:26:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
