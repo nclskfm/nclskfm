@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 14 2021)
+### Joke of the day (Wed Sep 15 2021)
 <!-- joke -->
->There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn't expect a ternary joke.
+>Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
 <!-- /joke -->
 
-*Last update: Tue, 14 Sep 2021 00:26:44 GMT*
+*Last update: Wed, 15 Sep 2021 00:24:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
