@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 15 2021)
+### Joke of the day (Thu Sep 16 2021)
 <!-- joke -->
->Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
+>I don't see women as objects. I consider each to be in a class of her own.
 <!-- /joke -->
 
-*Last update: Wed, 15 Sep 2021 00:24:36 GMT*
+*Last update: Thu, 16 Sep 2021 00:26:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
