@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 17 2021)
+### Joke of the day (Sat Sep 18 2021)
 <!-- joke -->
->There are two types of people in the world... people that suck, and Chuck Norris.
+>According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
 <!-- /joke -->
 
-*Last update: Fri, 17 Sep 2021 00:28:21 GMT*
+*Last update: Sat, 18 Sep 2021 00:23:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
