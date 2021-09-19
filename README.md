@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 18 2021)
+### Joke of the day (Sun Sep 19 2021)
 <!-- joke -->
->According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
+>Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
 <!-- /joke -->
 
-*Last update: Sat, 18 Sep 2021 00:23:18 GMT*
+*Last update: Sun, 19 Sep 2021 00:26:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
