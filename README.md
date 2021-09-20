@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 19 2021)
+### Joke of the day (Mon Sep 20 2021)
 <!-- joke -->
->Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
+>Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
 <!-- /joke -->
 
-*Last update: Sun, 19 Sep 2021 00:26:31 GMT*
+*Last update: Mon, 20 Sep 2021 00:29:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
