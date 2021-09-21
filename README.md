@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 20 2021)
+### Joke of the day (Tue Sep 21 2021)
 <!-- joke -->
->Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
+>Chuck Norris can access private methods.
 <!-- /joke -->
 
-*Last update: Mon, 20 Sep 2021 00:29:24 GMT*
+*Last update: Tue, 21 Sep 2021 00:24:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
