@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 21 2021)
+### Joke of the day (Wed Sep 22 2021)
 <!-- joke -->
->Chuck Norris can access private methods.
+>The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
 <!-- /joke -->
 
-*Last update: Tue, 21 Sep 2021 00:24:20 GMT*
+*Last update: Wed, 22 Sep 2021 00:26:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
