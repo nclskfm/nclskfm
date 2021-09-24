@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 23 2021)
+### Joke of the day (Fri Sep 24 2021)
 <!-- joke -->
->When Chuck Norris does division, there are no remainders.
+>There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 23 Sep 2021 00:27:12 GMT*
+*Last update: Fri, 24 Sep 2021 00:26:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
