@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 24 2021)
+### Joke of the day (Sat Sep 25 2021)
 <!-- joke -->
->There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
+>Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
 <!-- /joke -->
 
-*Last update: Fri, 24 Sep 2021 00:26:07 GMT*
+*Last update: Sat, 25 Sep 2021 00:25:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
