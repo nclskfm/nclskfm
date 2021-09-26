@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 25 2021)
+### Joke of the day (Sun Sep 26 2021)
 <!-- joke -->
->Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
+>SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
 <!-- /joke -->
 
-*Last update: Sat, 25 Sep 2021 00:25:46 GMT*
+*Last update: Sun, 26 Sep 2021 00:27:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
