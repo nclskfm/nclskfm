@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 26 2021)
+### Joke of the day (Mon Sep 27 2021)
 <!-- joke -->
->SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
+>If at first you don't succeed, you're not Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 26 Sep 2021 00:27:35 GMT*
+*Last update: Mon, 27 Sep 2021 00:25:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
