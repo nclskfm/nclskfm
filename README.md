@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 30 2021)
+### Joke of the day (Fri Oct 01 2021)
 <!-- joke -->
->The Chuck Norris military unit was not used in the game Civilization 4, because a single Chuck Norris could defeat the entire combined nations of the world in one turn.
+>Chuck Norris can start a fire by rubbing two ice cubes together.
 <!-- /joke -->
 
-*Last update: Thu, 30 Sep 2021 00:28:23 GMT*
+*Last update: Fri, 01 Oct 2021 00:29:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
