@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 01 2021)
+### Joke of the day (Sat Oct 02 2021)
 <!-- joke -->
->Chuck Norris can start a fire by rubbing two ice cubes together.
+>The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris. The film was cancelled shortly after going into preproduction. No one would pay nine dollars to see a movie fourteen seconds long.
 <!-- /joke -->
 
-*Last update: Fri, 01 Oct 2021 00:29:38 GMT*
+*Last update: Sat, 02 Oct 2021 00:25:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
