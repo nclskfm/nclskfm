@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 02 2021)
+### Joke of the day (Sun Oct 03 2021)
 <!-- joke -->
->The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris. The film was cancelled shortly after going into preproduction. No one would pay nine dollars to see a movie fourteen seconds long.
+>SON: What are clouds made of? DAD: Linux servers, mostly
 <!-- /joke -->
 
-*Last update: Sat, 02 Oct 2021 00:25:33 GMT*
+*Last update: Sun, 03 Oct 2021 00:28:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
