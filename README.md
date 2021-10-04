@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 03 2021)
+### Joke of the day (Mon Oct 04 2021)
 <!-- joke -->
->SON: What are clouds made of? DAD: Linux servers, mostly
+>Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
 <!-- /joke -->
 
-*Last update: Sun, 03 Oct 2021 00:28:32 GMT*
+*Last update: Mon, 04 Oct 2021 00:29:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
