@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 04 2021)
+### Joke of the day (Tue Oct 05 2021)
 <!-- joke -->
->Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
+>Chuck Norris doesn't stub his toes. He accidentally destroys chairs, bedframes, and sidewalks.
 <!-- /joke -->
 
-*Last update: Mon, 04 Oct 2021 00:29:39 GMT*
+*Last update: Tue, 05 Oct 2021 00:27:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
