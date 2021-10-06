@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 05 2021)
+### Joke of the day (Wed Oct 06 2021)
 <!-- joke -->
->Chuck Norris doesn't stub his toes. He accidentally destroys chairs, bedframes, and sidewalks.
+>Once you go Norris, you are physically unable to go back.
 <!-- /joke -->
 
-*Last update: Tue, 05 Oct 2021 00:27:51 GMT*
+*Last update: Wed, 06 Oct 2021 00:27:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
