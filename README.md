@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 06 2021)
+### Joke of the day (Thu Oct 07 2021)
 <!-- joke -->
->Once you go Norris, you are physically unable to go back.
+>Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 <!-- /joke -->
 
-*Last update: Wed, 06 Oct 2021 00:27:10 GMT*
+*Last update: Thu, 07 Oct 2021 00:27:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
