@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 08 2021)
+### Joke of the day (Sat Oct 09 2021)
 <!-- joke -->
->When an episode of Walker Texas Ranger was aired in France, the French surrendered to Chuck Norris just to be on the safe side.
+>Failure is not an option. It comes bundled with your Microsoft product.
 <!-- /joke -->
 
-*Last update: Fri, 08 Oct 2021 00:27:57 GMT*
+*Last update: Sat, 09 Oct 2021 00:25:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
