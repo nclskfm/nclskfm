@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 09 2021)
+### Joke of the day (Sun Oct 10 2021)
 <!-- joke -->
->Failure is not an option. It comes bundled with your Microsoft product.
+>3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
 <!-- /joke -->
 
-*Last update: Sat, 09 Oct 2021 00:25:35 GMT*
+*Last update: Sun, 10 Oct 2021 00:27:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
