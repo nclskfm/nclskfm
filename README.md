@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 10 2021)
+### Joke of the day (Mon Oct 11 2021)
 <!-- joke -->
->3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
+>Chuck Norris has two speeds: Walk and Kill.
 <!-- /joke -->
 
-*Last update: Sun, 10 Oct 2021 00:27:27 GMT*
+*Last update: Mon, 11 Oct 2021 00:27:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
