@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 11 2021)
+### Joke of the day (Tue Oct 12 2021)
 <!-- joke -->
->Chuck Norris has two speeds: Walk and Kill.
+>The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 <!-- /joke -->
 
-*Last update: Mon, 11 Oct 2021 00:27:12 GMT*
+*Last update: Tue, 12 Oct 2021 00:28:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
