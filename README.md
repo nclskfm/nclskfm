@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 15 2021)
+### Joke of the day (Sat Oct 16 2021)
 <!-- joke -->
->Along with his black belt, Chuck Norris often chooses to wear brown shoes. No one has DARED call him on it. Ever.
+>When Chuck Norris does a push-up he doesn't go up, the earth goes down
 <!-- /joke -->
 
-*Last update: Fri, 15 Oct 2021 00:27:07 GMT*
+*Last update: Sat, 16 Oct 2021 00:28:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
