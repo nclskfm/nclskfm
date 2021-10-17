@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 16 2021)
+### Joke of the day (Sun Oct 17 2021)
 <!-- joke -->
->When Chuck Norris does a push-up he doesn't go up, the earth goes down
+>Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
 <!-- /joke -->
 
-*Last update: Sat, 16 Oct 2021 00:28:35 GMT*
+*Last update: Sun, 17 Oct 2021 00:27:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
