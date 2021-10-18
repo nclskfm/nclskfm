@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 17 2021)
+### Joke of the day (Mon Oct 18 2021)
 <!-- joke -->
->Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
+>The Manhattan Project was not intended to create nuclear weapons, it was meant to recreate the destructive power in a Chuck Norris Roundhouse Kick. They didn't even come close.
 <!-- /joke -->
 
-*Last update: Sun, 17 Oct 2021 00:27:11 GMT*
+*Last update: Mon, 18 Oct 2021 00:26:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
