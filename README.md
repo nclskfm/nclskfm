@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 18 2021)
+### Joke of the day (Tue Oct 19 2021)
 <!-- joke -->
->The Manhattan Project was not intended to create nuclear weapons, it was meant to recreate the destructive power in a Chuck Norris Roundhouse Kick. They didn't even come close.
+>Some kids play Kick the can. Chuck Norris played Kick the keg.
 <!-- /joke -->
 
-*Last update: Mon, 18 Oct 2021 00:26:54 GMT*
+*Last update: Tue, 19 Oct 2021 00:28:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
