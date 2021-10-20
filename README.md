@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 19 2021)
+### Joke of the day (Wed Oct 20 2021)
 <!-- joke -->
->Some kids play Kick the can. Chuck Norris played Kick the keg.
+>Chuck Norris runs on batteries. Specifically, Die Hards.
 <!-- /joke -->
 
-*Last update: Tue, 19 Oct 2021 00:28:22 GMT*
+*Last update: Wed, 20 Oct 2021 00:27:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
