@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 21 2021)
+### Joke of the day (Fri Oct 22 2021)
 <!-- joke -->
->When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
+>Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
 <!-- /joke -->
 
-*Last update: Thu, 21 Oct 2021 00:29:42 GMT*
+*Last update: Fri, 22 Oct 2021 00:30:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
