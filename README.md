@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 22 2021)
+### Joke of the day (Sat Oct 23 2021)
 <!-- joke -->
->Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
+>When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Fri, 22 Oct 2021 00:30:59 GMT*
+*Last update: Sat, 23 Oct 2021 00:28:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
