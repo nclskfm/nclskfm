@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 23 2021)
+### Joke of the day (Sun Oct 24 2021)
 <!-- joke -->
->When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+>With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
 <!-- /joke -->
 
-*Last update: Sat, 23 Oct 2021 00:28:12 GMT*
+*Last update: Sun, 24 Oct 2021 00:27:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
