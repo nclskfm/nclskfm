@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 25 2021)
+### Joke of the day (Tue Oct 26 2021)
 <!-- joke -->
->Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
+>Chuck Norris doesn't pair program.
 <!-- /joke -->
 
-*Last update: Mon, 25 Oct 2021 00:28:28 GMT*
+*Last update: Tue, 26 Oct 2021 00:25:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
