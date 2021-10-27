@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 26 2021)
+### Joke of the day (Wed Oct 27 2021)
 <!-- joke -->
->Chuck Norris doesn't pair program.
+>The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 <!-- /joke -->
 
-*Last update: Tue, 26 Oct 2021 00:25:55 GMT*
+*Last update: Wed, 27 Oct 2021 00:26:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
