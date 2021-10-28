@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 27 2021)
+### Joke of the day (Thu Oct 28 2021)
 <!-- joke -->
->The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+>It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
 <!-- /joke -->
 
-*Last update: Wed, 27 Oct 2021 00:26:27 GMT*
+*Last update: Thu, 28 Oct 2021 00:27:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
