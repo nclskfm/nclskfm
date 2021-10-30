@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 29 2021)
+### Joke of the day (Sat Oct 30 2021)
 <!-- joke -->
->When Chuck Norris wants an egg, he cracks open a chicken.
+>If at first you don’t succeed; call it version 1.0.
 <!-- /joke -->
 
-*Last update: Fri, 29 Oct 2021 00:24:53 GMT*
+*Last update: Sat, 30 Oct 2021 00:25:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
