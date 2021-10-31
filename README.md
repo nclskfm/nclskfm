@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 30 2021)
+### Joke of the day (Sun Oct 31 2021)
 <!-- joke -->
->If at first you don’t succeed; call it version 1.0.
+>If Chuck Norris wants your opinion, he'll beat it into you.
 <!-- /joke -->
 
-*Last update: Sat, 30 Oct 2021 00:25:42 GMT*
+*Last update: Sun, 31 Oct 2021 00:27:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
