@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 31 2021)
+### Joke of the day (Mon Nov 01 2021)
 <!-- joke -->
->If Chuck Norris wants your opinion, he'll beat it into you.
+>What does a subatomic duck say? Quark.
 <!-- /joke -->
 
-*Last update: Sun, 31 Oct 2021 00:27:59 GMT*
+*Last update: Mon, 01 Nov 2021 00:28:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
