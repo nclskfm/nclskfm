@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 01 2021)
+### Joke of the day (Tue Nov 02 2021)
 <!-- joke -->
->What does a subatomic duck say? Quark.
+>Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 <!-- /joke -->
 
-*Last update: Mon, 01 Nov 2021 00:28:17 GMT*
+*Last update: Tue, 02 Nov 2021 00:27:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
