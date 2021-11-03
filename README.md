@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 02 2021)
+### Joke of the day (Wed Nov 03 2021)
 <!-- joke -->
->Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+>Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 02 Nov 2021 00:27:04 GMT*
+*Last update: Wed, 03 Nov 2021 00:26:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
