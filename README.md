@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 03 2021)
+### Joke of the day (Thu Nov 04 2021)
 <!-- joke -->
->Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
+>The only pattern Chuck Norris knows is God Object.
 <!-- /joke -->
 
-*Last update: Wed, 03 Nov 2021 00:26:23 GMT*
+*Last update: Thu, 04 Nov 2021 00:26:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
