@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 04 2021)
+### Joke of the day (Fri Nov 05 2021)
 <!-- joke -->
->The only pattern Chuck Norris knows is God Object.
+>In a recent survey it was discovered the 94% of American women lost their virginity to Chuck Norris. The other 6% were incredibly fat or ugly.
 <!-- /joke -->
 
-*Last update: Thu, 04 Nov 2021 00:26:33 GMT*
+*Last update: Fri, 05 Nov 2021 00:26:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
