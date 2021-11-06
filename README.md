@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 05 2021)
+### Joke of the day (Sat Nov 06 2021)
 <!-- joke -->
->In a recent survey it was discovered the 94% of American women lost their virginity to Chuck Norris. The other 6% were incredibly fat or ugly.
+>Theres no place like 127.0.0.1
 <!-- /joke -->
 
-*Last update: Fri, 05 Nov 2021 00:26:34 GMT*
+*Last update: Sat, 06 Nov 2021 00:25:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
