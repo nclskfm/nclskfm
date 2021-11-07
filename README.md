@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 06 2021)
+### Joke of the day (Sun Nov 07 2021)
 <!-- joke -->
->Theres no place like 127.0.0.1
+>Chuck Norris can access private methods.
 <!-- /joke -->
 
-*Last update: Sat, 06 Nov 2021 00:25:34 GMT*
+*Last update: Sun, 07 Nov 2021 00:27:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
