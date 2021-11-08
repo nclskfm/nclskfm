@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 07 2021)
+### Joke of the day (Mon Nov 08 2021)
 <!-- joke -->
->Chuck Norris can access private methods.
+>Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
 <!-- /joke -->
 
-*Last update: Sun, 07 Nov 2021 00:27:42 GMT*
+*Last update: Mon, 08 Nov 2021 00:27:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
