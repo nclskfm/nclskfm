@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 08 2021)
+### Joke of the day (Tue Nov 09 2021)
 <!-- joke -->
->Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
+>Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
 <!-- /joke -->
 
-*Last update: Mon, 08 Nov 2021 00:27:20 GMT*
+*Last update: Tue, 09 Nov 2021 00:26:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
