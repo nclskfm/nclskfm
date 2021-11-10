@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 09 2021)
+### Joke of the day (Wed Nov 10 2021)
 <!-- joke -->
->Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
+>Chuck Norris doesn't need sudo, he just types 'Chuck Norris' before his commands.
 <!-- /joke -->
 
-*Last update: Tue, 09 Nov 2021 00:26:28 GMT*
+*Last update: Wed, 10 Nov 2021 00:26:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
