@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 12 2021)
+### Joke of the day (Sat Nov 13 2021)
 <!-- joke -->
->Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
+>Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
 <!-- /joke -->
 
-*Last update: Fri, 12 Nov 2021 00:28:07 GMT*
+*Last update: Sat, 13 Nov 2021 00:25:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
