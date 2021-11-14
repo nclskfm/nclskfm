@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 13 2021)
+### Joke of the day (Sun Nov 14 2021)
 <!-- joke -->
->Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
+>There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 13 Nov 2021 00:25:58 GMT*
+*Last update: Sun, 14 Nov 2021 00:27:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
