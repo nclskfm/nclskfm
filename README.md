@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 14 2021)
+### Joke of the day (Mon Nov 15 2021)
 <!-- joke -->
->There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
+>Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
 <!-- /joke -->
 
-*Last update: Sun, 14 Nov 2021 00:27:54 GMT*
+*Last update: Mon, 15 Nov 2021 00:27:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
