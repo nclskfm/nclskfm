@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 15 2021)
+### Joke of the day (Tue Nov 16 2021)
 <!-- joke -->
->Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
+>Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
 <!-- /joke -->
 
-*Last update: Mon, 15 Nov 2021 00:27:16 GMT*
+*Last update: Tue, 16 Nov 2021 00:26:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
