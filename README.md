@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 16 2021)
+### Joke of the day (Wed Nov 17 2021)
 <!-- joke -->
->Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
+>Chuck Norris burst the dot com bubble.
 <!-- /joke -->
 
-*Last update: Tue, 16 Nov 2021 00:26:49 GMT*
+*Last update: Wed, 17 Nov 2021 00:27:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
