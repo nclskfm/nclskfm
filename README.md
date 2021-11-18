@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 17 2021)
+### Joke of the day (Thu Nov 18 2021)
 <!-- joke -->
->Chuck Norris burst the dot com bubble.
+>There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn't expect a ternary joke.
 <!-- /joke -->
 
-*Last update: Wed, 17 Nov 2021 00:27:12 GMT*
+*Last update: Thu, 18 Nov 2021 00:27:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
