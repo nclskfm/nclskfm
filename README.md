@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 18 2021)
+### Joke of the day (Fri Nov 19 2021)
 <!-- joke -->
->There are only 10 types of people in the world: those that understand binary, those that don’t, and those that didn't expect a ternary joke.
+>How does a Programmer COok food ? In O(1)
 <!-- /joke -->
 
-*Last update: Thu, 18 Nov 2021 00:27:38 GMT*
+*Last update: Fri, 19 Nov 2021 00:27:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
