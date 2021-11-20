@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 19 2021)
+### Joke of the day (Sat Nov 20 2021)
 <!-- joke -->
->How does a Programmer COok food ? In O(1)
+>Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder.
 <!-- /joke -->
 
-*Last update: Fri, 19 Nov 2021 00:27:06 GMT*
+*Last update: Sat, 20 Nov 2021 00:26:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
