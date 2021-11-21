@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 20 2021)
+### Joke of the day (Sun Nov 21 2021)
 <!-- joke -->
->Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder.
+>All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Sat, 20 Nov 2021 00:26:40 GMT*
+*Last update: Sun, 21 Nov 2021 00:28:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
