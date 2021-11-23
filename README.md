@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 22 2021)
+### Joke of the day (Tue Nov 23 2021)
 <!-- joke -->
->Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
+>Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
 <!-- /joke -->
 
-*Last update: Mon, 22 Nov 2021 00:27:25 GMT*
+*Last update: Tue, 23 Nov 2021 00:27:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
