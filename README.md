@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 23 2021)
+### Joke of the day (Wed Nov 24 2021)
 <!-- joke -->
->Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
+>After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
 <!-- /joke -->
 
-*Last update: Tue, 23 Nov 2021 00:27:19 GMT*
+*Last update: Wed, 24 Nov 2021 00:27:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
