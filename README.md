@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 24 2021)
+### Joke of the day (Thu Nov 25 2021)
 <!-- joke -->
->After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
+>Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
 <!-- /joke -->
 
-*Last update: Wed, 24 Nov 2021 00:27:38 GMT*
+*Last update: Thu, 25 Nov 2021 00:27:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
