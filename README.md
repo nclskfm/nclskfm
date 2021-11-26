@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 25 2021)
+### Joke of the day (Fri Nov 26 2021)
 <!-- joke -->
->Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
+>'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
 <!-- /joke -->
 
-*Last update: Thu, 25 Nov 2021 00:27:32 GMT*
+*Last update: Fri, 26 Nov 2021 00:27:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
