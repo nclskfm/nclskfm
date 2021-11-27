@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 26 2021)
+### Joke of the day (Sat Nov 27 2021)
 <!-- joke -->
->'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
+>When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
 <!-- /joke -->
 
-*Last update: Fri, 26 Nov 2021 00:27:02 GMT*
+*Last update: Sat, 27 Nov 2021 00:26:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
