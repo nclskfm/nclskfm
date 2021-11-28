@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 27 2021)
+### Joke of the day (Sun Nov 28 2021)
 <!-- joke -->
->When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
+>Chuck Norris can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time.
 <!-- /joke -->
 
-*Last update: Sat, 27 Nov 2021 00:26:26 GMT*
+*Last update: Sun, 28 Nov 2021 00:28:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
