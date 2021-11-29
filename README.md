@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 28 2021)
+### Joke of the day (Mon Nov 29 2021)
 <!-- joke -->
->Chuck Norris can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time.
+>Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
 <!-- /joke -->
 
-*Last update: Sun, 28 Nov 2021 00:28:20 GMT*
+*Last update: Mon, 29 Nov 2021 00:27:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
