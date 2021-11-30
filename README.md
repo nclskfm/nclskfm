@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 29 2021)
+### Joke of the day (Tue Nov 30 2021)
 <!-- joke -->
->Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
+>When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
 <!-- /joke -->
 
-*Last update: Mon, 29 Nov 2021 00:27:51 GMT*
+*Last update: Tue, 30 Nov 2021 00:28:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
