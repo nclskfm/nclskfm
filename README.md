@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 30 2021)
+### Joke of the day (Wed Dec 01 2021)
 <!-- joke -->
->When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
+>Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
 <!-- /joke -->
 
-*Last update: Tue, 30 Nov 2021 00:28:50 GMT*
+*Last update: Wed, 01 Dec 2021 00:29:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
