@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 01 2021)
+### Joke of the day (Thu Dec 02 2021)
 <!-- joke -->
->Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
+>Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
 <!-- /joke -->
 
-*Last update: Wed, 01 Dec 2021 00:29:34 GMT*
+*Last update: Thu, 02 Dec 2021 00:27:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
