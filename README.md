@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 02 2021)
+### Joke of the day (Fri Dec 03 2021)
 <!-- joke -->
->Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
+>Chuck Norris finished World of Warcraft.
 <!-- /joke -->
 
-*Last update: Thu, 02 Dec 2021 00:27:41 GMT*
+*Last update: Fri, 03 Dec 2021 00:27:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
