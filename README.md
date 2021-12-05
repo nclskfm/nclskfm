@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 04 2021)
+### Joke of the day (Sun Dec 05 2021)
 <!-- joke -->
->Mr. T pities the fool. Chuck Norris rips the fool's head off.
+>Chuck Norris knows everything there is to know - Except for the definition of mercy.
 <!-- /joke -->
 
-*Last update: Sat, 04 Dec 2021 00:28:00 GMT*
+*Last update: Sun, 05 Dec 2021 00:30:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
