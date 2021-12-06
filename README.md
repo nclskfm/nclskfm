@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 05 2021)
+### Joke of the day (Mon Dec 06 2021)
 <!-- joke -->
->Chuck Norris knows everything there is to know - Except for the definition of mercy.
+>Chuck Norris can touch MC Hammer.
 <!-- /joke -->
 
-*Last update: Sun, 05 Dec 2021 00:30:16 GMT*
+*Last update: Mon, 06 Dec 2021 00:29:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
