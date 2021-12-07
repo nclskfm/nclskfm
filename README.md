@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 06 2021)
+### Joke of the day (Tue Dec 07 2021)
 <!-- joke -->
->Chuck Norris can touch MC Hammer.
+>Chuck Norris has 12 moons. One of those moons is the Earth.
 <!-- /joke -->
 
-*Last update: Mon, 06 Dec 2021 00:29:13 GMT*
+*Last update: Tue, 07 Dec 2021 00:29:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
