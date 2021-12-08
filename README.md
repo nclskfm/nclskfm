@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 07 2021)
+### Joke of the day (Wed Dec 08 2021)
 <!-- joke -->
->Chuck Norris has 12 moons. One of those moons is the Earth.
+>How does a Programmer COok food ? In O(1)
 <!-- /joke -->
 
-*Last update: Tue, 07 Dec 2021 00:29:29 GMT*
+*Last update: Wed, 08 Dec 2021 00:29:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
