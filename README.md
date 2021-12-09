@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 08 2021)
+### Joke of the day (Thu Dec 09 2021)
 <!-- joke -->
->How does a Programmer COok food ? In O(1)
+>Chuck Norris knows the last digit of pi.
 <!-- /joke -->
 
-*Last update: Wed, 08 Dec 2021 00:29:45 GMT*
+*Last update: Thu, 09 Dec 2021 00:28:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
