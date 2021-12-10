@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 09 2021)
+### Joke of the day (Fri Dec 10 2021)
 <!-- joke -->
->Chuck Norris knows the last digit of pi.
+>As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
 <!-- /joke -->
 
-*Last update: Thu, 09 Dec 2021 00:28:51 GMT*
+*Last update: Fri, 10 Dec 2021 00:29:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
