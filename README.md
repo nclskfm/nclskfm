@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 10 2021)
+### Joke of the day (Sat Dec 11 2021)
 <!-- joke -->
->As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
+>My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
 <!-- /joke -->
 
-*Last update: Fri, 10 Dec 2021 00:29:27 GMT*
+*Last update: Sat, 11 Dec 2021 00:27:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
