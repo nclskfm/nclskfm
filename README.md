@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 11 2021)
+### Joke of the day (Sun Dec 12 2021)
 <!-- joke -->
->My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
+>Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
 <!-- /joke -->
 
-*Last update: Sat, 11 Dec 2021 00:27:01 GMT*
+*Last update: Sun, 12 Dec 2021 00:30:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
