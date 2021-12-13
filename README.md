@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 12 2021)
+### Joke of the day (Mon Dec 13 2021)
 <!-- joke -->
->Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+>If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
 <!-- /joke -->
 
-*Last update: Sun, 12 Dec 2021 00:30:36 GMT*
+*Last update: Mon, 13 Dec 2021 00:28:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
