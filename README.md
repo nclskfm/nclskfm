@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 13 2021)
+### Joke of the day (Tue Dec 14 2021)
 <!-- joke -->
->If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
+>Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
 <!-- /joke -->
 
-*Last update: Mon, 13 Dec 2021 00:28:47 GMT*
+*Last update: Tue, 14 Dec 2021 00:30:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
