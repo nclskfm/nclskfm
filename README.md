@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 14 2021)
+### Joke of the day (Wed Dec 15 2021)
 <!-- joke -->
->Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
+>The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 <!-- /joke -->
 
-*Last update: Tue, 14 Dec 2021 00:30:38 GMT*
+*Last update: Wed, 15 Dec 2021 00:28:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
