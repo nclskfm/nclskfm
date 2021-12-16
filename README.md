@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 15 2021)
+### Joke of the day (Thu Dec 16 2021)
 <!-- joke -->
->The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+>Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
 <!-- /joke -->
 
-*Last update: Wed, 15 Dec 2021 00:28:24 GMT*
+*Last update: Thu, 16 Dec 2021 00:28:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
