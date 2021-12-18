@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 17 2021)
+### Joke of the day (Sat Dec 18 2021)
 <!-- joke -->
->Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
+>Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
 <!-- /joke -->
 
-*Last update: Fri, 17 Dec 2021 00:30:56 GMT*
+*Last update: Sat, 18 Dec 2021 00:29:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
