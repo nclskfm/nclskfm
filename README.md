@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 18 2021)
+### Joke of the day (Sun Dec 19 2021)
 <!-- joke -->
->Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
+>You know how they say if you die in your dream then you will die in real life? In actuality, if you dream of death then Chuck Norris will find you and kill you.
 <!-- /joke -->
 
-*Last update: Sat, 18 Dec 2021 00:29:03 GMT*
+*Last update: Sun, 19 Dec 2021 00:31:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
