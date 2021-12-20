@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 19 2021)
+### Joke of the day (Mon Dec 20 2021)
 <!-- joke -->
->You know how they say if you die in your dream then you will die in real life? In actuality, if you dream of death then Chuck Norris will find you and kill you.
+>The easiest way to determine Chuck Norris' age is to cut him in half and count the rings.
 <!-- /joke -->
 
-*Last update: Sun, 19 Dec 2021 00:31:29 GMT*
+*Last update: Mon, 20 Dec 2021 00:29:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
