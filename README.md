@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 20 2021)
+### Joke of the day (Tue Dec 21 2021)
 <!-- joke -->
->The easiest way to determine Chuck Norris' age is to cut him in half and count the rings.
+>Chuck Norris doesn't believe in Germany.
 <!-- /joke -->
 
-*Last update: Mon, 20 Dec 2021 00:29:47 GMT*
+*Last update: Tue, 21 Dec 2021 00:31:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
