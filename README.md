@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 21 2021)
+### Joke of the day (Wed Dec 22 2021)
 <!-- joke -->
->Chuck Norris doesn't believe in Germany.
+>Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
 <!-- /joke -->
 
-*Last update: Tue, 21 Dec 2021 00:31:38 GMT*
+*Last update: Wed, 22 Dec 2021 00:30:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
