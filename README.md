@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 22 2021)
+### Joke of the day (Thu Dec 23 2021)
 <!-- joke -->
->Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
+>I would love to change the world but they won’t give me the source code.
 <!-- /joke -->
 
-*Last update: Wed, 22 Dec 2021 00:30:32 GMT*
+*Last update: Thu, 23 Dec 2021 00:29:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
