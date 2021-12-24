@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 23 2021)
+### Joke of the day (Fri Dec 24 2021)
 <!-- joke -->
->I would love to change the world but they won’t give me the source code.
+>Beware of programmers that carry screwdrivers.
 <!-- /joke -->
 
-*Last update: Thu, 23 Dec 2021 00:29:45 GMT*
+*Last update: Fri, 24 Dec 2021 00:28:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
