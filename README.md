@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 24 2021)
+### Joke of the day (Sat Dec 25 2021)
 <!-- joke -->
->Beware of programmers that carry screwdrivers.
+>Chuck Norris can lead a horse to water AND make it drink.
 <!-- /joke -->
 
-*Last update: Fri, 24 Dec 2021 00:28:51 GMT*
+*Last update: Sat, 25 Dec 2021 00:28:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
