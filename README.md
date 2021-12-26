@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 25 2021)
+### Joke of the day (Sun Dec 26 2021)
 <!-- joke -->
->Chuck Norris can lead a horse to water AND make it drink.
+>Hellen Keller's favorite color is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 25 Dec 2021 00:28:26 GMT*
+*Last update: Sun, 26 Dec 2021 00:31:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
