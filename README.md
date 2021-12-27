@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 26 2021)
+### Joke of the day (Mon Dec 27 2021)
 <!-- joke -->
->Hellen Keller's favorite color is Chuck Norris.
+>Chuck Norris once ate four 30lb bowling balls without chewing.
 <!-- /joke -->
 
-*Last update: Sun, 26 Dec 2021 00:31:31 GMT*
+*Last update: Mon, 27 Dec 2021 00:29:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
