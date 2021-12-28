@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 27 2021)
+### Joke of the day (Tue Dec 28 2021)
 <!-- joke -->
->Chuck Norris once ate four 30lb bowling balls without chewing.
+>Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
 <!-- /joke -->
 
-*Last update: Mon, 27 Dec 2021 00:29:49 GMT*
+*Last update: Tue, 28 Dec 2021 00:29:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
