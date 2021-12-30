@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 29 2021)
+### Joke of the day (Thu Dec 30 2021)
 <!-- joke -->
->Fact: Chuck Norris doesn't consider it sex if the woman survives.
+>Chuck Norris built a time machine and went back in time to stop the JFK assassination. As Oswald shot, Chuck met all three bullets with his beard, deflecting them. JFK's head exploded out of sheer amazement.
 <!-- /joke -->
 
-*Last update: Wed, 29 Dec 2021 00:28:59 GMT*
+*Last update: Thu, 30 Dec 2021 00:29:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
