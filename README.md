@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 30 2021)
+### Joke of the day (Fri Dec 31 2021)
 <!-- joke -->
->Chuck Norris built a time machine and went back in time to stop the JFK assassination. As Oswald shot, Chuck met all three bullets with his beard, deflecting them. JFK's head exploded out of sheer amazement.
+>Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
 <!-- /joke -->
 
-*Last update: Thu, 30 Dec 2021 00:29:26 GMT*
+*Last update: Fri, 31 Dec 2021 00:30:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
