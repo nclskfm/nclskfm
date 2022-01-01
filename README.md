@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 31 2021)
+### Joke of the day (Sat Jan 01 2022)
 <!-- joke -->
->Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
+>All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Fri, 31 Dec 2021 00:30:50 GMT*
+*Last update: Sat, 01 Jan 2022 00:30:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
