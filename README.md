@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 01 2022)
+### Joke of the day (Sun Jan 02 2022)
 <!-- joke -->
->All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
+>Chuck Norris doesn't need an OS.
 <!-- /joke -->
 
-*Last update: Sat, 01 Jan 2022 00:30:39 GMT*
+*Last update: Sun, 02 Jan 2022 00:31:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
