@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 02 2022)
+### Joke of the day (Mon Jan 03 2022)
 <!-- joke -->
->Chuck Norris doesn't need an OS.
+>Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
 <!-- /joke -->
 
-*Last update: Sun, 02 Jan 2022 00:31:06 GMT*
+*Last update: Mon, 03 Jan 2022 00:29:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
