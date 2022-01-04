@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 03 2022)
+### Joke of the day (Tue Jan 04 2022)
 <!-- joke -->
->Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
+>Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
 <!-- /joke -->
 
-*Last update: Mon, 03 Jan 2022 00:29:44 GMT*
+*Last update: Tue, 04 Jan 2022 00:30:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
