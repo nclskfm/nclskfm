@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 04 2022)
+### Joke of the day (Wed Jan 05 2022)
 <!-- joke -->
->Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
+>Chuck Norris does not have to answer the phone. His beard picks up the incoming electrical impulses and translates them into audible sound.
 <!-- /joke -->
 
-*Last update: Tue, 04 Jan 2022 00:30:26 GMT*
+*Last update: Wed, 05 Jan 2022 00:31:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
