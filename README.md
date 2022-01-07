@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 06 2022)
+### Joke of the day (Fri Jan 07 2022)
 <!-- joke -->
->A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
+>In the Words of Julius Caesar, 'Veni, Vidi, Vici, Chuck Norris'. Translation: I came, I saw, and I was roundhouse-kicked inthe face by Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 06 Jan 2022 00:32:06 GMT*
+*Last update: Fri, 07 Jan 2022 00:32:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
