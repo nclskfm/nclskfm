@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 08 2022)
+### Joke of the day (Sun Jan 09 2022)
 <!-- joke -->
->When J. Robert Oppenheimer said 'I am become death, the destroyer Of worlds', He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
+>Think of a hot woman. Chuck Norris did her.
 <!-- /joke -->
 
-*Last update: Sat, 08 Jan 2022 00:30:38 GMT*
+*Last update: Sun, 09 Jan 2022 00:31:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
