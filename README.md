@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 09 2022)
+### Joke of the day (Mon Jan 10 2022)
 <!-- joke -->
->Think of a hot woman. Chuck Norris did her.
+>Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
 <!-- /joke -->
 
-*Last update: Sun, 09 Jan 2022 00:31:53 GMT*
+*Last update: Mon, 10 Jan 2022 00:31:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
