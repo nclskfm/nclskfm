@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 10 2022)
+### Joke of the day (Tue Jan 11 2022)
 <!-- joke -->
->Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
+>Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 <!-- /joke -->
 
-*Last update: Mon, 10 Jan 2022 00:31:19 GMT*
+*Last update: Tue, 11 Jan 2022 00:32:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
