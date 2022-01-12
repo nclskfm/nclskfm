@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 11 2022)
+### Joke of the day (Wed Jan 12 2022)
 <!-- joke -->
->Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
+>To be or not to be? That is the question. The answer? Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 11 Jan 2022 00:32:07 GMT*
+*Last update: Wed, 12 Jan 2022 00:31:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
