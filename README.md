@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 12 2022)
+### Joke of the day (Thu Jan 13 2022)
 <!-- joke -->
->To be or not to be? That is the question. The answer? Chuck Norris.
+>How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
 <!-- /joke -->
 
-*Last update: Wed, 12 Jan 2022 00:31:26 GMT*
+*Last update: Thu, 13 Jan 2022 00:32:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
