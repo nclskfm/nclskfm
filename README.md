@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 14 2022)
+### Joke of the day (Sat Jan 15 2022)
 <!-- joke -->
->No statement can catch the ChuckNorrisException.
+>Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
 <!-- /joke -->
 
-*Last update: Fri, 14 Jan 2022 00:30:51 GMT*
+*Last update: Sat, 15 Jan 2022 00:29:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
