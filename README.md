@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 15 2022)
+### Joke of the day (Sun Jan 16 2022)
 <!-- joke -->
->Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+>Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
 <!-- /joke -->
 
-*Last update: Sat, 15 Jan 2022 00:29:57 GMT*
+*Last update: Sun, 16 Jan 2022 00:32:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
