@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 16 2022)
+### Joke of the day (Mon Jan 17 2022)
 <!-- joke -->
->Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
+>Since 1940, the year Chuck Norris was born, roundhouse kick related deaths have increased 13,000 percent.
 <!-- /joke -->
 
-*Last update: Sun, 16 Jan 2022 00:32:26 GMT*
+*Last update: Mon, 17 Jan 2022 00:30:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
