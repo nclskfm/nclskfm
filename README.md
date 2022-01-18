@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 17 2022)
+### Joke of the day (Tue Jan 18 2022)
 <!-- joke -->
->Since 1940, the year Chuck Norris was born, roundhouse kick related deaths have increased 13,000 percent.
+>'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
 <!-- /joke -->
 
-*Last update: Mon, 17 Jan 2022 00:30:46 GMT*
+*Last update: Tue, 18 Jan 2022 00:31:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
