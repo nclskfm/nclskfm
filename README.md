@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 18 2022)
+### Joke of the day (Wed Jan 19 2022)
 <!-- joke -->
->'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
+>How does a Programmer COok food ? In O(1)
 <!-- /joke -->
 
-*Last update: Tue, 18 Jan 2022 00:31:55 GMT*
+*Last update: Wed, 19 Jan 2022 00:27:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
