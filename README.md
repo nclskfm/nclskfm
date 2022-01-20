@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 19 2022)
+### Joke of the day (Thu Jan 20 2022)
 <!-- joke -->
->How does a Programmer COok food ? In O(1)
+>Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
 <!-- /joke -->
 
-*Last update: Wed, 19 Jan 2022 00:27:47 GMT*
+*Last update: Thu, 20 Jan 2022 00:33:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
