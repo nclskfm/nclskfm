@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 20 2022)
+### Joke of the day (Fri Jan 21 2022)
 <!-- joke -->
->Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
+>Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
 <!-- /joke -->
 
-*Last update: Thu, 20 Jan 2022 00:33:47 GMT*
+*Last update: Fri, 21 Jan 2022 00:27:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
