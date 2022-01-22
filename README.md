@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 21 2022)
+### Joke of the day (Sat Jan 22 2022)
 <!-- joke -->
->Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
+>Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
 <!-- /joke -->
 
-*Last update: Fri, 21 Jan 2022 00:27:51 GMT*
+*Last update: Sat, 22 Jan 2022 00:27:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
