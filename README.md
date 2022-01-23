@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 22 2022)
+### Joke of the day (Sun Jan 23 2022)
 <!-- joke -->
->Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
+>Chuck Norris doesn't see dead people. He makes people dead.
 <!-- /joke -->
 
-*Last update: Sat, 22 Jan 2022 00:27:19 GMT*
+*Last update: Sun, 23 Jan 2022 00:28:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
