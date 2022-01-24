@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 23 2022)
+### Joke of the day (Mon Jan 24 2022)
 <!-- joke -->
->Chuck Norris doesn't see dead people. He makes people dead.
+>In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
 <!-- /joke -->
 
-*Last update: Sun, 23 Jan 2022 00:28:34 GMT*
+*Last update: Mon, 24 Jan 2022 00:28:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
