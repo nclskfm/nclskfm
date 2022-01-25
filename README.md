@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 24 2022)
+### Joke of the day (Tue Jan 25 2022)
 <!-- joke -->
->In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
+>UNIX is user friendly, it's just very particular about who it's friends are.
 <!-- /joke -->
 
-*Last update: Mon, 24 Jan 2022 00:28:15 GMT*
+*Last update: Tue, 25 Jan 2022 00:31:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
