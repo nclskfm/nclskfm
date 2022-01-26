@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 25 2022)
+### Joke of the day (Wed Jan 26 2022)
 <!-- joke -->
->UNIX is user friendly, it's just very particular about who it's friends are.
+>If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
 <!-- /joke -->
 
-*Last update: Tue, 25 Jan 2022 00:31:30 GMT*
+*Last update: Wed, 26 Jan 2022 00:32:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
