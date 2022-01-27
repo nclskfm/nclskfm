@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 26 2022)
+### Joke of the day (Thu Jan 27 2022)
 <!-- joke -->
->If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
+>The only pattern Chuck Norris knows is God Object.
 <!-- /joke -->
 
-*Last update: Wed, 26 Jan 2022 00:32:31 GMT*
+*Last update: Thu, 27 Jan 2022 00:28:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
