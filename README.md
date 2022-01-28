@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 27 2022)
+### Joke of the day (Fri Jan 28 2022)
 <!-- joke -->
->The only pattern Chuck Norris knows is God Object.
+>Chuck Norris can win a game of Trivial Pursuit with one roll of the dice, and without answering a single question... just a nod of the head, and a stroke of the beard.
 <!-- /joke -->
 
-*Last update: Thu, 27 Jan 2022 00:28:45 GMT*
+*Last update: Fri, 28 Jan 2022 00:28:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
