@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 28 2022)
+### Joke of the day (Sat Jan 29 2022)
 <!-- joke -->
->Chuck Norris can win a game of Trivial Pursuit with one roll of the dice, and without answering a single question... just a nod of the head, and a stroke of the beard.
+>Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
 <!-- /joke -->
 
-*Last update: Fri, 28 Jan 2022 00:28:22 GMT*
+*Last update: Sat, 29 Jan 2022 00:26:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
