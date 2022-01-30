@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 29 2022)
+### Joke of the day (Sun Jan 30 2022)
 <!-- joke -->
->Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
+>You know how they say if you die in your dream then you will die in real life? In actuality, if you dream of death then Chuck Norris will find you and kill you.
 <!-- /joke -->
 
-*Last update: Sat, 29 Jan 2022 00:26:51 GMT*
+*Last update: Sun, 30 Jan 2022 00:29:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
