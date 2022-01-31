@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 30 2022)
+### Joke of the day (Mon Jan 31 2022)
 <!-- joke -->
->You know how they say if you die in your dream then you will die in real life? In actuality, if you dream of death then Chuck Norris will find you and kill you.
+>There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
 <!-- /joke -->
 
-*Last update: Sun, 30 Jan 2022 00:29:24 GMT*
+*Last update: Mon, 31 Jan 2022 00:28:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
