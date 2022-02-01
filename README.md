@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 31 2022)
+### Joke of the day (Tue Feb 01 2022)
 <!-- joke -->
->There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
+>MacGyver can build an airplane out of gum and paper clips, but Chuck Norris can roundhouse-kick his head through a wall and take it.
 <!-- /joke -->
 
-*Last update: Mon, 31 Jan 2022 00:28:42 GMT*
+*Last update: Tue, 01 Feb 2022 00:30:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
