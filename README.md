@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 01 2022)
+### Joke of the day (Wed Feb 02 2022)
 <!-- joke -->
->MacGyver can build an airplane out of gum and paper clips, but Chuck Norris can roundhouse-kick his head through a wall and take it.
+>Chuck Norris shot the sheriff, but he round house kicked the deputy.
 <!-- /joke -->
 
-*Last update: Tue, 01 Feb 2022 00:30:22 GMT*
+*Last update: Wed, 02 Feb 2022 00:30:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
