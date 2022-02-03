@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 02 2022)
+### Joke of the day (Thu Feb 03 2022)
 <!-- joke -->
->Chuck Norris shot the sheriff, but he round house kicked the deputy.
+>SON: What are clouds made of? DAD: Linux servers, mostly
 <!-- /joke -->
 
-*Last update: Wed, 02 Feb 2022 00:30:49 GMT*
+*Last update: Thu, 03 Feb 2022 00:28:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
