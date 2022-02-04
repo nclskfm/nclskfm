@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 03 2022)
+### Joke of the day (Fri Feb 04 2022)
 <!-- joke -->
->SON: What are clouds made of? DAD: Linux servers, mostly
+>The air around Chuck Norris is always a balmy 78 degrees.
 <!-- /joke -->
 
-*Last update: Thu, 03 Feb 2022 00:28:52 GMT*
+*Last update: Fri, 04 Feb 2022 00:28:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
