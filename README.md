@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 04 2022)
+### Joke of the day (Sat Feb 05 2022)
 <!-- joke -->
->The air around Chuck Norris is always a balmy 78 degrees.
+>Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
 <!-- /joke -->
 
-*Last update: Fri, 04 Feb 2022 00:28:51 GMT*
+*Last update: Sat, 05 Feb 2022 00:24:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
