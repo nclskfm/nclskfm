@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 06 2022)
+### Joke of the day (Mon Feb 07 2022)
 <!-- joke -->
->The term 'Cleveland Steamer' got its name from Chuck Norris, when he took a dump while visiting the Rock and Roll Hall of fame and buried northern Ohio under a glacier of fecal matter.
+>Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
 <!-- /joke -->
 
-*Last update: Sun, 06 Feb 2022 00:36:39 GMT*
+*Last update: Mon, 07 Feb 2022 00:29:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
