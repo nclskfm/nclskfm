@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 07 2022)
+### Joke of the day (Tue Feb 08 2022)
 <!-- joke -->
->Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
+>Chuck Norris doesn't daydream. He's too busy giving other people nightmares.
 <!-- /joke -->
 
-*Last update: Mon, 07 Feb 2022 00:29:54 GMT*
+*Last update: Tue, 08 Feb 2022 00:29:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
