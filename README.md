@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 08 2022)
+### Joke of the day (Wed Feb 09 2022)
 <!-- joke -->
->Chuck Norris doesn't daydream. He's too busy giving other people nightmares.
+>Once you go Norris, you are physically unable to go back.
 <!-- /joke -->
 
-*Last update: Tue, 08 Feb 2022 00:29:36 GMT*
+*Last update: Wed, 09 Feb 2022 00:32:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
