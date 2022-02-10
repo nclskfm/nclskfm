@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 09 2022)
+### Joke of the day (Thu Feb 10 2022)
 <!-- joke -->
->Once you go Norris, you are physically unable to go back.
+>When you play Monopoly with Chuck Norris, you do not pass go, and you do not collect two hundred dollars. You will be lucky if you make it out alive.
 <!-- /joke -->
 
-*Last update: Wed, 09 Feb 2022 00:32:50 GMT*
+*Last update: Thu, 10 Feb 2022 00:30:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
