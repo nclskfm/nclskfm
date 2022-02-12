@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 11 2022)
+### Joke of the day (Sat Feb 12 2022)
 <!-- joke -->
->Chuck Norris knows everything there is to know - Except for the definition of mercy.
+>The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 <!-- /joke -->
 
-*Last update: Fri, 11 Feb 2022 00:32:46 GMT*
+*Last update: Sat, 12 Feb 2022 00:32:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
