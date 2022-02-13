@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 12 2022)
+### Joke of the day (Sun Feb 13 2022)
 <!-- joke -->
->The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+>When Chuck Norris calls 1-900 numbers, he doesn't get charged. He holds up the phone and money falls out.
 <!-- /joke -->
 
-*Last update: Sat, 12 Feb 2022 00:32:32 GMT*
+*Last update: Sun, 13 Feb 2022 00:33:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
