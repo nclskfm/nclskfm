@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 13 2022)
+### Joke of the day (Mon Feb 14 2022)
 <!-- joke -->
->When Chuck Norris calls 1-900 numbers, he doesn't get charged. He holds up the phone and money falls out.
+>Chuck Norris once round-house kicked a salesman. Over the phone.
 <!-- /joke -->
 
-*Last update: Sun, 13 Feb 2022 00:33:17 GMT*
+*Last update: Mon, 14 Feb 2022 00:29:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
