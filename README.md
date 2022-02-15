@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 14 2022)
+### Joke of the day (Tue Feb 15 2022)
 <!-- joke -->
->Chuck Norris once round-house kicked a salesman. Over the phone.
+>Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris' personal chef.
 <!-- /joke -->
 
-*Last update: Mon, 14 Feb 2022 00:29:50 GMT*
+*Last update: Tue, 15 Feb 2022 00:32:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
