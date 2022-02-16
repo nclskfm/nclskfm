@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 15 2022)
+### Joke of the day (Wed Feb 16 2022)
 <!-- joke -->
->Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris' personal chef.
+>If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 <!-- /joke -->
 
-*Last update: Tue, 15 Feb 2022 00:32:39 GMT*
+*Last update: Wed, 16 Feb 2022 00:30:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
