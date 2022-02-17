@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 16 2022)
+### Joke of the day (Thu Feb 17 2022)
 <!-- joke -->
->If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+>UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
 <!-- /joke -->
 
-*Last update: Wed, 16 Feb 2022 00:30:36 GMT*
+*Last update: Thu, 17 Feb 2022 00:28:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
