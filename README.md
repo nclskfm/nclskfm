@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 17 2022)
+### Joke of the day (Fri Feb 18 2022)
 <!-- joke -->
->UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
+>Chuck Norris can win at solitaire with only 18 cards.
 <!-- /joke -->
 
-*Last update: Thu, 17 Feb 2022 00:28:29 GMT*
+*Last update: Fri, 18 Feb 2022 00:34:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
