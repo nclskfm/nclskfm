@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 18 2022)
+### Joke of the day (Sat Feb 19 2022)
 <!-- joke -->
->Chuck Norris can win at solitaire with only 18 cards.
+>SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
 <!-- /joke -->
 
-*Last update: Fri, 18 Feb 2022 00:34:59 GMT*
+*Last update: Sat, 19 Feb 2022 00:35:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
