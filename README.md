@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 19 2022)
+### Joke of the day (Sun Feb 20 2022)
 <!-- joke -->
->SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
+>The First rule of Chuck Norris is: you do not talk about Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 19 Feb 2022 00:35:16 GMT*
+*Last update: Sun, 20 Feb 2022 00:38:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
