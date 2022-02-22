@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 21 2022)
+### Joke of the day (Tue Feb 22 2022)
 <!-- joke -->
->Chuck Norris can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell 'What The Hell was That?'.
+>Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
 <!-- /joke -->
 
-*Last update: Mon, 21 Feb 2022 00:33:14 GMT*
+*Last update: Tue, 22 Feb 2022 00:32:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
