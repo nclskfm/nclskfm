@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 22 2022)
+### Joke of the day (Wed Feb 23 2022)
 <!-- joke -->
->Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
+>3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
 <!-- /joke -->
 
-*Last update: Tue, 22 Feb 2022 00:32:47 GMT*
+*Last update: Wed, 23 Feb 2022 00:38:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
