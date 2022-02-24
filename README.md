@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 23 2022)
+### Joke of the day (Thu Feb 24 2022)
 <!-- joke -->
->3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
+>When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
 <!-- /joke -->
 
-*Last update: Wed, 23 Feb 2022 00:38:00 GMT*
+*Last update: Thu, 24 Feb 2022 00:34:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
