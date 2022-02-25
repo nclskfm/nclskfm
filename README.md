@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 24 2022)
+### Joke of the day (Fri Feb 25 2022)
 <!-- joke -->
->When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
+>Contrary to popular belief, the Titanic didn't hit an iceberg. The ship was off course and ran into Chuck Norris while he was doing the backstroke across the Atlantic.
 <!-- /joke -->
 
-*Last update: Thu, 24 Feb 2022 00:34:27 GMT*
+*Last update: Fri, 25 Feb 2022 00:35:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
