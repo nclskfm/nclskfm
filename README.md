@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 25 2022)
+### Joke of the day (Sat Feb 26 2022)
 <!-- joke -->
->Contrary to popular belief, the Titanic didn't hit an iceberg. The ship was off course and ran into Chuck Norris while he was doing the backstroke across the Atlantic.
+>I would love to change the world but they won’t give me the source code.
 <!-- /joke -->
 
-*Last update: Fri, 25 Feb 2022 00:35:42 GMT*
+*Last update: Sat, 26 Feb 2022 00:32:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
