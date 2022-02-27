@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 26 2022)
+### Joke of the day (Sun Feb 27 2022)
 <!-- joke -->
->I would love to change the world but they won’t give me the source code.
+>When Chuck Norris talks, everybody listens. And dies.
 <!-- /joke -->
 
-*Last update: Sat, 26 Feb 2022 00:32:54 GMT*
+*Last update: Sun, 27 Feb 2022 00:37:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
