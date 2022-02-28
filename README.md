@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 27 2022)
+### Joke of the day (Mon Feb 28 2022)
 <!-- joke -->
->When Chuck Norris talks, everybody listens. And dies.
+>All browsers support the hex definitions #chuck and #norris for the colors black and blue.
 <!-- /joke -->
 
-*Last update: Sun, 27 Feb 2022 00:37:02 GMT*
+*Last update: Mon, 28 Feb 2022 00:36:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
