@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 01 2022)
+### Joke of the day (Wed Mar 02 2022)
 <!-- joke -->
->Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
+>Nobody doesn't like Sara Lee. Except Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 01 Mar 2022 00:38:07 GMT*
+*Last update: Wed, 02 Mar 2022 00:37:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
