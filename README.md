@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 02 2022)
+### Joke of the day (Thu Mar 03 2022)
 <!-- joke -->
->Nobody doesn't like Sara Lee. Except Chuck Norris.
+>As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
 <!-- /joke -->
 
-*Last update: Wed, 02 Mar 2022 00:37:26 GMT*
+*Last update: Thu, 03 Mar 2022 00:37:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
