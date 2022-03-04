@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 03 2022)
+### Joke of the day (Fri Mar 04 2022)
 <!-- joke -->
->As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
+>Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 <!-- /joke -->
 
-*Last update: Thu, 03 Mar 2022 00:37:40 GMT*
+*Last update: Fri, 04 Mar 2022 00:40:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
