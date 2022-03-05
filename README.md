@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 04 2022)
+### Joke of the day (Sat Mar 05 2022)
 <!-- joke -->
->Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
+>Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.
 <!-- /joke -->
 
-*Last update: Fri, 04 Mar 2022 00:40:14 GMT*
+*Last update: Sat, 05 Mar 2022 00:38:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
