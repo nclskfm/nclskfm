@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 05 2022)
+### Joke of the day (Sun Mar 06 2022)
 <!-- joke -->
->Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.
+>Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
 <!-- /joke -->
 
-*Last update: Sat, 05 Mar 2022 00:38:29 GMT*
+*Last update: Sun, 06 Mar 2022 00:36:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
