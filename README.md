@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 07 2022)
+### Joke of the day (Tue Mar 08 2022)
 <!-- joke -->
->The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
+>Chuck Norris starts everyday with a protein shake made from Carnation Instant Breakfast, one dozen eggs, pure Colombian cocaine, and rattlesnake venom. He injects it directly into his neck with a syringe.
 <!-- /joke -->
 
-*Last update: Mon, 07 Mar 2022 00:35:39 GMT*
+*Last update: Tue, 08 Mar 2022 00:34:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
