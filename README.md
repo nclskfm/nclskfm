@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 08 2022)
+### Joke of the day (Wed Mar 09 2022)
 <!-- joke -->
->Chuck Norris starts everyday with a protein shake made from Carnation Instant Breakfast, one dozen eggs, pure Colombian cocaine, and rattlesnake venom. He injects it directly into his neck with a syringe.
+>Don't fart in an Apple Store, because they don't have Windows.
 <!-- /joke -->
 
-*Last update: Tue, 08 Mar 2022 00:34:58 GMT*
+*Last update: Wed, 09 Mar 2022 00:36:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
