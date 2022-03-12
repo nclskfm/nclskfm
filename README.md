@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 11 2022)
+### Joke of the day (Sat Mar 12 2022)
 <!-- joke -->
->Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
+>Chuck Norris played Russian Roulette with a fully loaded gun and won.
 <!-- /joke -->
 
-*Last update: Fri, 11 Mar 2022 00:39:12 GMT*
+*Last update: Sat, 12 Mar 2022 00:34:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
