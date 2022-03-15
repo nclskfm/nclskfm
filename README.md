@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 14 2022)
+### Joke of the day (Tue Mar 15 2022)
 <!-- joke -->
->Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
+>A handicapped parking sign does not signify that this spot is for handicapped people. It is actually in fact a warning, that the spot belongs to Chuck Norris and that you will be handicapped if you park there.
 <!-- /joke -->
 
-*Last update: Mon, 14 Mar 2022 00:38:49 GMT*
+*Last update: Tue, 15 Mar 2022 00:36:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
