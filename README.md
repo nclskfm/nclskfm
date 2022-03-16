@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 15 2022)
+### Joke of the day (Wed Mar 16 2022)
 <!-- joke -->
->A handicapped parking sign does not signify that this spot is for handicapped people. It is actually in fact a warning, that the spot belongs to Chuck Norris and that you will be handicapped if you park there.
+>Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
 <!-- /joke -->
 
-*Last update: Tue, 15 Mar 2022 00:36:38 GMT*
+*Last update: Wed, 16 Mar 2022 00:37:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
