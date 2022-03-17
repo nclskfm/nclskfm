@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 16 2022)
+### Joke of the day (Thu Mar 17 2022)
 <!-- joke -->
->Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
+>They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kicked David Carradine's ass, then proceeded to barbecue and eat him.
 <!-- /joke -->
 
-*Last update: Wed, 16 Mar 2022 00:37:36 GMT*
+*Last update: Thu, 17 Mar 2022 00:38:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
