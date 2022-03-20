@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 19 2022)
+### Joke of the day (Sun Mar 20 2022)
 <!-- joke -->
->Chuck Norris can lead a horse to water AND make it drink.
+>I've got a really good UDP joke to tell you, but i don't know if you'll get it
 <!-- /joke -->
 
-*Last update: Sat, 19 Mar 2022 00:35:48 GMT*
+*Last update: Sun, 20 Mar 2022 00:37:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
