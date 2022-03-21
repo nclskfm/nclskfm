@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 20 2022)
+### Joke of the day (Mon Mar 21 2022)
 <!-- joke -->
->I've got a really good UDP joke to tell you, but i don't know if you'll get it
+>Chuck Norris's OSI network model has only one layer - Physical.
 <!-- /joke -->
 
-*Last update: Sun, 20 Mar 2022 00:37:06 GMT*
+*Last update: Mon, 21 Mar 2022 00:36:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
