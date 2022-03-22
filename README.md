@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 21 2022)
+### Joke of the day (Tue Mar 22 2022)
 <!-- joke -->
->Chuck Norris's OSI network model has only one layer - Physical.
+>If I wanted a warm fuzzy feeling... I’d antialias my graphics!
 <!-- /joke -->
 
-*Last update: Mon, 21 Mar 2022 00:36:21 GMT*
+*Last update: Tue, 22 Mar 2022 00:37:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
