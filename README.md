@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 22 2022)
+### Joke of the day (Wed Mar 23 2022)
 <!-- joke -->
->If I wanted a warm fuzzy feeling... I’d antialias my graphics!
+>Chuck Norris doesn't use a computer because a computer does everything slower than Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 22 Mar 2022 00:37:50 GMT*
+*Last update: Wed, 23 Mar 2022 00:42:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
