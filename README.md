@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 24 2022)
+### Joke of the day (Fri Mar 25 2022)
 <!-- joke -->
->undefined
+>Chuck Norris drives an ice cream truck covered in human skulls.
 <!-- /joke -->
 
-*Last update: Thu, 24 Mar 2022 00:40:13 GMT*
+*Last update: Fri, 25 Mar 2022 00:37:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
