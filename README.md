@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 25 2022)
+### Joke of the day (Sat Mar 26 2022)
 <!-- joke -->
->Chuck Norris drives an ice cream truck covered in human skulls.
+>An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.
 <!-- /joke -->
 
-*Last update: Fri, 25 Mar 2022 00:37:45 GMT*
+*Last update: Sat, 26 Mar 2022 00:38:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
