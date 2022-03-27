@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 26 2022)
+### Joke of the day (Sun Mar 27 2022)
 <!-- joke -->
->An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.
+>Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
 <!-- /joke -->
 
-*Last update: Sat, 26 Mar 2022 00:38:18 GMT*
+*Last update: Sun, 27 Mar 2022 00:42:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
