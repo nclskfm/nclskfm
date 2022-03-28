@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 27 2022)
+### Joke of the day (Mon Mar 28 2022)
 <!-- joke -->
->Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
+>Why did the programmer quit his job? Because he didn't get arrays.
 <!-- /joke -->
 
-*Last update: Sun, 27 Mar 2022 00:42:43 GMT*
+*Last update: Mon, 28 Mar 2022 00:38:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
