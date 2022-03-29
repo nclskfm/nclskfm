@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 28 2022)
+### Joke of the day (Tue Mar 29 2022)
 <!-- joke -->
->Why did the programmer quit his job? Because he didn't get arrays.
+>The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 <!-- /joke -->
 
-*Last update: Mon, 28 Mar 2022 00:38:17 GMT*
+*Last update: Tue, 29 Mar 2022 00:43:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
