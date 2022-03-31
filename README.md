@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 30 2022)
+### Joke of the day (Thu Mar 31 2022)
 <!-- joke -->
->Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
+>Enter any 11-digit prime number to continue.
 <!-- /joke -->
 
-*Last update: Wed, 30 Mar 2022 00:39:47 GMT*
+*Last update: Thu, 31 Mar 2022 00:40:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
