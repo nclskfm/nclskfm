@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 31 2022)
+### Joke of the day (Fri Apr 01 2022)
 <!-- joke -->
->Enter any 11-digit prime number to continue.
+>MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
 <!-- /joke -->
 
-*Last update: Thu, 31 Mar 2022 00:40:16 GMT*
+*Last update: Fri, 01 Apr 2022 00:43:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
