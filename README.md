@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 01 2022)
+### Joke of the day (Sat Apr 02 2022)
 <!-- joke -->
->MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
+>Why are fishes illiterate?Because C doesnt have Classes
 <!-- /joke -->
 
-*Last update: Fri, 01 Apr 2022 00:43:31 GMT*
+*Last update: Sat, 02 Apr 2022 00:37:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
