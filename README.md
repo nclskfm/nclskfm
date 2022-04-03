@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 02 2022)
+### Joke of the day (Sun Apr 03 2022)
 <!-- joke -->
->Why are fishes illiterate?Because C doesnt have Classes
+>Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
 <!-- /joke -->
 
-*Last update: Sat, 02 Apr 2022 00:37:57 GMT*
+*Last update: Sun, 03 Apr 2022 00:43:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
