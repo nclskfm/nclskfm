@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 03 2022)
+### Joke of the day (Mon Apr 04 2022)
 <!-- joke -->
->Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
+>There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
 <!-- /joke -->
 
-*Last update: Sun, 03 Apr 2022 00:43:11 GMT*
+*Last update: Mon, 04 Apr 2022 00:39:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
