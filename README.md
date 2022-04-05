@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 04 2022)
+### Joke of the day (Tue Apr 05 2022)
 <!-- joke -->
->There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
+>Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
 <!-- /joke -->
 
-*Last update: Mon, 04 Apr 2022 00:39:32 GMT*
+*Last update: Tue, 05 Apr 2022 00:39:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
