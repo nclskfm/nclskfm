@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 05 2022)
+### Joke of the day (Wed Apr 06 2022)
 <!-- joke -->
->Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
+>Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
 <!-- /joke -->
 
-*Last update: Tue, 05 Apr 2022 00:39:41 GMT*
+*Last update: Wed, 06 Apr 2022 00:42:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
