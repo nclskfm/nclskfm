@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 06 2022)
+### Joke of the day (Thu Apr 07 2022)
 <!-- joke -->
->Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
+>As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
 <!-- /joke -->
 
-*Last update: Wed, 06 Apr 2022 00:42:09 GMT*
+*Last update: Thu, 07 Apr 2022 00:41:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
