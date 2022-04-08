@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 07 2022)
+### Joke of the day (Fri Apr 08 2022)
 <!-- joke -->
->As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
+>Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 07 Apr 2022 00:41:57 GMT*
+*Last update: Fri, 08 Apr 2022 00:42:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
