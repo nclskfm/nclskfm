@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 08 2022)
+### Joke of the day (Sun Apr 10 2022)
 <!-- joke -->
->Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
+>Chuck Norris has two speeds: Walk and Kill.
 <!-- /joke -->
 
-*Last update: Fri, 08 Apr 2022 00:42:24 GMT*
+*Last update: Sun, 10 Apr 2022 00:41:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
