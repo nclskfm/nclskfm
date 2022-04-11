@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 10 2022)
+### Joke of the day (Mon Apr 11 2022)
 <!-- joke -->
->Chuck Norris has two speeds: Walk and Kill.
+>He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
 <!-- /joke -->
 
-*Last update: Sun, 10 Apr 2022 00:41:42 GMT*
+*Last update: Mon, 11 Apr 2022 00:41:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
