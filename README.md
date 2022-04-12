@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 11 2022)
+### Joke of the day (Tue Apr 12 2022)
 <!-- joke -->
->He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
+>The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
 <!-- /joke -->
 
-*Last update: Mon, 11 Apr 2022 00:41:40 GMT*
+*Last update: Tue, 12 Apr 2022 00:38:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
