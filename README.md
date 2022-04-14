@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 13 2022)
+### Joke of the day (Thu Apr 14 2022)
 <!-- joke -->
->Why does a burger have less energy than a steak? A burger is in its ground state.
+>CPU (Coffee Processing Unit)
 <!-- /joke -->
 
-*Last update: Wed, 13 Apr 2022 00:43:09 GMT*
+*Last update: Thu, 14 Apr 2022 00:46:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
