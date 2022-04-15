@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 14 2022)
+### Joke of the day (Fri Apr 15 2022)
 <!-- joke -->
->CPU (Coffee Processing Unit)
+>Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 <!-- /joke -->
 
-*Last update: Thu, 14 Apr 2022 00:46:57 GMT*
+*Last update: Fri, 15 Apr 2022 00:42:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
