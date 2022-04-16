@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 15 2022)
+### Joke of the day (Sat Apr 16 2022)
 <!-- joke -->
->Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
+>Chuck Norris originally appeared in the 'Street Fighter II' video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked about this glitch, Norris replied 'That's no glitch.'
 <!-- /joke -->
 
-*Last update: Fri, 15 Apr 2022 00:42:54 GMT*
+*Last update: Sat, 16 Apr 2022 00:40:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
