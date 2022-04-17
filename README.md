@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 16 2022)
+### Joke of the day (Sun Apr 17 2022)
 <!-- joke -->
->Chuck Norris originally appeared in the 'Street Fighter II' video game, but was removed by Beta Testers because every button caused him to do a roundhouse kick. When asked about this glitch, Norris replied 'That's no glitch.'
+>They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
 <!-- /joke -->
 
-*Last update: Sat, 16 Apr 2022 00:40:57 GMT*
+*Last update: Sun, 17 Apr 2022 00:44:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
