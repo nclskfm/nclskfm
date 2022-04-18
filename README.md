@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 17 2022)
+### Joke of the day (Mon Apr 18 2022)
 <!-- joke -->
->They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
+>Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
 <!-- /joke -->
 
-*Last update: Sun, 17 Apr 2022 00:44:01 GMT*
+*Last update: Mon, 18 Apr 2022 00:47:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
