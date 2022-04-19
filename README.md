@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 18 2022)
+### Joke of the day (Tue Apr 19 2022)
 <!-- joke -->
->Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
+>Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
 <!-- /joke -->
 
-*Last update: Mon, 18 Apr 2022 00:47:38 GMT*
+*Last update: Tue, 19 Apr 2022 00:43:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
