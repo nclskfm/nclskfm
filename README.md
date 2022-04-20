@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 19 2022)
+### Joke of the day (Wed Apr 20 2022)
 <!-- joke -->
->Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
+>Chuck Norris lost his virginity before his dad did.
 <!-- /joke -->
 
-*Last update: Tue, 19 Apr 2022 00:43:27 GMT*
+*Last update: Wed, 20 Apr 2022 00:50:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
