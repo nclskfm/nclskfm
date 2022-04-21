@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 20 2022)
+### Joke of the day (Thu Apr 21 2022)
 <!-- joke -->
->Chuck Norris lost his virginity before his dad did.
+>Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
 <!-- /joke -->
 
-*Last update: Wed, 20 Apr 2022 00:50:20 GMT*
+*Last update: Thu, 21 Apr 2022 00:48:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
