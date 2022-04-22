@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 21 2022)
+### Joke of the day (Fri Apr 22 2022)
 <!-- joke -->
->Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+>Archeologists unearthed an old english dictionary dating back to the year 1236. It defined 'victim' as 'one who has encountered Chuck Norris'
 <!-- /joke -->
 
-*Last update: Thu, 21 Apr 2022 00:48:45 GMT*
+*Last update: Fri, 22 Apr 2022 00:49:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
