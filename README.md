@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 24 2022)
+### Joke of the day (Mon Apr 25 2022)
 <!-- joke -->
->When Chuck Norris wants an egg, he cracks open a chicken.
+>Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 <!-- /joke -->
 
-*Last update: Sun, 24 Apr 2022 00:41:48 GMT*
+*Last update: Mon, 25 Apr 2022 00:39:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
