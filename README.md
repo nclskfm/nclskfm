@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 25 2022)
+### Joke of the day (Tue Apr 26 2022)
 <!-- joke -->
->Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
+>Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
 <!-- /joke -->
 
-*Last update: Mon, 25 Apr 2022 00:39:35 GMT*
+*Last update: Tue, 26 Apr 2022 00:46:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
