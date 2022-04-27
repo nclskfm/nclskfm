@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 26 2022)
+### Joke of the day (Wed Apr 27 2022)
 <!-- joke -->
->Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
+>Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
 <!-- /joke -->
 
-*Last update: Tue, 26 Apr 2022 00:46:27 GMT*
+*Last update: Wed, 27 Apr 2022 00:54:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
