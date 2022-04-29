@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 28 2022)
+### Joke of the day (Fri Apr 29 2022)
 <!-- joke -->
->Chuck Norris can win a game of Trivial Pursuit with one roll of the dice, and without answering a single question... just a nod of the head, and a stroke of the beard.
+>When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
 <!-- /joke -->
 
-*Last update: Thu, 28 Apr 2022 01:03:06 GMT*
+*Last update: Fri, 29 Apr 2022 00:45:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
