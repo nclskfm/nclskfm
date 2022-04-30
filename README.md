@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 29 2022)
+### Joke of the day (Sat Apr 30 2022)
 <!-- joke -->
->When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
+>Chuck Norris can delete the Recycling Bin.
 <!-- /joke -->
 
-*Last update: Fri, 29 Apr 2022 00:45:33 GMT*
+*Last update: Sat, 30 Apr 2022 00:50:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
