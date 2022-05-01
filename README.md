@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 30 2022)
+### Joke of the day (Sun May 01 2022)
 <!-- joke -->
->Chuck Norris can delete the Recycling Bin.
+>Chuck Norris can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time.
 <!-- /joke -->
 
-*Last update: Sat, 30 Apr 2022 00:50:25 GMT*
+*Last update: Sun, 01 May 2022 00:56:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
