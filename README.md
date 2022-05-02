@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 01 2022)
+### Joke of the day (Mon May 02 2022)
 <!-- joke -->
->Chuck Norris can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time.
+>3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
 <!-- /joke -->
 
-*Last update: Sun, 01 May 2022 00:56:11 GMT*
+*Last update: Mon, 02 May 2022 00:46:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
