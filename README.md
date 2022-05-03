@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 02 2022)
+### Joke of the day (Tue May 03 2022)
 <!-- joke -->
->3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
+>Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
 <!-- /joke -->
 
-*Last update: Mon, 02 May 2022 00:46:10 GMT*
+*Last update: Tue, 03 May 2022 00:45:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
