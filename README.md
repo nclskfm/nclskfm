@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 03 2022)
+### Joke of the day (Wed May 04 2022)
 <!-- joke -->
->Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
+>Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
 <!-- /joke -->
 
-*Last update: Tue, 03 May 2022 00:45:50 GMT*
+*Last update: Wed, 04 May 2022 00:49:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
