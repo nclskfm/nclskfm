@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 04 2022)
+### Joke of the day (Thu May 05 2022)
 <!-- joke -->
->Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
+>Chuck Norris did in fact, build Rome in a day.
 <!-- /joke -->
 
-*Last update: Wed, 04 May 2022 00:49:31 GMT*
+*Last update: Thu, 05 May 2022 00:48:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
