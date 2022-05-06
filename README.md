@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 05 2022)
+### Joke of the day (Fri May 06 2022)
 <!-- joke -->
->Chuck Norris did in fact, build Rome in a day.
+>If Chuck Norris were a calendar, every month would be named Chucktober, and every day he'd kick your ass.
 <!-- /joke -->
 
-*Last update: Thu, 05 May 2022 00:48:25 GMT*
+*Last update: Fri, 06 May 2022 00:41:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
