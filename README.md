@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 06 2022)
+### Joke of the day (Sat May 07 2022)
 <!-- joke -->
->If Chuck Norris were a calendar, every month would be named Chucktober, and every day he'd kick your ass.
+>Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
 <!-- /joke -->
 
-*Last update: Fri, 06 May 2022 00:41:39 GMT*
+*Last update: Sat, 07 May 2022 00:42:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
