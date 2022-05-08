@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 07 2022)
+### Joke of the day (Sun May 08 2022)
 <!-- joke -->
->Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
+>Chuck Norris does, in fact, live in a round house.
 <!-- /joke -->
 
-*Last update: Sat, 07 May 2022 00:42:49 GMT*
+*Last update: Sun, 08 May 2022 00:43:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
