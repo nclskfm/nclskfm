@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 08 2022)
+### Joke of the day (Mon May 09 2022)
 <!-- joke -->
->Chuck Norris does, in fact, live in a round house.
+>Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
 <!-- /joke -->
 
-*Last update: Sun, 08 May 2022 00:43:41 GMT*
+*Last update: Mon, 09 May 2022 00:48:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
