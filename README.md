@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 09 2022)
+### Joke of the day (Tue May 10 2022)
 <!-- joke -->
->Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
+>Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 09 May 2022 00:48:06 GMT*
+*Last update: Tue, 10 May 2022 00:44:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
