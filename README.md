@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 10 2022)
+### Joke of the day (Wed May 11 2022)
 <!-- joke -->
->Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
+>What does a subatomic duck say? Quark.
 <!-- /joke -->
 
-*Last update: Tue, 10 May 2022 00:44:22 GMT*
+*Last update: Wed, 11 May 2022 00:53:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
