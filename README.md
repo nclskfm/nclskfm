@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 11 2022)
+### Joke of the day (Thu May 12 2022)
 <!-- joke -->
->What does a subatomic duck say? Quark.
+>Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Wed, 11 May 2022 00:53:28 GMT*
+*Last update: Thu, 12 May 2022 00:49:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
