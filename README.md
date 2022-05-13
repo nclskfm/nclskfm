@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 12 2022)
+### Joke of the day (Fri May 13 2022)
 <!-- joke -->
->Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.
+>Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 <!-- /joke -->
 
-*Last update: Thu, 12 May 2022 00:49:05 GMT*
+*Last update: Fri, 13 May 2022 00:56:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
