@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 13 2022)
+### Joke of the day (Sat May 14 2022)
 <!-- joke -->
->Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
+>Google won't search for Chuck Norris because it knows you don't find Chuck Norris, he finds you.
 <!-- /joke -->
 
-*Last update: Fri, 13 May 2022 00:56:00 GMT*
+*Last update: Sat, 14 May 2022 00:57:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
