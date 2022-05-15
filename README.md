@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 14 2022)
+### Joke of the day (Sun May 15 2022)
 <!-- joke -->
->Google won't search for Chuck Norris because it knows you don't find Chuck Norris, he finds you.
+>Chuck Norris can skeletize a cow in two minutes.
 <!-- /joke -->
 
-*Last update: Sat, 14 May 2022 00:57:25 GMT*
+*Last update: Sun, 15 May 2022 00:58:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
