@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 15 2022)
+### Joke of the day (Mon May 16 2022)
 <!-- joke -->
->Chuck Norris can skeletize a cow in two minutes.
+>COBOL programmers understand why women hate periods.
 <!-- /joke -->
 
-*Last update: Sun, 15 May 2022 00:58:11 GMT*
+*Last update: Mon, 16 May 2022 00:49:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
