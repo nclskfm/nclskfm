@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 16 2022)
+### Joke of the day (Tue May 17 2022)
 <!-- joke -->
->COBOL programmers understand why women hate periods.
+>Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
 <!-- /joke -->
 
-*Last update: Mon, 16 May 2022 00:49:43 GMT*
+*Last update: Tue, 17 May 2022 00:47:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
