@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 17 2022)
+### Joke of the day (Wed May 18 2022)
 <!-- joke -->
->Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
+>One time, at band camp, Chuck Norris ate a percussionist.
 <!-- /joke -->
 
-*Last update: Tue, 17 May 2022 00:47:01 GMT*
+*Last update: Wed, 18 May 2022 00:39:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
