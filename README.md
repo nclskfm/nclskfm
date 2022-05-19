@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 18 2022)
+### Joke of the day (Thu May 19 2022)
 <!-- joke -->
->One time, at band camp, Chuck Norris ate a percussionist.
+>Chuck Norris once participated in the running of the bulls. He walked.
 <!-- /joke -->
 
-*Last update: Wed, 18 May 2022 00:39:23 GMT*
+*Last update: Thu, 19 May 2022 00:59:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
