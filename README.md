@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 19 2022)
+### Joke of the day (Fri May 20 2022)
 <!-- joke -->
->Chuck Norris once participated in the running of the bulls. He walked.
+>It takes Chuck Norris 20 minutes to watch 60 Minutes.
 <!-- /joke -->
 
-*Last update: Thu, 19 May 2022 00:59:12 GMT*
+*Last update: Fri, 20 May 2022 00:48:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
