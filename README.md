@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 20 2022)
+### Joke of the day (Sat May 21 2022)
 <!-- joke -->
->It takes Chuck Norris 20 minutes to watch 60 Minutes.
+>The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
 <!-- /joke -->
 
-*Last update: Fri, 20 May 2022 00:48:00 GMT*
+*Last update: Sat, 21 May 2022 00:42:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
