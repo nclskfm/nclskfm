@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 21 2022)
+### Joke of the day (Sun May 22 2022)
 <!-- joke -->
->The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Sat, 21 May 2022 00:42:10 GMT*
+*Last update: Sun, 22 May 2022 00:46:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
