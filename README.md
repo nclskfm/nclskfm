@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 23 2022)
+### Joke of the day (Tue May 24 2022)
 <!-- joke -->
->Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
+>Chuck Norris once ate four 30lb bowling balls without chewing.
 <!-- /joke -->
 
-*Last update: Mon, 23 May 2022 00:45:24 GMT*
+*Last update: Tue, 24 May 2022 00:52:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
