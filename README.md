@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 24 2022)
+### Joke of the day (Wed May 25 2022)
 <!-- joke -->
->Chuck Norris once ate four 30lb bowling balls without chewing.
+>Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 <!-- /joke -->
 
-*Last update: Tue, 24 May 2022 00:52:52 GMT*
+*Last update: Wed, 25 May 2022 00:52:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
