@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 25 2022)
+### Joke of the day (Thu May 26 2022)
 <!-- joke -->
->Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
+>Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
 <!-- /joke -->
 
-*Last update: Wed, 25 May 2022 00:52:16 GMT*
+*Last update: Thu, 26 May 2022 00:54:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
