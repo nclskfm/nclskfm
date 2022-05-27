@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 26 2022)
+### Joke of the day (Fri May 27 2022)
 <!-- joke -->
->Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
+>When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
 <!-- /joke -->
 
-*Last update: Thu, 26 May 2022 00:54:35 GMT*
+*Last update: Fri, 27 May 2022 00:46:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
