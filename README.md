@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 27 2022)
+### Joke of the day (Sat May 28 2022)
 <!-- joke -->
->When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
+>I have a good joke on Information Technology, but you won't get IT
 <!-- /joke -->
 
-*Last update: Fri, 27 May 2022 00:46:20 GMT*
+*Last update: Sat, 28 May 2022 00:48:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
