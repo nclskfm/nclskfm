@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 28 2022)
+### Joke of the day (Sun May 29 2022)
 <!-- joke -->
->I have a good joke on Information Technology, but you won't get IT
+>Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
 <!-- /joke -->
 
-*Last update: Sat, 28 May 2022 00:48:31 GMT*
+*Last update: Sun, 29 May 2022 00:50:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
