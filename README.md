@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 29 2022)
+### Joke of the day (Mon May 30 2022)
 <!-- joke -->
->Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
+>Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
 <!-- /joke -->
 
-*Last update: Sun, 29 May 2022 00:50:26 GMT*
+*Last update: Mon, 30 May 2022 00:53:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
