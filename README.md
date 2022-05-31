@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 30 2022)
+### Joke of the day (Tue May 31 2022)
 <!-- joke -->
->Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
+>All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 <!-- /joke -->
 
-*Last update: Mon, 30 May 2022 00:53:37 GMT*
+*Last update: Tue, 31 May 2022 00:47:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
