@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 31 2022)
+### Joke of the day (Wed Jun 01 2022)
 <!-- joke -->
->All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+>Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
 <!-- /joke -->
 
-*Last update: Tue, 31 May 2022 00:47:03 GMT*
+*Last update: Wed, 01 Jun 2022 00:56:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
