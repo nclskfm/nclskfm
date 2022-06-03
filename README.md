@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 02 2022)
+### Joke of the day (Fri Jun 03 2022)
 <!-- joke -->
->Roses are #ff0000, violets are #0000ff, I use hex codes, but I'd use RGB for you
+>A man once asked Chuck Norris if his real name is 'Charles'. Chuck Norris did not respond, he simply stared at him until he exploded.
 <!-- /joke -->
 
-*Last update: Thu, 02 Jun 2022 00:54:28 GMT*
+*Last update: Fri, 03 Jun 2022 00:40:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
