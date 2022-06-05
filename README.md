@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 04 2022)
+### Joke of the day (Sun Jun 05 2022)
 <!-- joke -->
->In ancient China there is a legend that one day a child will be born from a dragon, grow to be a man, and vanquish evil from the land. That man is not Chuck Norris, because Chuck Norris killed that man.
+>Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 <!-- /joke -->
 
-*Last update: Sat, 04 Jun 2022 00:45:39 GMT*
+*Last update: Sun, 05 Jun 2022 00:53:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
