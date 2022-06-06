@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 05 2022)
+### Joke of the day (Mon Jun 06 2022)
 <!-- joke -->
->Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+>When Chuck Norris wants an egg, he cracks open a chicken.
 <!-- /joke -->
 
-*Last update: Sun, 05 Jun 2022 00:53:16 GMT*
+*Last update: Mon, 06 Jun 2022 00:50:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
