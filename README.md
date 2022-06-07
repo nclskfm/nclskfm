@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 06 2022)
+### Joke of the day (Tue Jun 07 2022)
 <!-- joke -->
->When Chuck Norris wants an egg, he cracks open a chicken.
+>The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
 <!-- /joke -->
 
-*Last update: Mon, 06 Jun 2022 00:50:36 GMT*
+*Last update: Tue, 07 Jun 2022 00:40:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
