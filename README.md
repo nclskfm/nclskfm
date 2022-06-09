@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 08 2022)
+### Joke of the day (Thu Jun 09 2022)
 <!-- joke -->
->Chuck Norris has 12 moons. One of those moons is the Earth.
+>What's the object-oriented way to become wealthy? Inheritance.
 <!-- /joke -->
 
-*Last update: Wed, 08 Jun 2022 00:46:12 GMT*
+*Last update: Thu, 09 Jun 2022 00:49:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
