@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 09 2022)
+### Joke of the day (Fri Jun 10 2022)
 <!-- joke -->
->What's the object-oriented way to become wealthy? Inheritance.
+>'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
 <!-- /joke -->
 
-*Last update: Thu, 09 Jun 2022 00:49:08 GMT*
+*Last update: Fri, 10 Jun 2022 00:50:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
