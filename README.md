@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 10 2022)
+### Joke of the day (Sat Jun 11 2022)
 <!-- joke -->
->'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
+>Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
 <!-- /joke -->
 
-*Last update: Fri, 10 Jun 2022 00:50:23 GMT*
+*Last update: Sat, 11 Jun 2022 00:45:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
