@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 11 2022)
+### Joke of the day (Sun Jun 12 2022)
 <!-- joke -->
->Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
+>Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 11 Jun 2022 00:45:19 GMT*
+*Last update: Sun, 12 Jun 2022 00:51:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
