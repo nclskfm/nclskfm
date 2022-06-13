@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 12 2022)
+### Joke of the day (Mon Jun 13 2022)
 <!-- joke -->
->Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
+>Chuck Norris has two speeds: Walk and Kill.
 <!-- /joke -->
 
-*Last update: Sun, 12 Jun 2022 00:51:52 GMT*
+*Last update: Mon, 13 Jun 2022 00:50:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
