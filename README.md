@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 13 2022)
+### Joke of the day (Tue Jun 14 2022)
 <!-- joke -->
->Chuck Norris has two speeds: Walk and Kill.
+>Why did the programmer quit his job? Because he didn't get arrays.
 <!-- /joke -->
 
-*Last update: Mon, 13 Jun 2022 00:50:57 GMT*
+*Last update: Tue, 14 Jun 2022 00:56:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
