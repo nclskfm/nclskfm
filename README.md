@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 14 2022)
+### Joke of the day (Wed Jun 15 2022)
 <!-- joke -->
->Why did the programmer quit his job? Because he didn't get arrays.
+>Chuck Norris played Russian Roulette with a fully loaded gun and won.
 <!-- /joke -->
 
-*Last update: Tue, 14 Jun 2022 00:56:43 GMT*
+*Last update: Wed, 15 Jun 2022 00:51:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
