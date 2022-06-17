@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 16 2022)
+### Joke of the day (Fri Jun 17 2022)
 <!-- joke -->
->Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
+>Penguins love cold... they wont survive the sun.
 <!-- /joke -->
 
-*Last update: Thu, 16 Jun 2022 00:50:29 GMT*
+*Last update: Fri, 17 Jun 2022 00:48:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
