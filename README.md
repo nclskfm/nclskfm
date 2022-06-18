@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 17 2022)
+### Joke of the day (Sat Jun 18 2022)
 <!-- joke -->
->Penguins love cold... they wont survive the sun.
+>Chuck Norris doesn't use web standards as the web will conform to him.
 <!-- /joke -->
 
-*Last update: Fri, 17 Jun 2022 00:48:06 GMT*
+*Last update: Sat, 18 Jun 2022 00:50:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
