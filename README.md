@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 19 2022)
+### Joke of the day (Mon Jun 20 2022)
 <!-- joke -->
->Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
+>Chuck Norris knows everything there is to know - Except for the definition of mercy.
 <!-- /joke -->
 
-*Last update: Sun, 19 Jun 2022 00:50:30 GMT*
+*Last update: Mon, 20 Jun 2022 00:49:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
