@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 20 2022)
+### Joke of the day (Tue Jun 21 2022)
 <!-- joke -->
->Chuck Norris knows everything there is to know - Except for the definition of mercy.
+>Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
 <!-- /joke -->
 
-*Last update: Mon, 20 Jun 2022 00:49:32 GMT*
+*Last update: Tue, 21 Jun 2022 00:50:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
