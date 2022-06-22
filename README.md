@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 21 2022)
+### Joke of the day (Wed Jun 22 2022)
 <!-- joke -->
->Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
+>Everybody loves Raymond. Except Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 21 Jun 2022 00:50:29 GMT*
+*Last update: Wed, 22 Jun 2022 00:55:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
