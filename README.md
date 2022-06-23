@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 22 2022)
+### Joke of the day (Thu Jun 23 2022)
 <!-- joke -->
->Everybody loves Raymond. Except Chuck Norris.
+>There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
 <!-- /joke -->
 
-*Last update: Wed, 22 Jun 2022 00:55:22 GMT*
+*Last update: Thu, 23 Jun 2022 00:43:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
