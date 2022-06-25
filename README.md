@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 24 2022)
+### Joke of the day (Sat Jun 25 2022)
 <!-- joke -->
->They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
+>Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 24 Jun 2022 00:50:04 GMT*
+*Last update: Sat, 25 Jun 2022 00:49:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
