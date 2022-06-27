@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 26 2022)
+### Joke of the day (Mon Jun 27 2022)
 <!-- joke -->
->Google won't search for Chuck Norris because it knows you don't find Chuck Norris, he finds you.
+>Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 <!-- /joke -->
 
-*Last update: Sun, 26 Jun 2022 00:53:57 GMT*
+*Last update: Mon, 27 Jun 2022 00:54:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
