@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 28 2022)
+### Joke of the day (Wed Jun 29 2022)
 <!-- joke -->
->Programmer (noun.): A machine that turns coffee into code
+>Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
 <!-- /joke -->
 
-*Last update: Tue, 28 Jun 2022 00:53:04 GMT*
+*Last update: Wed, 29 Jun 2022 00:49:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
