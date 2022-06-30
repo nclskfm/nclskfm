@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 29 2022)
+### Joke of the day (Thu Jun 30 2022)
 <!-- joke -->
->Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
+>Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 29 Jun 2022 00:49:34 GMT*
+*Last update: Thu, 30 Jun 2022 00:48:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
