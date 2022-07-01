@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 30 2022)
+### Joke of the day (Fri Jul 01 2022)
 <!-- joke -->
->Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
+>Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
 <!-- /joke -->
 
-*Last update: Thu, 30 Jun 2022 00:48:51 GMT*
+*Last update: Fri, 01 Jul 2022 00:59:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
