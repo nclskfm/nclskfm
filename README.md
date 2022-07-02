@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 01 2022)
+### Joke of the day (Sat Jul 02 2022)
 <!-- joke -->
->Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
+>Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
 <!-- /joke -->
 
-*Last update: Fri, 01 Jul 2022 00:59:02 GMT*
+*Last update: Sat, 02 Jul 2022 00:51:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
