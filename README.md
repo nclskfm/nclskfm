@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 02 2022)
+### Joke of the day (Sun Jul 03 2022)
 <!-- joke -->
->Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
+>Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 <!-- /joke -->
 
-*Last update: Sat, 02 Jul 2022 00:51:21 GMT*
+*Last update: Sun, 03 Jul 2022 00:53:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
