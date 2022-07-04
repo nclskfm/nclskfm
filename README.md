@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 03 2022)
+### Joke of the day (Mon Jul 04 2022)
 <!-- joke -->
->Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+>If Chuck Norris were a calendar, every month would be named Chucktober, and every day he'd kick your ass.
 <!-- /joke -->
 
-*Last update: Sun, 03 Jul 2022 00:53:27 GMT*
+*Last update: Mon, 04 Jul 2022 00:56:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
