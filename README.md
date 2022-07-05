@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 04 2022)
+### Joke of the day (Tue Jul 05 2022)
 <!-- joke -->
->If Chuck Norris were a calendar, every month would be named Chucktober, and every day he'd kick your ass.
+>Chuck Norris does not teabag the ladies. He potato-sacks them.
 <!-- /joke -->
 
-*Last update: Mon, 04 Jul 2022 00:56:22 GMT*
+*Last update: Tue, 05 Jul 2022 00:52:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
