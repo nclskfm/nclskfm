@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 05 2022)
+### Joke of the day (Wed Jul 06 2022)
 <!-- joke -->
->Chuck Norris does not teabag the ladies. He potato-sacks them.
+>They had to edit the first ending of 'Lone Wolf McQuade' after Chuck Norris kicked David Carradine's ass, then proceeded to barbecue and eat him.
 <!-- /joke -->
 
-*Last update: Tue, 05 Jul 2022 00:52:32 GMT*
+*Last update: Wed, 06 Jul 2022 00:55:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
