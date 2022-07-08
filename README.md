@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 07 2022)
+### Joke of the day (Fri Jul 08 2022)
 <!-- joke -->
->'Let the Bodies Hit the Floor' was originally written as Chuck Norris' theme song.
+>The easiest way to determine Chuck Norris' age is to cut him in half and count the rings.
 <!-- /joke -->
 
-*Last update: Thu, 07 Jul 2022 00:55:26 GMT*
+*Last update: Fri, 08 Jul 2022 00:55:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
