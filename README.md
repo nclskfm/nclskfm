@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 08 2022)
+### Joke of the day (Sat Jul 09 2022)
 <!-- joke -->
->The easiest way to determine Chuck Norris' age is to cut him in half and count the rings.
+>When Chuck Norris plays Monopoly, it affects the actual world economy.
 <!-- /joke -->
 
-*Last update: Fri, 08 Jul 2022 00:55:02 GMT*
+*Last update: Sat, 09 Jul 2022 00:43:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
