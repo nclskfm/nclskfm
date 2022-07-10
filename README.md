@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 09 2022)
+### Joke of the day (Sun Jul 10 2022)
 <!-- joke -->
->When Chuck Norris plays Monopoly, it affects the actual world economy.
+>As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
 <!-- /joke -->
 
-*Last update: Sat, 09 Jul 2022 00:43:53 GMT*
+*Last update: Sun, 10 Jul 2022 00:57:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
