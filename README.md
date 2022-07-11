@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 10 2022)
+### Joke of the day (Mon Jul 11 2022)
 <!-- joke -->
->As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
+>Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
 <!-- /joke -->
 
-*Last update: Sun, 10 Jul 2022 00:57:40 GMT*
+*Last update: Mon, 11 Jul 2022 00:52:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
