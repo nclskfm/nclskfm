@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 11 2022)
+### Joke of the day (Tue Jul 12 2022)
 <!-- joke -->
->Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
+>The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 <!-- /joke -->
 
-*Last update: Mon, 11 Jul 2022 00:52:11 GMT*
+*Last update: Tue, 12 Jul 2022 00:55:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
