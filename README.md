@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 13 2022)
+### Joke of the day (Thu Jul 14 2022)
 <!-- joke -->
->Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
+>Chuck Norris's first program was kill -9.
 <!-- /joke -->
 
-*Last update: Wed, 13 Jul 2022 00:51:54 GMT*
+*Last update: Thu, 14 Jul 2022 00:55:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
