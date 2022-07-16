@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 15 2022)
+### Joke of the day (Sat Jul 16 2022)
 <!-- joke -->
->Chuck Norris invented black. In fact, he invented the entire spectrum of visible light. Except pink. Tom Cruise invented pink.
+>Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
 <!-- /joke -->
 
-*Last update: Fri, 15 Jul 2022 00:58:23 GMT*
+*Last update: Sat, 16 Jul 2022 00:54:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
