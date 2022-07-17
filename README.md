@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 16 2022)
+### Joke of the day (Sun Jul 17 2022)
 <!-- joke -->
->Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
+>Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
 <!-- /joke -->
 
-*Last update: Sat, 16 Jul 2022 00:54:12 GMT*
+*Last update: Sun, 17 Jul 2022 00:56:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
