@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 17 2022)
+### Joke of the day (Mon Jul 18 2022)
 <!-- joke -->
->Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
+>Chuck Norris doesnt wear a watch, HE decides what time it is.
 <!-- /joke -->
 
-*Last update: Sun, 17 Jul 2022 00:56:00 GMT*
+*Last update: Mon, 18 Jul 2022 00:52:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
