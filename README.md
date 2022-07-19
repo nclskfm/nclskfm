@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 18 2022)
+### Joke of the day (Tue Jul 19 2022)
 <!-- joke -->
->Chuck Norris doesnt wear a watch, HE decides what time it is.
+>Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 <!-- /joke -->
 
-*Last update: Mon, 18 Jul 2022 00:52:11 GMT*
+*Last update: Tue, 19 Jul 2022 00:57:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
