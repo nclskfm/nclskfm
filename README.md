@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 19 2022)
+### Joke of the day (Wed Jul 20 2022)
 <!-- joke -->
->Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
+>Chuck Norris protocol design method has no status, requests or responses, only commands.
 <!-- /joke -->
 
-*Last update: Tue, 19 Jul 2022 00:57:21 GMT*
+*Last update: Wed, 20 Jul 2022 00:51:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
