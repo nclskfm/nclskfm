@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 20 2022)
+### Joke of the day (Thu Jul 21 2022)
 <!-- joke -->
->Chuck Norris protocol design method has no status, requests or responses, only commands.
+>Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
 <!-- /joke -->
 
-*Last update: Wed, 20 Jul 2022 00:51:50 GMT*
+*Last update: Thu, 21 Jul 2022 00:55:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
