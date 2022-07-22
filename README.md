@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 21 2022)
+### Joke of the day (Fri Jul 22 2022)
 <!-- joke -->
->Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Thu, 21 Jul 2022 00:55:20 GMT*
+*Last update: Fri, 22 Jul 2022 00:56:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
