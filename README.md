@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 22 2022)
+### Joke of the day (Sat Jul 23 2022)
 <!-- joke -->
->A UDP packet walks into a bar. The bartender doesn't acknowledge him.
+>Chuck Norris eats lightning and shits out thunder.
 <!-- /joke -->
 
-*Last update: Fri, 22 Jul 2022 00:56:28 GMT*
+*Last update: Sat, 23 Jul 2022 00:53:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
