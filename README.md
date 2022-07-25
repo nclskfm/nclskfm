@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 24 2022)
+### Joke of the day (Mon Jul 25 2022)
 <!-- joke -->
->Le gf: I'll dump you.Le bf: hex dump or binary dump? 
+>Chuck Norris doesn't needs try-catch, exceptions are too afraid to raise.
 <!-- /joke -->
 
-*Last update: Sun, 24 Jul 2022 00:56:59 GMT*
+*Last update: Mon, 25 Jul 2022 00:54:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
