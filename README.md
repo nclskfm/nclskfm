@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 25 2022)
+### Joke of the day (Tue Jul 26 2022)
 <!-- joke -->
->Chuck Norris doesn't needs try-catch, exceptions are too afraid to raise.
+>There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
 <!-- /joke -->
 
-*Last update: Mon, 25 Jul 2022 00:54:34 GMT*
+*Last update: Tue, 26 Jul 2022 00:55:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
