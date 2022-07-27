@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 26 2022)
+### Joke of the day (Wed Jul 27 2022)
 <!-- joke -->
->There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
+>Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
 <!-- /joke -->
 
-*Last update: Tue, 26 Jul 2022 00:55:45 GMT*
+*Last update: Wed, 27 Jul 2022 00:56:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
