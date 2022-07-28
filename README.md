@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 27 2022)
+### Joke of the day (Thu Jul 28 2022)
 <!-- joke -->
->Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
+>Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
 <!-- /joke -->
 
-*Last update: Wed, 27 Jul 2022 00:56:06 GMT*
+*Last update: Thu, 28 Jul 2022 00:53:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
