@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 29 2022)
+### Joke of the day (Sat Jul 30 2022)
 <!-- joke -->
->Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+>Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
 <!-- /joke -->
 
-*Last update: Fri, 29 Jul 2022 00:55:49 GMT*
+*Last update: Sat, 30 Jul 2022 00:45:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
