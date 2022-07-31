@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 30 2022)
+### Joke of the day (Sun Jul 31 2022)
 <!-- joke -->
->Chuck Norris once ordered a steak in a restaurant. The steak did what it was told.
+>Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
 <!-- /joke -->
 
-*Last update: Sat, 30 Jul 2022 00:45:36 GMT*
+*Last update: Sun, 31 Jul 2022 00:57:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
