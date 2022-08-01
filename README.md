@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 31 2022)
+### Joke of the day (Mon Aug 01 2022)
 <!-- joke -->
->Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
+>Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
 <!-- /joke -->
 
-*Last update: Sun, 31 Jul 2022 00:57:00 GMT*
+*Last update: Mon, 01 Aug 2022 01:01:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
