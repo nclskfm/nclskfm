@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 03 2022)
+### Joke of the day (Thu Aug 04 2022)
 <!-- joke -->
->Along with his black belt, Chuck Norris often chooses to wear brown shoes. No one has DARED call him on it. Ever.
+>Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the show when he's on a mission. Chuck Norris is always on a mission.
 <!-- /joke -->
 
-*Last update: Wed, 03 Aug 2022 00:56:51 GMT*
+*Last update: Thu, 04 Aug 2022 00:56:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
