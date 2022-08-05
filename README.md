@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 04 2022)
+### Joke of the day (Fri Aug 05 2022)
 <!-- joke -->
->Chuck Norris is actually the front man for Apple. He let's Steve Jobs run the show when he's on a mission. Chuck Norris is always on a mission.
+>Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
 <!-- /joke -->
 
-*Last update: Thu, 04 Aug 2022 00:56:36 GMT*
+*Last update: Fri, 05 Aug 2022 01:01:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
