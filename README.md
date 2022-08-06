@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 05 2022)
+### Joke of the day (Sat Aug 06 2022)
 <!-- joke -->
->Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
+>One time, at band camp, Chuck Norris ate a percussionist.
 <!-- /joke -->
 
-*Last update: Fri, 05 Aug 2022 01:01:31 GMT*
+*Last update: Sat, 06 Aug 2022 00:52:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
