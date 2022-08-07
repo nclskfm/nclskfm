@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 06 2022)
+### Joke of the day (Sun Aug 07 2022)
 <!-- joke -->
->One time, at band camp, Chuck Norris ate a percussionist.
+>Chuck Norris can overflow your stack just by looking at it.
 <!-- /joke -->
 
-*Last update: Sat, 06 Aug 2022 00:52:10 GMT*
+*Last update: Sun, 07 Aug 2022 00:55:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
