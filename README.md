@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 07 2022)
+### Joke of the day (Mon Aug 08 2022)
 <!-- joke -->
->Chuck Norris can overflow your stack just by looking at it.
+>Only Chuck Norris can prevent forest fires.
 <!-- /joke -->
 
-*Last update: Sun, 07 Aug 2022 00:55:15 GMT*
+*Last update: Mon, 08 Aug 2022 00:48:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
