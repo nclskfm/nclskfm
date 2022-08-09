@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 08 2022)
+### Joke of the day (Tue Aug 09 2022)
 <!-- joke -->
->Only Chuck Norris can prevent forest fires.
+>Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
 <!-- /joke -->
 
-*Last update: Mon, 08 Aug 2022 00:48:48 GMT*
+*Last update: Tue, 09 Aug 2022 00:57:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
