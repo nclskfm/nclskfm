@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 09 2022)
+### Joke of the day (Wed Aug 10 2022)
 <!-- joke -->
->Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
+>Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
 <!-- /joke -->
 
-*Last update: Tue, 09 Aug 2022 00:57:50 GMT*
+*Last update: Wed, 10 Aug 2022 00:53:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
