@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 10 2022)
+### Joke of the day (Thu Aug 11 2022)
 <!-- joke -->
->Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
+>Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
 <!-- /joke -->
 
-*Last update: Wed, 10 Aug 2022 00:53:46 GMT*
+*Last update: Thu, 11 Aug 2022 00:51:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
