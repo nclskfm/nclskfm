@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 11 2022)
+### Joke of the day (Fri Aug 12 2022)
 <!-- joke -->
->Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
+>There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
 <!-- /joke -->
 
-*Last update: Thu, 11 Aug 2022 00:51:22 GMT*
+*Last update: Fri, 12 Aug 2022 00:51:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
