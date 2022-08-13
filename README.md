@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 12 2022)
+### Joke of the day (Sat Aug 13 2022)
 <!-- joke -->
->There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
+>Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
 <!-- /joke -->
 
-*Last update: Fri, 12 Aug 2022 00:51:28 GMT*
+*Last update: Sat, 13 Aug 2022 00:45:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
