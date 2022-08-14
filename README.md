@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 13 2022)
+### Joke of the day (Sun Aug 14 2022)
 <!-- joke -->
->Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
+>Chuck Norris once won a game of connect four in 3 moves.
 <!-- /joke -->
 
-*Last update: Sat, 13 Aug 2022 00:45:14 GMT*
+*Last update: Sun, 14 Aug 2022 00:53:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
