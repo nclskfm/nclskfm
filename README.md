@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 14 2022)
+### Joke of the day (Mon Aug 15 2022)
 <!-- joke -->
->Chuck Norris once won a game of connect four in 3 moves.
+>Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 <!-- /joke -->
 
-*Last update: Sun, 14 Aug 2022 00:53:53 GMT*
+*Last update: Mon, 15 Aug 2022 00:53:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
