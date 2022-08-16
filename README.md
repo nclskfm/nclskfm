@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 15 2022)
+### Joke of the day (Tue Aug 16 2022)
 <!-- joke -->
->Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+>How does a Programmer COok food ? In O(1)
 <!-- /joke -->
 
-*Last update: Mon, 15 Aug 2022 00:53:54 GMT*
+*Last update: Tue, 16 Aug 2022 01:00:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
