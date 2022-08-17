@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 16 2022)
+### Joke of the day (Wed Aug 17 2022)
 <!-- joke -->
->How does a Programmer COok food ? In O(1)
+>In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
 <!-- /joke -->
 
-*Last update: Tue, 16 Aug 2022 01:00:24 GMT*
+*Last update: Wed, 17 Aug 2022 00:57:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
