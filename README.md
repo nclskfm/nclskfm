@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 17 2022)
+### Joke of the day (Thu Aug 18 2022)
 <!-- joke -->
->In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
+>Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
 <!-- /joke -->
 
-*Last update: Wed, 17 Aug 2022 00:57:33 GMT*
+*Last update: Thu, 18 Aug 2022 00:56:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
