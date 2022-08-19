@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 18 2022)
+### Joke of the day (Fri Aug 19 2022)
 <!-- joke -->
->Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
+>Hand over the calculator... friends don’t let friends derive drunk.
 <!-- /joke -->
 
-*Last update: Thu, 18 Aug 2022 00:56:19 GMT*
+*Last update: Fri, 19 Aug 2022 00:57:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
