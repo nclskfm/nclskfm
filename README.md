@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 19 2022)
+### Joke of the day (Sat Aug 20 2022)
 <!-- joke -->
->Hand over the calculator... friends don’t let friends derive drunk.
+>Why is C sad? Because C++ told him 'You have no class'.
 <!-- /joke -->
 
-*Last update: Fri, 19 Aug 2022 00:57:02 GMT*
+*Last update: Sat, 20 Aug 2022 00:51:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
