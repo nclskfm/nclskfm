@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 20 2022)
+### Joke of the day (Sun Aug 21 2022)
 <!-- joke -->
->Why is C sad? Because C++ told him 'You have no class'.
+>If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 <!-- /joke -->
 
-*Last update: Sat, 20 Aug 2022 00:51:25 GMT*
+*Last update: Sun, 21 Aug 2022 00:53:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
