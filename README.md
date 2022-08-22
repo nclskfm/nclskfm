@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 21 2022)
+### Joke of the day (Mon Aug 22 2022)
 <!-- joke -->
->If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+>Who let the dogs out? Chuck Norris let the dogs out... and then roundhouse kicked them through an Oldsmobile.
 <!-- /joke -->
 
-*Last update: Sun, 21 Aug 2022 00:53:20 GMT*
+*Last update: Mon, 22 Aug 2022 00:54:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
