@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 22 2022)
+### Joke of the day (Tue Aug 23 2022)
 <!-- joke -->
->Who let the dogs out? Chuck Norris let the dogs out... and then roundhouse kicked them through an Oldsmobile.
+>The pie scene in 'American Pie' is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris' case, the 'pie' was the molten crater of an active volcano.
 <!-- /joke -->
 
-*Last update: Mon, 22 Aug 2022 00:54:28 GMT*
+*Last update: Tue, 23 Aug 2022 01:02:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
