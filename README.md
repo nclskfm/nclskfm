@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 24 2022)
+### Joke of the day (Thu Aug 25 2022)
 <!-- joke -->
->If Chuck Norris were a calendar, every month would be named Chucktober, and every day he'd kick your ass.
+>Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
 <!-- /joke -->
 
-*Last update: Wed, 24 Aug 2022 00:55:00 GMT*
+*Last update: Thu, 25 Aug 2022 01:01:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
