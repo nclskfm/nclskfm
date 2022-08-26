@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 25 2022)
+### Joke of the day (Fri Aug 26 2022)
 <!-- joke -->
->Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
+>Chuck Norris doesn't use web standards as the web will conform to him.
 <!-- /joke -->
 
-*Last update: Thu, 25 Aug 2022 01:01:15 GMT*
+*Last update: Fri, 26 Aug 2022 00:57:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
