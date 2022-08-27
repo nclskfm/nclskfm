@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 26 2022)
+### Joke of the day (Sat Aug 27 2022)
 <!-- joke -->
->Chuck Norris doesn't use web standards as the web will conform to him.
+>Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
 <!-- /joke -->
 
-*Last update: Fri, 26 Aug 2022 00:57:11 GMT*
+*Last update: Sat, 27 Aug 2022 00:51:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
