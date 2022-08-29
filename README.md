@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 28 2022)
+### Joke of the day (Mon Aug 29 2022)
 <!-- joke -->
->Chuck Norris can touch MC Hammer.
+>Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Sun, 28 Aug 2022 00:58:01 GMT*
+*Last update: Mon, 29 Aug 2022 00:59:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
