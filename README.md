@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 30 2022)
+### Joke of the day (Wed Aug 31 2022)
 <!-- joke -->
->How does a Programmer COok food ? In O(1)
+>Chuck Norris writes code that optimizes itself.
 <!-- /joke -->
 
-*Last update: Tue, 30 Aug 2022 01:02:22 GMT*
+*Last update: Wed, 31 Aug 2022 01:07:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
