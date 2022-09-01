@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 31 2022)
+### Joke of the day (Thu Sep 01 2022)
 <!-- joke -->
->Chuck Norris writes code that optimizes itself.
+>Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
 <!-- /joke -->
 
-*Last update: Wed, 31 Aug 2022 01:07:52 GMT*
+*Last update: Thu, 01 Sep 2022 00:53:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
