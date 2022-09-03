@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 02 2022)
+### Joke of the day (Sat Sep 03 2022)
 <!-- joke -->
->The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
+>Chuck Norris wipes his ass with chain mail and sandpaper.
 <!-- /joke -->
 
-*Last update: Fri, 02 Sep 2022 00:56:33 GMT*
+*Last update: Sat, 03 Sep 2022 00:53:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
