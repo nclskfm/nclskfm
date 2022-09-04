@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 03 2022)
+### Joke of the day (Sun Sep 04 2022)
 <!-- joke -->
->Chuck Norris wipes his ass with chain mail and sandpaper.
+>There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
 <!-- /joke -->
 
-*Last update: Sat, 03 Sep 2022 00:53:20 GMT*
+*Last update: Sun, 04 Sep 2022 00:55:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
