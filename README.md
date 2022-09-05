@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 04 2022)
+### Joke of the day (Mon Sep 05 2022)
 <!-- joke -->
->There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
+>According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
 <!-- /joke -->
 
-*Last update: Sun, 04 Sep 2022 00:55:09 GMT*
+*Last update: Mon, 05 Sep 2022 01:05:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
