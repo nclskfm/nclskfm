@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 06 2022)
+### Joke of the day (Wed Sep 07 2022)
 <!-- joke -->
->The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+>Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
 <!-- /joke -->
 
-*Last update: Tue, 06 Sep 2022 00:58:55 GMT*
+*Last update: Wed, 07 Sep 2022 01:02:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
