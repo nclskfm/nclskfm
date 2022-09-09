@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 08 2022)
+### Joke of the day (Fri Sep 09 2022)
 <!-- joke -->
->When Chuck Norris plays Oregon Trail, his family does not die from cholera or dysentery, but rather, roundhouse kicks to the face. He also requires no wagon, since he carries the oxen, axels, and buffalo meat on his back. He always makes it to Oregon before you.
+>Chuck Norris can delete the Recycling Bin.
 <!-- /joke -->
 
-*Last update: Thu, 08 Sep 2022 00:58:53 GMT*
+*Last update: Fri, 09 Sep 2022 01:00:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
