@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 09 2022)
+### Joke of the day (Sat Sep 10 2022)
 <!-- joke -->
->Chuck Norris can delete the Recycling Bin.
+>Chuck Norris is responsible for China's over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
 <!-- /joke -->
 
-*Last update: Fri, 09 Sep 2022 01:00:57 GMT*
+*Last update: Sat, 10 Sep 2022 00:59:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
