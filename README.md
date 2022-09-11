@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 10 2022)
+### Joke of the day (Sun Sep 11 2022)
 <!-- joke -->
->Chuck Norris is responsible for China's over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
+>When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 <!-- /joke -->
 
-*Last update: Sat, 10 Sep 2022 00:59:41 GMT*
+*Last update: Sun, 11 Sep 2022 00:59:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
