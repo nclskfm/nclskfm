@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 11 2022)
+### Joke of the day (Mon Sep 12 2022)
 <!-- joke -->
->When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
+>Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
 <!-- /joke -->
 
-*Last update: Sun, 11 Sep 2022 00:59:28 GMT*
+*Last update: Mon, 12 Sep 2022 00:59:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
