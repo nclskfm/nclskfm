@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 13 2022)
+### Joke of the day (Wed Sep 14 2022)
 <!-- joke -->
->The pie scene in 'American Pie' is based on a dare Chuck Norris took when he was younger. However, in Chuck Norris' case, the 'pie' was the molten crater of an active volcano.
+>C://dos  <br>C://dos.run  <br>run.dos.run
 <!-- /joke -->
 
-*Last update: Tue, 13 Sep 2022 00:59:34 GMT*
+*Last update: Wed, 14 Sep 2022 00:58:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
