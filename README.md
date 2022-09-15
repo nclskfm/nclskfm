@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 14 2022)
+### Joke of the day (Thu Sep 15 2022)
 <!-- joke -->
->C://dos  <br>C://dos.run  <br>run.dos.run
+>Chuck Norris has banned rainbows from the state of North Dakota.
 <!-- /joke -->
 
-*Last update: Wed, 14 Sep 2022 00:58:38 GMT*
+*Last update: Thu, 15 Sep 2022 01:02:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
