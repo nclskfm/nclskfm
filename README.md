@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 15 2022)
+### Joke of the day (Fri Sep 16 2022)
 <!-- joke -->
->Chuck Norris has banned rainbows from the state of North Dakota.
+>Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
 <!-- /joke -->
 
-*Last update: Thu, 15 Sep 2022 01:02:40 GMT*
+*Last update: Fri, 16 Sep 2022 01:01:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
