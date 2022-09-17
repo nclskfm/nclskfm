@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 16 2022)
+### Joke of the day (Sat Sep 17 2022)
 <!-- joke -->
->Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
+>The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
 <!-- /joke -->
 
-*Last update: Fri, 16 Sep 2022 01:01:30 GMT*
+*Last update: Sat, 17 Sep 2022 00:57:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
