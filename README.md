@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 17 2022)
+### Joke of the day (Sun Sep 18 2022)
 <!-- joke -->
->The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
+>Chuck Norris once round-house kicked a salesman. Over the phone.
 <!-- /joke -->
 
-*Last update: Sat, 17 Sep 2022 00:57:59 GMT*
+*Last update: Sun, 18 Sep 2022 01:01:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
