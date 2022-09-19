@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 18 2022)
+### Joke of the day (Mon Sep 19 2022)
 <!-- joke -->
->Chuck Norris once round-house kicked a salesman. Over the phone.
+>The crossing lights in Chuck Norris's home town say 'Die slowly' and 'die quickly'. They each have a picture of Chuck Norris punching or kicking a pedestrian.
 <!-- /joke -->
 
-*Last update: Sun, 18 Sep 2022 01:01:48 GMT*
+*Last update: Mon, 19 Sep 2022 00:59:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
