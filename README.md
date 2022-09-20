@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 19 2022)
+### Joke of the day (Tue Sep 20 2022)
 <!-- joke -->
->The crossing lights in Chuck Norris's home town say 'Die slowly' and 'die quickly'. They each have a picture of Chuck Norris punching or kicking a pedestrian.
+>Chuck Norris can delete the Recycling Bin.
 <!-- /joke -->
 
-*Last update: Mon, 19 Sep 2022 00:59:21 GMT*
+*Last update: Tue, 20 Sep 2022 01:01:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
