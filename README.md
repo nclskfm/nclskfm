@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 20 2022)
+### Joke of the day (Wed Sep 21 2022)
 <!-- joke -->
->Chuck Norris can delete the Recycling Bin.
+>Chuck Norris originally wrote the first dictionary. The definition for each word is as follows - A swift roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Tue, 20 Sep 2022 01:01:40 GMT*
+*Last update: Wed, 21 Sep 2022 01:02:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
