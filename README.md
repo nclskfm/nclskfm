@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 23 2022)
+### Joke of the day (Sat Sep 24 2022)
 <!-- joke -->
->Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
+>'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
 <!-- /joke -->
 
-*Last update: Fri, 23 Sep 2022 01:02:46 GMT*
+*Last update: Sat, 24 Sep 2022 01:04:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
