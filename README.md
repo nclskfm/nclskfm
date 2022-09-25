@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 24 2022)
+### Joke of the day (Sun Sep 25 2022)
 <!-- joke -->
->'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
+>Failure is not an option. It comes bundled with your Microsoft product.
 <!-- /joke -->
 
-*Last update: Sat, 24 Sep 2022 01:04:33 GMT*
+*Last update: Sun, 25 Sep 2022 00:59:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
