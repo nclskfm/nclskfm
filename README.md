@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 25 2022)
+### Joke of the day (Mon Sep 26 2022)
 <!-- joke -->
->Failure is not an option. It comes bundled with your Microsoft product.
+>Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
 <!-- /joke -->
 
-*Last update: Sun, 25 Sep 2022 00:59:31 GMT*
+*Last update: Mon, 26 Sep 2022 01:01:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
