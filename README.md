@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 26 2022)
+### Joke of the day (Tue Sep 27 2022)
 <!-- joke -->
->Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
+>Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
 <!-- /joke -->
 
-*Last update: Mon, 26 Sep 2022 01:01:11 GMT*
+*Last update: Tue, 27 Sep 2022 01:04:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
