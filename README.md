@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 27 2022)
+### Joke of the day (Wed Sep 28 2022)
 <!-- joke -->
->Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
+>For Chuck Norris, NP-Hard = O(1).
 <!-- /joke -->
 
-*Last update: Tue, 27 Sep 2022 01:04:25 GMT*
+*Last update: Wed, 28 Sep 2022 01:04:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
