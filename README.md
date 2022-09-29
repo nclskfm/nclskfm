@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 28 2022)
+### Joke of the day (Thu Sep 29 2022)
 <!-- joke -->
->For Chuck Norris, NP-Hard = O(1).
+>Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
 <!-- /joke -->
 
-*Last update: Wed, 28 Sep 2022 01:04:37 GMT*
+*Last update: Thu, 29 Sep 2022 01:09:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
