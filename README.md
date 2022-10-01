@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 30 2022)
+### Joke of the day (Sat Oct 01 2022)
 <!-- joke -->
->Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
+>Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
 <!-- /joke -->
 
-*Last update: Fri, 30 Sep 2022 01:22:05 GMT*
+*Last update: Sat, 01 Oct 2022 01:17:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
