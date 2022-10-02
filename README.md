@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 01 2022)
+### Joke of the day (Sun Oct 02 2022)
 <!-- joke -->
->Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
+>When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
 <!-- /joke -->
 
-*Last update: Sat, 01 Oct 2022 01:17:11 GMT*
+*Last update: Sun, 02 Oct 2022 01:10:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
