@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 02 2022)
+### Joke of the day (Mon Oct 03 2022)
 <!-- joke -->
->When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
+>It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
 <!-- /joke -->
 
-*Last update: Sun, 02 Oct 2022 01:10:49 GMT*
+*Last update: Mon, 03 Oct 2022 01:00:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
