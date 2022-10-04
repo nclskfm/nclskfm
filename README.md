@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 03 2022)
+### Joke of the day (Tue Oct 04 2022)
 <!-- joke -->
->It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
+>Chuck Norris doesn't use reflection, reflection asks politely for his help.
 <!-- /joke -->
 
-*Last update: Mon, 03 Oct 2022 01:00:40 GMT*
+*Last update: Tue, 04 Oct 2022 01:09:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
