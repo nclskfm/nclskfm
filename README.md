@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 05 2022)
+### Joke of the day (Thu Oct 06 2022)
 <!-- joke -->
->Coroners refer to dead people as 'ABC's'. Already Been Chucked.
+>Everything King Midas touches turnes to gold. Everything Chuck Norris touches turns up dead.
 <!-- /joke -->
 
-*Last update: Wed, 05 Oct 2022 01:08:31 GMT*
+*Last update: Thu, 06 Oct 2022 01:03:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
