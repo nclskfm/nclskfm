@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 06 2022)
+### Joke of the day (Fri Oct 07 2022)
 <!-- joke -->
->Everything King Midas touches turnes to gold. Everything Chuck Norris touches turns up dead.
+>A man once claimed Chuck Norris kicked his ass twice, but it was promptly dismissed as false - no one could survive it the first time.
 <!-- /joke -->
 
-*Last update: Thu, 06 Oct 2022 01:03:19 GMT*
+*Last update: Fri, 07 Oct 2022 01:13:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
