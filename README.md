@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 07 2022)
+### Joke of the day (Sat Oct 08 2022)
 <!-- joke -->
->A man once claimed Chuck Norris kicked his ass twice, but it was promptly dismissed as false - no one could survive it the first time.
+>When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle.
 <!-- /joke -->
 
-*Last update: Fri, 07 Oct 2022 01:13:58 GMT*
+*Last update: Sat, 08 Oct 2022 00:57:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
