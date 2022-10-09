@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 08 2022)
+### Joke of the day (Sun Oct 09 2022)
 <!-- joke -->
->When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle.
+>Chuck Norris can delete the Recycling Bin.
 <!-- /joke -->
 
-*Last update: Sat, 08 Oct 2022 00:57:56 GMT*
+*Last update: Sun, 09 Oct 2022 01:01:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
