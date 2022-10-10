@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 09 2022)
+### Joke of the day (Mon Oct 10 2022)
 <!-- joke -->
->Chuck Norris can delete the Recycling Bin.
+>Chuck Norris solved the halting problem.
 <!-- /joke -->
 
-*Last update: Sun, 09 Oct 2022 01:01:34 GMT*
+*Last update: Mon, 10 Oct 2022 01:05:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
