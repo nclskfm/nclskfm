@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 10 2022)
+### Joke of the day (Tue Oct 11 2022)
 <!-- joke -->
->Chuck Norris solved the halting problem.
+>Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
 <!-- /joke -->
 
-*Last update: Mon, 10 Oct 2022 01:05:53 GMT*
+*Last update: Tue, 11 Oct 2022 00:59:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
