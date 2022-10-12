@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 11 2022)
+### Joke of the day (Wed Oct 12 2022)
 <!-- joke -->
->Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
+>Chuck Norris was what Willis was talkin' about.
 <!-- /joke -->
 
-*Last update: Tue, 11 Oct 2022 00:59:26 GMT*
+*Last update: Wed, 12 Oct 2022 01:13:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
