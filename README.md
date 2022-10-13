@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 12 2022)
+### Joke of the day (Thu Oct 13 2022)
 <!-- joke -->
->Chuck Norris was what Willis was talkin' about.
+>The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 <!-- /joke -->
 
-*Last update: Wed, 12 Oct 2022 01:13:45 GMT*
+*Last update: Thu, 13 Oct 2022 01:04:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
