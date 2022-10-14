@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 13 2022)
+### Joke of the day (Fri Oct 14 2022)
 <!-- joke -->
->The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
+>Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Thu, 13 Oct 2022 01:04:59 GMT*
+*Last update: Fri, 14 Oct 2022 01:12:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
