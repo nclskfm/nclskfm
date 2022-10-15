@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 14 2022)
+### Joke of the day (Sat Oct 15 2022)
 <!-- joke -->
->Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
+>If Ruby is not and Perl is the answer then you don’t understand the question.
 <!-- /joke -->
 
-*Last update: Fri, 14 Oct 2022 01:12:58 GMT*
+*Last update: Sat, 15 Oct 2022 01:05:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
