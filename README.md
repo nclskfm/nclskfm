@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 15 2022)
+### Joke of the day (Sun Oct 16 2022)
 <!-- joke -->
->If Ruby is not and Perl is the answer then you don’t understand the question.
+>In a world without fences and walls... who needs Gates and Windows?
 <!-- /joke -->
 
-*Last update: Sat, 15 Oct 2022 01:05:07 GMT*
+*Last update: Sun, 16 Oct 2022 01:10:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
