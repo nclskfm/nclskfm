@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 16 2022)
+### Joke of the day (Mon Oct 17 2022)
 <!-- joke -->
->In a world without fences and walls... who needs Gates and Windows?
+>Why does a burger have less energy than a steak? A burger is in its ground state.
 <!-- /joke -->
 
-*Last update: Sun, 16 Oct 2022 01:10:11 GMT*
+*Last update: Mon, 17 Oct 2022 01:12:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
