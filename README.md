@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 17 2022)
+### Joke of the day (Tue Oct 18 2022)
 <!-- joke -->
->Why does a burger have less energy than a steak? A burger is in its ground state.
+>Only Chuck Norris can prevent forest fires.
 <!-- /joke -->
 
-*Last update: Mon, 17 Oct 2022 01:12:38 GMT*
+*Last update: Tue, 18 Oct 2022 01:05:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
