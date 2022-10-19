@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 18 2022)
+### Joke of the day (Wed Oct 19 2022)
 <!-- joke -->
->Only Chuck Norris can prevent forest fires.
+>Chuck Norris does not need to know about class factory pattern. He can instantiate interfaces.
 <!-- /joke -->
 
-*Last update: Tue, 18 Oct 2022 01:05:58 GMT*
+*Last update: Wed, 19 Oct 2022 01:08:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
