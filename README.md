@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 19 2022)
+### Joke of the day (Thu Oct 20 2022)
 <!-- joke -->
->Chuck Norris does not need to know about class factory pattern. He can instantiate interfaces.
+>Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 <!-- /joke -->
 
-*Last update: Wed, 19 Oct 2022 01:08:06 GMT*
+*Last update: Thu, 20 Oct 2022 01:02:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
