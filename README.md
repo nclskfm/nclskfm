@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 20 2022)
+### Joke of the day (Fri Oct 21 2022)
 <!-- joke -->
->Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
+>Who called it female foeticide and not Binary ?
 <!-- /joke -->
 
-*Last update: Thu, 20 Oct 2022 01:02:46 GMT*
+*Last update: Fri, 21 Oct 2022 01:02:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
