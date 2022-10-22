@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 21 2022)
+### Joke of the day (Sat Oct 22 2022)
 <!-- joke -->
->Who called it female foeticide and not Binary ?
+>Some kids play Kick the can. Chuck Norris played Kick the keg.
 <!-- /joke -->
 
-*Last update: Fri, 21 Oct 2022 01:02:22 GMT*
+*Last update: Sat, 22 Oct 2022 01:09:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
