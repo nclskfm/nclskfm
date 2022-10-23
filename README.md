@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 22 2022)
+### Joke of the day (Sun Oct 23 2022)
 <!-- joke -->
->Some kids play Kick the can. Chuck Norris played Kick the keg.
+>Chuck Norris doesn't see dead people. He makes people dead.
 <!-- /joke -->
 
-*Last update: Sat, 22 Oct 2022 01:09:39 GMT*
+*Last update: Sun, 23 Oct 2022 01:05:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
