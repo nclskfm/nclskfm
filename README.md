@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 23 2022)
+### Joke of the day (Mon Oct 24 2022)
 <!-- joke -->
->Chuck Norris doesn't see dead people. He makes people dead.
+>Project managers never ask Chuck Norris for estimations... ever.
 <!-- /joke -->
 
-*Last update: Sun, 23 Oct 2022 01:05:51 GMT*
+*Last update: Mon, 24 Oct 2022 01:15:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
