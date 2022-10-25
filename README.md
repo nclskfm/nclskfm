@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 24 2022)
+### Joke of the day (Tue Oct 25 2022)
 <!-- joke -->
->Project managers never ask Chuck Norris for estimations... ever.
+>Chuck Norris doesn't use web standards as the web will conform to him.
 <!-- /joke -->
 
-*Last update: Mon, 24 Oct 2022 01:15:00 GMT*
+*Last update: Tue, 25 Oct 2022 01:17:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
