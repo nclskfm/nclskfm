@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 25 2022)
+### Joke of the day (Wed Oct 26 2022)
 <!-- joke -->
->Chuck Norris doesn't use web standards as the web will conform to him.
+>Why is C sad? Because C++ told him 'You have no class'.
 <!-- /joke -->
 
-*Last update: Tue, 25 Oct 2022 01:17:41 GMT*
+*Last update: Wed, 26 Oct 2022 00:59:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
