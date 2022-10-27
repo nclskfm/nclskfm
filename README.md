@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 26 2022)
+### Joke of the day (Thu Oct 27 2022)
 <!-- joke -->
->Why is C sad? Because C++ told him 'You have no class'.
+>Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 <!-- /joke -->
 
-*Last update: Wed, 26 Oct 2022 00:59:27 GMT*
+*Last update: Thu, 27 Oct 2022 00:58:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
