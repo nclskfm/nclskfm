@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 29 2022)
+### Joke of the day (Sun Oct 30 2022)
 <!-- joke -->
->Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order.
+>Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
 <!-- /joke -->
 
-*Last update: Sat, 29 Oct 2022 00:53:00 GMT*
+*Last update: Sun, 30 Oct 2022 01:03:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
