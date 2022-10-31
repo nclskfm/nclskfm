@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 30 2022)
+### Joke of the day (Mon Oct 31 2022)
 <!-- joke -->
->Chuck Norris was the orginal sculptor of Mount Rushmore. He completed the entire project using only a bottle opener and a drywall trowel.
+>While urinating, Chuck Norris is easily capable of welding titanium.
 <!-- /joke -->
 
-*Last update: Sun, 30 Oct 2022 01:03:28 GMT*
+*Last update: Mon, 31 Oct 2022 01:04:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
