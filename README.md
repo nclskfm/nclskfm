@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 31 2022)
+### Joke of the day (Tue Nov 01 2022)
 <!-- joke -->
->While urinating, Chuck Norris is easily capable of welding titanium.
+>Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
 <!-- /joke -->
 
-*Last update: Mon, 31 Oct 2022 01:04:53 GMT*
+*Last update: Tue, 01 Nov 2022 01:10:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
