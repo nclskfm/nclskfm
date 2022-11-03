@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 02 2022)
+### Joke of the day (Thu Nov 03 2022)
 <!-- joke -->
->If I wanted a warm fuzzy feeling... I’d antialias my graphics!
+>Chuck Norris was banned from competitive bullriding after a 1992 exhibition in San Antonio, when he rode the bull 1,346 miles from Texas to Milwaukee Wisconsin to pick up his dry cleaning.
 <!-- /joke -->
 
-*Last update: Wed, 02 Nov 2022 01:01:58 GMT*
+*Last update: Thu, 03 Nov 2022 00:57:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
