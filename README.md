@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 04 2022)
+### Joke of the day (Sat Nov 05 2022)
 <!-- joke -->
->Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
+>That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
 <!-- /joke -->
 
-*Last update: Fri, 04 Nov 2022 01:01:17 GMT*
+*Last update: Sat, 05 Nov 2022 00:57:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
