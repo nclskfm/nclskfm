@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 05 2022)
+### Joke of the day (Sun Nov 06 2022)
 <!-- joke -->
->That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
+>All browsers support the hex definitions #chuck and #norris for the colors black and blue.
 <!-- /joke -->
 
-*Last update: Sat, 05 Nov 2022 00:57:01 GMT*
+*Last update: Sun, 06 Nov 2022 00:56:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
