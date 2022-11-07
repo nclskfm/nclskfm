@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 06 2022)
+### Joke of the day (Mon Nov 07 2022)
 <!-- joke -->
->All browsers support the hex definitions #chuck and #norris for the colors black and blue.
+>We live in an expanding universe. All of it is trying to get away from Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 06 Nov 2022 00:56:08 GMT*
+*Last update: Mon, 07 Nov 2022 00:53:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
