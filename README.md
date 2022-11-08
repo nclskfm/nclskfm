@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 07 2022)
+### Joke of the day (Tue Nov 08 2022)
 <!-- joke -->
->We live in an expanding universe. All of it is trying to get away from Chuck Norris.
+>Chuck Norris doesn't use GUI, he prefers COMMAND line.
 <!-- /joke -->
 
-*Last update: Mon, 07 Nov 2022 00:53:40 GMT*
+*Last update: Tue, 08 Nov 2022 00:54:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
