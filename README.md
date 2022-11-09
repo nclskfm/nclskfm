@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 08 2022)
+### Joke of the day (Wed Nov 09 2022)
 <!-- joke -->
->Chuck Norris doesn't use GUI, he prefers COMMAND line.
+>Chuck Norris sheds his skin twice a year.
 <!-- /joke -->
 
-*Last update: Tue, 08 Nov 2022 00:54:09 GMT*
+*Last update: Wed, 09 Nov 2022 00:54:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
