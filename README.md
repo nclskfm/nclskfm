@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 09 2022)
+### Joke of the day (Thu Nov 10 2022)
 <!-- joke -->
->Chuck Norris sheds his skin twice a year.
+>The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
 <!-- /joke -->
 
-*Last update: Wed, 09 Nov 2022 00:54:59 GMT*
+*Last update: Thu, 10 Nov 2022 00:55:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
