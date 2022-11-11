@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 10 2022)
+### Joke of the day (Fri Nov 11 2022)
 <!-- joke -->
->The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
+>Chuck Norris built a time machine and went back in time to stop the JFK assassination. As Oswald shot, Chuck met all three bullets with his beard, deflecting them. JFK's head exploded out of sheer amazement.
 <!-- /joke -->
 
-*Last update: Thu, 10 Nov 2022 00:55:50 GMT*
+*Last update: Fri, 11 Nov 2022 00:57:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
