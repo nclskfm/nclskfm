@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 13 2022)
+### Joke of the day (Mon Nov 14 2022)
 <!-- joke -->
->Roses are #ff0000, violets are #0000ff, I use hex codes, but I'd use RGB for you
+>Chuck Norris wears a live rattlesnake as a condom.
 <!-- /joke -->
 
-*Last update: Sun, 13 Nov 2022 00:52:33 GMT*
+*Last update: Mon, 14 Nov 2022 00:52:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
