@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 15 2022)
+### Joke of the day (Wed Nov 16 2022)
 <!-- joke -->
->What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
+>When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
 <!-- /joke -->
 
-*Last update: Tue, 15 Nov 2022 00:52:32 GMT*
+*Last update: Wed, 16 Nov 2022 00:52:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
