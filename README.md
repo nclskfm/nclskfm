@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 17 2022)
+### Joke of the day (Fri Nov 18 2022)
 <!-- joke -->
->The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
+>In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
 <!-- /joke -->
 
-*Last update: Thu, 17 Nov 2022 00:52:09 GMT*
+*Last update: Fri, 18 Nov 2022 00:55:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
