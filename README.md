@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 18 2022)
+### Joke of the day (Sat Nov 19 2022)
 <!-- joke -->
->In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
+>Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
 <!-- /joke -->
 
-*Last update: Fri, 18 Nov 2022 00:55:37 GMT*
+*Last update: Sat, 19 Nov 2022 00:53:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
