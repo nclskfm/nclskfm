@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 19 2022)
+### Joke of the day (Sun Nov 20 2022)
 <!-- joke -->
->Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
+>Chuck Norris's keyboard has the Any key.
 <!-- /joke -->
 
-*Last update: Sat, 19 Nov 2022 00:53:35 GMT*
+*Last update: Sun, 20 Nov 2022 00:55:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
