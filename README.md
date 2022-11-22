@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 21 2022)
+### Joke of the day (Tue Nov 22 2022)
 <!-- joke -->
->On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
+>What's the object-oriented way to become wealthy? Inheritance.
 <!-- /joke -->
 
-*Last update: Mon, 21 Nov 2022 00:53:09 GMT*
+*Last update: Tue, 22 Nov 2022 00:53:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
