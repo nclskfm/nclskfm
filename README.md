@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 22 2022)
+### Joke of the day (Wed Nov 23 2022)
 <!-- joke -->
->What's the object-oriented way to become wealthy? Inheritance.
+>Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 <!-- /joke -->
 
-*Last update: Tue, 22 Nov 2022 00:53:44 GMT*
+*Last update: Wed, 23 Nov 2022 00:44:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
