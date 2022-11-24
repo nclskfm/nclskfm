@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 23 2022)
+### Joke of the day (Thu Nov 24 2022)
 <!-- joke -->
->Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
+>There are no steroids in baseball. Just players Chuck Norris has breathed on.
 <!-- /joke -->
 
-*Last update: Wed, 23 Nov 2022 00:44:59 GMT*
+*Last update: Thu, 24 Nov 2022 00:51:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
