@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 24 2022)
+### Joke of the day (Fri Nov 25 2022)
 <!-- joke -->
->There are no steroids in baseball. Just players Chuck Norris has breathed on.
+>To Chuck Norris, everything contains a vulnerability.
 <!-- /joke -->
 
-*Last update: Thu, 24 Nov 2022 00:51:40 GMT*
+*Last update: Fri, 25 Nov 2022 00:47:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
