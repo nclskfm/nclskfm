@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 25 2022)
+### Joke of the day (Sat Nov 26 2022)
 <!-- joke -->
->To Chuck Norris, everything contains a vulnerability.
+>Programmer (noun.): A machine that turns coffee into code
 <!-- /joke -->
 
-*Last update: Fri, 25 Nov 2022 00:47:27 GMT*
+*Last update: Sat, 26 Nov 2022 00:42:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
