@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 26 2022)
+### Joke of the day (Sun Nov 27 2022)
 <!-- joke -->
->Programmer (noun.): A machine that turns coffee into code
+>Hellen Keller's favorite color is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 26 Nov 2022 00:42:24 GMT*
+*Last update: Sun, 27 Nov 2022 00:51:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
