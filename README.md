@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 28 2022)
+### Joke of the day (Tue Nov 29 2022)
 <!-- joke -->
->Chuck Norris did in fact, build Rome in a day.
+>Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
 <!-- /joke -->
 
-*Last update: Mon, 28 Nov 2022 00:43:25 GMT*
+*Last update: Tue, 29 Nov 2022 00:46:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
