@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 29 2022)
+### Joke of the day (Wed Nov 30 2022)
 <!-- joke -->
->Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
+>Chuck Norris' house has no doors, only walls that he walks through.
 <!-- /joke -->
 
-*Last update: Tue, 29 Nov 2022 00:46:29 GMT*
+*Last update: Wed, 30 Nov 2022 00:49:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
