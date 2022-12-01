@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 30 2022)
+### Joke of the day (Thu Dec 01 2022)
 <!-- joke -->
->Chuck Norris' house has no doors, only walls that he walks through.
+>Chuck Norris can install iTunes without installing Quicktime.
 <!-- /joke -->
 
-*Last update: Wed, 30 Nov 2022 00:49:54 GMT*
+*Last update: Thu, 01 Dec 2022 00:53:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
