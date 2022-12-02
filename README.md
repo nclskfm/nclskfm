@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 01 2022)
+### Joke of the day (Fri Dec 02 2022)
 <!-- joke -->
->Chuck Norris can install iTunes without installing Quicktime.
+>If Ruby is not and Perl is the answer then you don’t understand the question.
 <!-- /joke -->
 
-*Last update: Thu, 01 Dec 2022 00:53:06 GMT*
+*Last update: Fri, 02 Dec 2022 00:43:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
