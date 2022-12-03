@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 02 2022)
+### Joke of the day (Sat Dec 03 2022)
 <!-- joke -->
->If Ruby is not and Perl is the answer then you don’t understand the question.
+>Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
 <!-- /joke -->
 
-*Last update: Fri, 02 Dec 2022 00:43:18 GMT*
+*Last update: Sat, 03 Dec 2022 00:41:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
