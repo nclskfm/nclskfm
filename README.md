@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 03 2022)
+### Joke of the day (Sun Dec 04 2022)
 <!-- joke -->
->Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
+>Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
 <!-- /joke -->
 
-*Last update: Sat, 03 Dec 2022 00:41:02 GMT*
+*Last update: Sun, 04 Dec 2022 00:43:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
