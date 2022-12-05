@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 04 2022)
+### Joke of the day (Mon Dec 05 2022)
 <!-- joke -->
->Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
+>Chuck Norris's version of a 'chocolate milkshake' is a raw porterhouse wrapped around ten Hershey bars, and doused in diesel fuel.
 <!-- /joke -->
 
-*Last update: Sun, 04 Dec 2022 00:43:15 GMT*
+*Last update: Mon, 05 Dec 2022 00:42:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
