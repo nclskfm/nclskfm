@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 05 2022)
+### Joke of the day (Tue Dec 06 2022)
 <!-- joke -->
->Chuck Norris's version of a 'chocolate milkshake' is a raw porterhouse wrapped around ten Hershey bars, and doused in diesel fuel.
+>How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
 <!-- /joke -->
 
-*Last update: Mon, 05 Dec 2022 00:42:12 GMT*
+*Last update: Tue, 06 Dec 2022 00:41:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
