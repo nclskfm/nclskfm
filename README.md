@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 06 2022)
+### Joke of the day (Wed Dec 07 2022)
 <!-- joke -->
->How much wood would a woodchuck chuck if a woodchuck could Chuck Norris? All of it.
+>I can't access Git. I guess I have... commitment issues
 <!-- /joke -->
 
-*Last update: Tue, 06 Dec 2022 00:41:52 GMT*
+*Last update: Wed, 07 Dec 2022 00:44:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
