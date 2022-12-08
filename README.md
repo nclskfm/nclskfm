@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 07 2022)
+### Joke of the day (Thu Dec 08 2022)
 <!-- joke -->
->I can't access Git. I guess I have... commitment issues
+>The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
 <!-- /joke -->
 
-*Last update: Wed, 07 Dec 2022 00:44:20 GMT*
+*Last update: Thu, 08 Dec 2022 00:43:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
