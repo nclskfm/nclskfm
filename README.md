@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 08 2022)
+### Joke of the day (Fri Dec 09 2022)
 <!-- joke -->
->The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
+>Chuck Norris burst the dot com bubble.
 <!-- /joke -->
 
-*Last update: Thu, 08 Dec 2022 00:43:30 GMT*
+*Last update: Fri, 09 Dec 2022 00:43:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
