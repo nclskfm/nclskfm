@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 09 2022)
+### Joke of the day (Sat Dec 10 2022)
 <!-- joke -->
->Chuck Norris burst the dot com bubble.
+>Chuck Norris always knows the EXACT location of Carmen SanDiego.
 <!-- /joke -->
 
-*Last update: Fri, 09 Dec 2022 00:43:40 GMT*
+*Last update: Sat, 10 Dec 2022 00:40:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
