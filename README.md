@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 10 2022)
+### Joke of the day (Sun Dec 11 2022)
 <!-- joke -->
->Chuck Norris always knows the EXACT location of Carmen SanDiego.
+>Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
 <!-- /joke -->
 
-*Last update: Sat, 10 Dec 2022 00:40:53 GMT*
+*Last update: Sun, 11 Dec 2022 00:51:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
