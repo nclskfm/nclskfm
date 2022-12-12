@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 11 2022)
+### Joke of the day (Mon Dec 12 2022)
 <!-- joke -->
->Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
+>'Let the Bodies Hit the Floor' was originally written as Chuck Norris' theme song.
 <!-- /joke -->
 
-*Last update: Sun, 11 Dec 2022 00:51:21 GMT*
+*Last update: Mon, 12 Dec 2022 00:46:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
