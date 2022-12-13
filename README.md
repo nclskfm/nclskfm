@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 12 2022)
+### Joke of the day (Tue Dec 13 2022)
 <!-- joke -->
->'Let the Bodies Hit the Floor' was originally written as Chuck Norris' theme song.
+>Chuck Norris can do a roundhouse kick faster than the speed of light. This means that if you turn on a light switch, you will be dead before the lightbulb turns on.
 <!-- /joke -->
 
-*Last update: Mon, 12 Dec 2022 00:46:32 GMT*
+*Last update: Tue, 13 Dec 2022 00:46:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
