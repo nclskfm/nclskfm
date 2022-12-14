@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 13 2022)
+### Joke of the day (Wed Dec 14 2022)
 <!-- joke -->
->Chuck Norris can do a roundhouse kick faster than the speed of light. This means that if you turn on a light switch, you will be dead before the lightbulb turns on.
+>Chuck Norris does not have to answer the phone. His beard picks up the incoming electrical impulses and translates them into audible sound.
 <!-- /joke -->
 
-*Last update: Tue, 13 Dec 2022 00:46:56 GMT*
+*Last update: Wed, 14 Dec 2022 00:43:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
