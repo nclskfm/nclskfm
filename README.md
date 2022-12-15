@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 14 2022)
+### Joke of the day (Thu Dec 15 2022)
 <!-- joke -->
->Chuck Norris does not have to answer the phone. His beard picks up the incoming electrical impulses and translates them into audible sound.
+>Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
 <!-- /joke -->
 
-*Last update: Wed, 14 Dec 2022 00:43:18 GMT*
+*Last update: Thu, 15 Dec 2022 00:45:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
