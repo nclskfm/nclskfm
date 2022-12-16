@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 15 2022)
+### Joke of the day (Fri Dec 16 2022)
 <!-- joke -->
->Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
+>As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
 <!-- /joke -->
 
-*Last update: Thu, 15 Dec 2022 00:45:24 GMT*
+*Last update: Fri, 16 Dec 2022 00:41:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
