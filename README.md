@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 16 2022)
+### Joke of the day (Sat Dec 17 2022)
 <!-- joke -->
->As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
+>Rules of fighting: 1) Don't bring a knife to a gun fight. 2) Don't bring a gun to a Chuck Norris fight.
 <!-- /joke -->
 
-*Last update: Fri, 16 Dec 2022 00:41:29 GMT*
+*Last update: Sat, 17 Dec 2022 00:40:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
