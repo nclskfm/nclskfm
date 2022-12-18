@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 17 2022)
+### Joke of the day (Sun Dec 18 2022)
 <!-- joke -->
->Rules of fighting: 1) Don't bring a knife to a gun fight. 2) Don't bring a gun to a Chuck Norris fight.
+>Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
 <!-- /joke -->
 
-*Last update: Sat, 17 Dec 2022 00:40:14 GMT*
+*Last update: Sun, 18 Dec 2022 00:40:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
