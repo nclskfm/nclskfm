@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 18 2022)
+### Joke of the day (Mon Dec 19 2022)
 <!-- joke -->
->Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+>No statement can catch the ChuckNorrisException.
 <!-- /joke -->
 
-*Last update: Sun, 18 Dec 2022 00:40:38 GMT*
+*Last update: Mon, 19 Dec 2022 00:38:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
