@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 19 2022)
+### Joke of the day (Tue Dec 20 2022)
 <!-- joke -->
->No statement can catch the ChuckNorrisException.
+>Chuck Norris has 12 moons. One of those moons is the Earth.
 <!-- /joke -->
 
-*Last update: Mon, 19 Dec 2022 00:38:44 GMT*
+*Last update: Tue, 20 Dec 2022 00:43:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
