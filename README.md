@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 20 2022)
+### Joke of the day (Wed Dec 21 2022)
 <!-- joke -->
->Chuck Norris has 12 moons. One of those moons is the Earth.
+>Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
 <!-- /joke -->
 
-*Last update: Tue, 20 Dec 2022 00:43:50 GMT*
+*Last update: Wed, 21 Dec 2022 00:39:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
