@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 21 2022)
+### Joke of the day (Thu Dec 22 2022)
 <!-- joke -->
->Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
+>Mac users swear by their Mac and PC users swear at their PC.
 <!-- /joke -->
 
-*Last update: Wed, 21 Dec 2022 00:39:54 GMT*
+*Last update: Thu, 22 Dec 2022 00:41:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
