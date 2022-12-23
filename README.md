@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 22 2022)
+### Joke of the day (Fri Dec 23 2022)
 <!-- joke -->
->Mac users swear by their Mac and PC users swear at their PC.
+>One time, at band camp, Chuck Norris ate a percussionist.
 <!-- /joke -->
 
-*Last update: Thu, 22 Dec 2022 00:41:55 GMT*
+*Last update: Fri, 23 Dec 2022 00:40:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
