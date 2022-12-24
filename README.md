@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 23 2022)
+### Joke of the day (Sat Dec 24 2022)
 <!-- joke -->
->One time, at band camp, Chuck Norris ate a percussionist.
+>Why does a burger have less energy than a steak? A burger is in its ground state.
 <!-- /joke -->
 
-*Last update: Fri, 23 Dec 2022 00:40:57 GMT*
+*Last update: Sat, 24 Dec 2022 00:37:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
