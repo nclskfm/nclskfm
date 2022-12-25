@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 24 2022)
+### Joke of the day (Sun Dec 25 2022)
 <!-- joke -->
->Why does a burger have less energy than a steak? A burger is in its ground state.
+>Chuck Norris built a time machine and went back in time to stop the JFK assassination. As Oswald shot, Chuck met all three bullets with his beard, deflecting them. JFK's head exploded out of sheer amazement.
 <!-- /joke -->
 
-*Last update: Sat, 24 Dec 2022 00:37:29 GMT*
+*Last update: Sun, 25 Dec 2022 00:44:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
