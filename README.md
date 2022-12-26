@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 25 2022)
+### Joke of the day (Mon Dec 26 2022)
 <!-- joke -->
->Chuck Norris built a time machine and went back in time to stop the JFK assassination. As Oswald shot, Chuck met all three bullets with his beard, deflecting them. JFK's head exploded out of sheer amazement.
+>Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
 <!-- /joke -->
 
-*Last update: Sun, 25 Dec 2022 00:44:02 GMT*
+*Last update: Mon, 26 Dec 2022 00:42:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
