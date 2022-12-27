@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 26 2022)
+### Joke of the day (Tue Dec 27 2022)
 <!-- joke -->
->Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
+>There are three kinds of people: those who can count and those who can’t.
 <!-- /joke -->
 
-*Last update: Mon, 26 Dec 2022 00:42:15 GMT*
+*Last update: Tue, 27 Dec 2022 00:41:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
