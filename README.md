@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 27 2022)
+### Joke of the day (Wed Dec 28 2022)
 <!-- joke -->
->There are three kinds of people: those who can count and those who can’t.
+>Chuck Norris is widely predicted to be first black president. If you're thinking to yourself, 'But Chuck Norris isn't black', then you are dead wrong. And stop being a racist.
 <!-- /joke -->
 
-*Last update: Tue, 27 Dec 2022 00:41:58 GMT*
+*Last update: Wed, 28 Dec 2022 00:41:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
