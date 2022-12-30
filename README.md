@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 29 2022)
+### Joke of the day (Fri Dec 30 2022)
 <!-- joke -->
->Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
+>Chuck Norris is the only man to ever defeat a brick wall in a game of tennis.
 <!-- /joke -->
 
-*Last update: Thu, 29 Dec 2022 00:42:55 GMT*
+*Last update: Fri, 30 Dec 2022 00:42:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
