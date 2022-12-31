@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 30 2022)
+### Joke of the day (Sat Dec 31 2022)
 <!-- joke -->
->Chuck Norris is the only man to ever defeat a brick wall in a game of tennis.
+>With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
 <!-- /joke -->
 
-*Last update: Fri, 30 Dec 2022 00:42:37 GMT*
+*Last update: Sat, 31 Dec 2022 00:40:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
