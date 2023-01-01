@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 31 2022)
+### Joke of the day (Sun Jan 01 2023)
 <!-- joke -->
->With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
+>If Chuck Norris writes code with bugs, the bugs fix themselves.
 <!-- /joke -->
 
-*Last update: Sat, 31 Dec 2022 00:40:16 GMT*
+*Last update: Sun, 01 Jan 2023 00:51:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
