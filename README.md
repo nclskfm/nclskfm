@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 01 2023)
+### Joke of the day (Mon Jan 02 2023)
 <!-- joke -->
->If Chuck Norris writes code with bugs, the bugs fix themselves.
+>The Chuck Norris military unit was not used in the game Civilization 4, because a single Chuck Norris could defeat the entire combined nations of the world in one turn.
 <!-- /joke -->
 
-*Last update: Sun, 01 Jan 2023 00:51:42 GMT*
+*Last update: Mon, 02 Jan 2023 00:42:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
