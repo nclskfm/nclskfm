@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 02 2023)
+### Joke of the day (Tue Jan 03 2023)
 <!-- joke -->
->The Chuck Norris military unit was not used in the game Civilization 4, because a single Chuck Norris could defeat the entire combined nations of the world in one turn.
+>If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
 <!-- /joke -->
 
-*Last update: Mon, 02 Jan 2023 00:42:21 GMT*
+*Last update: Tue, 03 Jan 2023 00:41:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
