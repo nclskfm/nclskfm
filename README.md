@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 03 2023)
+### Joke of the day (Wed Jan 04 2023)
 <!-- joke -->
->If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
+>Chuck Norris doesn't pair program.
 <!-- /joke -->
 
-*Last update: Tue, 03 Jan 2023 00:41:46 GMT*
+*Last update: Wed, 04 Jan 2023 00:42:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
