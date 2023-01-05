@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 04 2023)
+### Joke of the day (Thu Jan 05 2023)
 <!-- joke -->
->Chuck Norris doesn't pair program.
+>Chuck Norris got his drivers license at the age of 16. Seconds.
 <!-- /joke -->
 
-*Last update: Wed, 04 Jan 2023 00:42:14 GMT*
+*Last update: Thu, 05 Jan 2023 00:43:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
