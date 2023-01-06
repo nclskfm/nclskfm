@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 05 2023)
+### Joke of the day (Fri Jan 06 2023)
 <!-- joke -->
->Chuck Norris got his drivers license at the age of 16. Seconds.
+>Do you have a girlfriend? I will leave the relationship to the databases
 <!-- /joke -->
 
-*Last update: Thu, 05 Jan 2023 00:43:58 GMT*
+*Last update: Fri, 06 Jan 2023 00:43:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
