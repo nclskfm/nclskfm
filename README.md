@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 06 2023)
+### Joke of the day (Sat Jan 07 2023)
 <!-- joke -->
->Do you have a girlfriend? I will leave the relationship to the databases
+>Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
 <!-- /joke -->
 
-*Last update: Fri, 06 Jan 2023 00:43:58 GMT*
+*Last update: Sat, 07 Jan 2023 00:41:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
