@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 08 2023)
+### Joke of the day (Mon Jan 09 2023)
 <!-- joke -->
->Chuck Norris invented a language that incorporates karate and roundhouse kicks. So next time Chuck Norris is kicking your ass, don?t be offended or hurt, he may be just trying to tell you he likes your hat.
+>Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
 <!-- /joke -->
 
-*Last update: Sun, 08 Jan 2023 00:46:39 GMT*
+*Last update: Mon, 09 Jan 2023 00:43:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
