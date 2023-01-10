@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 09 2023)
+### Joke of the day (Tue Jan 10 2023)
 <!-- joke -->
->Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+>For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
 <!-- /joke -->
 
-*Last update: Mon, 09 Jan 2023 00:43:08 GMT*
+*Last update: Tue, 10 Jan 2023 00:47:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
