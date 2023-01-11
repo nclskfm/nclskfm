@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 10 2023)
+### Joke of the day (Wed Jan 11 2023)
 <!-- joke -->
->For some, the left testicle is larger than the right one. For Chuck Norris, each testicle is larger than the other one.
+>I would love to change the world but they won’t give me the source code.
 <!-- /joke -->
 
-*Last update: Tue, 10 Jan 2023 00:47:46 GMT*
+*Last update: Wed, 11 Jan 2023 00:43:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
