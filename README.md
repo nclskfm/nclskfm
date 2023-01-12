@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 11 2023)
+### Joke of the day (Thu Jan 12 2023)
 <!-- joke -->
->I would love to change the world but they won’t give me the source code.
+>Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
 <!-- /joke -->
 
-*Last update: Wed, 11 Jan 2023 00:43:27 GMT*
+*Last update: Thu, 12 Jan 2023 00:44:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
