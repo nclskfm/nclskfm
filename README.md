@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 12 2023)
+### Joke of the day (Fri Jan 13 2023)
 <!-- joke -->
->Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
+>Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
 <!-- /joke -->
 
-*Last update: Thu, 12 Jan 2023 00:44:15 GMT*
+*Last update: Fri, 13 Jan 2023 00:44:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
