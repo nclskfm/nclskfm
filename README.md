@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 13 2023)
+### Joke of the day (Sat Jan 14 2023)
 <!-- joke -->
->Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
+>Chuck Norris hosting is 101% uptime guaranteed.
 <!-- /joke -->
 
-*Last update: Fri, 13 Jan 2023 00:44:04 GMT*
+*Last update: Sat, 14 Jan 2023 00:41:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
