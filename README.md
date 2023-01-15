@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 14 2023)
+### Joke of the day (Sun Jan 15 2023)
 <!-- joke -->
->Chuck Norris hosting is 101% uptime guaranteed.
+>Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
 <!-- /joke -->
 
-*Last update: Sat, 14 Jan 2023 00:41:23 GMT*
+*Last update: Sun, 15 Jan 2023 00:47:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
