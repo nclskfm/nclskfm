@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 15 2023)
+### Joke of the day (Mon Jan 16 2023)
 <!-- joke -->
->Chuck Norris doesn't need to use AJAX because pages are too afraid to postback anyways.
+>The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
 <!-- /joke -->
 
-*Last update: Sun, 15 Jan 2023 00:47:06 GMT*
+*Last update: Mon, 16 Jan 2023 00:42:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
