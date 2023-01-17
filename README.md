@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 16 2023)
+### Joke of the day (Tue Jan 17 2023)
 <!-- joke -->
->The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
+>I would love to change the world but they won’t give me the source code.
 <!-- /joke -->
 
-*Last update: Mon, 16 Jan 2023 00:42:59 GMT*
+*Last update: Tue, 17 Jan 2023 00:43:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
