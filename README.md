@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 17 2023)
+### Joke of the day (Wed Jan 18 2023)
 <!-- joke -->
->I would love to change the world but they won’t give me the source code.
+>Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 <!-- /joke -->
 
-*Last update: Tue, 17 Jan 2023 00:43:45 GMT*
+*Last update: Wed, 18 Jan 2023 00:45:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
