@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 18 2023)
+### Joke of the day (Thu Jan 19 2023)
 <!-- joke -->
->Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
+>The more I C.... the less I see.
 <!-- /joke -->
 
-*Last update: Wed, 18 Jan 2023 00:45:09 GMT*
+*Last update: Thu, 19 Jan 2023 00:44:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
