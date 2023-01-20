@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 19 2023)
+### Joke of the day (Fri Jan 20 2023)
 <!-- joke -->
->The more I C.... the less I see.
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Thu, 19 Jan 2023 00:44:44 GMT*
+*Last update: Fri, 20 Jan 2023 00:44:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
