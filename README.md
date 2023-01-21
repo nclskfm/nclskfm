@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 20 2023)
+### Joke of the day (Sat Jan 21 2023)
 <!-- joke -->
->A UDP packet walks into a bar. The bartender doesn't acknowledge him.
+>Chuck Norris can write an OS in Brainfuck
 <!-- /joke -->
 
-*Last update: Fri, 20 Jan 2023 00:44:14 GMT*
+*Last update: Sat, 21 Jan 2023 00:43:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
