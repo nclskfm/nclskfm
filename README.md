@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 21 2023)
+### Joke of the day (Sun Jan 22 2023)
 <!-- joke -->
->Chuck Norris can write an OS in Brainfuck
+>Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
 <!-- /joke -->
 
-*Last update: Sat, 21 Jan 2023 00:43:57 GMT*
+*Last update: Sun, 22 Jan 2023 00:46:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
