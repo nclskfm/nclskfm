@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 22 2023)
+### Joke of the day (Mon Jan 23 2023)
 <!-- joke -->
->Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
+>When Chuck Norris plays Monopoly, it affects the actual world economy.
 <!-- /joke -->
 
-*Last update: Sun, 22 Jan 2023 00:46:39 GMT*
+*Last update: Mon, 23 Jan 2023 00:42:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
