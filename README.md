@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 23 2023)
+### Joke of the day (Tue Jan 24 2023)
 <!-- joke -->
->When Chuck Norris plays Monopoly, it affects the actual world economy.
+>Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
 <!-- /joke -->
 
-*Last update: Mon, 23 Jan 2023 00:42:11 GMT*
+*Last update: Tue, 24 Jan 2023 00:45:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
