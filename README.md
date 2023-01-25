@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 24 2023)
+### Joke of the day (Wed Jan 25 2023)
 <!-- joke -->
->Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+>If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
 <!-- /joke -->
 
-*Last update: Tue, 24 Jan 2023 00:45:52 GMT*
+*Last update: Wed, 25 Jan 2023 00:42:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
