@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 25 2023)
+### Joke of the day (Thu Jan 26 2023)
 <!-- joke -->
->If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
+>When Chuck Norris goes to donate blood, he declines the syringe, and instead requests a hand gun and a bucket.
 <!-- /joke -->
 
-*Last update: Wed, 25 Jan 2023 00:42:22 GMT*
+*Last update: Thu, 26 Jan 2023 00:43:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
