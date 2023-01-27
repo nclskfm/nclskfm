@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 26 2023)
+### Joke of the day (Fri Jan 27 2023)
 <!-- joke -->
->When Chuck Norris goes to donate blood, he declines the syringe, and instead requests a hand gun and a bucket.
+>Chuck Norris has 12 moons. One of those moons is the Earth.
 <!-- /joke -->
 
-*Last update: Thu, 26 Jan 2023 00:43:07 GMT*
+*Last update: Fri, 27 Jan 2023 00:45:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
