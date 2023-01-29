@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 28 2023)
+### Joke of the day (Sun Jan 29 2023)
 <!-- joke -->
->Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
+>What was going through the minds of all of Chuck Norris' victims before they died? His shoe.
 <!-- /joke -->
 
-*Last update: Sat, 28 Jan 2023 00:43:58 GMT*
+*Last update: Sun, 29 Jan 2023 00:48:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
