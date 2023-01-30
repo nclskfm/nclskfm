@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 29 2023)
+### Joke of the day (Mon Jan 30 2023)
 <!-- joke -->
->What was going through the minds of all of Chuck Norris' victims before they died? His shoe.
+>Chuck Norris doesn't look both ways before he crosses the street... he just roundhouses any cars that get too close.
 <!-- /joke -->
 
-*Last update: Sun, 29 Jan 2023 00:48:31 GMT*
+*Last update: Mon, 30 Jan 2023 00:40:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
