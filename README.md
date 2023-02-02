@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 01 2023)
+### Joke of the day (Thu Feb 02 2023)
 <!-- joke -->
->How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
+>I’m not anti-social; I’m just not user friendly.
 <!-- /joke -->
 
-*Last update: Wed, 01 Feb 2023 00:50:49 GMT*
+*Last update: Thu, 02 Feb 2023 00:45:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
