@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 02 2023)
+### Joke of the day (Fri Feb 03 2023)
 <!-- joke -->
->I’m not anti-social; I’m just not user friendly.
+>Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.
 <!-- /joke -->
 
-*Last update: Thu, 02 Feb 2023 00:45:19 GMT*
+*Last update: Fri, 03 Feb 2023 00:48:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
