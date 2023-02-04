@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 03 2023)
+### Joke of the day (Sat Feb 04 2023)
 <!-- joke -->
->Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.
+>The First rule of Chuck Norris is: you do not talk about Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 03 Feb 2023 00:48:37 GMT*
+*Last update: Sat, 04 Feb 2023 00:42:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
