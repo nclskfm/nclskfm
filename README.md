@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 04 2023)
+### Joke of the day (Sun Feb 05 2023)
 <!-- joke -->
->The First rule of Chuck Norris is: you do not talk about Chuck Norris.
+>In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
 <!-- /joke -->
 
-*Last update: Sat, 04 Feb 2023 00:42:07 GMT*
+*Last update: Sun, 05 Feb 2023 00:48:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
