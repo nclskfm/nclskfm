@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 08 2023)
+### Joke of the day (Thu Feb 09 2023)
 <!-- joke -->
->Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
+>'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
 <!-- /joke -->
 
-*Last update: Wed, 08 Feb 2023 00:44:26 GMT*
+*Last update: Thu, 09 Feb 2023 00:43:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
