@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 11 2023)
+### Joke of the day (Sun Feb 12 2023)
 <!-- joke -->
->Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
+>Chuck Norris can start a fire by rubbing two ice cubes together.
 <!-- /joke -->
 
-*Last update: Sat, 11 Feb 2023 00:39:37 GMT*
+*Last update: Sun, 12 Feb 2023 00:48:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
