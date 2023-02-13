@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 12 2023)
+### Joke of the day (Mon Feb 13 2023)
 <!-- joke -->
->Chuck Norris can start a fire by rubbing two ice cubes together.
+>The easiest way to determine Chuck Norris' age is to cut him in half and count the rings.
 <!-- /joke -->
 
-*Last update: Sun, 12 Feb 2023 00:48:34 GMT*
+*Last update: Mon, 13 Feb 2023 00:46:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
