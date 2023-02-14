@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 13 2023)
+### Joke of the day (Tue Feb 14 2023)
 <!-- joke -->
->The easiest way to determine Chuck Norris' age is to cut him in half and count the rings.
+>Chuck Norris can retrieve anything from /dev/null.
 <!-- /joke -->
 
-*Last update: Mon, 13 Feb 2023 00:46:45 GMT*
+*Last update: Tue, 14 Feb 2023 00:48:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
