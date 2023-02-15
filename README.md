@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 14 2023)
+### Joke of the day (Wed Feb 15 2023)
 <!-- joke -->
->Chuck Norris can retrieve anything from /dev/null.
+>Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
 <!-- /joke -->
 
-*Last update: Tue, 14 Feb 2023 00:48:01 GMT*
+*Last update: Wed, 15 Feb 2023 00:46:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
