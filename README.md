@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 16 2023)
+### Joke of the day (Fri Feb 17 2023)
 <!-- joke -->
->Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
+>Human cloning is outlawed because of Chuck Norris, because then it would be possible for a Chuck Norris roundhouse kick to meet another Chuck Norris roundhouse kick. Physicists theorize that this contact would end the universe.
 <!-- /joke -->
 
-*Last update: Thu, 16 Feb 2023 00:51:17 GMT*
+*Last update: Fri, 17 Feb 2023 00:48:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
