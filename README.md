@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 18 2023)
+### Joke of the day (Sun Feb 19 2023)
 <!-- joke -->
->One time, at band camp, Chuck Norris ate a percussionist.
+>Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
 <!-- /joke -->
 
-*Last update: Sat, 18 Feb 2023 00:44:45 GMT*
+*Last update: Sun, 19 Feb 2023 00:47:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
