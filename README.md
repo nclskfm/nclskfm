@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 19 2023)
+### Joke of the day (Mon Feb 20 2023)
 <!-- joke -->
->Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
+>Once you go Norris, you are physically unable to go back.
 <!-- /joke -->
 
-*Last update: Sun, 19 Feb 2023 00:47:27 GMT*
+*Last update: Mon, 20 Feb 2023 00:48:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
