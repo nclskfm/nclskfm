@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 20 2023)
+### Joke of the day (Tue Feb 21 2023)
 <!-- joke -->
->Once you go Norris, you are physically unable to go back.
+>COBOL programmers understand why women hate periods.
 <!-- /joke -->
 
-*Last update: Mon, 20 Feb 2023 00:48:05 GMT*
+*Last update: Tue, 21 Feb 2023 00:47:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
