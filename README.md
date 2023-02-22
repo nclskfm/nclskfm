@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 21 2023)
+### Joke of the day (Wed Feb 22 2023)
 <!-- joke -->
->COBOL programmers understand why women hate periods.
+>Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
 <!-- /joke -->
 
-*Last update: Tue, 21 Feb 2023 00:47:53 GMT*
+*Last update: Wed, 22 Feb 2023 00:42:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
