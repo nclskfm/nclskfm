@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 22 2023)
+### Joke of the day (Thu Feb 23 2023)
 <!-- joke -->
->Chuck Norris had to stop washing his clothes in the ocean. The tsunamis were killing people.
+>Chuck Norris doesn't pair program.
 <!-- /joke -->
 
-*Last update: Wed, 22 Feb 2023 00:42:52 GMT*
+*Last update: Thu, 23 Feb 2023 00:43:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
