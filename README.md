@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 23 2023)
+### Joke of the day (Fri Feb 24 2023)
 <!-- joke -->
->Chuck Norris doesn't pair program.
+>If at first you don't succeed, you're not Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 23 Feb 2023 00:43:51 GMT*
+*Last update: Fri, 24 Feb 2023 00:44:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
