@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 24 2023)
+### Joke of the day (Sat Feb 25 2023)
 <!-- joke -->
->If at first you don't succeed, you're not Chuck Norris.
+>Not everyone that Chuck Norris is mad at gets killed. Some get away. They are called astronauts.
 <!-- /joke -->
 
-*Last update: Fri, 24 Feb 2023 00:44:54 GMT*
+*Last update: Sat, 25 Feb 2023 00:46:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
