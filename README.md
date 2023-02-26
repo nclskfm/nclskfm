@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 25 2023)
+### Joke of the day (Sun Feb 26 2023)
 <!-- joke -->
->Not everyone that Chuck Norris is mad at gets killed. Some get away. They are called astronauts.
+>The phrase 'balls to the wall' was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
 <!-- /joke -->
 
-*Last update: Sat, 25 Feb 2023 00:46:29 GMT*
+*Last update: Sun, 26 Feb 2023 00:52:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
