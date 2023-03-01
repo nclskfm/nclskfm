@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 28 2023)
+### Joke of the day (Wed Mar 01 2023)
 <!-- joke -->
->All wiyht. Rho sritched mg kegtops awound?
+>Nobody doesn't like Sara Lee. Except Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 28 Feb 2023 00:46:15 GMT*
+*Last update: Wed, 01 Mar 2023 00:52:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
