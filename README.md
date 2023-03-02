@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 01 2023)
+### Joke of the day (Thu Mar 02 2023)
 <!-- joke -->
->Nobody doesn't like Sara Lee. Except Chuck Norris.
+>The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
 <!-- /joke -->
 
-*Last update: Wed, 01 Mar 2023 00:52:25 GMT*
+*Last update: Thu, 02 Mar 2023 00:50:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
