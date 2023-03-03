@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 02 2023)
+### Joke of the day (Fri Mar 03 2023)
 <!-- joke -->
->The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
+>Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
 <!-- /joke -->
 
-*Last update: Thu, 02 Mar 2023 00:50:36 GMT*
+*Last update: Fri, 03 Mar 2023 02:38:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
