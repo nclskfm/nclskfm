@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 04 2023)
+### Joke of the day (Sun Mar 05 2023)
 <!-- joke -->
->Le gf: I'll dump you.Le bf: hex dump or binary dump? 
+>All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 <!-- /joke -->
 
-*Last update: Sat, 04 Mar 2023 00:44:18 GMT*
+*Last update: Sun, 05 Mar 2023 00:53:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
