@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 05 2023)
+### Joke of the day (Mon Mar 06 2023)
 <!-- joke -->
->All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+>Jesus can walk on water, but Chuck Norris can walk on Jesus.
 <!-- /joke -->
 
-*Last update: Sun, 05 Mar 2023 00:53:12 GMT*
+*Last update: Mon, 06 Mar 2023 00:47:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
