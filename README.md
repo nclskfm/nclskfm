@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 06 2023)
+### Joke of the day (Tue Mar 07 2023)
 <!-- joke -->
->Jesus can walk on water, but Chuck Norris can walk on Jesus.
+>Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
 <!-- /joke -->
 
-*Last update: Mon, 06 Mar 2023 00:47:25 GMT*
+*Last update: Tue, 07 Mar 2023 00:50:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
