@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 07 2023)
+### Joke of the day (Wed Mar 08 2023)
 <!-- joke -->
->Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
+>Godzilla is a Japanese rendition of Chuck Norris' first visit to Tokyo.
 <!-- /joke -->
 
-*Last update: Tue, 07 Mar 2023 00:50:48 GMT*
+*Last update: Wed, 08 Mar 2023 00:51:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
