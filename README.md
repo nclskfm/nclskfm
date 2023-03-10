@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 09 2023)
+### Joke of the day (Fri Mar 10 2023)
 <!-- joke -->
->The phrase 'break a leg' was originally coined by Chuck Norris's co-stars in Walker, Texas Ranger as a good luck charm, indicating that a broken leg might be the worst extent of their injuries. This never proved to be the case.
+>Nobody doesn't like Sara Lee. Except Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 09 Mar 2023 00:47:54 GMT*
+*Last update: Fri, 10 Mar 2023 00:47:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
