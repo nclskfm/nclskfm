@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 10 2023)
+### Joke of the day (Sat Mar 11 2023)
 <!-- joke -->
->Nobody doesn't like Sara Lee. Except Chuck Norris.
+>A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 <!-- /joke -->
 
-*Last update: Fri, 10 Mar 2023 00:47:16 GMT*
+*Last update: Sat, 11 Mar 2023 00:40:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
