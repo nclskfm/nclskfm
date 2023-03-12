@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 11 2023)
+### Joke of the day (Sun Mar 12 2023)
 <!-- joke -->
->A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
+>Chuck Norris can retrieve anything from /dev/null.
 <!-- /joke -->
 
-*Last update: Sat, 11 Mar 2023 00:40:26 GMT*
+*Last update: Sun, 12 Mar 2023 00:48:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
