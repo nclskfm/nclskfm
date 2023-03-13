@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 12 2023)
+### Joke of the day (Mon Mar 13 2023)
 <!-- joke -->
->Chuck Norris can retrieve anything from /dev/null.
+>Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
 <!-- /joke -->
 
-*Last update: Sun, 12 Mar 2023 00:48:27 GMT*
+*Last update: Mon, 13 Mar 2023 00:44:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
