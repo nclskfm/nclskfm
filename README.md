@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 13 2023)
+### Joke of the day (Tue Mar 14 2023)
 <!-- joke -->
->Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
+>Some things Man was never meant to know. For everything else there’s Google.
 <!-- /joke -->
 
-*Last update: Mon, 13 Mar 2023 00:44:33 GMT*
+*Last update: Tue, 14 Mar 2023 00:39:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
