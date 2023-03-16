@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 15 2023)
+### Joke of the day (Thu Mar 16 2023)
 <!-- joke -->
->Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
+>Chuck Norris once round-house kicked a salesman. Over the phone.
 <!-- /joke -->
 
-*Last update: Wed, 15 Mar 2023 00:44:40 GMT*
+*Last update: Thu, 16 Mar 2023 00:46:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
