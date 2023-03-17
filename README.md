@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 16 2023)
+### Joke of the day (Fri Mar 17 2023)
 <!-- joke -->
->Chuck Norris once round-house kicked a salesman. Over the phone.
+>Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 <!-- /joke -->
 
-*Last update: Thu, 16 Mar 2023 00:46:34 GMT*
+*Last update: Fri, 17 Mar 2023 00:43:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
