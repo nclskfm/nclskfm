@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 17 2023)
+### Joke of the day (Sat Mar 18 2023)
 <!-- joke -->
->Contrary to popular belief, there is indeed enough Chuck Norris to go around.
+>Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
 <!-- /joke -->
 
-*Last update: Fri, 17 Mar 2023 00:43:59 GMT*
+*Last update: Sat, 18 Mar 2023 00:42:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
