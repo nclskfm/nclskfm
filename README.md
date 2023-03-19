@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 18 2023)
+### Joke of the day (Sun Mar 19 2023)
 <!-- joke -->
->Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
+>There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 18 Mar 2023 00:42:25 GMT*
+*Last update: Sun, 19 Mar 2023 00:48:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
