@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 19 2023)
+### Joke of the day (Mon Mar 20 2023)
 <!-- joke -->
->There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
+>They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
 <!-- /joke -->
 
-*Last update: Sun, 19 Mar 2023 00:48:12 GMT*
+*Last update: Mon, 20 Mar 2023 00:45:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
