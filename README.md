@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 20 2023)
+### Joke of the day (Tue Mar 21 2023)
 <!-- joke -->
->They once made a Chuck Norris toilet paper, but there was a problem-- It wouldn't take shit from anybody.
+>Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
 <!-- /joke -->
 
-*Last update: Mon, 20 Mar 2023 00:45:27 GMT*
+*Last update: Tue, 21 Mar 2023 00:41:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
