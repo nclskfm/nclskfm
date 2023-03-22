@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 21 2023)
+### Joke of the day (Wed Mar 22 2023)
 <!-- joke -->
->Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
+>When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
 <!-- /joke -->
 
-*Last update: Tue, 21 Mar 2023 00:41:34 GMT*
+*Last update: Wed, 22 Mar 2023 00:41:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
