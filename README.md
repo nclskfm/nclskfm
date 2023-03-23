@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 22 2023)
+### Joke of the day (Thu Mar 23 2023)
 <!-- joke -->
->When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
+>Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 22 Mar 2023 00:41:55 GMT*
+*Last update: Thu, 23 Mar 2023 00:42:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
