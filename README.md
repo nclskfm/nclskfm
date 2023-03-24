@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 23 2023)
+### Joke of the day (Fri Mar 24 2023)
 <!-- joke -->
->Chuck Norris does not follow fashion trends, they follow him. But then he turns around and kicks their ass. Nobody follows Chuck Norris.
+>If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
 <!-- /joke -->
 
-*Last update: Thu, 23 Mar 2023 00:42:43 GMT*
+*Last update: Fri, 24 Mar 2023 00:42:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
