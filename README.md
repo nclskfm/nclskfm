@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 24 2023)
+### Joke of the day (Sat Mar 25 2023)
 <!-- joke -->
->If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
+>Chuck Norris was banned from competitive bullriding after a 1992 exhibition in San Antonio, when he rode the bull 1,346 miles from Texas to Milwaukee Wisconsin to pick up his dry cleaning.
 <!-- /joke -->
 
-*Last update: Fri, 24 Mar 2023 00:42:03 GMT*
+*Last update: Sat, 25 Mar 2023 00:41:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
