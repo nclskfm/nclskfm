@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 26 2023)
+### Joke of the day (Mon Mar 27 2023)
 <!-- joke -->
->The Manhattan Project was not intended to create nuclear weapons, it was meant to recreate the destructive power in a Chuck Norris Roundhouse Kick. They didn't even come close.
+>Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
 <!-- /joke -->
 
-*Last update: Sun, 26 Mar 2023 00:45:33 GMT*
+*Last update: Mon, 27 Mar 2023 00:41:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
