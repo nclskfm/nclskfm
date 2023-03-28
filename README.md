@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 27 2023)
+### Joke of the day (Tue Mar 28 2023)
 <!-- joke -->
->Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
+>Chuck Norris doesn't bowl strikes, he just knocks down one pin and the other nine faint.
 <!-- /joke -->
 
-*Last update: Mon, 27 Mar 2023 00:41:19 GMT*
+*Last update: Tue, 28 Mar 2023 00:43:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
