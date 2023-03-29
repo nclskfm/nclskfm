@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 28 2023)
+### Joke of the day (Wed Mar 29 2023)
 <!-- joke -->
->Chuck Norris doesn't bowl strikes, he just knocks down one pin and the other nine faint.
+>Chuck Norris can taste lies.
 <!-- /joke -->
 
-*Last update: Tue, 28 Mar 2023 00:43:10 GMT*
+*Last update: Wed, 29 Mar 2023 00:47:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
