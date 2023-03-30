@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 29 2023)
+### Joke of the day (Thu Mar 30 2023)
 <!-- joke -->
->Chuck Norris can taste lies.
+>Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris' personal chef.
 <!-- /joke -->
 
-*Last update: Wed, 29 Mar 2023 00:47:45 GMT*
+*Last update: Thu, 30 Mar 2023 00:43:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
