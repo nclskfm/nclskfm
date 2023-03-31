@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 30 2023)
+### Joke of the day (Fri Mar 31 2023)
 <!-- joke -->
->Chuck Norris smells what the Rock is cooking... because the Rock is Chuck Norris' personal chef.
+>There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 30 Mar 2023 00:43:21 GMT*
+*Last update: Fri, 31 Mar 2023 00:43:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
