@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 31 2023)
+### Joke of the day (Sat Apr 01 2023)
 <!-- joke -->
->There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
+>Chuck Norris can access the DB from the UI.
 <!-- /joke -->
 
-*Last update: Fri, 31 Mar 2023 00:43:28 GMT*
+*Last update: Sat, 01 Apr 2023 00:42:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
