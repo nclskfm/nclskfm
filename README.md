@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 01 2023)
+### Joke of the day (Sun Apr 02 2023)
 <!-- joke -->
->Chuck Norris can access the DB from the UI.
+>Chuck Norris can install iTunes without installing Quicktime.
 <!-- /joke -->
 
-*Last update: Sat, 01 Apr 2023 00:42:27 GMT*
+*Last update: Sun, 02 Apr 2023 00:43:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
