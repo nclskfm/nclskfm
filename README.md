@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 02 2023)
+### Joke of the day (Mon Apr 03 2023)
 <!-- joke -->
->Chuck Norris can install iTunes without installing Quicktime.
+>In a world without fences and walls... who needs Gates and Windows?
 <!-- /joke -->
 
-*Last update: Sun, 02 Apr 2023 00:43:47 GMT*
+*Last update: Mon, 03 Apr 2023 00:40:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
