@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 03 2023)
+### Joke of the day (Tue Apr 04 2023)
 <!-- joke -->
->In a world without fences and walls... who needs Gates and Windows?
+>A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
 <!-- /joke -->
 
-*Last update: Mon, 03 Apr 2023 00:40:33 GMT*
+*Last update: Tue, 04 Apr 2023 00:40:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
