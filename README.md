@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 05 2023)
+### Joke of the day (Thu Apr 06 2023)
 <!-- joke -->
->When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
+>Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
 <!-- /joke -->
 
-*Last update: Wed, 05 Apr 2023 00:35:12 GMT*
+*Last update: Thu, 06 Apr 2023 00:39:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
