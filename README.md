@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 06 2023)
+### Joke of the day (Fri Apr 07 2023)
 <!-- joke -->
->Superman once watched an episode of Walker, Texas Ranger. He then cried himself to sleep.
+>The more I C.... the less I see.
 <!-- /joke -->
 
-*Last update: Thu, 06 Apr 2023 00:39:07 GMT*
+*Last update: Fri, 07 Apr 2023 00:36:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
