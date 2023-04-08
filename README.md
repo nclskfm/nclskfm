@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 07 2023)
+### Joke of the day (Sat Apr 08 2023)
 <!-- joke -->
->The more I C.... the less I see.
+>Chuck Norris' Penis is a third degree blackbelt, and an honorable 32nd-degree mason.
 <!-- /joke -->
 
-*Last update: Fri, 07 Apr 2023 00:36:33 GMT*
+*Last update: Sat, 08 Apr 2023 00:38:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
