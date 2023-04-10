@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 09 2023)
+### Joke of the day (Mon Apr 10 2023)
 <!-- joke -->
->If brute force doesn’t solve your problems... then you aren’t using enough.
+>Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 <!-- /joke -->
 
-*Last update: Sun, 09 Apr 2023 00:41:58 GMT*
+*Last update: Mon, 10 Apr 2023 00:40:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
