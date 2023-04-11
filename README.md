@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 10 2023)
+### Joke of the day (Tue Apr 11 2023)
 <!-- joke -->
->Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
+>When Chuck Norris talks, everybody listens. And dies.
 <!-- /joke -->
 
-*Last update: Mon, 10 Apr 2023 00:40:20 GMT*
+*Last update: Tue, 11 Apr 2023 00:42:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
