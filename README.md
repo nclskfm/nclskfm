@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 11 2023)
+### Joke of the day (Wed Apr 12 2023)
 <!-- joke -->
->When Chuck Norris talks, everybody listens. And dies.
+>When Chuck Norris calls 1-900 numbers, he doesn't get charged. He holds up the phone and money falls out.
 <!-- /joke -->
 
-*Last update: Tue, 11 Apr 2023 00:42:13 GMT*
+*Last update: Wed, 12 Apr 2023 00:39:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
