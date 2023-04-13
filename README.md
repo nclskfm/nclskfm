@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 12 2023)
+### Joke of the day (Thu Apr 13 2023)
 <!-- joke -->
->When Chuck Norris calls 1-900 numbers, he doesn't get charged. He holds up the phone and money falls out.
+>Chuck Norris programs occupy 150% of CPU, even when they are not executing.
 <!-- /joke -->
 
-*Last update: Wed, 12 Apr 2023 00:39:39 GMT*
+*Last update: Thu, 13 Apr 2023 00:39:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
