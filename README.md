@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 13 2023)
+### Joke of the day (Fri Apr 14 2023)
 <!-- joke -->
->Chuck Norris programs occupy 150% of CPU, even when they are not executing.
+>Chuck Norris knows the last digit of pi.
 <!-- /joke -->
 
-*Last update: Thu, 13 Apr 2023 00:39:18 GMT*
+*Last update: Fri, 14 Apr 2023 00:39:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
