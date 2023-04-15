@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 14 2023)
+### Joke of the day (Sat Apr 15 2023)
 <!-- joke -->
->Chuck Norris knows the last digit of pi.
+>Chuck Norris knows everything there is to know - Except for the definition of mercy.
 <!-- /joke -->
 
-*Last update: Fri, 14 Apr 2023 00:39:21 GMT*
+*Last update: Sat, 15 Apr 2023 00:42:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
