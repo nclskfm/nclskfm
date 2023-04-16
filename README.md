@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 15 2023)
+### Joke of the day (Sun Apr 16 2023)
 <!-- joke -->
->Chuck Norris knows everything there is to know - Except for the definition of mercy.
+>Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 15 Apr 2023 00:42:18 GMT*
+*Last update: Sun, 16 Apr 2023 00:42:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
