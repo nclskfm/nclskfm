@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 16 2023)
+### Joke of the day (Mon Apr 17 2023)
 <!-- joke -->
->Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
+>Human cloning is outlawed because of Chuck Norris, because then it would be possible for a Chuck Norris roundhouse kick to meet another Chuck Norris roundhouse kick. Physicists theorize that this contact would end the universe.
 <!-- /joke -->
 
-*Last update: Sun, 16 Apr 2023 00:42:27 GMT*
+*Last update: Mon, 17 Apr 2023 00:41:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
