@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 18 2023)
+### Joke of the day (Wed Apr 19 2023)
 <!-- joke -->
->I have a good joke on Information Technology, but you won't get IT
+>Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 18 Apr 2023 00:39:48 GMT*
+*Last update: Wed, 19 Apr 2023 00:42:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
