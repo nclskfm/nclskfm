@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 25 2023)
+### Joke of the day (Wed Apr 26 2023)
 <!-- joke -->
->On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life by nuzzling it with his beard. As the onlookers gathered, the lamb sprang to life. Chuck Norris then roundhouse kicked it, killing it instantly. This was just to prove that the good Chuck givet
+>When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
 <!-- /joke -->
 
-*Last update: Tue, 25 Apr 2023 00:41:27 GMT*
+*Last update: Wed, 26 Apr 2023 00:40:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
