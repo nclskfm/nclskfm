@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 26 2023)
+### Joke of the day (Thu Apr 27 2023)
 <!-- joke -->
->When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
+>Chuck Norris uses tabasco sauce instead of visine.
 <!-- /joke -->
 
-*Last update: Wed, 26 Apr 2023 00:40:57 GMT*
+*Last update: Thu, 27 Apr 2023 00:42:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
