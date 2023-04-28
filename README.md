@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 27 2023)
+### Joke of the day (Fri Apr 28 2023)
 <!-- joke -->
->Chuck Norris uses tabasco sauce instead of visine.
+>Programmers are tools for converting caffeine into code.
 <!-- /joke -->
 
-*Last update: Thu, 27 Apr 2023 00:42:58 GMT*
+*Last update: Fri, 28 Apr 2023 00:42:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
