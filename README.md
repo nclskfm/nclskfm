@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 28 2023)
+### Joke of the day (Sat Apr 29 2023)
 <!-- joke -->
->Programmers are tools for converting caffeine into code.
+>Diamonds are not, despite popular belief, carbon. They are, in fact, Chuck Norris fecal matter. This was proven a recently, when scientific analysis revealed what appeared to be Jean-Claude Van Damme bone fragments inside the Hope Diamond.
 <!-- /joke -->
 
-*Last update: Fri, 28 Apr 2023 00:42:11 GMT*
+*Last update: Sat, 29 Apr 2023 00:39:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
