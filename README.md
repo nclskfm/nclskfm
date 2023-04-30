@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 29 2023)
+### Joke of the day (Sun Apr 30 2023)
 <!-- joke -->
->Diamonds are not, despite popular belief, carbon. They are, in fact, Chuck Norris fecal matter. This was proven a recently, when scientific analysis revealed what appeared to be Jean-Claude Van Damme bone fragments inside the Hope Diamond.
+>Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
 <!-- /joke -->
 
-*Last update: Sat, 29 Apr 2023 00:39:47 GMT*
+*Last update: Sun, 30 Apr 2023 00:44:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
