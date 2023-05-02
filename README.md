@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 01 2023)
+### Joke of the day (Tue May 02 2023)
 <!-- joke -->
->A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
+>Along with his black belt, Chuck Norris often chooses to wear brown shoes. No one has DARED call him on it. Ever.
 <!-- /joke -->
 
-*Last update: Mon, 01 May 2023 00:42:54 GMT*
+*Last update: Tue, 02 May 2023 00:41:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
