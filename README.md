@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 02 2023)
+### Joke of the day (Wed May 03 2023)
 <!-- joke -->
->Along with his black belt, Chuck Norris often chooses to wear brown shoes. No one has DARED call him on it. Ever.
+>When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
 <!-- /joke -->
 
-*Last update: Tue, 02 May 2023 00:41:37 GMT*
+*Last update: Wed, 03 May 2023 00:40:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
