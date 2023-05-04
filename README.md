@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 03 2023)
+### Joke of the day (Thu May 04 2023)
 <!-- joke -->
->When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
+>Chuck Norris does not code in cycles, he codes in strikes.
 <!-- /joke -->
 
-*Last update: Wed, 03 May 2023 00:40:29 GMT*
+*Last update: Thu, 04 May 2023 00:40:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
