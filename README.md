@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 04 2023)
+### Joke of the day (Fri May 05 2023)
 <!-- joke -->
->Chuck Norris does not code in cycles, he codes in strikes.
+>After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history.
 <!-- /joke -->
 
-*Last update: Thu, 04 May 2023 00:40:44 GMT*
+*Last update: Fri, 05 May 2023 00:38:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
