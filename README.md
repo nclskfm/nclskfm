@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 05 2023)
+### Joke of the day (Sat May 06 2023)
 <!-- joke -->
->After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history.
+>Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
 <!-- /joke -->
 
-*Last update: Fri, 05 May 2023 00:38:10 GMT*
+*Last update: Sat, 06 May 2023 00:37:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
