@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 07 2023)
+### Joke of the day (Mon May 08 2023)
 <!-- joke -->
->When Chuck Norris talks, everybody listens. And dies.
+>Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
 <!-- /joke -->
 
-*Last update: Sun, 07 May 2023 00:44:02 GMT*
+*Last update: Mon, 08 May 2023 00:39:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
