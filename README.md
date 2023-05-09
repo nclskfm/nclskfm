@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 08 2023)
+### Joke of the day (Tue May 09 2023)
 <!-- joke -->
->Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
+>Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
 <!-- /joke -->
 
-*Last update: Mon, 08 May 2023 00:39:55 GMT*
+*Last update: Tue, 09 May 2023 00:41:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
