@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 09 2023)
+### Joke of the day (Wed May 10 2023)
 <!-- joke -->
 >Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
 <!-- /joke -->
 
-*Last update: Tue, 09 May 2023 00:41:28 GMT*
+*Last update: Wed, 10 May 2023 00:40:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
