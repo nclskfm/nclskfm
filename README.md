@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 10 2023)
+### Joke of the day (Thu May 11 2023)
 <!-- joke -->
->Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
+>Jesus can walk on water, but Chuck Norris can walk on Jesus.
 <!-- /joke -->
 
-*Last update: Wed, 10 May 2023 00:40:52 GMT*
+*Last update: Thu, 11 May 2023 00:40:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
