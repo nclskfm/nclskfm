@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 11 2023)
+### Joke of the day (Fri May 12 2023)
 <!-- joke -->
->Jesus can walk on water, but Chuck Norris can walk on Jesus.
+>Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
 <!-- /joke -->
 
-*Last update: Thu, 11 May 2023 00:40:36 GMT*
+*Last update: Fri, 12 May 2023 00:40:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
