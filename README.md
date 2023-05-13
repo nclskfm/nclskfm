@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 12 2023)
+### Joke of the day (Sat May 13 2023)
 <!-- joke -->
->Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
+>Hand over the calculator... friends don’t let friends derive drunk.
 <!-- /joke -->
 
-*Last update: Fri, 12 May 2023 00:40:53 GMT*
+*Last update: Sat, 13 May 2023 00:39:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
