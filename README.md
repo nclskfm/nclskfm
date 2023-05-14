@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 13 2023)
+### Joke of the day (Sun May 14 2023)
 <!-- joke -->
->Hand over the calculator... friends don’t let friends derive drunk.
+>Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
 <!-- /joke -->
 
-*Last update: Sat, 13 May 2023 00:39:00 GMT*
+*Last update: Sun, 14 May 2023 00:43:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
