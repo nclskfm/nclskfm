@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 14 2023)
+### Joke of the day (Mon May 15 2023)
 <!-- joke -->
->Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
+>Chuck Norris can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell 'What The Hell was That?'.
 <!-- /joke -->
 
-*Last update: Sun, 14 May 2023 00:43:42 GMT*
+*Last update: Mon, 15 May 2023 00:42:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
