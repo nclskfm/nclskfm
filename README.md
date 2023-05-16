@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 15 2023)
+### Joke of the day (Tue May 16 2023)
 <!-- joke -->
->Chuck Norris can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell 'What The Hell was That?'.
+>MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
 <!-- /joke -->
 
-*Last update: Mon, 15 May 2023 00:42:02 GMT*
+*Last update: Tue, 16 May 2023 00:41:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
