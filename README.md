@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 16 2023)
+### Joke of the day (Wed May 17 2023)
 <!-- joke -->
->MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
+>Chuck Norris went out of an infinite loop.
 <!-- /joke -->
 
-*Last update: Tue, 16 May 2023 00:41:47 GMT*
+*Last update: Wed, 17 May 2023 00:43:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
