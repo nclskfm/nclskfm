@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 17 2023)
+### Joke of the day (Thu May 18 2023)
 <!-- joke -->
->Chuck Norris went out of an infinite loop.
+>Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
 <!-- /joke -->
 
-*Last update: Wed, 17 May 2023 00:43:38 GMT*
+*Last update: Thu, 18 May 2023 00:40:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
