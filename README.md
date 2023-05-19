@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 18 2023)
+### Joke of the day (Fri May 19 2023)
 <!-- joke -->
->Wilt Chamberlain claims to have slept with more than 20,000 women in his lifetime. Chuck Norris calls this 'a slow Tuesday.'
+>Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
 <!-- /joke -->
 
-*Last update: Thu, 18 May 2023 00:40:54 GMT*
+*Last update: Fri, 19 May 2023 00:41:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
