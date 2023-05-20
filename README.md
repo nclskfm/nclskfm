@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 19 2023)
+### Joke of the day (Sat May 20 2023)
 <!-- joke -->
->Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
+>Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
 <!-- /joke -->
 
-*Last update: Fri, 19 May 2023 00:41:30 GMT*
+*Last update: Sat, 20 May 2023 00:39:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
