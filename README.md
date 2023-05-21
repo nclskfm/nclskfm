@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 20 2023)
+### Joke of the day (Sun May 21 2023)
 <!-- joke -->
->Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
+>Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
 <!-- /joke -->
 
-*Last update: Sat, 20 May 2023 00:39:14 GMT*
+*Last update: Sun, 21 May 2023 00:44:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
