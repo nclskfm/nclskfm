@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 21 2023)
+### Joke of the day (Mon May 22 2023)
 <!-- joke -->
->Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
+>Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 21 May 2023 00:44:17 GMT*
+*Last update: Mon, 22 May 2023 00:43:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
