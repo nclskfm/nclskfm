@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 22 2023)
+### Joke of the day (Tue May 23 2023)
 <!-- joke -->
->Chuck Norris uses a night light. Not because Chuck Norris is afraid of the dark, but the dark is afraid of Chuck Norris.
+>The word 'Kill' was invented by Chuck Norris. Other words were 'Die', 'Beer', and 'What'.
 <!-- /joke -->
 
-*Last update: Mon, 22 May 2023 00:43:39 GMT*
+*Last update: Tue, 23 May 2023 00:42:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
