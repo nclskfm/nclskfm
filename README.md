@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 23 2023)
+### Joke of the day (Wed May 24 2023)
 <!-- joke -->
->The word 'Kill' was invented by Chuck Norris. Other words were 'Die', 'Beer', and 'What'.
+>The First rule of Chuck Norris is: you do not talk about Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 23 May 2023 00:42:20 GMT*
+*Last update: Wed, 24 May 2023 00:42:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
