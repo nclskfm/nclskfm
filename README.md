@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 24 2023)
+### Joke of the day (Thu May 25 2023)
 <!-- joke -->
->The First rule of Chuck Norris is: you do not talk about Chuck Norris.
+>Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
 <!-- /joke -->
 
-*Last update: Wed, 24 May 2023 00:42:27 GMT*
+*Last update: Thu, 25 May 2023 00:42:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
