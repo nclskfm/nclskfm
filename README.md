@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 25 2023)
+### Joke of the day (Fri May 26 2023)
 <!-- joke -->
->Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
+>A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
 <!-- /joke -->
 
-*Last update: Thu, 25 May 2023 00:42:04 GMT*
+*Last update: Fri, 26 May 2023 00:41:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
