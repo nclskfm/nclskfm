@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 26 2023)
+### Joke of the day (Sat May 27 2023)
 <!-- joke -->
->A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
+>Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
 <!-- /joke -->
 
-*Last update: Fri, 26 May 2023 00:41:33 GMT*
+*Last update: Sat, 27 May 2023 00:42:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
