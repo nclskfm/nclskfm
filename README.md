@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 27 2023)
+### Joke of the day (Sun May 28 2023)
 <!-- joke -->
->Chuck Norris once roundhouse kicked someone so hard that his foot broke the speed of light, went back in time, and killed Amelia Earhart while she was flying over the Pacific Ocean.
+>Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
 <!-- /joke -->
 
-*Last update: Sat, 27 May 2023 00:42:47 GMT*
+*Last update: Sun, 28 May 2023 00:45:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
