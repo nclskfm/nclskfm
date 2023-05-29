@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 28 2023)
+### Joke of the day (Mon May 29 2023)
 <!-- joke -->
->Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
+>When J. Robert Oppenheimer said 'I am become death, the destroyer Of worlds', He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
 <!-- /joke -->
 
-*Last update: Sun, 28 May 2023 00:45:16 GMT*
+*Last update: Mon, 29 May 2023 00:42:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
