@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 29 2023)
+### Joke of the day (Tue May 30 2023)
 <!-- joke -->
->When J. Robert Oppenheimer said 'I am become death, the destroyer Of worlds', He was not referring to the atomic bomb. He was referring to the Chuck Norris halloween costume he was wearing.
+>A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
 <!-- /joke -->
 
-*Last update: Mon, 29 May 2023 00:42:52 GMT*
+*Last update: Tue, 30 May 2023 00:43:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
