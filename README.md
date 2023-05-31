@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 30 2023)
+### Joke of the day (Wed May 31 2023)
 <!-- joke -->
->A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
+>When Chuck Norris talks, everybody listens. And dies.
 <!-- /joke -->
 
-*Last update: Tue, 30 May 2023 00:43:29 GMT*
+*Last update: Wed, 31 May 2023 00:47:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
