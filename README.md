@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 31 2023)
+### Joke of the day (Thu Jun 01 2023)
 <!-- joke -->
->When Chuck Norris talks, everybody listens. And dies.
+>Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colombia's infrastructure.
 <!-- /joke -->
 
-*Last update: Wed, 31 May 2023 00:47:09 GMT*
+*Last update: Thu, 01 Jun 2023 00:58:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
