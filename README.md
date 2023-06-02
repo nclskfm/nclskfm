@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 01 2023)
+### Joke of the day (Fri Jun 02 2023)
 <!-- joke -->
->Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colombia's infrastructure.
+>Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
 <!-- /joke -->
 
-*Last update: Thu, 01 Jun 2023 00:58:02 GMT*
+*Last update: Fri, 02 Jun 2023 00:50:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
