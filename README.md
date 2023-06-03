@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 02 2023)
+### Joke of the day (Sat Jun 03 2023)
 <!-- joke -->
->Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
+>What's the object-oriented way to become wealthy? Inheritance.
 <!-- /joke -->
 
-*Last update: Fri, 02 Jun 2023 00:50:58 GMT*
+*Last update: Sat, 03 Jun 2023 00:45:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
