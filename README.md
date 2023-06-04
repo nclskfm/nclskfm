@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 03 2023)
+### Joke of the day (Sun Jun 04 2023)
 <!-- joke -->
->What's the object-oriented way to become wealthy? Inheritance.
+>When Chuck Norris was a baby, he didn't suck his mother's breast. His mother served him whiskey, straight out of the bottle.
 <!-- /joke -->
 
-*Last update: Sat, 03 Jun 2023 00:45:46 GMT*
+*Last update: Sun, 04 Jun 2023 00:55:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
