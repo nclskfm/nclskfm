@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 05 2023)
+### Joke of the day (Tue Jun 06 2023)
 <!-- joke -->
->With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
+>Chuck Norris doesn't look both ways before he crosses the street... he just roundhouses any cars that get too close.
 <!-- /joke -->
 
-*Last update: Mon, 05 Jun 2023 00:47:31 GMT*
+*Last update: Tue, 06 Jun 2023 00:48:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
