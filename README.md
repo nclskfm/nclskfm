@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 06 2023)
+### Joke of the day (Wed Jun 07 2023)
 <!-- joke -->
->Chuck Norris doesn't look both ways before he crosses the street... he just roundhouses any cars that get too close.
+>It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
 <!-- /joke -->
 
-*Last update: Tue, 06 Jun 2023 00:48:59 GMT*
+*Last update: Wed, 07 Jun 2023 00:51:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
