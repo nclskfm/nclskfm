@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 07 2023)
+### Joke of the day (Thu Jun 08 2023)
 <!-- joke -->
->It's widely believed that Jesus was Chuck Norris' stunt double for crucifixion due to the fact that it is impossible for nails to pierce Chuck Norris' skin.
+>Chuck Norris can compile syntax errors.
 <!-- /joke -->
 
-*Last update: Wed, 07 Jun 2023 00:51:04 GMT*
+*Last update: Thu, 08 Jun 2023 00:47:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
