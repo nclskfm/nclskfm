@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 08 2023)
+### Joke of the day (Fri Jun 09 2023)
 <!-- joke -->
->Chuck Norris can compile syntax errors.
+>Chuck Norris can lead a horse to water AND make it drink.
 <!-- /joke -->
 
-*Last update: Thu, 08 Jun 2023 00:47:48 GMT*
+*Last update: Fri, 09 Jun 2023 00:50:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
