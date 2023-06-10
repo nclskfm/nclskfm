@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 09 2023)
+### Joke of the day (Sat Jun 10 2023)
 <!-- joke -->
->Chuck Norris can lead a horse to water AND make it drink.
+>Chuck Norris doesn't play god. Playing is for children.
 <!-- /joke -->
 
-*Last update: Fri, 09 Jun 2023 00:50:23 GMT*
+*Last update: Sat, 10 Jun 2023 00:44:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
