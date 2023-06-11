@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 10 2023)
+### Joke of the day (Sun Jun 11 2023)
 <!-- joke -->
->Chuck Norris doesn't play god. Playing is for children.
+>Using his trademark roundhouse kick, Chuck Norris once made a fieldgoal in RJ Stadium in Tampa Bay from the 50 yard line of Qualcomm stadium in San Diego.
 <!-- /joke -->
 
-*Last update: Sat, 10 Jun 2023 00:44:23 GMT*
+*Last update: Sun, 11 Jun 2023 00:53:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
