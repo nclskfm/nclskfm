@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 12 2023)
+### Joke of the day (Tue Jun 13 2023)
 <!-- joke -->
->In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
+>Chuck Norris doesn't use reflection, reflection asks politely for his help.
 <!-- /joke -->
 
-*Last update: Mon, 12 Jun 2023 00:51:12 GMT*
+*Last update: Tue, 13 Jun 2023 00:47:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
