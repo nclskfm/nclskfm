@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 13 2023)
+### Joke of the day (Wed Jun 14 2023)
 <!-- joke -->
->Chuck Norris doesn't use reflection, reflection asks politely for his help.
+>Chuck Norris invented the internet? just so he had a place to store his porn.
 <!-- /joke -->
 
-*Last update: Tue, 13 Jun 2023 00:47:20 GMT*
+*Last update: Wed, 14 Jun 2023 00:45:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
