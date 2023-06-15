@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 14 2023)
+### Joke of the day (Thu Jun 15 2023)
 <!-- joke -->
->Chuck Norris invented the internet? just so he had a place to store his porn.
+>If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
 <!-- /joke -->
 
-*Last update: Wed, 14 Jun 2023 00:45:06 GMT*
+*Last update: Thu, 15 Jun 2023 00:46:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
