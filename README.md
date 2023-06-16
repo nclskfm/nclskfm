@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 15 2023)
+### Joke of the day (Fri Jun 16 2023)
 <!-- joke -->
->If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
+>Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all poisonous.
 <!-- /joke -->
 
-*Last update: Thu, 15 Jun 2023 00:46:46 GMT*
+*Last update: Fri, 16 Jun 2023 00:47:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
