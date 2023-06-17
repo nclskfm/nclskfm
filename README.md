@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 16 2023)
+### Joke of the day (Sat Jun 17 2023)
 <!-- joke -->
->Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all poisonous.
+>When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
 <!-- /joke -->
 
-*Last update: Fri, 16 Jun 2023 00:47:30 GMT*
+*Last update: Sat, 17 Jun 2023 00:43:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
