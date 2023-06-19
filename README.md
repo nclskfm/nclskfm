@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 18 2023)
+### Joke of the day (Mon Jun 19 2023)
 <!-- joke -->
->One day Chuck Norris walked down the street with a massive erection. There were no survivors.
+>SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
 <!-- /joke -->
 
-*Last update: Sun, 18 Jun 2023 00:52:54 GMT*
+*Last update: Mon, 19 Jun 2023 00:46:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
