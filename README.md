@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 19 2023)
+### Joke of the day (Tue Jun 20 2023)
 <!-- joke -->
->SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
+>In the Words of Julius Caesar, 'Veni, Vidi, Vici, Chuck Norris'. Translation: I came, I saw, and I was roundhouse-kicked inthe face by Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 19 Jun 2023 00:46:34 GMT*
+*Last update: Tue, 20 Jun 2023 00:44:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
