@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 20 2023)
+### Joke of the day (Wed Jun 21 2023)
 <!-- joke -->
->In the Words of Julius Caesar, 'Veni, Vidi, Vici, Chuck Norris'. Translation: I came, I saw, and I was roundhouse-kicked inthe face by Chuck Norris.
+>When Chuck Norris is in a crowded area, he doesn't walk around people. He walks through them.
 <!-- /joke -->
 
-*Last update: Tue, 20 Jun 2023 00:44:26 GMT*
+*Last update: Wed, 21 Jun 2023 00:47:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
