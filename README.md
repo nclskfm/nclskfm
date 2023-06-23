@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 22 2023)
+### Joke of the day (Fri Jun 23 2023)
 <!-- joke -->
->Contrary to popular belief, the Titanic didn't hit an iceberg. The ship was off course and ran into Chuck Norris while he was doing the backstroke across the Atlantic.
+>Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
 <!-- /joke -->
 
-*Last update: Thu, 22 Jun 2023 00:47:04 GMT*
+*Last update: Fri, 23 Jun 2023 00:52:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
