@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 23 2023)
+### Joke of the day (Sat Jun 24 2023)
 <!-- joke -->
->Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
+>I’m not anti-social; I’m just not user friendly.
 <!-- /joke -->
 
-*Last update: Fri, 23 Jun 2023 00:52:58 GMT*
+*Last update: Sat, 24 Jun 2023 00:54:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
