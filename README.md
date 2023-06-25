@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 24 2023)
+### Joke of the day (Sun Jun 25 2023)
 <!-- joke -->
->I’m not anti-social; I’m just not user friendly.
+>Chuck Norris can lead a horse to water AND make it drink.
 <!-- /joke -->
 
-*Last update: Sat, 24 Jun 2023 00:54:03 GMT*
+*Last update: Sun, 25 Jun 2023 00:57:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
