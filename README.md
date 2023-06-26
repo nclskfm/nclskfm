@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 25 2023)
+### Joke of the day (Mon Jun 26 2023)
 <!-- joke -->
->Chuck Norris can lead a horse to water AND make it drink.
+>Chuck Norris can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time.
 <!-- /joke -->
 
-*Last update: Sun, 25 Jun 2023 00:57:55 GMT*
+*Last update: Mon, 26 Jun 2023 00:54:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
