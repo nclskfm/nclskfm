@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 26 2023)
+### Joke of the day (Tue Jun 27 2023)
 <!-- joke -->
->Chuck Norris can kick through all 6 degrees of separation, hitting anyone, anywhere, in the face, at any time.
+>Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
 <!-- /joke -->
 
-*Last update: Mon, 26 Jun 2023 00:54:59 GMT*
+*Last update: Tue, 27 Jun 2023 00:53:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
