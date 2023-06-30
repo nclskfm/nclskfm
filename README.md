@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 29 2023)
+### Joke of the day (Fri Jun 30 2023)
 <!-- joke -->
->When Chuck Norris talks, everybody listens. And dies.
+>Chuck Norris can solve the Towers of Hanoi in one move.
 <!-- /joke -->
 
-*Last update: Thu, 29 Jun 2023 00:52:04 GMT*
+*Last update: Fri, 30 Jun 2023 00:50:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
