@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 30 2023)
+### Joke of the day (Sat Jul 01 2023)
 <!-- joke -->
->Chuck Norris can solve the Towers of Hanoi in one move.
+>Chuck Norris got his drivers license at the age of 16. Seconds.
 <!-- /joke -->
 
-*Last update: Fri, 30 Jun 2023 00:50:33 GMT*
+*Last update: Sat, 01 Jul 2023 00:58:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
