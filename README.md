@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 02 2023)
+### Joke of the day (Mon Jul 03 2023)
 <!-- joke -->
->After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
+>Unix is user friendly. It’s just selective about who its friends are.
 <!-- /joke -->
 
-*Last update: Sun, 02 Jul 2023 00:55:30 GMT*
+*Last update: Mon, 03 Jul 2023 00:54:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
