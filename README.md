@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 03 2023)
+### Joke of the day (Tue Jul 04 2023)
 <!-- joke -->
->Unix is user friendly. It’s just selective about who its friends are.
+>When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 <!-- /joke -->
 
-*Last update: Mon, 03 Jul 2023 00:54:06 GMT*
+*Last update: Tue, 04 Jul 2023 00:54:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
