@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 05 2023)
+### Joke of the day (Thu Jul 06 2023)
 <!-- joke -->
->Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
+>Chuck Norris doesn't wash his clothes. He disembowels them.
 <!-- /joke -->
 
-*Last update: Wed, 05 Jul 2023 00:54:57 GMT*
+*Last update: Thu, 06 Jul 2023 00:55:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
