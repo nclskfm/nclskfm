@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 06 2023)
+### Joke of the day (Fri Jul 07 2023)
 <!-- joke -->
->Chuck Norris doesn't wash his clothes. He disembowels them.
+>undefined
 <!-- /joke -->
 
-*Last update: Thu, 06 Jul 2023 00:55:25 GMT*
+*Last update: Fri, 07 Jul 2023 00:55:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
