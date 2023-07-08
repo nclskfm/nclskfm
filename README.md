@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 07 2023)
+### Joke of the day (Sat Jul 08 2023)
 <!-- joke -->
->undefined
+>Do you know why Baskin Robbins only has 31 flavors? Because Chuck Norris doesn't like Fudge Ripple.
 <!-- /joke -->
 
-*Last update: Fri, 07 Jul 2023 00:55:54 GMT*
+*Last update: Sat, 08 Jul 2023 00:54:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
