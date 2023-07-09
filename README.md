@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 08 2023)
+### Joke of the day (Sun Jul 09 2023)
 <!-- joke -->
->Do you know why Baskin Robbins only has 31 flavors? Because Chuck Norris doesn't like Fudge Ripple.
+>Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
 <!-- /joke -->
 
-*Last update: Sat, 08 Jul 2023 00:54:19 GMT*
+*Last update: Sun, 09 Jul 2023 00:57:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
