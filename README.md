@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 09 2023)
+### Joke of the day (Mon Jul 10 2023)
 <!-- joke -->
->Chuck Norris doesn't churn butter. He roundhouse kicks the cows and the butter comes straight out.
+>Chuck Norris' first job was as a paperboy. There were no survivors.
 <!-- /joke -->
 
-*Last update: Sun, 09 Jul 2023 00:57:31 GMT*
+*Last update: Mon, 10 Jul 2023 00:53:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
