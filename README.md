@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 10 2023)
+### Joke of the day (Tue Jul 11 2023)
 <!-- joke -->
->Chuck Norris' first job was as a paperboy. There were no survivors.
+>Jesus can walk on water, but Chuck Norris can walk on Jesus.
 <!-- /joke -->
 
-*Last update: Mon, 10 Jul 2023 00:53:25 GMT*
+*Last update: Tue, 11 Jul 2023 00:46:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
