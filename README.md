@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 11 2023)
+### Joke of the day (Wed Jul 12 2023)
 <!-- joke -->
->Jesus can walk on water, but Chuck Norris can walk on Jesus.
+>UNIX is user friendly, it's just very particular about who it's friends are.
 <!-- /joke -->
 
-*Last update: Tue, 11 Jul 2023 00:46:36 GMT*
+*Last update: Wed, 12 Jul 2023 00:53:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
