@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 12 2023)
+### Joke of the day (Thu Jul 13 2023)
 <!-- joke -->
->UNIX is user friendly, it's just very particular about who it's friends are.
+>Chuck Norris can touch MC Hammer.
 <!-- /joke -->
 
-*Last update: Wed, 12 Jul 2023 00:53:47 GMT*
+*Last update: Thu, 13 Jul 2023 00:55:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
