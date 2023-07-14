@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 13 2023)
+### Joke of the day (Fri Jul 14 2023)
 <!-- joke -->
->Chuck Norris can touch MC Hammer.
+>Computers make very fast and very accurate mistakes.
 <!-- /joke -->
 
-*Last update: Thu, 13 Jul 2023 00:55:06 GMT*
+*Last update: Fri, 14 Jul 2023 00:54:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
