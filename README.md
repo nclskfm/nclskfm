@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 14 2023)
+### Joke of the day (Sat Jul 15 2023)
 <!-- joke -->
->Computers make very fast and very accurate mistakes.
+>Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
 <!-- /joke -->
 
-*Last update: Fri, 14 Jul 2023 00:54:11 GMT*
+*Last update: Sat, 15 Jul 2023 00:53:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
