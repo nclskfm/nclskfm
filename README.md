@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 15 2023)
+### Joke of the day (Sun Jul 16 2023)
 <!-- joke -->
->Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
+>Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
 <!-- /joke -->
 
-*Last update: Sat, 15 Jul 2023 00:53:04 GMT*
+*Last update: Sun, 16 Jul 2023 00:58:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
