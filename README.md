@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 16 2023)
+### Joke of the day (Mon Jul 17 2023)
 <!-- joke -->
->Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
+>Some kids play Kick the can. Chuck Norris played Kick the keg.
 <!-- /joke -->
 
-*Last update: Sun, 16 Jul 2023 00:58:39 GMT*
+*Last update: Mon, 17 Jul 2023 00:56:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
