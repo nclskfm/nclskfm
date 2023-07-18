@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 17 2023)
+### Joke of the day (Tue Jul 18 2023)
 <!-- joke -->
->Some kids play Kick the can. Chuck Norris played Kick the keg.
+>Chuck Norris has volunteered to remain on earth after the Rapture; he will spend his time fighting the Anti-Christ.
 <!-- /joke -->
 
-*Last update: Mon, 17 Jul 2023 00:56:16 GMT*
+*Last update: Tue, 18 Jul 2023 01:10:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
