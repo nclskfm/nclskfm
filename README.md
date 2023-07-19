@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 18 2023)
+### Joke of the day (Wed Jul 19 2023)
 <!-- joke -->
->Chuck Norris has volunteered to remain on earth after the Rapture; he will spend his time fighting the Anti-Christ.
+>Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
 <!-- /joke -->
 
-*Last update: Tue, 18 Jul 2023 01:10:29 GMT*
+*Last update: Wed, 19 Jul 2023 01:23:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
