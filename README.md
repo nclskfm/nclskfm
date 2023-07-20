@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 19 2023)
+### Joke of the day (Thu Jul 20 2023)
 <!-- joke -->
->Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
+>Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
 <!-- /joke -->
 
-*Last update: Wed, 19 Jul 2023 01:23:07 GMT*
+*Last update: Thu, 20 Jul 2023 00:45:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
