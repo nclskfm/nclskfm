@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 21 2023)
+### Joke of the day (Sat Jul 22 2023)
 <!-- joke -->
->If you ask Chuck Norris what time it is, he always answers 'Two seconds till'. After you ask 'Two seconds to what?', he roundhouse kicks you in the face.
+>Chuck Norris doesn't shower, he only takes blood baths.
 <!-- /joke -->
 
-*Last update: Fri, 21 Jul 2023 00:45:35 GMT*
+*Last update: Sat, 22 Jul 2023 00:45:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
