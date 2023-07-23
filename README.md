@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 22 2023)
+### Joke of the day (Sun Jul 23 2023)
 <!-- joke -->
->Chuck Norris doesn't shower, he only takes blood baths.
+>1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
 <!-- /joke -->
 
-*Last update: Sat, 22 Jul 2023 00:45:40 GMT*
+*Last update: Sun, 23 Jul 2023 00:50:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
