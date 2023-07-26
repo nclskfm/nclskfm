@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 25 2023)
+### Joke of the day (Wed Jul 26 2023)
 <!-- joke -->
->Human cloning is outlawed because of Chuck Norris, because then it would be possible for a Chuck Norris roundhouse kick to meet another Chuck Norris roundhouse kick. Physicists theorize that this contact would end the universe.
+>It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
 <!-- /joke -->
 
-*Last update: Tue, 25 Jul 2023 00:49:27 GMT*
+*Last update: Wed, 26 Jul 2023 00:44:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
