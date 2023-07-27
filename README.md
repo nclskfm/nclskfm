@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 26 2023)
+### Joke of the day (Thu Jul 27 2023)
 <!-- joke -->
->It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
+>Chuck Norris can binary search unsorted data.
 <!-- /joke -->
 
-*Last update: Wed, 26 Jul 2023 00:44:29 GMT*
+*Last update: Thu, 27 Jul 2023 00:41:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
