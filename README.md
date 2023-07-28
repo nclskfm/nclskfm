@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 27 2023)
+### Joke of the day (Fri Jul 28 2023)
 <!-- joke -->
->Chuck Norris can binary search unsorted data.
+>Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
 <!-- /joke -->
 
-*Last update: Thu, 27 Jul 2023 00:41:13 GMT*
+*Last update: Fri, 28 Jul 2023 00:41:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
