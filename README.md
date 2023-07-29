@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 28 2023)
+### Joke of the day (Sat Jul 29 2023)
 <!-- joke -->
->Chuck Norris does not play the lottery. It doesn't have nearly enough balls.
+>There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 28 Jul 2023 00:41:24 GMT*
+*Last update: Sat, 29 Jul 2023 00:42:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
