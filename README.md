@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 29 2023)
+### Joke of the day (Sun Jul 30 2023)
 <!-- joke -->
->There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
+>The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
 <!-- /joke -->
 
-*Last update: Sat, 29 Jul 2023 00:42:26 GMT*
+*Last update: Sun, 30 Jul 2023 00:45:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
