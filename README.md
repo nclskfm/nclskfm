@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 30 2023)
+### Joke of the day (Mon Jul 31 2023)
 <!-- joke -->
->The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
+>Chuck Norris uses tabasco sauce instead of visine.
 <!-- /joke -->
 
-*Last update: Sun, 30 Jul 2023 00:45:18 GMT*
+*Last update: Mon, 31 Jul 2023 00:46:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
