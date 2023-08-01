@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 31 2023)
+### Joke of the day (Tue Aug 01 2023)
 <!-- joke -->
->Chuck Norris uses tabasco sauce instead of visine.
+>To err is human – and to blame it on a computer is even more so.
 <!-- /joke -->
 
-*Last update: Mon, 31 Jul 2023 00:46:44 GMT*
+*Last update: Tue, 01 Aug 2023 00:48:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
