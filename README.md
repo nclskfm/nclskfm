@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 01 2023)
+### Joke of the day (Wed Aug 02 2023)
 <!-- joke -->
->To err is human – and to blame it on a computer is even more so.
+>The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron's ass halfway through the first chapter.
 <!-- /joke -->
 
-*Last update: Tue, 01 Aug 2023 00:48:42 GMT*
+*Last update: Wed, 02 Aug 2023 00:43:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
