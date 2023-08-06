@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 05 2023)
+### Joke of the day (Sun Aug 06 2023)
 <!-- joke -->
->Chuck Norris sheds his skin twice a year.
+>The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 05 Aug 2023 00:42:01 GMT*
+*Last update: Sun, 06 Aug 2023 00:39:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
