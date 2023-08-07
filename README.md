@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 06 2023)
+### Joke of the day (Mon Aug 07 2023)
 <!-- joke -->
->The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
+>The code that is the hardest to debug is the code that you know cannot possibly be wrong.
 <!-- /joke -->
 
-*Last update: Sun, 06 Aug 2023 00:39:35 GMT*
+*Last update: Mon, 07 Aug 2023 00:43:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
