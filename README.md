@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 07 2023)
+### Joke of the day (Tue Aug 08 2023)
 <!-- joke -->
->The code that is the hardest to debug is the code that you know cannot possibly be wrong.
+>Black holes are where God divided by zero.
 <!-- /joke -->
 
-*Last update: Mon, 07 Aug 2023 00:43:24 GMT*
+*Last update: Tue, 08 Aug 2023 00:42:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
