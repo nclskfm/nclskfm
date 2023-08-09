@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 08 2023)
+### Joke of the day (Wed Aug 09 2023)
 <!-- joke -->
->Black holes are where God divided by zero.
+>Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer's arm and beat him to death with it. Game, set, match.
 <!-- /joke -->
 
-*Last update: Tue, 08 Aug 2023 00:42:19 GMT*
+*Last update: Wed, 09 Aug 2023 00:43:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
