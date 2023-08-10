@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 09 2023)
+### Joke of the day (Thu Aug 10 2023)
 <!-- joke -->
->Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer's arm and beat him to death with it. Game, set, match.
+>No one has ever pair-programmed with Chuck Norris and lived to tell about it.
 <!-- /joke -->
 
-*Last update: Wed, 09 Aug 2023 00:43:42 GMT*
+*Last update: Thu, 10 Aug 2023 00:45:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
