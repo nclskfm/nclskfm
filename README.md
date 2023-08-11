@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 10 2023)
+### Joke of the day (Fri Aug 11 2023)
 <!-- joke -->
->No one has ever pair-programmed with Chuck Norris and lived to tell about it.
+>Chuck Norris finished World of Warcraft.
 <!-- /joke -->
 
-*Last update: Thu, 10 Aug 2023 00:45:04 GMT*
+*Last update: Fri, 11 Aug 2023 00:34:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
