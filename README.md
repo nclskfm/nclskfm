@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 11 2023)
+### Joke of the day (Sat Aug 12 2023)
 <!-- joke -->
->Chuck Norris finished World of Warcraft.
+>Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
 <!-- /joke -->
 
-*Last update: Fri, 11 Aug 2023 00:34:14 GMT*
+*Last update: Sat, 12 Aug 2023 00:33:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
