@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 12 2023)
+### Joke of the day (Sun Aug 13 2023)
 <!-- joke -->
->Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
+>On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
 <!-- /joke -->
 
-*Last update: Sat, 12 Aug 2023 00:33:31 GMT*
+*Last update: Sun, 13 Aug 2023 00:36:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
