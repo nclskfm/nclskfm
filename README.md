@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 13 2023)
+### Joke of the day (Mon Aug 14 2023)
 <!-- joke -->
->On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
+>Chuck Norris sheds his skin twice a year.
 <!-- /joke -->
 
-*Last update: Sun, 13 Aug 2023 00:36:32 GMT*
+*Last update: Mon, 14 Aug 2023 00:35:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
