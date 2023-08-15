@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 14 2023)
+### Joke of the day (Tue Aug 15 2023)
 <!-- joke -->
->Chuck Norris sheds his skin twice a year.
+>Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
 <!-- /joke -->
 
-*Last update: Mon, 14 Aug 2023 00:35:30 GMT*
+*Last update: Tue, 15 Aug 2023 00:34:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
