@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 15 2023)
+### Joke of the day (Wed Aug 16 2023)
 <!-- joke -->
->Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
+>Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
 <!-- /joke -->
 
-*Last update: Tue, 15 Aug 2023 00:34:46 GMT*
+*Last update: Wed, 16 Aug 2023 00:34:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
