@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 16 2023)
+### Joke of the day (Thu Aug 17 2023)
 <!-- joke -->
->Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
+>Chuck Norris can binary search unsorted data.
 <!-- /joke -->
 
-*Last update: Wed, 16 Aug 2023 00:34:43 GMT*
+*Last update: Thu, 17 Aug 2023 00:34:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
