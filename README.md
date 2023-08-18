@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 17 2023)
+### Joke of the day (Fri Aug 18 2023)
 <!-- joke -->
->Chuck Norris can binary search unsorted data.
+>The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
 <!-- /joke -->
 
-*Last update: Thu, 17 Aug 2023 00:34:12 GMT*
+*Last update: Fri, 18 Aug 2023 00:34:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
