@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 18 2023)
+### Joke of the day (Sat Aug 19 2023)
 <!-- joke -->
->The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
+>Chuck Norris protocol design method has no status, requests or responses, only commands.
 <!-- /joke -->
 
-*Last update: Fri, 18 Aug 2023 00:34:30 GMT*
+*Last update: Sat, 19 Aug 2023 00:33:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
