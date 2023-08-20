@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 19 2023)
+### Joke of the day (Sun Aug 20 2023)
 <!-- joke -->
->Chuck Norris protocol design method has no status, requests or responses, only commands.
+>When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
 <!-- /joke -->
 
-*Last update: Sat, 19 Aug 2023 00:33:15 GMT*
+*Last update: Sun, 20 Aug 2023 00:36:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
