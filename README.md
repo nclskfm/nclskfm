@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 20 2023)
+### Joke of the day (Mon Aug 21 2023)
 <!-- joke -->
->When you say 'no one's perfect', Chuck Norris takes this as a personal insult.
+>Human cloning is outlawed because of Chuck Norris, because then it would be possible for a Chuck Norris roundhouse kick to meet another Chuck Norris roundhouse kick. Physicists theorize that this contact would end the universe.
 <!-- /joke -->
 
-*Last update: Sun, 20 Aug 2023 00:36:29 GMT*
+*Last update: Mon, 21 Aug 2023 00:34:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
