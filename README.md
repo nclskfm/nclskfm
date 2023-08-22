@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 21 2023)
+### Joke of the day (Tue Aug 22 2023)
 <!-- joke -->
->Human cloning is outlawed because of Chuck Norris, because then it would be possible for a Chuck Norris roundhouse kick to meet another Chuck Norris roundhouse kick. Physicists theorize that this contact would end the universe.
+>Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
 <!-- /joke -->
 
-*Last update: Mon, 21 Aug 2023 00:34:58 GMT*
+*Last update: Tue, 22 Aug 2023 00:35:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
