@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 22 2023)
+### Joke of the day (Wed Aug 23 2023)
 <!-- joke -->
->Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+>Chuck Norris did in fact, build Rome in a day.
 <!-- /joke -->
 
-*Last update: Tue, 22 Aug 2023 00:35:09 GMT*
+*Last update: Wed, 23 Aug 2023 00:34:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
