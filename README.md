@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 23 2023)
+### Joke of the day (Thu Aug 24 2023)
 <!-- joke -->
->Chuck Norris did in fact, build Rome in a day.
+>According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
 <!-- /joke -->
 
-*Last update: Wed, 23 Aug 2023 00:34:54 GMT*
+*Last update: Thu, 24 Aug 2023 00:34:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
