@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 24 2023)
+### Joke of the day (Fri Aug 25 2023)
 <!-- joke -->
->According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
+>Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
 <!-- /joke -->
 
-*Last update: Thu, 24 Aug 2023 00:34:38 GMT*
+*Last update: Fri, 25 Aug 2023 00:35:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
