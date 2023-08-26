@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 25 2023)
+### Joke of the day (Sat Aug 26 2023)
 <!-- joke -->
->Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
+>How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
 <!-- /joke -->
 
-*Last update: Fri, 25 Aug 2023 00:35:19 GMT*
+*Last update: Sat, 26 Aug 2023 00:33:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
