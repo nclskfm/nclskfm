@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 26 2023)
+### Joke of the day (Sun Aug 27 2023)
 <!-- joke -->
->How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
+>Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 <!-- /joke -->
 
-*Last update: Sat, 26 Aug 2023 00:33:49 GMT*
+*Last update: Sun, 27 Aug 2023 00:37:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
