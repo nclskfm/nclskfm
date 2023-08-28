@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 27 2023)
+### Joke of the day (Mon Aug 28 2023)
 <!-- joke -->
->Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
+>Hellen Keller's favorite color is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 27 Aug 2023 00:37:32 GMT*
+*Last update: Mon, 28 Aug 2023 00:36:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
