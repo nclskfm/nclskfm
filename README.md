@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 28 2023)
+### Joke of the day (Tue Aug 29 2023)
 <!-- joke -->
->Hellen Keller's favorite color is Chuck Norris.
+>Computers make very fast and very accurate mistakes.
 <!-- /joke -->
 
-*Last update: Mon, 28 Aug 2023 00:36:05 GMT*
+*Last update: Tue, 29 Aug 2023 00:35:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
