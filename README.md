@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 29 2023)
+### Joke of the day (Wed Aug 30 2023)
 <!-- joke -->
->Computers make very fast and very accurate mistakes.
+>It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
 <!-- /joke -->
 
-*Last update: Tue, 29 Aug 2023 00:35:38 GMT*
+*Last update: Wed, 30 Aug 2023 00:35:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
