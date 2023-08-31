@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 30 2023)
+### Joke of the day (Thu Aug 31 2023)
 <!-- joke -->
->It is said that looking into Chuck Norris' eyes will reveal your future. Unfortunately, everybody's future is always the same: death by a roundhouse-kick to the face.
+>CAPS LOCK – Preventing Login Since 1980.
 <!-- /joke -->
 
-*Last update: Wed, 30 Aug 2023 00:35:31 GMT*
+*Last update: Thu, 31 Aug 2023 00:36:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
