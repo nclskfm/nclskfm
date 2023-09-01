@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 31 2023)
+### Joke of the day (Fri Sep 01 2023)
 <!-- joke -->
->CAPS LOCK – Preventing Login Since 1980.
+>Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
 <!-- /joke -->
 
-*Last update: Thu, 31 Aug 2023 00:36:00 GMT*
+*Last update: Fri, 01 Sep 2023 00:38:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
