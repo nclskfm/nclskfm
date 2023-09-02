@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 01 2023)
+### Joke of the day (Sat Sep 02 2023)
 <!-- joke -->
->Most tough men eat nails for breakfast. Chuck Norris does all of his grocery shopping at Home Depot.
+>Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
 <!-- /joke -->
 
-*Last update: Fri, 01 Sep 2023 00:38:23 GMT*
+*Last update: Sat, 02 Sep 2023 00:34:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
