@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 02 2023)
+### Joke of the day (Sun Sep 03 2023)
 <!-- joke -->
->Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
+>He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
 <!-- /joke -->
 
-*Last update: Sat, 02 Sep 2023 00:34:04 GMT*
+*Last update: Sun, 03 Sep 2023 00:37:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
