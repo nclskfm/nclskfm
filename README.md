@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 03 2023)
+### Joke of the day (Mon Sep 04 2023)
 <!-- joke -->
->He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
+>Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
 <!-- /joke -->
 
-*Last update: Sun, 03 Sep 2023 00:37:48 GMT*
+*Last update: Mon, 04 Sep 2023 00:36:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
