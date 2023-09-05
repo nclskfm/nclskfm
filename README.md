@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 04 2023)
+### Joke of the day (Tue Sep 05 2023)
 <!-- joke -->
->Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
+>There are two types of people in the world... people that suck, and Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 04 Sep 2023 00:36:21 GMT*
+*Last update: Tue, 05 Sep 2023 00:35:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
