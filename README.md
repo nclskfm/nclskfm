@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 05 2023)
+### Joke of the day (Wed Sep 06 2023)
 <!-- joke -->
->There are two types of people in the world... people that suck, and Chuck Norris.
+>The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
 <!-- /joke -->
 
-*Last update: Tue, 05 Sep 2023 00:35:06 GMT*
+*Last update: Wed, 06 Sep 2023 00:35:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
