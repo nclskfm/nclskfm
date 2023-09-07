@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 06 2023)
+### Joke of the day (Thu Sep 07 2023)
 <!-- joke -->
->The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
+>Chuck Norris can do a wheelie on a unicycle.
 <!-- /joke -->
 
-*Last update: Wed, 06 Sep 2023 00:35:40 GMT*
+*Last update: Thu, 07 Sep 2023 00:35:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
