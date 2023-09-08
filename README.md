@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 07 2023)
+### Joke of the day (Fri Sep 08 2023)
 <!-- joke -->
->Chuck Norris can do a wheelie on a unicycle.
+>Why is C sad? Because C++ told him 'You have no class'.
 <!-- /joke -->
 
-*Last update: Thu, 07 Sep 2023 00:35:24 GMT*
+*Last update: Fri, 08 Sep 2023 00:35:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
