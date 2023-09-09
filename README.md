@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 08 2023)
+### Joke of the day (Sat Sep 09 2023)
 <!-- joke -->
->Why is C sad? Because C++ told him 'You have no class'.
+>Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
 <!-- /joke -->
 
-*Last update: Fri, 08 Sep 2023 00:35:31 GMT*
+*Last update: Sat, 09 Sep 2023 00:34:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
