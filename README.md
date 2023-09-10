@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 09 2023)
+### Joke of the day (Sun Sep 10 2023)
 <!-- joke -->
->Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+>Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 <!-- /joke -->
 
-*Last update: Sat, 09 Sep 2023 00:34:34 GMT*
+*Last update: Sun, 10 Sep 2023 00:38:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
