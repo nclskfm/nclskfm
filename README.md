@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 10 2023)
+### Joke of the day (Mon Sep 11 2023)
 <!-- joke -->
->Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+>Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
 <!-- /joke -->
 
-*Last update: Sun, 10 Sep 2023 00:38:06 GMT*
+*Last update: Mon, 11 Sep 2023 00:36:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
