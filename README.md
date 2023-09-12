@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 11 2023)
+### Joke of the day (Tue Sep 12 2023)
 <!-- joke -->
->Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
+>Chuck Norris likes his ice like he likes his skulls: crushed.
 <!-- /joke -->
 
-*Last update: Mon, 11 Sep 2023 00:36:09 GMT*
+*Last update: Tue, 12 Sep 2023 00:34:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
