@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 12 2023)
+### Joke of the day (Wed Sep 13 2023)
 <!-- joke -->
->Chuck Norris likes his ice like he likes his skulls: crushed.
+>Everybody loves Raymond. Except Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 12 Sep 2023 00:34:37 GMT*
+*Last update: Wed, 13 Sep 2023 00:36:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
