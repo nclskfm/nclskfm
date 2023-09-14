@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 13 2023)
+### Joke of the day (Thu Sep 14 2023)
 <!-- joke -->
->Everybody loves Raymond. Except Chuck Norris.
+>If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
 <!-- /joke -->
 
-*Last update: Wed, 13 Sep 2023 00:36:13 GMT*
+*Last update: Thu, 14 Sep 2023 00:35:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
