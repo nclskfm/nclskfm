@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 14 2023)
+### Joke of the day (Fri Sep 15 2023)
 <!-- joke -->
->If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
+>Chuck Norris does not need to type-cast. The Chuck-Norris Compiler (CNC) sees through things. All way down. Always.
 <!-- /joke -->
 
-*Last update: Thu, 14 Sep 2023 00:35:50 GMT*
+*Last update: Fri, 15 Sep 2023 00:36:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
