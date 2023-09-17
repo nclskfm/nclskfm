@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 16 2023)
+### Joke of the day (Sun Sep 17 2023)
 <!-- joke -->
->The Bible was originally titled 'Chuck Norris and Friends'
+>Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
 <!-- /joke -->
 
-*Last update: Sat, 16 Sep 2023 00:35:07 GMT*
+*Last update: Sun, 17 Sep 2023 00:38:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
