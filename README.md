@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 17 2023)
+### Joke of the day (Mon Sep 18 2023)
 <!-- joke -->
->Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
+>The code that is the hardest to debug is the code that you know cannot possibly be wrong.
 <!-- /joke -->
 
-*Last update: Sun, 17 Sep 2023 00:38:26 GMT*
+*Last update: Mon, 18 Sep 2023 00:36:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
