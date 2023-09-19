@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 18 2023)
+### Joke of the day (Tue Sep 19 2023)
 <!-- joke -->
->The code that is the hardest to debug is the code that you know cannot possibly be wrong.
+>Chuck Norris has the greatest Poker-Face of all time. He won the 1983 World Series of Poker, despite holding only a Joker, a Get out of Jail Free Monopoloy card, a 2 of clubs, 7 of spades and a green #4 card from the game UNO.
 <!-- /joke -->
 
-*Last update: Mon, 18 Sep 2023 00:36:22 GMT*
+*Last update: Tue, 19 Sep 2023 00:36:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
