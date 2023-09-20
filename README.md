@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 19 2023)
+### Joke of the day (Wed Sep 20 2023)
 <!-- joke -->
->Chuck Norris has the greatest Poker-Face of all time. He won the 1983 World Series of Poker, despite holding only a Joker, a Get out of Jail Free Monopoloy card, a 2 of clubs, 7 of spades and a green #4 card from the game UNO.
+>The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 19 Sep 2023 00:36:30 GMT*
+*Last update: Wed, 20 Sep 2023 00:36:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
