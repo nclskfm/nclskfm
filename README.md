@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 20 2023)
+### Joke of the day (Thu Sep 21 2023)
 <!-- joke -->
->The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
+>Chuck Norris runs on batteries. Specifically, Die Hards.
 <!-- /joke -->
 
-*Last update: Wed, 20 Sep 2023 00:36:09 GMT*
+*Last update: Thu, 21 Sep 2023 00:36:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
