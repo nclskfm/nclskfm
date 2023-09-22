@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 21 2023)
+### Joke of the day (Fri Sep 22 2023)
 <!-- joke -->
->Chuck Norris runs on batteries. Specifically, Die Hards.
+>In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
 <!-- /joke -->
 
-*Last update: Thu, 21 Sep 2023 00:36:06 GMT*
+*Last update: Fri, 22 Sep 2023 00:36:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
