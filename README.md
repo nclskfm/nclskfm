@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 23 2023)
+### Joke of the day (Sun Sep 24 2023)
 <!-- joke -->
->Chuck Norris can judge a book by its cover.
+>The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
 <!-- /joke -->
 
-*Last update: Sat, 23 Sep 2023 00:34:53 GMT*
+*Last update: Sun, 24 Sep 2023 00:38:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
