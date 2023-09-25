@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 24 2023)
+### Joke of the day (Mon Sep 25 2023)
 <!-- joke -->
->The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
+>How does a Programmer COok food ? In O(1)
 <!-- /joke -->
 
-*Last update: Sun, 24 Sep 2023 00:38:31 GMT*
+*Last update: Mon, 25 Sep 2023 00:36:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
