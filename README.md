@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 25 2023)
+### Joke of the day (Tue Sep 26 2023)
 <!-- joke -->
->How does a Programmer COok food ? In O(1)
+>The phrase 'balls to the wall' was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
 <!-- /joke -->
 
-*Last update: Mon, 25 Sep 2023 00:36:52 GMT*
+*Last update: Tue, 26 Sep 2023 00:36:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
