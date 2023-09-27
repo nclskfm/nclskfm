@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 26 2023)
+### Joke of the day (Wed Sep 27 2023)
 <!-- joke -->
->The phrase 'balls to the wall' was originally conceived to describe Chuck Norris entering any building smaller than an aircraft hangar.
+>Chuck Norris hosting is 101% uptime guaranteed.
 <!-- /joke -->
 
-*Last update: Tue, 26 Sep 2023 00:36:47 GMT*
+*Last update: Wed, 27 Sep 2023 00:36:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
