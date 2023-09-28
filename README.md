@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 27 2023)
+### Joke of the day (Thu Sep 28 2023)
 <!-- joke -->
->Chuck Norris hosting is 101% uptime guaranteed.
+>Programmers are tools for converting caffeine into code.
 <!-- /joke -->
 
-*Last update: Wed, 27 Sep 2023 00:36:44 GMT*
+*Last update: Thu, 28 Sep 2023 00:36:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
