@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 28 2023)
+### Joke of the day (Fri Sep 29 2023)
 <!-- joke -->
->Programmers are tools for converting caffeine into code.
+>The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
 <!-- /joke -->
 
-*Last update: Thu, 28 Sep 2023 00:36:22 GMT*
+*Last update: Fri, 29 Sep 2023 00:36:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
