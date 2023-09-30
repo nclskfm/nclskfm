@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 29 2023)
+### Joke of the day (Sat Sep 30 2023)
 <!-- joke -->
->The grass is always greener on the other side, unless Chuck Norris has been there. In that case the grass is most likely soaked in blood and tears.
+>Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
 <!-- /joke -->
 
-*Last update: Fri, 29 Sep 2023 00:36:46 GMT*
+*Last update: Sat, 30 Sep 2023 00:35:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
