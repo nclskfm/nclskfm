@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 30 2023)
+### Joke of the day (Sun Oct 01 2023)
 <!-- joke -->
->Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
+>Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
 <!-- /joke -->
 
-*Last update: Sat, 30 Sep 2023 00:35:39 GMT*
+*Last update: Sun, 01 Oct 2023 00:41:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
