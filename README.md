@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 01 2023)
+### Joke of the day (Mon Oct 02 2023)
 <!-- joke -->
->Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
+>Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 01 Oct 2023 00:41:49 GMT*
+*Last update: Mon, 02 Oct 2023 00:37:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
