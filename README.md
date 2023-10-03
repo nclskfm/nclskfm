@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 02 2023)
+### Joke of the day (Tue Oct 03 2023)
 <!-- joke -->
->Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
+>A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
 <!-- /joke -->
 
-*Last update: Mon, 02 Oct 2023 00:37:06 GMT*
+*Last update: Tue, 03 Oct 2023 00:36:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
