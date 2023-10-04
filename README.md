@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 03 2023)
+### Joke of the day (Wed Oct 04 2023)
 <!-- joke -->
->A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
+>Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
 <!-- /joke -->
 
-*Last update: Tue, 03 Oct 2023 00:36:59 GMT*
+*Last update: Wed, 04 Oct 2023 00:37:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
