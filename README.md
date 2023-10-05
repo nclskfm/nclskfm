@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 04 2023)
+### Joke of the day (Thu Oct 05 2023)
 <!-- joke -->
->Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
+>Chuck Norris lost his virginity before his dad did.
 <!-- /joke -->
 
-*Last update: Wed, 04 Oct 2023 00:37:04 GMT*
+*Last update: Thu, 05 Oct 2023 00:36:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
