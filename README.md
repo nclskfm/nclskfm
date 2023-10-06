@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 05 2023)
+### Joke of the day (Fri Oct 06 2023)
 <!-- joke -->
->Chuck Norris lost his virginity before his dad did.
+>It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
 <!-- /joke -->
 
-*Last update: Thu, 05 Oct 2023 00:36:40 GMT*
+*Last update: Fri, 06 Oct 2023 00:36:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
