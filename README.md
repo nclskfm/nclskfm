@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 06 2023)
+### Joke of the day (Sat Oct 07 2023)
 <!-- joke -->
->It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
+>The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 <!-- /joke -->
 
-*Last update: Fri, 06 Oct 2023 00:36:38 GMT*
+*Last update: Sat, 07 Oct 2023 00:35:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
