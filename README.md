@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 07 2023)
+### Joke of the day (Sun Oct 08 2023)
 <!-- joke -->
->The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
+>The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
 <!-- /joke -->
 
-*Last update: Sat, 07 Oct 2023 00:35:52 GMT*
+*Last update: Sun, 08 Oct 2023 00:39:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
