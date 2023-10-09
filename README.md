@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 08 2023)
+### Joke of the day (Mon Oct 09 2023)
 <!-- joke -->
->The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
+>Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
 <!-- /joke -->
 
-*Last update: Sun, 08 Oct 2023 00:39:25 GMT*
+*Last update: Mon, 09 Oct 2023 00:37:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
