@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 09 2023)
+### Joke of the day (Tue Oct 10 2023)
 <!-- joke -->
->Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
+>When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Mon, 09 Oct 2023 00:37:11 GMT*
+*Last update: Tue, 10 Oct 2023 00:36:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
