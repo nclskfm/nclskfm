@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 10 2023)
+### Joke of the day (Wed Oct 11 2023)
 <!-- joke -->
->When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+>The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 10 Oct 2023 00:36:25 GMT*
+*Last update: Wed, 11 Oct 2023 00:36:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
