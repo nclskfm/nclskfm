@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 11 2023)
+### Joke of the day (Thu Oct 12 2023)
 <!-- joke -->
->The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
+>Chuck Norris plays racquetball with a waffle iron and a bowling ball.
 <!-- /joke -->
 
-*Last update: Wed, 11 Oct 2023 00:36:35 GMT*
+*Last update: Thu, 12 Oct 2023 00:34:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
