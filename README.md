@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 12 2023)
+### Joke of the day (Fri Oct 13 2023)
 <!-- joke -->
->Chuck Norris plays racquetball with a waffle iron and a bowling ball.
+>Chuck Norris knows the last digit of pi.
 <!-- /joke -->
 
-*Last update: Thu, 12 Oct 2023 00:34:44 GMT*
+*Last update: Fri, 13 Oct 2023 00:37:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
