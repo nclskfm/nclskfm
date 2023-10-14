@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 13 2023)
+### Joke of the day (Sat Oct 14 2023)
 <!-- joke -->
->Chuck Norris knows the last digit of pi.
+>The air around Chuck Norris is always a balmy 78 degrees.
 <!-- /joke -->
 
-*Last update: Fri, 13 Oct 2023 00:37:46 GMT*
+*Last update: Sat, 14 Oct 2023 00:35:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
