@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 14 2023)
+### Joke of the day (Sun Oct 15 2023)
 <!-- joke -->
->The air around Chuck Norris is always a balmy 78 degrees.
+>Chuck Norris can take a screenshot of his blue screen.
 <!-- /joke -->
 
-*Last update: Sat, 14 Oct 2023 00:35:30 GMT*
+*Last update: Sun, 15 Oct 2023 00:39:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
