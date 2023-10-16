@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 15 2023)
+### Joke of the day (Mon Oct 16 2023)
 <!-- joke -->
->Chuck Norris can take a screenshot of his blue screen.
+>If brute force doesn’t solve your problems... then you aren’t using enough.
 <!-- /joke -->
 
-*Last update: Sun, 15 Oct 2023 00:39:38 GMT*
+*Last update: Mon, 16 Oct 2023 00:37:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
