@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 16 2023)
+### Joke of the day (Tue Oct 17 2023)
 <!-- joke -->
->If brute force doesn’t solve your problems... then you aren’t using enough.
+>Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 <!-- /joke -->
 
-*Last update: Mon, 16 Oct 2023 00:37:40 GMT*
+*Last update: Tue, 17 Oct 2023 00:37:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
