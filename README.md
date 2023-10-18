@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 17 2023)
+### Joke of the day (Wed Oct 18 2023)
 <!-- joke -->
->Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
+>Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
 <!-- /joke -->
 
-*Last update: Tue, 17 Oct 2023 00:37:10 GMT*
+*Last update: Wed, 18 Oct 2023 00:36:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
