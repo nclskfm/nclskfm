@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 18 2023)
+### Joke of the day (Thu Oct 19 2023)
 <!-- joke -->
->Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
+>A man once asked Chuck Norris if his real name is 'Charles'. Chuck Norris did not respond, he simply stared at him until he exploded.
 <!-- /joke -->
 
-*Last update: Wed, 18 Oct 2023 00:36:55 GMT*
+*Last update: Thu, 19 Oct 2023 00:36:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
