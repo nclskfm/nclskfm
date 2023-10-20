@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 19 2023)
+### Joke of the day (Fri Oct 20 2023)
 <!-- joke -->
->A man once asked Chuck Norris if his real name is 'Charles'. Chuck Norris did not respond, he simply stared at him until he exploded.
+>Chuck Norris invented the internet? just so he had a place to store his porn.
 <!-- /joke -->
 
-*Last update: Thu, 19 Oct 2023 00:36:42 GMT*
+*Last update: Fri, 20 Oct 2023 00:36:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
