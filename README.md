@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 20 2023)
+### Joke of the day (Sat Oct 21 2023)
 <!-- joke -->
->Chuck Norris invented the internet? just so he had a place to store his porn.
+>If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
 <!-- /joke -->
 
-*Last update: Fri, 20 Oct 2023 00:36:44 GMT*
+*Last update: Sat, 21 Oct 2023 00:35:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
