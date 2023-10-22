@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 21 2023)
+### Joke of the day (Sun Oct 22 2023)
 <!-- joke -->
->If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
+>For Chuck Norris, NP-Hard = O(1).
 <!-- /joke -->
 
-*Last update: Sat, 21 Oct 2023 00:35:23 GMT*
+*Last update: Sun, 22 Oct 2023 00:39:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
