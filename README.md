@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 22 2023)
+### Joke of the day (Mon Oct 23 2023)
 <!-- joke -->
->For Chuck Norris, NP-Hard = O(1).
+>Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
 <!-- /joke -->
 
-*Last update: Sun, 22 Oct 2023 00:39:27 GMT*
+*Last update: Mon, 23 Oct 2023 00:37:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
