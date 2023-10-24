@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 23 2023)
+### Joke of the day (Tue Oct 24 2023)
 <!-- joke -->
->Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
+>Chuck Norris can win a game of Connect Four in only three moves.
 <!-- /joke -->
 
-*Last update: Mon, 23 Oct 2023 00:37:05 GMT*
+*Last update: Tue, 24 Oct 2023 00:36:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
