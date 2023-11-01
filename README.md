@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 24 2023)
+### Joke of the day (Wed Nov 01 2023)
 <!-- joke -->
->Chuck Norris can win a game of Connect Four in only three moves.
+>Chuck Norris does not code in cycles, he codes in strikes.
 <!-- /joke -->
 
-*Last update: Tue, 24 Oct 2023 00:36:36 GMT*
+*Last update: Wed, 01 Nov 2023 00:39:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
