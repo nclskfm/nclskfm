@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 01 2023)
+### Joke of the day (Thu Nov 02 2023)
 <!-- joke -->
->Chuck Norris does not code in cycles, he codes in strikes.
+>Linux: Born to be root. Windows: Born to re-boot
 <!-- /joke -->
 
-*Last update: Wed, 01 Nov 2023 00:39:26 GMT*
+*Last update: Thu, 02 Nov 2023 00:36:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
