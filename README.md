@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 02 2023)
+### Joke of the day (Fri Nov 03 2023)
 <!-- joke -->
->Linux: Born to be root. Windows: Born to re-boot
+>Chuck Norris cannot love, he can only not kill.
 <!-- /joke -->
 
-*Last update: Thu, 02 Nov 2023 00:36:48 GMT*
+*Last update: Fri, 03 Nov 2023 00:37:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
