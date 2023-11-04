@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 03 2023)
+### Joke of the day (Sat Nov 04 2023)
 <!-- joke -->
->Chuck Norris cannot love, he can only not kill.
+>Chuck Norris can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell 'What The Hell was That?'.
 <!-- /joke -->
 
-*Last update: Fri, 03 Nov 2023 00:37:07 GMT*
+*Last update: Sat, 04 Nov 2023 00:36:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
