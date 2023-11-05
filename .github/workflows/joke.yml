@@ -16,8 +16,6 @@ jobs:
         with:
           token: ${{ secrets.HAPPY_BOT_TOKEN }}
       - uses: actions/setup-node@v1
-        with:
-          node-version: 12.8
       - run: node new-joke.js
       - run: |
           git config --global user.name 'HappyBot'
