@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 04 2023)
+### Joke of the day (Sun Nov 05 2023)
 <!-- joke -->
->Chuck Norris can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell 'What The Hell was That?'.
+>My attitude isn’t bad. It’s in beta.
 <!-- /joke -->
 
-*Last update: Sat, 04 Nov 2023 00:36:24 GMT*
+*Last update: Sun, 05 Nov 2023 00:40:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
