@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 05 2023)
+### Joke of the day (Mon Nov 06 2023)
 <!-- joke -->
->My attitude isn’t bad. It’s in beta.
+>Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
 <!-- /joke -->
 
-*Last update: Sun, 05 Nov 2023 00:40:00 GMT*
+*Last update: Mon, 06 Nov 2023 00:38:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
