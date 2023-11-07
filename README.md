@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 06 2023)
+### Joke of the day (Tue Nov 07 2023)
 <!-- joke -->
->Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
+>If I wanted a warm fuzzy feeling... I’d antialias my graphics!
 <!-- /joke -->
 
-*Last update: Mon, 06 Nov 2023 00:38:11 GMT*
+*Last update: Tue, 07 Nov 2023 00:37:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
