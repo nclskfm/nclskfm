@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 07 2023)
+### Joke of the day (Wed Nov 08 2023)
 <!-- joke -->
->If I wanted a warm fuzzy feeling... I’d antialias my graphics!
+>Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
 <!-- /joke -->
 
-*Last update: Tue, 07 Nov 2023 00:37:40 GMT*
+*Last update: Wed, 08 Nov 2023 00:37:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
