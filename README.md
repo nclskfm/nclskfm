@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 09 2023)
+### Joke of the day (Fri Nov 10 2023)
 <!-- joke -->
->Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
+>On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life by nuzzling it with his beard. As the onlookers gathered, the lamb sprang to life. Chuck Norris then roundhouse kicked it, killing it instantly. This was just to prove that the good Chuck givet
 <!-- /joke -->
 
-*Last update: Thu, 09 Nov 2023 00:37:17 GMT*
+*Last update: Fri, 10 Nov 2023 00:37:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
