@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 10 2023)
+### Joke of the day (Sat Nov 11 2023)
 <!-- joke -->
->On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life by nuzzling it with his beard. As the onlookers gathered, the lamb sprang to life. Chuck Norris then roundhouse kicked it, killing it instantly. This was just to prove that the good Chuck givet
+>A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 <!-- /joke -->
 
-*Last update: Fri, 10 Nov 2023 00:37:09 GMT*
+*Last update: Sat, 11 Nov 2023 00:36:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
