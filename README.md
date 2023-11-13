@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 12 2023)
+### Joke of the day (Mon Nov 13 2023)
 <!-- joke -->
->When Chuck Norris has sex with a man, it won't be because he is gay. It will be because he has run out of women.
+>Chuck Norris can blow bubbles with beef jerky.
 <!-- /joke -->
 
-*Last update: Sun, 12 Nov 2023 00:40:27 GMT*
+*Last update: Mon, 13 Nov 2023 00:38:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
