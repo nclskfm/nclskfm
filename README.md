@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 13 2023)
+### Joke of the day (Tue Nov 14 2023)
 <!-- joke -->
->Chuck Norris can blow bubbles with beef jerky.
+>Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 13 Nov 2023 00:38:32 GMT*
+*Last update: Tue, 14 Nov 2023 00:37:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
