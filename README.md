@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 14 2023)
+### Joke of the day (Wed Nov 15 2023)
 <!-- joke -->
->Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
+>Some things Man was never meant to know. For everything else there’s Google.
 <!-- /joke -->
 
-*Last update: Tue, 14 Nov 2023 00:37:38 GMT*
+*Last update: Wed, 15 Nov 2023 00:38:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
