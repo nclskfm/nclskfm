@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 15 2023)
+### Joke of the day (Thu Nov 16 2023)
 <!-- joke -->
->Some things Man was never meant to know. For everything else there’s Google.
+>Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
 <!-- /joke -->
 
-*Last update: Wed, 15 Nov 2023 00:38:16 GMT*
+*Last update: Thu, 16 Nov 2023 00:39:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
