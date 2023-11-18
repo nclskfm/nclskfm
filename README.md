@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 17 2023)
+### Joke of the day (Sat Nov 18 2023)
 <!-- joke -->
->Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
+>What's the object-oriented way to become wealthy? Inheritance.
 <!-- /joke -->
 
-*Last update: Fri, 17 Nov 2023 00:38:57 GMT*
+*Last update: Sat, 18 Nov 2023 00:38:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
