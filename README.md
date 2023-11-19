@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 18 2023)
+### Joke of the day (Sun Nov 19 2023)
 <!-- joke -->
->What's the object-oriented way to become wealthy? Inheritance.
+>A handicapped parking sign does not signify that this spot is for handicapped people. It is actually in fact a warning, that the spot belongs to Chuck Norris and that you will be handicapped if you park there.
 <!-- /joke -->
 
-*Last update: Sat, 18 Nov 2023 00:38:00 GMT*
+*Last update: Sun, 19 Nov 2023 00:41:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
