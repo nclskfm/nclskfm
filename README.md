@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 20 2023)
+### Joke of the day (Tue Nov 21 2023)
 <!-- joke -->
->Chuck Norris is currently suing myspace for taking the name of what he calls everything around you.
+>Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Mon, 20 Nov 2023 00:39:26 GMT*
+*Last update: Tue, 21 Nov 2023 00:39:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
