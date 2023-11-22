@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 21 2023)
+### Joke of the day (Wed Nov 22 2023)
 <!-- joke -->
->Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
+>I’m not anti-social; I’m just not user friendly.
 <!-- /joke -->
 
-*Last update: Tue, 21 Nov 2023 00:39:34 GMT*
+*Last update: Wed, 22 Nov 2023 00:40:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
