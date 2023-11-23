@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 22 2023)
+### Joke of the day (Thu Nov 23 2023)
 <!-- joke -->
->I’m not anti-social; I’m just not user friendly.
+>Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
 <!-- /joke -->
 
-*Last update: Wed, 22 Nov 2023 00:40:32 GMT*
+*Last update: Thu, 23 Nov 2023 00:38:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
