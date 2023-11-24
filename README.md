@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 23 2023)
+### Joke of the day (Fri Nov 24 2023)
 <!-- joke -->
->Hacking is like sex. You get in... you get out... and hope that you didn’t leave something that can be traced back to you.
+>Chuck Norris ordered a Big Mac at Burger King, and got one.
 <!-- /joke -->
 
-*Last update: Thu, 23 Nov 2023 00:38:36 GMT*
+*Last update: Fri, 24 Nov 2023 00:37:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
