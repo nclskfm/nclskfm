@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 24 2023)
+### Joke of the day (Sat Nov 25 2023)
 <!-- joke -->
->Chuck Norris ordered a Big Mac at Burger King, and got one.
+>Chuck Norris can do a wheelie on a unicycle.
 <!-- /joke -->
 
-*Last update: Fri, 24 Nov 2023 00:37:43 GMT*
+*Last update: Sat, 25 Nov 2023 00:37:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
