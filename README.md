@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 25 2023)
+### Joke of the day (Sun Nov 26 2023)
 <!-- joke -->
->Chuck Norris can do a wheelie on a unicycle.
+>Jesus can walk on water, but Chuck Norris can walk on Jesus.
 <!-- /joke -->
 
-*Last update: Sat, 25 Nov 2023 00:37:02 GMT*
+*Last update: Sun, 26 Nov 2023 00:41:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
