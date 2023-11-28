@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 27 2023)
+### Joke of the day (Tue Nov 28 2023)
 <!-- joke -->
->Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.
+>Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
 <!-- /joke -->
 
-*Last update: Mon, 27 Nov 2023 00:39:16 GMT*
+*Last update: Tue, 28 Nov 2023 00:39:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
