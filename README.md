@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 28 2023)
+### Joke of the day (Wed Nov 29 2023)
 <!-- joke -->
->Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
+>Chuck Norris once rode a bull, and nine months later it had a calf.
 <!-- /joke -->
 
-*Last update: Tue, 28 Nov 2023 00:39:13 GMT*
+*Last update: Wed, 29 Nov 2023 00:39:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
