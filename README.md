@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 30 2023)
+### Joke of the day (Fri Dec 01 2023)
 <!-- joke -->
->Chuck Norris just says 'no' to drugs. If he said 'yes', it would collapse Colombia's infrastructure.
+>When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
 <!-- /joke -->
 
-*Last update: Thu, 30 Nov 2023 00:39:04 GMT*
+*Last update: Fri, 01 Dec 2023 00:42:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
