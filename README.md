@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 01 2023)
+### Joke of the day (Sat Dec 02 2023)
 <!-- joke -->
->When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
+>Chuck Norris uses tabasco sauce instead of visine.
 <!-- /joke -->
 
-*Last update: Fri, 01 Dec 2023 00:42:41 GMT*
+*Last update: Sat, 02 Dec 2023 00:37:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
