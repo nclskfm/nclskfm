@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 02 2023)
+### Joke of the day (Sun Dec 03 2023)
 <!-- joke -->
->Chuck Norris uses tabasco sauce instead of visine.
+>The Bible was originally titled 'Chuck Norris and Friends'
 <!-- /joke -->
 
-*Last update: Sat, 02 Dec 2023 00:37:59 GMT*
+*Last update: Sun, 03 Dec 2023 00:41:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
