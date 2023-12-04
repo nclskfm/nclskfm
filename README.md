@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 03 2023)
+### Joke of the day (Mon Dec 04 2023)
 <!-- joke -->
->The Bible was originally titled 'Chuck Norris and Friends'
+>Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by the naked eye.
 <!-- /joke -->
 
-*Last update: Sun, 03 Dec 2023 00:41:28 GMT*
+*Last update: Mon, 04 Dec 2023 00:39:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
