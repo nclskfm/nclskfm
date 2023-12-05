@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 04 2023)
+### Joke of the day (Tue Dec 05 2023)
 <!-- joke -->
->Chuck Norris? roundhouse kick is so powerful, it can be seen from outer space by the naked eye.
+>After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history.
 <!-- /joke -->
 
-*Last update: Mon, 04 Dec 2023 00:39:33 GMT*
+*Last update: Tue, 05 Dec 2023 00:39:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
