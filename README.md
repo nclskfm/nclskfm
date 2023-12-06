@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 05 2023)
+### Joke of the day (Wed Dec 06 2023)
 <!-- joke -->
->After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history.
+>Chuck Norris can taste lies.
 <!-- /joke -->
 
-*Last update: Tue, 05 Dec 2023 00:39:47 GMT*
+*Last update: Wed, 06 Dec 2023 00:39:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
