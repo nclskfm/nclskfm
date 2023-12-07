@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 06 2023)
+### Joke of the day (Thu Dec 07 2023)
 <!-- joke -->
->Chuck Norris can taste lies.
+>Why do fish likes nibbles the size of 2^n? So they can byte
 <!-- /joke -->
 
-*Last update: Wed, 06 Dec 2023 00:39:35 GMT*
+*Last update: Thu, 07 Dec 2023 00:39:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
