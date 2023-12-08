@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 07 2023)
+### Joke of the day (Fri Dec 08 2023)
 <!-- joke -->
->Why do fish likes nibbles the size of 2^n? So they can byte
+>Chuck Norris has 12 moons. One of those moons is the Earth.
 <!-- /joke -->
 
-*Last update: Thu, 07 Dec 2023 00:39:07 GMT*
+*Last update: Fri, 08 Dec 2023 00:39:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
