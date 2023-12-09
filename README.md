@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 08 2023)
+### Joke of the day (Sat Dec 09 2023)
 <!-- joke -->
->Chuck Norris has 12 moons. One of those moons is the Earth.
+>Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Fri, 08 Dec 2023 00:39:33 GMT*
+*Last update: Sat, 09 Dec 2023 00:38:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
