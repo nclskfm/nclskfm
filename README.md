@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 09 2023)
+### Joke of the day (Sun Dec 10 2023)
 <!-- joke -->
->Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
+>When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
 <!-- /joke -->
 
-*Last update: Sat, 09 Dec 2023 00:38:28 GMT*
+*Last update: Sun, 10 Dec 2023 00:42:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
