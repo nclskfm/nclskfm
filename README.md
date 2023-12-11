@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 10 2023)
+### Joke of the day (Mon Dec 11 2023)
 <!-- joke -->
->When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
+>Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
 <!-- /joke -->
 
-*Last update: Sun, 10 Dec 2023 00:42:17 GMT*
+*Last update: Mon, 11 Dec 2023 00:40:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
