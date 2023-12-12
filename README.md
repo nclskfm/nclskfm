@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 11 2023)
+### Joke of the day (Tue Dec 12 2023)
 <!-- joke -->
->Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
+>A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
 <!-- /joke -->
 
-*Last update: Mon, 11 Dec 2023 00:40:08 GMT*
+*Last update: Tue, 12 Dec 2023 00:39:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
