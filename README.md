@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 14 2023)
+### Joke of the day (Fri Dec 15 2023)
 <!-- joke -->
->UNIX is user friendly, it's just very particular about who it's friends are.
+>Chuck Norris can believe it's not butter.
 <!-- /joke -->
 
-*Last update: Thu, 14 Dec 2023 00:38:49 GMT*
+*Last update: Fri, 15 Dec 2023 00:39:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
