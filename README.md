@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 15 2023)
+### Joke of the day (Sat Dec 16 2023)
 <!-- joke -->
->Chuck Norris can believe it's not butter.
+>Chuck Norris was banned from competitive bullriding after a 1992 exhibition in San Antonio, when he rode the bull 1,346 miles from Texas to Milwaukee Wisconsin to pick up his dry cleaning.
 <!-- /joke -->
 
-*Last update: Fri, 15 Dec 2023 00:39:47 GMT*
+*Last update: Sat, 16 Dec 2023 00:38:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
