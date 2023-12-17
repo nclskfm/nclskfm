@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 16 2023)
+### Joke of the day (Sun Dec 17 2023)
 <!-- joke -->
->Chuck Norris was banned from competitive bullriding after a 1992 exhibition in San Antonio, when he rode the bull 1,346 miles from Texas to Milwaukee Wisconsin to pick up his dry cleaning.
+>Do you have a girlfriend? I will leave the relationship to the databases
 <!-- /joke -->
 
-*Last update: Sat, 16 Dec 2023 00:38:29 GMT*
+*Last update: Sun, 17 Dec 2023 00:42:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
