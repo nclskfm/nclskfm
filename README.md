@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 17 2023)
+### Joke of the day (Mon Dec 18 2023)
 <!-- joke -->
->Do you have a girlfriend? I will leave the relationship to the databases
+>Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
 <!-- /joke -->
 
-*Last update: Sun, 17 Dec 2023 00:42:19 GMT*
+*Last update: Mon, 18 Dec 2023 00:40:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
