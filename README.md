@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 18 2023)
+### Joke of the day (Tue Dec 19 2023)
 <!-- joke -->
->Chuck Norris roundhouse kicks don't really kill people. They wipe out their entire existence from the space-time continuum.
+>Chuck Norris programs do not accept input.
 <!-- /joke -->
 
-*Last update: Mon, 18 Dec 2023 00:40:14 GMT*
+*Last update: Tue, 19 Dec 2023 00:39:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
