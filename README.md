@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 19 2023)
+### Joke of the day (Wed Dec 20 2023)
 <!-- joke -->
->Chuck Norris programs do not accept input.
+>The class object inherits from Chuck Norris
 <!-- /joke -->
 
-*Last update: Tue, 19 Dec 2023 00:39:17 GMT*
+*Last update: Wed, 20 Dec 2023 00:32:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
