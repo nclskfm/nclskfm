@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 20 2023)
+### Joke of the day (Thu Dec 21 2023)
 <!-- joke -->
->The class object inherits from Chuck Norris
+>That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
 <!-- /joke -->
 
-*Last update: Wed, 20 Dec 2023 00:32:01 GMT*
+*Last update: Thu, 21 Dec 2023 00:38:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
