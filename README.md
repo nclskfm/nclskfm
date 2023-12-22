@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 21 2023)
+### Joke of the day (Fri Dec 22 2023)
 <!-- joke -->
->That's not Chuck Norris doing push-ups -- that's Chuck Norris moving the Earth away from the path of a deadly asteroid.
+>Why did the programmer quit his job? Because he didn't get arrays.
 <!-- /joke -->
 
-*Last update: Thu, 21 Dec 2023 00:38:29 GMT*
+*Last update: Fri, 22 Dec 2023 00:38:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
