@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 22 2023)
+### Joke of the day (Sat Dec 23 2023)
 <!-- joke -->
->Why did the programmer quit his job? Because he didn't get arrays.
+>Chuck Norris went out of an infinite loop.
 <!-- /joke -->
 
-*Last update: Fri, 22 Dec 2023 00:38:48 GMT*
+*Last update: Sat, 23 Dec 2023 00:36:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
