@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 23 2023)
+### Joke of the day (Sun Dec 24 2023)
 <!-- joke -->
->Chuck Norris went out of an infinite loop.
+>Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
 <!-- /joke -->
 
-*Last update: Sat, 23 Dec 2023 00:36:50 GMT*
+*Last update: Sun, 24 Dec 2023 00:41:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
