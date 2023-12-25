@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 24 2023)
+### Joke of the day (Mon Dec 25 2023)
 <!-- joke -->
->Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+>Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
 <!-- /joke -->
 
-*Last update: Sun, 24 Dec 2023 00:41:20 GMT*
+*Last update: Mon, 25 Dec 2023 00:39:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
