@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 25 2023)
+### Joke of the day (Tue Dec 26 2023)
 <!-- joke -->
->Noah was the only man notified before Chuck Norris relieved himself in the Atlantic Ocean.
+>99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
 <!-- /joke -->
 
-*Last update: Mon, 25 Dec 2023 00:39:31 GMT*
+*Last update: Tue, 26 Dec 2023 00:37:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
