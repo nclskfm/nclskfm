@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 27 2023)
+### Joke of the day (Thu Dec 28 2023)
 <!-- joke -->
->Chuck Norris hosting is 101% uptime guaranteed.
+>Chuck Norris' programs never exit, they terminate.
 <!-- /joke -->
 
-*Last update: Wed, 27 Dec 2023 00:37:43 GMT*
+*Last update: Thu, 28 Dec 2023 00:37:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
