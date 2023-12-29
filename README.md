@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 28 2023)
+### Joke of the day (Fri Dec 29 2023)
 <!-- joke -->
->Chuck Norris' programs never exit, they terminate.
+>Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.
 <!-- /joke -->
 
-*Last update: Thu, 28 Dec 2023 00:37:07 GMT*
+*Last update: Fri, 29 Dec 2023 00:31:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
