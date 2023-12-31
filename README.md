@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 30 2023)
+### Joke of the day (Sun Dec 31 2023)
 <!-- joke -->
->Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
+>Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
 <!-- /joke -->
 
-*Last update: Sat, 30 Dec 2023 00:37:21 GMT*
+*Last update: Sun, 31 Dec 2023 00:41:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
