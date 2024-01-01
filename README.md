@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 31 2023)
+### Joke of the day (Mon Jan 01 2024)
 <!-- joke -->
->Chuck Norris solved the Travelling Salesman problem in O(1) time. Here's the pseudo-code: Break salesman into N pieces. Kick each piece to a different city.
+>Whiteboards are white because Chuck Norris scared them that way.
 <!-- /joke -->
 
-*Last update: Sun, 31 Dec 2023 00:41:51 GMT*
+*Last update: Mon, 01 Jan 2024 00:43:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
