@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 01 2024)
+### Joke of the day (Tue Jan 02 2024)
 <!-- joke -->
->Whiteboards are white because Chuck Norris scared them that way.
+>There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
 <!-- /joke -->
 
-*Last update: Mon, 01 Jan 2024 00:43:07 GMT*
+*Last update: Tue, 02 Jan 2024 00:38:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
