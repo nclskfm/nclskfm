@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 02 2024)
+### Joke of the day (Wed Jan 03 2024)
 <!-- joke -->
->There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
+>When Chuck Norris plays Oregon Trail, his family does not die from cholera or dysentery, but rather, roundhouse kicks to the face. He also requires no wagon, since he carries the oxen, axels, and buffalo meat on his back. He always makes it to Oregon before you.
 <!-- /joke -->
 
-*Last update: Tue, 02 Jan 2024 00:38:04 GMT*
+*Last update: Wed, 03 Jan 2024 00:38:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
