@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 04 2024)
+### Joke of the day (Fri Jan 05 2024)
 <!-- joke -->
->Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
+>Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
 <!-- /joke -->
 
-*Last update: Thu, 04 Jan 2024 00:39:21 GMT*
+*Last update: Fri, 05 Jan 2024 00:39:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
