@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 05 2024)
+### Joke of the day (Sat Jan 06 2024)
 <!-- joke -->
->Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
+>Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
 <!-- /joke -->
 
-*Last update: Fri, 05 Jan 2024 00:39:22 GMT*
+*Last update: Sat, 06 Jan 2024 00:38:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
