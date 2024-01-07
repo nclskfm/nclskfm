@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 06 2024)
+### Joke of the day (Sun Jan 07 2024)
 <!-- joke -->
->Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Sat, 06 Jan 2024 00:38:30 GMT*
+*Last update: Sun, 07 Jan 2024 00:43:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
