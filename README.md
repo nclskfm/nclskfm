@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 07 2024)
+### Joke of the day (Mon Jan 08 2024)
 <!-- joke -->
->A UDP packet walks into a bar. The bartender doesn't acknowledge him.
+>Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
 <!-- /joke -->
 
-*Last update: Sun, 07 Jan 2024 00:43:03 GMT*
+*Last update: Mon, 08 Jan 2024 00:40:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
