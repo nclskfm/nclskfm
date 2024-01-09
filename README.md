@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 08 2024)
+### Joke of the day (Tue Jan 09 2024)
 <!-- joke -->
->Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
+>If Chuck Norris writes code with bugs, the bugs fix themselves.
 <!-- /joke -->
 
-*Last update: Mon, 08 Jan 2024 00:40:24 GMT*
+*Last update: Tue, 09 Jan 2024 00:39:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
