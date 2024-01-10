@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 09 2024)
+### Joke of the day (Wed Jan 10 2024)
 <!-- joke -->
->If Chuck Norris writes code with bugs, the bugs fix themselves.
+>Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
 <!-- /joke -->
 
-*Last update: Tue, 09 Jan 2024 00:39:54 GMT*
+*Last update: Wed, 10 Jan 2024 00:39:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
