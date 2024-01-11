@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 10 2024)
+### Joke of the day (Thu Jan 11 2024)
 <!-- joke -->
->Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
+>A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
 <!-- /joke -->
 
-*Last update: Wed, 10 Jan 2024 00:39:56 GMT*
+*Last update: Thu, 11 Jan 2024 00:40:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
