@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 11 2024)
+### Joke of the day (Fri Jan 12 2024)
 <!-- joke -->
->A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
+>All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 <!-- /joke -->
 
-*Last update: Thu, 11 Jan 2024 00:40:02 GMT*
+*Last update: Fri, 12 Jan 2024 00:39:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
