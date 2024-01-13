@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 12 2024)
+### Joke of the day (Sat Jan 13 2024)
 <!-- joke -->
->All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+>Chuck Norris eats lightning and shits out thunder.
 <!-- /joke -->
 
-*Last update: Fri, 12 Jan 2024 00:39:51 GMT*
+*Last update: Sat, 13 Jan 2024 00:39:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
