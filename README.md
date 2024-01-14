@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 13 2024)
+### Joke of the day (Sun Jan 14 2024)
 <!-- joke -->
->Chuck Norris eats lightning and shits out thunder.
+>There are three kinds of people: those who can count and those who can’t.
 <!-- /joke -->
 
-*Last update: Sat, 13 Jan 2024 00:39:19 GMT*
+*Last update: Sun, 14 Jan 2024 00:43:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
