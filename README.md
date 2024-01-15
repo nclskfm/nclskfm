@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 14 2024)
+### Joke of the day (Mon Jan 15 2024)
 <!-- joke -->
->There are three kinds of people: those who can count and those who can’t.
+>For Chuck Norris, NP-Hard = O(1).
 <!-- /joke -->
 
-*Last update: Sun, 14 Jan 2024 00:43:09 GMT*
+*Last update: Mon, 15 Jan 2024 00:41:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
