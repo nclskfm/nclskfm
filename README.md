@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 15 2024)
+### Joke of the day (Tue Jan 16 2024)
 <!-- joke -->
->For Chuck Norris, NP-Hard = O(1).
+>When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
 <!-- /joke -->
 
-*Last update: Mon, 15 Jan 2024 00:41:44 GMT*
+*Last update: Tue, 16 Jan 2024 00:39:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
