@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 16 2024)
+### Joke of the day (Wed Jan 17 2024)
 <!-- joke -->
->When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
+>Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
 <!-- /joke -->
 
-*Last update: Tue, 16 Jan 2024 00:39:42 GMT*
+*Last update: Wed, 17 Jan 2024 00:39:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
