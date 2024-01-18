@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 17 2024)
+### Joke of the day (Thu Jan 18 2024)
 <!-- joke -->
->Chuck Norris has never been accused of murder because his roundhouse kicks are recognized as 'acts of God.'
+>The Bible was originally titled 'Chuck Norris and Friends'
 <!-- /joke -->
 
-*Last update: Wed, 17 Jan 2024 00:39:56 GMT*
+*Last update: Thu, 18 Jan 2024 00:39:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
