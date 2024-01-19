@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 18 2024)
+### Joke of the day (Fri Jan 19 2024)
 <!-- joke -->
->The Bible was originally titled 'Chuck Norris and Friends'
+>Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
 <!-- /joke -->
 
-*Last update: Thu, 18 Jan 2024 00:39:30 GMT*
+*Last update: Fri, 19 Jan 2024 00:40:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
