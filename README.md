@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 19 2024)
+### Joke of the day (Sat Jan 20 2024)
 <!-- joke -->
->Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+>Why are fishes illiterate?Because C doesnt have Classes
 <!-- /joke -->
 
-*Last update: Fri, 19 Jan 2024 00:40:07 GMT*
+*Last update: Sat, 20 Jan 2024 00:39:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
