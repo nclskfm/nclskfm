@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 20 2024)
+### Joke of the day (Sun Jan 21 2024)
 <!-- joke -->
->Why are fishes illiterate?Because C doesnt have Classes
+>Chuck Norris runs on batteries. Specifically, Die Hards.
 <!-- /joke -->
 
-*Last update: Sat, 20 Jan 2024 00:39:17 GMT*
+*Last update: Sun, 21 Jan 2024 00:43:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
