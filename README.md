@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 21 2024)
+### Joke of the day (Mon Jan 22 2024)
 <!-- joke -->
->Chuck Norris runs on batteries. Specifically, Die Hards.
+>Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 <!-- /joke -->
 
-*Last update: Sun, 21 Jan 2024 00:43:30 GMT*
+*Last update: Mon, 22 Jan 2024 00:41:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
