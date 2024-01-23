@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 22 2024)
+### Joke of the day (Tue Jan 23 2024)
 <!-- joke -->
->Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
+>Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
 <!-- /joke -->
 
-*Last update: Mon, 22 Jan 2024 00:41:56 GMT*
+*Last update: Tue, 23 Jan 2024 00:40:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
