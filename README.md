@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 23 2024)
+### Joke of the day (Wed Jan 24 2024)
 <!-- joke -->
->Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
+>Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
 <!-- /joke -->
 
-*Last update: Tue, 23 Jan 2024 00:40:51 GMT*
+*Last update: Wed, 24 Jan 2024 00:40:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
