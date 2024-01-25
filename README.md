@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 24 2024)
+### Joke of the day (Thu Jan 25 2024)
 <!-- joke -->
->Chuck Norris once challenged Lance Armstrong in a 'Who has more testicles?' contest. Chuck Norris won by 5.
+>99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
 <!-- /joke -->
 
-*Last update: Wed, 24 Jan 2024 00:40:40 GMT*
+*Last update: Thu, 25 Jan 2024 00:40:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
