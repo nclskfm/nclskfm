@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 25 2024)
+### Joke of the day (Fri Jan 26 2024)
 <!-- joke -->
->99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
+>If brute force doesn’t solve your problems... then you aren’t using enough.
 <!-- /joke -->
 
-*Last update: Thu, 25 Jan 2024 00:40:22 GMT*
+*Last update: Fri, 26 Jan 2024 00:37:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
