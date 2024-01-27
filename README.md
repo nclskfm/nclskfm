@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 26 2024)
+### Joke of the day (Sat Jan 27 2024)
 <!-- joke -->
->If brute force doesn’t solve your problems... then you aren’t using enough.
+>Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
 <!-- /joke -->
 
-*Last update: Fri, 26 Jan 2024 00:37:37 GMT*
+*Last update: Sat, 27 Jan 2024 00:37:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
