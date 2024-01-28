@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 27 2024)
+### Joke of the day (Sun Jan 28 2024)
 <!-- joke -->
->Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
+>Why are fishes illiterate?Because C doesnt have Classes
 <!-- /joke -->
 
-*Last update: Sat, 27 Jan 2024 00:37:08 GMT*
+*Last update: Sun, 28 Jan 2024 00:39:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
