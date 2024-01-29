@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 28 2024)
+### Joke of the day (Mon Jan 29 2024)
 <!-- joke -->
->Why are fishes illiterate?Because C doesnt have Classes
+>1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
 <!-- /joke -->
 
-*Last update: Sun, 28 Jan 2024 00:39:53 GMT*
+*Last update: Mon, 29 Jan 2024 00:37:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
