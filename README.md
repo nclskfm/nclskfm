@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 29 2024)
+### Joke of the day (Tue Jan 30 2024)
 <!-- joke -->
->1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
+>The class object inherits from Chuck Norris
 <!-- /joke -->
 
-*Last update: Mon, 29 Jan 2024 00:37:07 GMT*
+*Last update: Tue, 30 Jan 2024 00:37:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
