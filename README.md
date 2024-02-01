@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 31 2024)
+### Joke of the day (Thu Feb 01 2024)
 <!-- joke -->
->To be or not to be? That is the question. The answer? Chuck Norris.
+>Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
 <!-- /joke -->
 
-*Last update: Wed, 31 Jan 2024 00:37:29 GMT*
+*Last update: Thu, 01 Feb 2024 00:39:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
