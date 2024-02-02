@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 01 2024)
+### Joke of the day (Fri Feb 02 2024)
 <!-- joke -->
->Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
+>The Chuck Norris military unit was not used in the game Civilization 4, because a single Chuck Norris could defeat the entire combined nations of the world in one turn.
 <!-- /joke -->
 
-*Last update: Thu, 01 Feb 2024 00:39:04 GMT*
+*Last update: Fri, 02 Feb 2024 00:37:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
