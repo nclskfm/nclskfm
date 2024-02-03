@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 02 2024)
+### Joke of the day (Sat Feb 03 2024)
 <!-- joke -->
->The Chuck Norris military unit was not used in the game Civilization 4, because a single Chuck Norris could defeat the entire combined nations of the world in one turn.
+>Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
 <!-- /joke -->
 
-*Last update: Fri, 02 Feb 2024 00:37:20 GMT*
+*Last update: Sat, 03 Feb 2024 00:36:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
