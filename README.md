@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 03 2024)
+### Joke of the day (Sun Feb 04 2024)
 <!-- joke -->
->Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
+>The truth is out there. Anybody got the URL?
 <!-- /joke -->
 
-*Last update: Sat, 03 Feb 2024 00:36:58 GMT*
+*Last update: Sun, 04 Feb 2024 00:40:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
