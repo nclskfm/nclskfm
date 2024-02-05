@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 04 2024)
+### Joke of the day (Mon Feb 05 2024)
 <!-- joke -->
->The truth is out there. Anybody got the URL?
+>Chuck Norris does, in fact, live in a round house.
 <!-- /joke -->
 
-*Last update: Sun, 04 Feb 2024 00:40:21 GMT*
+*Last update: Mon, 05 Feb 2024 00:38:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
