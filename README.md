@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 05 2024)
+### Joke of the day (Tue Feb 06 2024)
 <!-- joke -->
->Chuck Norris does, in fact, live in a round house.
+>Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
 <!-- /joke -->
 
-*Last update: Mon, 05 Feb 2024 00:38:24 GMT*
+*Last update: Tue, 06 Feb 2024 00:36:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
