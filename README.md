@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 06 2024)
+### Joke of the day (Wed Feb 07 2024)
 <!-- joke -->
->Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
+>Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
 <!-- /joke -->
 
-*Last update: Tue, 06 Feb 2024 00:36:45 GMT*
+*Last update: Wed, 07 Feb 2024 00:35:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
