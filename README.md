@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 08 2024)
+### Joke of the day (Fri Feb 09 2024)
 <!-- joke -->
->Chuck Norris does not have to answer the phone. His beard picks up the incoming electrical impulses and translates them into audible sound.
+>Chuck Norris can binary search unsorted data.
 <!-- /joke -->
 
-*Last update: Thu, 08 Feb 2024 00:36:51 GMT*
+*Last update: Fri, 09 Feb 2024 00:36:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
