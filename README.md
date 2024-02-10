@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 09 2024)
+### Joke of the day (Sat Feb 10 2024)
 <!-- joke -->
->Chuck Norris can binary search unsorted data.
+>A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.
 <!-- /joke -->
 
-*Last update: Fri, 09 Feb 2024 00:36:23 GMT*
+*Last update: Sat, 10 Feb 2024 00:35:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
