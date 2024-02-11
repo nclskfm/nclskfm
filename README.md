@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 10 2024)
+### Joke of the day (Sun Feb 11 2024)
 <!-- joke -->
->A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.
+>Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
 <!-- /joke -->
 
-*Last update: Sat, 10 Feb 2024 00:35:45 GMT*
+*Last update: Sun, 11 Feb 2024 00:40:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
