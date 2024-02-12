@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 11 2024)
+### Joke of the day (Mon Feb 12 2024)
 <!-- joke -->
->Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Sun, 11 Feb 2024 00:40:21 GMT*
+*Last update: Mon, 12 Feb 2024 00:37:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
