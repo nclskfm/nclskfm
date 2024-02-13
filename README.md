@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 12 2024)
+### Joke of the day (Tue Feb 13 2024)
 <!-- joke -->
->A UDP packet walks into a bar. The bartender doesn't acknowledge him.
+>Chuck Norris got his drivers license at the age of 16. Seconds.
 <!-- /joke -->
 
-*Last update: Mon, 12 Feb 2024 00:37:51 GMT*
+*Last update: Tue, 13 Feb 2024 00:37:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
