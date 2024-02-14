@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 13 2024)
+### Joke of the day (Wed Feb 14 2024)
 <!-- joke -->
->Chuck Norris got his drivers license at the age of 16. Seconds.
+>Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 <!-- /joke -->
 
-*Last update: Tue, 13 Feb 2024 00:37:37 GMT*
+*Last update: Wed, 14 Feb 2024 00:37:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
