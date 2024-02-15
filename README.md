@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 14 2024)
+### Joke of the day (Thu Feb 15 2024)
 <!-- joke -->
->Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
+>Chuck Norris doesn't see dead people. He makes people dead.
 <!-- /joke -->
 
-*Last update: Wed, 14 Feb 2024 00:37:22 GMT*
+*Last update: Thu, 15 Feb 2024 00:37:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
