@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 15 2024)
+### Joke of the day (Fri Feb 16 2024)
 <!-- joke -->
->Chuck Norris doesn't see dead people. He makes people dead.
+>To be or not to be? That is the question. The answer? Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 15 Feb 2024 00:37:26 GMT*
+*Last update: Fri, 16 Feb 2024 00:36:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
