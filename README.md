@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 16 2024)
+### Joke of the day (Sat Feb 17 2024)
 <!-- joke -->
->To be or not to be? That is the question. The answer? Chuck Norris.
+>Chuck Norris doesnt wear a watch, HE decides what time it is.
 <!-- /joke -->
 
-*Last update: Fri, 16 Feb 2024 00:36:39 GMT*
+*Last update: Sat, 17 Feb 2024 00:36:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
