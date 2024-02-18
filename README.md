@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 17 2024)
+### Joke of the day (Sun Feb 18 2024)
 <!-- joke -->
->Chuck Norris doesnt wear a watch, HE decides what time it is.
+>The truth is out there. Anybody got the URL?
 <!-- /joke -->
 
-*Last update: Sat, 17 Feb 2024 00:36:28 GMT*
+*Last update: Sun, 18 Feb 2024 00:39:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
