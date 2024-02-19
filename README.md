@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 18 2024)
+### Joke of the day (Mon Feb 19 2024)
 <!-- joke -->
->The truth is out there. Anybody got the URL?
+>It takes 14 puppeteers to make Chuck Norris smile, but only 2 to make him destroy an orphanage.
 <!-- /joke -->
 
-*Last update: Sun, 18 Feb 2024 00:39:41 GMT*
+*Last update: Mon, 19 Feb 2024 00:38:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
