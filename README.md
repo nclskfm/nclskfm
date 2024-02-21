@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 20 2024)
+### Joke of the day (Wed Feb 21 2024)
 <!-- joke -->
->Chuck Norris is not hung like a horse. Horses are hung like Chuck Norris.
+>Chuck Norris's version of a 'chocolate milkshake' is a raw porterhouse wrapped around ten Hershey bars, and doused in diesel fuel.
 <!-- /joke -->
 
-*Last update: Tue, 20 Feb 2024 00:36:23 GMT*
+*Last update: Wed, 21 Feb 2024 00:37:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
