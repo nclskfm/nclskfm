@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 21 2024)
+### Joke of the day (Thu Feb 22 2024)
 <!-- joke -->
->Chuck Norris's version of a 'chocolate milkshake' is a raw porterhouse wrapped around ten Hershey bars, and doused in diesel fuel.
+>Hey! It compiles! Ship it!
 <!-- /joke -->
 
-*Last update: Wed, 21 Feb 2024 00:37:23 GMT*
+*Last update: Thu, 22 Feb 2024 00:36:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
