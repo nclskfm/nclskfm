@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 22 2024)
+### Joke of the day (Fri Feb 23 2024)
 <!-- joke -->
->Hey! It compiles! Ship it!
+>Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 22 Feb 2024 00:36:50 GMT*
+*Last update: Fri, 23 Feb 2024 00:36:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
