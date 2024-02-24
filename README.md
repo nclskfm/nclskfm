@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 23 2024)
+### Joke of the day (Sat Feb 24 2024)
 <!-- joke -->
->Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
+>What do computers and air conditioners have in common? They both become useless when you open windows.
 <!-- /joke -->
 
-*Last update: Fri, 23 Feb 2024 00:36:34 GMT*
+*Last update: Sat, 24 Feb 2024 00:35:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
