@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 24 2024)
+### Joke of the day (Sun Feb 25 2024)
 <!-- joke -->
->What do computers and air conditioners have in common? They both become useless when you open windows.
+>Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 <!-- /joke -->
 
-*Last update: Sat, 24 Feb 2024 00:35:10 GMT*
+*Last update: Sun, 25 Feb 2024 00:40:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
