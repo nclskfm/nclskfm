@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 25 2024)
+### Joke of the day (Mon Feb 26 2024)
 <!-- joke -->
->Contrary to popular belief, there is indeed enough Chuck Norris to go around.
+>Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
 <!-- /joke -->
 
-*Last update: Sun, 25 Feb 2024 00:40:12 GMT*
+*Last update: Mon, 26 Feb 2024 00:38:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
