@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 26 2024)
+### Joke of the day (Tue Feb 27 2024)
 <!-- joke -->
->Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
+>What does a subatomic duck say? Quark.
 <!-- /joke -->
 
-*Last update: Mon, 26 Feb 2024 00:38:28 GMT*
+*Last update: Tue, 27 Feb 2024 00:36:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
