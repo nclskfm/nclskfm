@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 27 2024)
+### Joke of the day (Wed Feb 28 2024)
 <!-- joke -->
->What does a subatomic duck say? Quark.
+>When Chuck Norris does a push-up he doesn't go up, the earth goes down
 <!-- /joke -->
 
-*Last update: Tue, 27 Feb 2024 00:36:39 GMT*
+*Last update: Wed, 28 Feb 2024 00:36:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
