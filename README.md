@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 28 2024)
+### Joke of the day (Thu Feb 29 2024)
 <!-- joke -->
->When Chuck Norris does a push-up he doesn't go up, the earth goes down
+>Chuck Norris has two speeds: Walk and Kill.
 <!-- /joke -->
 
-*Last update: Wed, 28 Feb 2024 00:36:16 GMT*
+*Last update: Thu, 29 Feb 2024 00:36:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
