@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 01 2024)
+### Joke of the day (Sat Mar 02 2024)
 <!-- joke -->
->A handicapped parking sign does not signify that this spot is for handicapped people. It is actually in fact a warning, that the spot belongs to Chuck Norris and that you will be handicapped if you park there.
+>Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
 <!-- /joke -->
 
-*Last update: Fri, 01 Mar 2024 00:41:08 GMT*
+*Last update: Sat, 02 Mar 2024 00:36:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
