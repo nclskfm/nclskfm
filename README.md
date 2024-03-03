@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 02 2024)
+### Joke of the day (Sun Mar 03 2024)
 <!-- joke -->
->Erik Naggum: “Microsoft is not the answer. Microsoft is the question. NO is the answer.”
+>Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
 <!-- /joke -->
 
-*Last update: Sat, 02 Mar 2024 00:36:06 GMT*
+*Last update: Sun, 03 Mar 2024 00:39:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
