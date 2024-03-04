@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 03 2024)
+### Joke of the day (Mon Mar 04 2024)
 <!-- joke -->
->Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
+>Chuck Norris doesn't step on toes. Chuck Norris steps on necks.
 <!-- /joke -->
 
-*Last update: Sun, 03 Mar 2024 00:39:15 GMT*
+*Last update: Mon, 04 Mar 2024 00:37:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
