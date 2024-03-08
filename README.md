@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 07 2024)
+### Joke of the day (Fri Mar 08 2024)
 <!-- joke -->
->There are no steroids in baseball. Just players Chuck Norris has breathed on.
+>Chuck Norris doesn't bowl strikes, he just knocks down one pin and the other nine faint.
 <!-- /joke -->
 
-*Last update: Thu, 07 Mar 2024 00:30:19 GMT*
+*Last update: Fri, 08 Mar 2024 00:37:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
