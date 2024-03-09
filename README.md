@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 08 2024)
+### Joke of the day (Sat Mar 09 2024)
 <!-- joke -->
->Chuck Norris doesn't bowl strikes, he just knocks down one pin and the other nine faint.
+>Chuck Norris drinks napalm to quell his heartburn.
 <!-- /joke -->
 
-*Last update: Fri, 08 Mar 2024 00:37:09 GMT*
+*Last update: Sat, 09 Mar 2024 00:35:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
