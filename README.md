@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 09 2024)
+### Joke of the day (Sun Mar 10 2024)
 <!-- joke -->
->Chuck Norris drinks napalm to quell his heartburn.
+>My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
 <!-- /joke -->
 
-*Last update: Sat, 09 Mar 2024 00:35:48 GMT*
+*Last update: Sun, 10 Mar 2024 00:40:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
