@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 10 2024)
+### Joke of the day (Mon Mar 11 2024)
 <!-- joke -->
->My daily Unix command list: unzip; strip; touch; finger; mount; fsck; more; yes; unmount; sleep.
+>Time waits for no man. Unless that man is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 10 Mar 2024 00:40:07 GMT*
+*Last update: Mon, 11 Mar 2024 00:38:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
