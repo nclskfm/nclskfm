@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 11 2024)
+### Joke of the day (Tue Mar 12 2024)
 <!-- joke -->
->Time waits for no man. Unless that man is Chuck Norris.
+>Why did the programmer quit his job? Because he didn't get arrays.
 <!-- /joke -->
 
-*Last update: Mon, 11 Mar 2024 00:38:14 GMT*
+*Last update: Tue, 12 Mar 2024 00:36:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
