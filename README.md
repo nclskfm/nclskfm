@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 12 2024)
+### Joke of the day (Wed Mar 13 2024)
 <!-- joke -->
->Why did the programmer quit his job? Because he didn't get arrays.
+>MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
 <!-- /joke -->
 
-*Last update: Tue, 12 Mar 2024 00:36:41 GMT*
+*Last update: Wed, 13 Mar 2024 00:37:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
