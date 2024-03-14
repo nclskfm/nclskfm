@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 13 2024)
+### Joke of the day (Thu Mar 14 2024)
 <!-- joke -->
->MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
+>Chuck Norris never wet his bed as a child. The bed wet itself out of fear.
 <!-- /joke -->
 
-*Last update: Wed, 13 Mar 2024 00:37:28 GMT*
+*Last update: Thu, 14 Mar 2024 00:36:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
