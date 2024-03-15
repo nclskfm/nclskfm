@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 14 2024)
+### Joke of the day (Fri Mar 15 2024)
 <!-- joke -->
->Chuck Norris never wet his bed as a child. The bed wet itself out of fear.
+>Chuck Norris sheds his skin twice a year.
 <!-- /joke -->
 
-*Last update: Thu, 14 Mar 2024 00:36:36 GMT*
+*Last update: Fri, 15 Mar 2024 00:37:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
