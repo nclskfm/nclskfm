@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 15 2024)
+### Joke of the day (Sat Mar 16 2024)
 <!-- joke -->
->Chuck Norris sheds his skin twice a year.
+>What do computers and air conditioners have in common? They both become useless when you open windows.
 <!-- /joke -->
 
-*Last update: Fri, 15 Mar 2024 00:37:28 GMT*
+*Last update: Sat, 16 Mar 2024 00:35:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
