@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 16 2024)
+### Joke of the day (Sun Mar 17 2024)
 <!-- joke -->
->What do computers and air conditioners have in common? They both become useless when you open windows.
+>Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
 <!-- /joke -->
 
-*Last update: Sat, 16 Mar 2024 00:35:44 GMT*
+*Last update: Sun, 17 Mar 2024 00:39:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
