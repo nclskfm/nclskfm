@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 18 2024)
+### Joke of the day (Tue Mar 19 2024)
 <!-- joke -->
->Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
+>Unix is user friendly. It’s just selective about who its friends are.
 <!-- /joke -->
 
-*Last update: Mon, 18 Mar 2024 00:38:19 GMT*
+*Last update: Tue, 19 Mar 2024 00:37:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
