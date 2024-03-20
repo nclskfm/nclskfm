@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 19 2024)
+### Joke of the day (Wed Mar 20 2024)
 <!-- joke -->
->Unix is user friendly. It’s just selective about who its friends are.
+>Why are fishes illiterate?Because C doesnt have Classes
 <!-- /joke -->
 
-*Last update: Tue, 19 Mar 2024 00:37:13 GMT*
+*Last update: Wed, 20 Mar 2024 00:36:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
