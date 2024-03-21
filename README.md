@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 20 2024)
+### Joke of the day (Thu Mar 21 2024)
 <!-- joke -->
->Why are fishes illiterate?Because C doesnt have Classes
+>COBOL programmers understand why women hate periods.
 <!-- /joke -->
 
-*Last update: Wed, 20 Mar 2024 00:36:55 GMT*
+*Last update: Thu, 21 Mar 2024 00:38:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
