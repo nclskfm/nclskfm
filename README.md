@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 21 2024)
+### Joke of the day (Fri Mar 22 2024)
 <!-- joke -->
->COBOL programmers understand why women hate periods.
+>'It works on my machine' always holds true for Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 21 Mar 2024 00:38:39 GMT*
+*Last update: Fri, 22 Mar 2024 00:36:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
