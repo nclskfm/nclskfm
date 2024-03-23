@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 22 2024)
+### Joke of the day (Sat Mar 23 2024)
 <!-- joke -->
->'It works on my machine' always holds true for Chuck Norris.
+>Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
 <!-- /joke -->
 
-*Last update: Fri, 22 Mar 2024 00:36:54 GMT*
+*Last update: Sat, 23 Mar 2024 00:36:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
