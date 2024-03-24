@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 23 2024)
+### Joke of the day (Sun Mar 24 2024)
 <!-- joke -->
->Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
+>Chuck Norris insists on strongly-typed programming languages.
 <!-- /joke -->
 
-*Last update: Sat, 23 Mar 2024 00:36:19 GMT*
+*Last update: Sun, 24 Mar 2024 00:41:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
