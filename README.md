@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 24 2024)
+### Joke of the day (Mon Mar 25 2024)
 <!-- joke -->
->Chuck Norris insists on strongly-typed programming languages.
+>The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
 <!-- /joke -->
 
-*Last update: Sun, 24 Mar 2024 00:41:57 GMT*
+*Last update: Mon, 25 Mar 2024 00:38:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
