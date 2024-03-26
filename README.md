@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 25 2024)
+### Joke of the day (Tue Mar 26 2024)
 <!-- joke -->
->The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
+>The quickest way to a man's heart is with Chuck Norris' fist.
 <!-- /joke -->
 
-*Last update: Mon, 25 Mar 2024 00:38:47 GMT*
+*Last update: Tue, 26 Mar 2024 00:37:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
