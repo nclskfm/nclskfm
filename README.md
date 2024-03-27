@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 26 2024)
+### Joke of the day (Wed Mar 27 2024)
 <!-- joke -->
->The quickest way to a man's heart is with Chuck Norris' fist.
+>When Chuck Norris falls in water, Chuck Norris doesn't get wet. Water gets Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 26 Mar 2024 00:37:23 GMT*
+*Last update: Wed, 27 Mar 2024 00:37:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
