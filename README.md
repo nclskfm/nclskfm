@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 29 2024)
+### Joke of the day (Sat Mar 30 2024)
 <!-- joke -->
->Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
+>When Chuck Norris is in a crowded area, he doesn't walk around people. He walks through them.
 <!-- /joke -->
 
-*Last update: Fri, 29 Mar 2024 00:37:16 GMT*
+*Last update: Sat, 30 Mar 2024 00:36:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
