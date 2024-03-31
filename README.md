@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 30 2024)
+### Joke of the day (Sun Mar 31 2024)
 <!-- joke -->
->When Chuck Norris is in a crowded area, he doesn't walk around people. He walks through them.
+>Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
 <!-- /joke -->
 
-*Last update: Sat, 30 Mar 2024 00:36:11 GMT*
+*Last update: Sun, 31 Mar 2024 00:41:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
