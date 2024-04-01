@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 31 2024)
+### Joke of the day (Mon Apr 01 2024)
 <!-- joke -->
->Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
+>When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
 <!-- /joke -->
 
-*Last update: Sun, 31 Mar 2024 00:41:50 GMT*
+*Last update: Mon, 01 Apr 2024 00:41:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
