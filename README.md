@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 02 2024)
+### Joke of the day (Wed Apr 03 2024)
 <!-- joke -->
->Beware of programmers that carry screwdrivers.
+>Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
 <!-- /joke -->
 
-*Last update: Tue, 02 Apr 2024 00:38:48 GMT*
+*Last update: Wed, 03 Apr 2024 00:37:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
