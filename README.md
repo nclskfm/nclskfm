@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 03 2024)
+### Joke of the day (Thu Apr 04 2024)
 <!-- joke -->
->Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
+>The First rule of Chuck Norris is: you do not talk about Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 03 Apr 2024 00:37:18 GMT*
+*Last update: Thu, 04 Apr 2024 00:39:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
