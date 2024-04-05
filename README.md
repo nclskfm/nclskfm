@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 04 2024)
+### Joke of the day (Fri Apr 05 2024)
 <!-- joke -->
->The First rule of Chuck Norris is: you do not talk about Chuck Norris.
+>Why does a burger have less energy than a steak? A burger is in its ground state.
 <!-- /joke -->
 
-*Last update: Thu, 04 Apr 2024 00:39:00 GMT*
+*Last update: Fri, 05 Apr 2024 00:38:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
