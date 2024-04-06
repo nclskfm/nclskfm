@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 05 2024)
+### Joke of the day (Sat Apr 06 2024)
 <!-- joke -->
->Why does a burger have less energy than a steak? A burger is in its ground state.
+>Chuck Norris's first program was kill -9.
 <!-- /joke -->
 
-*Last update: Fri, 05 Apr 2024 00:38:18 GMT*
+*Last update: Sat, 06 Apr 2024 00:37:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
