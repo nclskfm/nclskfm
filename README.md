@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 06 2024)
+### Joke of the day (Sun Apr 07 2024)
 <!-- joke -->
->Chuck Norris's first program was kill -9.
+>Chuck Norris wipes his ass with chain mail and sandpaper.
 <!-- /joke -->
 
-*Last update: Sat, 06 Apr 2024 00:37:03 GMT*
+*Last update: Sun, 07 Apr 2024 00:41:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
