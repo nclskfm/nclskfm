@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 07 2024)
+### Joke of the day (Mon Apr 08 2024)
 <!-- joke -->
->Chuck Norris wipes his ass with chain mail and sandpaper.
+>Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
 <!-- /joke -->
 
-*Last update: Sun, 07 Apr 2024 00:41:59 GMT*
+*Last update: Mon, 08 Apr 2024 00:39:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
