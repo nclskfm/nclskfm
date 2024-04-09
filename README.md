@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 08 2024)
+### Joke of the day (Tue Apr 09 2024)
 <!-- joke -->
->Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
+>One time, at band camp, Chuck Norris ate a percussionist.
 <!-- /joke -->
 
-*Last update: Mon, 08 Apr 2024 00:39:02 GMT*
+*Last update: Tue, 09 Apr 2024 00:37:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
