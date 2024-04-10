@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 09 2024)
+### Joke of the day (Wed Apr 10 2024)
 <!-- joke -->
->One time, at band camp, Chuck Norris ate a percussionist.
+>If you spell Chuck Norris in Scrabble, you win. Forever.
 <!-- /joke -->
 
-*Last update: Tue, 09 Apr 2024 00:37:58 GMT*
+*Last update: Wed, 10 Apr 2024 00:37:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
