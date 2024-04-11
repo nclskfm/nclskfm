@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 10 2024)
+### Joke of the day (Thu Apr 11 2024)
 <!-- joke -->
->If you spell Chuck Norris in Scrabble, you win. Forever.
+>If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
 <!-- /joke -->
 
-*Last update: Wed, 10 Apr 2024 00:37:45 GMT*
+*Last update: Thu, 11 Apr 2024 00:38:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
