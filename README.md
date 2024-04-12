@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 11 2024)
+### Joke of the day (Fri Apr 12 2024)
 <!-- joke -->
->If the box says: 'This software requires Windows 7 or better' Does that mean it'll run on Linux?
+>Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Thu, 11 Apr 2024 00:38:23 GMT*
+*Last update: Fri, 12 Apr 2024 00:38:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
