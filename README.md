@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 13 2024)
+### Joke of the day (Sun Apr 14 2024)
 <!-- joke -->
->Someone once tried to tell Chuck Norris that roundhouse kicks aren't the best way to kick someone. This has been recorded by historians as the worst mistake anyone has ever made.
+>Chuck Norris plays racquetball with a waffle iron and a bowling ball.
 <!-- /joke -->
 
-*Last update: Sat, 13 Apr 2024 00:32:13 GMT*
+*Last update: Sun, 14 Apr 2024 00:44:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
