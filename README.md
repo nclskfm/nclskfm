@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 14 2024)
+### Joke of the day (Mon Apr 15 2024)
 <!-- joke -->
->Chuck Norris plays racquetball with a waffle iron and a bowling ball.
+>Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all poisonous.
 <!-- /joke -->
 
-*Last update: Sun, 14 Apr 2024 00:44:59 GMT*
+*Last update: Mon, 15 Apr 2024 02:56:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
