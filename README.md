@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 15 2024)
+### Joke of the day (Tue Apr 16 2024)
 <!-- joke -->
->Most people have 23 pairs of chromosomes. Chuck Norris has 72... and they're all poisonous.
+>Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 <!-- /joke -->
 
-*Last update: Mon, 15 Apr 2024 02:56:45 GMT*
+*Last update: Tue, 16 Apr 2024 00:37:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
