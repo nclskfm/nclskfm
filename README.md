@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 16 2024)
+### Joke of the day (Wed Apr 17 2024)
 <!-- joke -->
->Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+>Chuck Norris once participated in the running of the bulls. He walked.
 <!-- /joke -->
 
-*Last update: Tue, 16 Apr 2024 00:37:45 GMT*
+*Last update: Wed, 17 Apr 2024 00:38:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
