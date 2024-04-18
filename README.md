@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 17 2024)
+### Joke of the day (Thu Apr 18 2024)
 <!-- joke -->
->Chuck Norris once participated in the running of the bulls. He walked.
+>Chuck Norris has banned rainbows from the state of North Dakota.
 <!-- /joke -->
 
-*Last update: Wed, 17 Apr 2024 00:38:19 GMT*
+*Last update: Thu, 18 Apr 2024 00:37:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
