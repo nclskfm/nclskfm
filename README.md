@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 19 2024)
+### Joke of the day (Sat Apr 20 2024)
 <!-- joke -->
->Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
+>Chuck Norris doesn't wash his clothes. He disembowels them.
 <!-- /joke -->
 
-*Last update: Fri, 19 Apr 2024 00:38:19 GMT*
+*Last update: Sat, 20 Apr 2024 00:38:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
