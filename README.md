@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 20 2024)
+### Joke of the day (Sun Apr 21 2024)
 <!-- joke -->
->Chuck Norris doesn't wash his clothes. He disembowels them.
+>The Chuck Norris military unit was not used in the game Civilization 4, because a single Chuck Norris could defeat the entire combined nations of the world in one turn.
 <!-- /joke -->
 
-*Last update: Sat, 20 Apr 2024 00:38:40 GMT*
+*Last update: Sun, 21 Apr 2024 00:41:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
