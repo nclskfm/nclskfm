@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 21 2024)
+### Joke of the day (Mon Apr 22 2024)
 <!-- joke -->
->The Chuck Norris military unit was not used in the game Civilization 4, because a single Chuck Norris could defeat the entire combined nations of the world in one turn.
+>Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
 <!-- /joke -->
 
-*Last update: Sun, 21 Apr 2024 00:41:32 GMT*
+*Last update: Mon, 22 Apr 2024 00:39:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
