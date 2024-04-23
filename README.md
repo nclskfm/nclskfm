@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 22 2024)
+### Joke of the day (Tue Apr 23 2024)
 <!-- joke -->
->Chuck Norris won super bowls VII and VIII singlehandedly before unexpectedly retiring to pursue a career in ass-kicking.
+>Chuck Norris invented the internet? just so he had a place to store his porn.
 <!-- /joke -->
 
-*Last update: Mon, 22 Apr 2024 00:39:55 GMT*
+*Last update: Tue, 23 Apr 2024 00:38:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
