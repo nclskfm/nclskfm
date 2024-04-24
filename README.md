@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 23 2024)
+### Joke of the day (Wed Apr 24 2024)
 <!-- joke -->
->Chuck Norris invented the internet? just so he had a place to store his porn.
+>Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Tue, 23 Apr 2024 00:38:40 GMT*
+*Last update: Wed, 24 Apr 2024 00:38:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
