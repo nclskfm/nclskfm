@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 24 2024)
+### Joke of the day (Thu Apr 25 2024)
 <!-- joke -->
->Every time someone uses the word 'intense', Chuck Norris always replies 'you know what else is intense?' followed by a roundhouse kick to the face.
+>Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
 <!-- /joke -->
 
-*Last update: Wed, 24 Apr 2024 00:38:23 GMT*
+*Last update: Thu, 25 Apr 2024 00:40:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
