@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 25 2024)
+### Joke of the day (Fri Apr 26 2024)
 <!-- joke -->
->Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
+>As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
 <!-- /joke -->
 
-*Last update: Thu, 25 Apr 2024 00:40:58 GMT*
+*Last update: Fri, 26 Apr 2024 00:38:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
