@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 26 2024)
+### Joke of the day (Sat Apr 27 2024)
 <!-- joke -->
->As an infant, Chuck Norris' parents gave him a toy hammer. He gave the world Stonehenge.
+>Chuck Norris got his drivers license at the age of 16. Seconds.
 <!-- /joke -->
 
-*Last update: Fri, 26 Apr 2024 00:38:45 GMT*
+*Last update: Sat, 27 Apr 2024 00:38:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
