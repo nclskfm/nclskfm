@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 27 2024)
+### Joke of the day (Sun Apr 28 2024)
 <!-- joke -->
->Chuck Norris got his drivers license at the age of 16. Seconds.
+>There are only 10 types of people in the world: those that understand binary and those that don’t.
 <!-- /joke -->
 
-*Last update: Sat, 27 Apr 2024 00:38:16 GMT*
+*Last update: Sun, 28 Apr 2024 00:42:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
