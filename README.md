@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 28 2024)
+### Joke of the day (Mon Apr 29 2024)
 <!-- joke -->
->There are only 10 types of people in the world: those that understand binary and those that don’t.
+>Mr. T pities the fool. Chuck Norris rips the fool's head off.
 <!-- /joke -->
 
-*Last update: Sun, 28 Apr 2024 00:42:09 GMT*
+*Last update: Mon, 29 Apr 2024 00:39:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
