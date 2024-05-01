@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 30 2024)
+### Joke of the day (Wed May 01 2024)
 <!-- joke -->
->There are only 10 types of people in the world: those that understand binary and those that don’t.
+>When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 <!-- /joke -->
 
-*Last update: Tue, 30 Apr 2024 00:37:53 GMT*
+*Last update: Wed, 01 May 2024 00:41:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
