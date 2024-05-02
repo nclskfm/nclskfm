@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 01 2024)
+### Joke of the day (Thu May 02 2024)
 <!-- joke -->
->When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
+>Chuck Norris's keyboard has the Any key.
 <!-- /joke -->
 
-*Last update: Wed, 01 May 2024 00:41:59 GMT*
+*Last update: Thu, 02 May 2024 00:38:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
