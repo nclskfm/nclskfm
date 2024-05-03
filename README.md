@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 02 2024)
+### Joke of the day (Fri May 03 2024)
 <!-- joke -->
->Chuck Norris's keyboard has the Any key.
+>The quickest way to a man's heart is with Chuck Norris' fist.
 <!-- /joke -->
 
-*Last update: Thu, 02 May 2024 00:38:21 GMT*
+*Last update: Fri, 03 May 2024 00:41:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
