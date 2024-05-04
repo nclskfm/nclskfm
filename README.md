@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 03 2024)
+### Joke of the day (Sat May 04 2024)
 <!-- joke -->
->The quickest way to a man's heart is with Chuck Norris' fist.
+>The Bible was originally titled 'Chuck Norris and Friends'
 <!-- /joke -->
 
-*Last update: Fri, 03 May 2024 00:41:17 GMT*
+*Last update: Sat, 04 May 2024 00:38:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
