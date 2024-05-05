@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 04 2024)
+### Joke of the day (Sun May 05 2024)
 <!-- joke -->
->The Bible was originally titled 'Chuck Norris and Friends'
+>Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
 <!-- /joke -->
 
-*Last update: Sat, 04 May 2024 00:38:31 GMT*
+*Last update: Sun, 05 May 2024 00:41:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
