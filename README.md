@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 06 2024)
+### Joke of the day (Tue May 07 2024)
 <!-- joke -->
->Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
+>The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 06 May 2024 00:39:59 GMT*
+*Last update: Tue, 07 May 2024 00:39:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
