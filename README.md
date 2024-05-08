@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 07 2024)
+### Joke of the day (Wed May 08 2024)
 <!-- joke -->
->The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
+>When Chuck Norris has sex with a man, it won't be because he is gay. It will be because he has run out of women.
 <!-- /joke -->
 
-*Last update: Tue, 07 May 2024 00:39:06 GMT*
+*Last update: Wed, 08 May 2024 00:32:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
