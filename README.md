@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 08 2024)
+### Joke of the day (Thu May 09 2024)
 <!-- joke -->
->When Chuck Norris has sex with a man, it won't be because he is gay. It will be because he has run out of women.
+>All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 <!-- /joke -->
 
-*Last update: Wed, 08 May 2024 00:32:48 GMT*
+*Last update: Thu, 09 May 2024 00:39:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
