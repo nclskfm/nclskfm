@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 09 2024)
+### Joke of the day (Fri May 10 2024)
 <!-- joke -->
->All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+>All browsers support the hex definitions #chuck and #norris for the colors black and blue.
 <!-- /joke -->
 
-*Last update: Thu, 09 May 2024 00:39:27 GMT*
+*Last update: Fri, 10 May 2024 00:39:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
