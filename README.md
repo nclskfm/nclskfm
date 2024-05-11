@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 10 2024)
+### Joke of the day (Sat May 11 2024)
 <!-- joke -->
->All browsers support the hex definitions #chuck and #norris for the colors black and blue.
+>Chuck Norris doesn't use web standards as the web will conform to him.
 <!-- /joke -->
 
-*Last update: Fri, 10 May 2024 00:39:19 GMT*
+*Last update: Sat, 11 May 2024 00:38:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
