@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 11 2024)
+### Joke of the day (Sun May 12 2024)
 <!-- joke -->
->Chuck Norris doesn't use web standards as the web will conform to him.
+>It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
 <!-- /joke -->
 
-*Last update: Sat, 11 May 2024 00:38:50 GMT*
+*Last update: Sun, 12 May 2024 00:43:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
