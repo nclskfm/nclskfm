@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 12 2024)
+### Joke of the day (Mon May 13 2024)
 <!-- joke -->
->It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
+>Chuck Norris sheds his skin twice a year.
 <!-- /joke -->
 
-*Last update: Sun, 12 May 2024 00:43:12 GMT*
+*Last update: Mon, 13 May 2024 00:40:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
