@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 13 2024)
+### Joke of the day (Tue May 14 2024)
 <!-- joke -->
->Chuck Norris sheds his skin twice a year.
+>Windows isn’t a virus atleast viruses do something.
 <!-- /joke -->
 
-*Last update: Mon, 13 May 2024 00:40:55 GMT*
+*Last update: Tue, 14 May 2024 00:39:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
