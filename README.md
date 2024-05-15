@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 14 2024)
+### Joke of the day (Wed May 15 2024)
 <!-- joke -->
->Windows isn’t a virus atleast viruses do something.
+>When Chuck Norris plays Oregon Trail, his family does not die from cholera or dysentery, but rather, roundhouse kicks to the face. He also requires no wagon, since he carries the oxen, axels, and buffalo meat on his back. He always makes it to Oregon before you.
 <!-- /joke -->
 
-*Last update: Tue, 14 May 2024 00:39:43 GMT*
+*Last update: Wed, 15 May 2024 00:39:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
