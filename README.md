@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 15 2024)
+### Joke of the day (Thu May 16 2024)
 <!-- joke -->
->When Chuck Norris plays Oregon Trail, his family does not die from cholera or dysentery, but rather, roundhouse kicks to the face. He also requires no wagon, since he carries the oxen, axels, and buffalo meat on his back. He always makes it to Oregon before you.
+>The class object inherits from Chuck Norris
 <!-- /joke -->
 
-*Last update: Wed, 15 May 2024 00:39:48 GMT*
+*Last update: Thu, 16 May 2024 00:39:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
