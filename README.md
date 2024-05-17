@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 16 2024)
+### Joke of the day (Fri May 17 2024)
 <!-- joke -->
->The class object inherits from Chuck Norris
+>My software never has bugs. It just develops random features.
 <!-- /joke -->
 
-*Last update: Thu, 16 May 2024 00:39:25 GMT*
+*Last update: Fri, 17 May 2024 00:40:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
