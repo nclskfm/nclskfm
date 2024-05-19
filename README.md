@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 18 2024)
+### Joke of the day (Sun May 19 2024)
 <!-- joke -->
->Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
+>Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
 <!-- /joke -->
 
-*Last update: Sat, 18 May 2024 00:39:35 GMT*
+*Last update: Sun, 19 May 2024 00:43:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
