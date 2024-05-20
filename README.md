@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 19 2024)
+### Joke of the day (Mon May 20 2024)
 <!-- joke -->
->Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
+>If Chuck Norris writes code with bugs, the bugs fix themselves.
 <!-- /joke -->
 
-*Last update: Sun, 19 May 2024 00:43:12 GMT*
+*Last update: Mon, 20 May 2024 00:40:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
