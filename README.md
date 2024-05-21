@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 20 2024)
+### Joke of the day (Tue May 21 2024)
 <!-- joke -->
->If Chuck Norris writes code with bugs, the bugs fix themselves.
+>Chuck Norris doesn't need an OS.
 <!-- /joke -->
 
-*Last update: Mon, 20 May 2024 00:40:39 GMT*
+*Last update: Tue, 21 May 2024 00:40:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
