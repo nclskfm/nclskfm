@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 21 2024)
+### Joke of the day (Wed May 22 2024)
 <!-- joke -->
->Chuck Norris doesn't need an OS.
+>The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 <!-- /joke -->
 
-*Last update: Tue, 21 May 2024 00:40:14 GMT*
+*Last update: Wed, 22 May 2024 00:40:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
