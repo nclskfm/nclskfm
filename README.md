@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 23 2024)
+### Joke of the day (Fri May 24 2024)
 <!-- joke -->
->There are only 10 types of people in the world: those that understand binary and those that don’t.
+>Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
 <!-- /joke -->
 
-*Last update: Thu, 23 May 2024 00:39:57 GMT*
+*Last update: Fri, 24 May 2024 00:40:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
