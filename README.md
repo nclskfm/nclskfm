@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 24 2024)
+### Joke of the day (Sat May 25 2024)
 <!-- joke -->
->Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
+>Fact: Chuck Norris doesn't consider it sex if the woman survives.
 <!-- /joke -->
 
-*Last update: Fri, 24 May 2024 00:40:24 GMT*
+*Last update: Sat, 25 May 2024 00:39:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
