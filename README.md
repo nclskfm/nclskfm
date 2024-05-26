@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 25 2024)
+### Joke of the day (Sun May 26 2024)
 <!-- joke -->
->Fact: Chuck Norris doesn't consider it sex if the woman survives.
+>Chuck Norris insists on strongly-typed programming languages.
 <!-- /joke -->
 
-*Last update: Sat, 25 May 2024 00:39:08 GMT*
+*Last update: Sun, 26 May 2024 00:43:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
