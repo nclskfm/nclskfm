@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 26 2024)
+### Joke of the day (Mon May 27 2024)
 <!-- joke -->
->Chuck Norris insists on strongly-typed programming languages.
+>Failure is not an option. It comes bundled with your Microsoft product.
 <!-- /joke -->
 
-*Last update: Sun, 26 May 2024 00:43:43 GMT*
+*Last update: Mon, 27 May 2024 00:41:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
