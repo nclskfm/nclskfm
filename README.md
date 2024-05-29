@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 28 2024)
+### Joke of the day (Wed May 29 2024)
 <!-- joke -->
->President Roosevelt once rode his horse 100 miles. Chuck Norris carried his the same distance in half the time.
+>In honor of Chuck Norris, all McDonald's in Texas have an even larger size than the super-size. When ordering, just ask to be Chucksized.
 <!-- /joke -->
 
-*Last update: Tue, 28 May 2024 00:40:30 GMT*
+*Last update: Wed, 29 May 2024 00:43:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
