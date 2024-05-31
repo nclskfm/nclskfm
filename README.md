@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 30 2024)
+### Joke of the day (Fri May 31 2024)
 <!-- joke -->
->Simply by pulling on both ends, Chuck Norris can stretch diamonds back into coal.
+>Chuck Norris played Russian Roulette with a fully loaded gun and won.
 <!-- /joke -->
 
-*Last update: Thu, 30 May 2024 00:40:41 GMT*
+*Last update: Fri, 31 May 2024 00:41:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
