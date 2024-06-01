@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 31 2024)
+### Joke of the day (Sat Jun 01 2024)
 <!-- joke -->
->Chuck Norris played Russian Roulette with a fully loaded gun and won.
+>Chuck Norris uses tabasco sauce instead of visine.
 <!-- /joke -->
 
-*Last update: Fri, 31 May 2024 00:41:25 GMT*
+*Last update: Sat, 01 Jun 2024 00:43:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
