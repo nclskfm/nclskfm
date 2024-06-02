@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 01 2024)
+### Joke of the day (Sun Jun 02 2024)
 <!-- joke -->
->Chuck Norris uses tabasco sauce instead of visine.
+>Hey! It compiles! Ship it!
 <!-- /joke -->
 
-*Last update: Sat, 01 Jun 2024 00:43:39 GMT*
+*Last update: Sun, 02 Jun 2024 00:44:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
