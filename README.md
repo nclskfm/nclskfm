@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 02 2024)
+### Joke of the day (Mon Jun 03 2024)
 <!-- joke -->
->Hey! It compiles! Ship it!
+>Chuck Norris is the only person in the world that can actually email a roundhouse kick.
 <!-- /joke -->
 
-*Last update: Sun, 02 Jun 2024 00:44:02 GMT*
+*Last update: Mon, 03 Jun 2024 00:41:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
