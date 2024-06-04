@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 03 2024)
+### Joke of the day (Tue Jun 04 2024)
 <!-- joke -->
->Chuck Norris is the only person in the world that can actually email a roundhouse kick.
+>An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
 <!-- /joke -->
 
-*Last update: Mon, 03 Jun 2024 00:41:59 GMT*
+*Last update: Tue, 04 Jun 2024 00:41:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
