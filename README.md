@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 04 2024)
+### Joke of the day (Wed Jun 05 2024)
 <!-- joke -->
->An anagram for Walker Texas Ranger is KARATE WRANGLER SEX. I don't know what that is, but it sounds AWESOME.
+>Programmers are tools for converting caffeine into code.
 <!-- /joke -->
 
-*Last update: Tue, 04 Jun 2024 00:41:11 GMT*
+*Last update: Wed, 05 Jun 2024 00:40:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
