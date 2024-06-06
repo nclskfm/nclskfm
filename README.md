@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 05 2024)
+### Joke of the day (Thu Jun 06 2024)
 <!-- joke -->
->Programmers are tools for converting caffeine into code.
+>The only pattern Chuck Norris knows is God Object.
 <!-- /joke -->
 
-*Last update: Wed, 05 Jun 2024 00:40:49 GMT*
+*Last update: Thu, 06 Jun 2024 00:40:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
