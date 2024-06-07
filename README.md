@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 06 2024)
+### Joke of the day (Fri Jun 07 2024)
 <!-- joke -->
->The only pattern Chuck Norris knows is God Object.
+>They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
 <!-- /joke -->
 
-*Last update: Thu, 06 Jun 2024 00:40:49 GMT*
+*Last update: Fri, 07 Jun 2024 00:42:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
