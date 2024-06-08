@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 07 2024)
+### Joke of the day (Sat Jun 08 2024)
 <!-- joke -->
->They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
+>Chuck Norris has two speeds: Walk and Kill.
 <!-- /joke -->
 
-*Last update: Fri, 07 Jun 2024 00:42:12 GMT*
+*Last update: Sat, 08 Jun 2024 00:41:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
