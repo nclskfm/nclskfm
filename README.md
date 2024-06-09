@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 08 2024)
+### Joke of the day (Sun Jun 09 2024)
 <!-- joke -->
->Chuck Norris has two speeds: Walk and Kill.
+>Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
 <!-- /joke -->
 
-*Last update: Sat, 08 Jun 2024 00:41:19 GMT*
+*Last update: Sun, 09 Jun 2024 00:46:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
