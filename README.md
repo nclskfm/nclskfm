@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 09 2024)
+### Joke of the day (Mon Jun 10 2024)
 <!-- joke -->
->Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
+>Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 <!-- /joke -->
 
-*Last update: Sun, 09 Jun 2024 00:46:01 GMT*
+*Last update: Mon, 10 Jun 2024 00:42:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
