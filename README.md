@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 10 2024)
+### Joke of the day (Tue Jun 11 2024)
 <!-- joke -->
->Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
+>How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
 <!-- /joke -->
 
-*Last update: Mon, 10 Jun 2024 00:42:59 GMT*
+*Last update: Tue, 11 Jun 2024 00:41:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
