@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 12 2024)
+### Joke of the day (Thu Jun 13 2024)
 <!-- joke -->
->Chuck Norris can delete the Recycling Bin.
+>The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
 <!-- /joke -->
 
-*Last update: Wed, 12 Jun 2024 00:41:45 GMT*
+*Last update: Thu, 13 Jun 2024 00:41:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
