@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 13 2024)
+### Joke of the day (Fri Jun 14 2024)
 <!-- joke -->
->The phrase 'dead ringer' refers to someone who sits behind Chuck Norris in a movie theater and forgets to turn their cell phone off.
+>The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 <!-- /joke -->
 
-*Last update: Thu, 13 Jun 2024 00:41:23 GMT*
+*Last update: Fri, 14 Jun 2024 00:41:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
