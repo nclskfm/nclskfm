@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 14 2024)
+### Joke of the day (Sat Jun 15 2024)
 <!-- joke -->
->The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
+>Chuck Norris can do a wheelie on a unicycle.
 <!-- /joke -->
 
-*Last update: Fri, 14 Jun 2024 00:41:26 GMT*
+*Last update: Sat, 15 Jun 2024 00:41:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
