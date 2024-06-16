@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 15 2024)
+### Joke of the day (Sun Jun 16 2024)
 <!-- joke -->
->Chuck Norris can do a wheelie on a unicycle.
+>A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
 <!-- /joke -->
 
-*Last update: Sat, 15 Jun 2024 00:41:16 GMT*
+*Last update: Sun, 16 Jun 2024 00:45:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
