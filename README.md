@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 16 2024)
+### Joke of the day (Mon Jun 17 2024)
 <!-- joke -->
->A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
+>Chuck Norris is his own line at the DMV.
 <!-- /joke -->
 
-*Last update: Sun, 16 Jun 2024 00:45:33 GMT*
+*Last update: Mon, 17 Jun 2024 00:43:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
