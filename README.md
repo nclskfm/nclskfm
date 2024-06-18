@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 17 2024)
+### Joke of the day (Tue Jun 18 2024)
 <!-- joke -->
->Chuck Norris is his own line at the DMV.
+>Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
 <!-- /joke -->
 
-*Last update: Mon, 17 Jun 2024 00:43:32 GMT*
+*Last update: Tue, 18 Jun 2024 00:42:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
