@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 18 2024)
+### Joke of the day (Wed Jun 19 2024)
 <!-- joke -->
->Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
+>For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
 <!-- /joke -->
 
-*Last update: Tue, 18 Jun 2024 00:42:21 GMT*
+*Last update: Wed, 19 Jun 2024 00:42:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
