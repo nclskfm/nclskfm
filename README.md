@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 19 2024)
+### Joke of the day (Thu Jun 20 2024)
 <!-- joke -->
->For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
+>To be or not to be? That is the question. The answer? Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 19 Jun 2024 00:42:02 GMT*
+*Last update: Thu, 20 Jun 2024 00:40:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
