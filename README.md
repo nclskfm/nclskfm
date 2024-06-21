@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 20 2024)
+### Joke of the day (Fri Jun 21 2024)
 <!-- joke -->
->To be or not to be? That is the question. The answer? Chuck Norris.
+>If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
 <!-- /joke -->
 
-*Last update: Thu, 20 Jun 2024 00:40:53 GMT*
+*Last update: Fri, 21 Jun 2024 00:41:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
