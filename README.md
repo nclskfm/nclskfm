@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 21 2024)
+### Joke of the day (Sat Jun 22 2024)
 <!-- joke -->
->If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+>Chuck Norris finished World of Warcraft.
 <!-- /joke -->
 
-*Last update: Fri, 21 Jun 2024 00:41:02 GMT*
+*Last update: Sat, 22 Jun 2024 00:40:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
