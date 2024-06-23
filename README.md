@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 22 2024)
+### Joke of the day (Sun Jun 23 2024)
 <!-- joke -->
->Chuck Norris finished World of Warcraft.
+>Why are fishes illiterate?Because C doesnt have Classes
 <!-- /joke -->
 
-*Last update: Sat, 22 Jun 2024 00:40:55 GMT*
+*Last update: Sun, 23 Jun 2024 00:45:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
