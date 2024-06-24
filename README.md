@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 23 2024)
+### Joke of the day (Mon Jun 24 2024)
 <!-- joke -->
->Why are fishes illiterate?Because C doesnt have Classes
+>Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
 <!-- /joke -->
 
-*Last update: Sun, 23 Jun 2024 00:45:00 GMT*
+*Last update: Mon, 24 Jun 2024 00:43:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
