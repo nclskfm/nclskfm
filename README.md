@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 24 2024)
+### Joke of the day (Tue Jun 25 2024)
 <!-- joke -->
->Chuck Norris will attain statehood in 2009. His state flower will be the Magnolia.
+>Diamonds are not, despite popular belief, carbon. They are, in fact, Chuck Norris fecal matter. This was proven a recently, when scientific analysis revealed what appeared to be Jean-Claude Van Damme bone fragments inside the Hope Diamond.
 <!-- /joke -->
 
-*Last update: Mon, 24 Jun 2024 00:43:21 GMT*
+*Last update: Tue, 25 Jun 2024 00:41:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
