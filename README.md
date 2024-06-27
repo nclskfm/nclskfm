@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 26 2024)
+### Joke of the day (Thu Jun 27 2024)
 <!-- joke -->
->When Chuck Norris does division, there are no remainders.
+>When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
 <!-- /joke -->
 
-*Last update: Wed, 26 Jun 2024 00:41:34 GMT*
+*Last update: Thu, 27 Jun 2024 00:42:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
