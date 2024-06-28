@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 27 2024)
+### Joke of the day (Fri Jun 28 2024)
 <!-- joke -->
->When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
+>3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
 <!-- /joke -->
 
-*Last update: Thu, 27 Jun 2024 00:42:11 GMT*
+*Last update: Fri, 28 Jun 2024 00:42:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
