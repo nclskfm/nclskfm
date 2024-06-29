@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 28 2024)
+### Joke of the day (Sat Jun 29 2024)
 <!-- joke -->
->3 Database SQL walked into a NoSQL bar. A little while later they walked out, because they couldn't find a table.
+>Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
 <!-- /joke -->
 
-*Last update: Fri, 28 Jun 2024 00:42:11 GMT*
+*Last update: Sat, 29 Jun 2024 00:41:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
