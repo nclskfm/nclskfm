@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 29 2024)
+### Joke of the day (Sun Jun 30 2024)
 <!-- joke -->
->Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
+>Hand over the calculator... friends don’t let friends derive drunk.
 <!-- /joke -->
 
-*Last update: Sat, 29 Jun 2024 00:41:11 GMT*
+*Last update: Sun, 30 Jun 2024 00:46:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
