@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 30 2024)
+### Joke of the day (Mon Jul 01 2024)
 <!-- joke -->
->Hand over the calculator... friends don’t let friends derive drunk.
+>Artificial intelligence usually beats real stupidity.
 <!-- /joke -->
 
-*Last update: Sun, 30 Jun 2024 00:46:31 GMT*
+*Last update: Mon, 01 Jul 2024 00:48:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
