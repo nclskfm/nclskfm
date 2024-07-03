@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 02 2024)
+### Joke of the day (Wed Jul 03 2024)
 <!-- joke -->
->Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris' fists is inside his own body.
+>When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
 <!-- /joke -->
 
-*Last update: Tue, 02 Jul 2024 00:42:16 GMT*
+*Last update: Wed, 03 Jul 2024 00:42:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
