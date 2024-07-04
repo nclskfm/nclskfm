@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 03 2024)
+### Joke of the day (Thu Jul 04 2024)
 <!-- joke -->
->When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
+>If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
 <!-- /joke -->
 
-*Last update: Wed, 03 Jul 2024 00:42:11 GMT*
+*Last update: Thu, 04 Jul 2024 00:42:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
