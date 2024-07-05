@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 04 2024)
+### Joke of the day (Fri Jul 05 2024)
 <!-- joke -->
->If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
+>Chuck Norris uses tabasco sauce instead of visine.
 <!-- /joke -->
 
-*Last update: Thu, 04 Jul 2024 00:42:24 GMT*
+*Last update: Fri, 05 Jul 2024 00:42:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
