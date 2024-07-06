@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 05 2024)
+### Joke of the day (Sat Jul 06 2024)
 <!-- joke -->
->Chuck Norris uses tabasco sauce instead of visine.
+>Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
 <!-- /joke -->
 
-*Last update: Fri, 05 Jul 2024 00:42:08 GMT*
+*Last update: Sat, 06 Jul 2024 00:41:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
