@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 06 2024)
+### Joke of the day (Sun Jul 07 2024)
 <!-- joke -->
->Chuck Norris eats steak for every single meal. Most times he forgets to kill the cow.
+>Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 <!-- /joke -->
 
-*Last update: Sat, 06 Jul 2024 00:41:01 GMT*
+*Last update: Sun, 07 Jul 2024 00:47:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
