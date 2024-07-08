@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 07 2024)
+### Joke of the day (Mon Jul 08 2024)
 <!-- joke -->
->Contrary to popular belief, there is indeed enough Chuck Norris to go around.
+>Chuck Norris can win at solitaire with only 18 cards.
 <!-- /joke -->
 
-*Last update: Sun, 07 Jul 2024 00:47:01 GMT*
+*Last update: Mon, 08 Jul 2024 00:44:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
