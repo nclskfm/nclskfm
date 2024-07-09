@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 08 2024)
+### Joke of the day (Tue Jul 09 2024)
 <!-- joke -->
->Chuck Norris can win at solitaire with only 18 cards.
+>Chuck Norris can binary search unsorted data.
 <!-- /joke -->
 
-*Last update: Mon, 08 Jul 2024 00:44:00 GMT*
+*Last update: Tue, 09 Jul 2024 00:42:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
