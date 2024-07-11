@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 10 2024)
+### Joke of the day (Thu Jul 11 2024)
 <!-- joke -->
->Chuck Norris can binary search unsorted data.
+>There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 10 Jul 2024 00:43:14 GMT*
+*Last update: Thu, 11 Jul 2024 00:43:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
