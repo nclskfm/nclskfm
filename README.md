@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 11 2024)
+### Joke of the day (Fri Jul 12 2024)
 <!-- joke -->
->There is no such thing as a lesbian, just a woman who has never met Chuck Norris.
+>Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
 <!-- /joke -->
 
-*Last update: Thu, 11 Jul 2024 00:43:22 GMT*
+*Last update: Fri, 12 Jul 2024 00:42:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
