@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 12 2024)
+### Joke of the day (Sat Jul 13 2024)
 <!-- joke -->
->Chuck Norris doesn't do Burn Down charts, he does Smack Down charts.
+>Mr. T pities the fool. Chuck Norris rips the fool's head off.
 <!-- /joke -->
 
-*Last update: Fri, 12 Jul 2024 00:42:30 GMT*
+*Last update: Sat, 13 Jul 2024 00:43:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
