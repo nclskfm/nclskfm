@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 13 2024)
+### Joke of the day (Sun Jul 14 2024)
 <!-- joke -->
->Mr. T pities the fool. Chuck Norris rips the fool's head off.
+>Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
 <!-- /joke -->
 
-*Last update: Sat, 13 Jul 2024 00:43:18 GMT*
+*Last update: Sun, 14 Jul 2024 00:47:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
