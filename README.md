@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 14 2024)
+### Joke of the day (Mon Jul 15 2024)
 <!-- joke -->
->Chuck Norris describes human beings as 'a sociable holder for blood and guts'.
+>How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
 <!-- /joke -->
 
-*Last update: Sun, 14 Jul 2024 00:47:51 GMT*
+*Last update: Mon, 15 Jul 2024 00:44:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
