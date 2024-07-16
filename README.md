@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 15 2024)
+### Joke of the day (Tue Jul 16 2024)
 <!-- joke -->
->How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
+>Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
 <!-- /joke -->
 
-*Last update: Mon, 15 Jul 2024 00:44:55 GMT*
+*Last update: Tue, 16 Jul 2024 00:43:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
