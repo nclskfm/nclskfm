@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 16 2024)
+### Joke of the day (Wed Jul 17 2024)
 <!-- joke -->
->Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
+>A foo walks into a bar, takes a look around and says 'Hello World!'.
 <!-- /joke -->
 
-*Last update: Tue, 16 Jul 2024 00:43:28 GMT*
+*Last update: Wed, 17 Jul 2024 00:43:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
