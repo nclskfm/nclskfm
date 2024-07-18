@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 17 2024)
+### Joke of the day (Thu Jul 18 2024)
 <!-- joke -->
->A foo walks into a bar, takes a look around and says 'Hello World!'.
+>Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Wed, 17 Jul 2024 00:43:37 GMT*
+*Last update: Thu, 18 Jul 2024 00:42:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
