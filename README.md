@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 18 2024)
+### Joke of the day (Fri Jul 19 2024)
 <!-- joke -->
->Jean-Claude Van Damme once kicked Chuck Norris' ass. He was then awakened from his dream by a roundhouse kick to the face.
+>Chuck Norris' house has no doors, only walls that he walks through.
 <!-- /joke -->
 
-*Last update: Thu, 18 Jul 2024 00:42:35 GMT*
+*Last update: Fri, 19 Jul 2024 00:43:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
