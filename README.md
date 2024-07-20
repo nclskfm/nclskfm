@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 19 2024)
+### Joke of the day (Sat Jul 20 2024)
 <!-- joke -->
->Chuck Norris' house has no doors, only walls that he walks through.
+>Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
 <!-- /joke -->
 
-*Last update: Fri, 19 Jul 2024 00:43:12 GMT*
+*Last update: Sat, 20 Jul 2024 00:42:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
