@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 22 2024)
+### Joke of the day (Tue Jul 23 2024)
 <!-- joke -->
->When Chuck Norris has sex with a man, it won't be because he is gay. It will be because he has run out of women.
+>I have a good joke on Information Technology, but you won't get IT
 <!-- /joke -->
 
-*Last update: Mon, 22 Jul 2024 00:45:15 GMT*
+*Last update: Tue, 23 Jul 2024 00:43:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
