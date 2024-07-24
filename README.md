@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 23 2024)
+### Joke of the day (Wed Jul 24 2024)
 <!-- joke -->
->I have a good joke on Information Technology, but you won't get IT
+>Project managers never ask Chuck Norris for estimations... ever.
 <!-- /joke -->
 
-*Last update: Tue, 23 Jul 2024 00:43:39 GMT*
+*Last update: Wed, 24 Jul 2024 00:44:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
