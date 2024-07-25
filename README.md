@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 24 2024)
+### Joke of the day (Thu Jul 25 2024)
 <!-- joke -->
->Project managers never ask Chuck Norris for estimations... ever.
+>Real programmers start counting from 0
 <!-- /joke -->
 
-*Last update: Wed, 24 Jul 2024 00:44:20 GMT*
+*Last update: Thu, 25 Jul 2024 00:43:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
