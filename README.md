@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 25 2024)
+### Joke of the day (Fri Jul 26 2024)
 <!-- joke -->
->Real programmers start counting from 0
+>Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
 <!-- /joke -->
 
-*Last update: Thu, 25 Jul 2024 00:43:22 GMT*
+*Last update: Fri, 26 Jul 2024 00:43:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
