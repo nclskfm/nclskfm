@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 26 2024)
+### Joke of the day (Sat Jul 27 2024)
 <!-- joke -->
->Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+>Whiteboards are white because Chuck Norris scared them that way.
 <!-- /joke -->
 
-*Last update: Fri, 26 Jul 2024 00:43:05 GMT*
+*Last update: Sat, 27 Jul 2024 00:42:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
