@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 27 2024)
+### Joke of the day (Sun Jul 28 2024)
 <!-- joke -->
->Whiteboards are white because Chuck Norris scared them that way.
+>'It works on my machine' always holds true for Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 27 Jul 2024 00:42:57 GMT*
+*Last update: Sun, 28 Jul 2024 00:48:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
