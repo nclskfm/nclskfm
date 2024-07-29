@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 28 2024)
+### Joke of the day (Mon Jul 29 2024)
 <!-- joke -->
->'It works on my machine' always holds true for Chuck Norris.
+>Chuck Norris doesn't bowl strikes, he just knocks down one pin and the other nine faint.
 <!-- /joke -->
 
-*Last update: Sun, 28 Jul 2024 00:48:08 GMT*
+*Last update: Mon, 29 Jul 2024 00:45:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
