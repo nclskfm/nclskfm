@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 29 2024)
+### Joke of the day (Tue Jul 30 2024)
 <!-- joke -->
->Chuck Norris doesn't bowl strikes, he just knocks down one pin and the other nine faint.
+>Chuck Norris can spawn threads that complete before they are started.
 <!-- /joke -->
 
-*Last update: Mon, 29 Jul 2024 00:45:11 GMT*
+*Last update: Tue, 30 Jul 2024 00:43:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
