@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 01 2024)
+### Joke of the day (Fri Aug 02 2024)
 <!-- joke -->
->Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
+>Chuck Norris wears a live rattlesnake as a condom.
 <!-- /joke -->
 
-*Last update: Thu, 01 Aug 2024 00:49:08 GMT*
+*Last update: Fri, 02 Aug 2024 00:43:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
