@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 02 2024)
+### Joke of the day (Sat Aug 03 2024)
 <!-- joke -->
->Chuck Norris wears a live rattlesnake as a condom.
+>Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
 <!-- /joke -->
 
-*Last update: Fri, 02 Aug 2024 00:43:35 GMT*
+*Last update: Sat, 03 Aug 2024 00:42:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
