@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 04 2024)
+### Joke of the day (Mon Aug 05 2024)
 <!-- joke -->
->I don't see women as objects. I consider each to be in a class of her own.
+>Chuck Norris can write an OS in Brainfuck
 <!-- /joke -->
 
-*Last update: Sun, 04 Aug 2024 00:48:24 GMT*
+*Last update: Mon, 05 Aug 2024 00:45:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
