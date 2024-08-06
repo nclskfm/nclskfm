@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 05 2024)
+### Joke of the day (Tue Aug 06 2024)
 <!-- joke -->
->Chuck Norris can write an OS in Brainfuck
+>Chuck Norris solved the halting problem.
 <!-- /joke -->
 
-*Last update: Mon, 05 Aug 2024 00:45:47 GMT*
+*Last update: Tue, 06 Aug 2024 00:43:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
