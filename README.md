@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 06 2024)
+### Joke of the day (Wed Aug 07 2024)
 <!-- joke -->
->Chuck Norris solved the halting problem.
+>The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 06 Aug 2024 00:43:46 GMT*
+*Last update: Wed, 07 Aug 2024 00:44:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
