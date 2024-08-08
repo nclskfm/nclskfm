@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 07 2024)
+### Joke of the day (Thu Aug 08 2024)
 <!-- joke -->
->The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
+>Some kids play Kick the can. Chuck Norris played Kick the keg.
 <!-- /joke -->
 
-*Last update: Wed, 07 Aug 2024 00:44:25 GMT*
+*Last update: Thu, 08 Aug 2024 00:44:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
