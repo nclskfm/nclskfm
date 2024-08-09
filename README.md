@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 08 2024)
+### Joke of the day (Fri Aug 09 2024)
 <!-- joke -->
->Some kids play Kick the can. Chuck Norris played Kick the keg.
+>In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
 <!-- /joke -->
 
-*Last update: Thu, 08 Aug 2024 00:44:13 GMT*
+*Last update: Fri, 09 Aug 2024 00:44:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
