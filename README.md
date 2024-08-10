@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 09 2024)
+### Joke of the day (Sat Aug 10 2024)
 <!-- joke -->
->In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
+>What do computers and air conditioners have in common? They both become useless when you open windows.
 <!-- /joke -->
 
-*Last update: Fri, 09 Aug 2024 00:44:51 GMT*
+*Last update: Sat, 10 Aug 2024 00:44:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
