@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 10 2024)
+### Joke of the day (Sun Aug 11 2024)
 <!-- joke -->
->What do computers and air conditioners have in common? They both become useless when you open windows.
+>Chuck Norris doesn't use GUI, he prefers COMMAND line.
 <!-- /joke -->
 
-*Last update: Sat, 10 Aug 2024 00:44:13 GMT*
+*Last update: Sun, 11 Aug 2024 00:49:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
