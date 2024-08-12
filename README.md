@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 11 2024)
+### Joke of the day (Mon Aug 12 2024)
 <!-- joke -->
->Chuck Norris doesn't use GUI, he prefers COMMAND line.
+>Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
 <!-- /joke -->
 
-*Last update: Sun, 11 Aug 2024 00:49:30 GMT*
+*Last update: Mon, 12 Aug 2024 00:46:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
