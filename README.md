@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 12 2024)
+### Joke of the day (Tue Aug 13 2024)
 <!-- joke -->
->Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
+>Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 <!-- /joke -->
 
-*Last update: Mon, 12 Aug 2024 00:46:09 GMT*
+*Last update: Tue, 13 Aug 2024 00:45:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
