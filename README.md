@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 13 2024)
+### Joke of the day (Wed Aug 14 2024)
 <!-- joke -->
->Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+>Chuck Norris can lead a horse to water AND make it drink.
 <!-- /joke -->
 
-*Last update: Tue, 13 Aug 2024 00:45:25 GMT*
+*Last update: Wed, 14 Aug 2024 00:44:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
