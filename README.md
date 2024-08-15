@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 14 2024)
+### Joke of the day (Thu Aug 15 2024)
 <!-- joke -->
->Chuck Norris can lead a horse to water AND make it drink.
+>All browsers support the hex definitions #chuck and #norris for the colors black and blue.
 <!-- /joke -->
 
-*Last update: Wed, 14 Aug 2024 00:44:33 GMT*
+*Last update: Thu, 15 Aug 2024 00:42:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
