@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 15 2024)
+### Joke of the day (Fri Aug 16 2024)
 <!-- joke -->
->All browsers support the hex definitions #chuck and #norris for the colors black and blue.
+>Chuck Norris does not kick ass and take names. In fact, Chuck Norris kicks ass and assigns the corpse a number. It is currently recorded to be in the billions.
 <!-- /joke -->
 
-*Last update: Thu, 15 Aug 2024 00:42:47 GMT*
+*Last update: Fri, 16 Aug 2024 00:47:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
