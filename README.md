@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 16 2024)
+### Joke of the day (Sat Aug 17 2024)
 <!-- joke -->
->Chuck Norris does not kick ass and take names. In fact, Chuck Norris kicks ass and assigns the corpse a number. It is currently recorded to be in the billions.
+>Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
 <!-- /joke -->
 
-*Last update: Fri, 16 Aug 2024 00:47:19 GMT*
+*Last update: Sat, 17 Aug 2024 00:42:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
