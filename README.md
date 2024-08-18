@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 17 2024)
+### Joke of the day (Sun Aug 18 2024)
 <!-- joke -->
->Chuck Norris once rode a nine foot grizzly bear through an automatic car wash, instead of taking a shower.
+>Chuck Norris was what Willis was talkin' about.
 <!-- /joke -->
 
-*Last update: Sat, 17 Aug 2024 00:42:48 GMT*
+*Last update: Sun, 18 Aug 2024 00:48:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
