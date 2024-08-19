@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 18 2024)
+### Joke of the day (Mon Aug 19 2024)
 <!-- joke -->
->Chuck Norris was what Willis was talkin' about.
+>The quickest way to a man's heart is with Chuck Norris' fist.
 <!-- /joke -->
 
-*Last update: Sun, 18 Aug 2024 00:48:14 GMT*
+*Last update: Mon, 19 Aug 2024 00:45:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
