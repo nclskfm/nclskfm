@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 20 2024)
+### Joke of the day (Wed Aug 21 2024)
 <!-- joke -->
->Chuck Norris used to play baseball. When Babe Ruth was hailed as the better player, Chuck Norris killed him with a baseball bat to the throat. Lou Gehrig got off easy.
+>Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
 <!-- /joke -->
 
-*Last update: Tue, 20 Aug 2024 00:44:10 GMT*
+*Last update: Wed, 21 Aug 2024 00:43:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
