@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 21 2024)
+### Joke of the day (Thu Aug 22 2024)
 <!-- joke -->
->Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
+>binary digits are called bits i love ternary digits
 <!-- /joke -->
 
-*Last update: Wed, 21 Aug 2024 00:43:59 GMT*
+*Last update: Thu, 22 Aug 2024 00:45:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
