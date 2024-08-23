@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 22 2024)
+### Joke of the day (Fri Aug 23 2024)
 <!-- joke -->
->binary digits are called bits i love ternary digits
+>Chuck Norris can slam a revolving door.
 <!-- /joke -->
 
-*Last update: Thu, 22 Aug 2024 00:45:31 GMT*
+*Last update: Fri, 23 Aug 2024 00:44:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
