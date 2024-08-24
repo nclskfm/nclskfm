@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 23 2024)
+### Joke of the day (Sat Aug 24 2024)
 <!-- joke -->
->Chuck Norris can slam a revolving door.
+>Chuck Norris can taste lies.
 <!-- /joke -->
 
-*Last update: Fri, 23 Aug 2024 00:44:23 GMT*
+*Last update: Sat, 24 Aug 2024 00:43:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
