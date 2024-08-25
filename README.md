@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 24 2024)
+### Joke of the day (Sun Aug 25 2024)
 <!-- joke -->
->Chuck Norris can taste lies.
+>Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder.
 <!-- /joke -->
 
-*Last update: Sat, 24 Aug 2024 00:43:18 GMT*
+*Last update: Sun, 25 Aug 2024 00:49:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
