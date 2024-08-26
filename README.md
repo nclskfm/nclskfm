@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 25 2024)
+### Joke of the day (Mon Aug 26 2024)
 <!-- joke -->
->Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder.
+>When taking the SAT, write 'Chuck Norris' for every answer. You will score over 8000.
 <!-- /joke -->
 
-*Last update: Sun, 25 Aug 2024 00:49:46 GMT*
+*Last update: Mon, 26 Aug 2024 00:45:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
