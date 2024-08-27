@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 26 2024)
+### Joke of the day (Tue Aug 27 2024)
 <!-- joke -->
->When taking the SAT, write 'Chuck Norris' for every answer. You will score over 8000.
+>TNT was originally developed by Chuck Norris to cure indigestion.
 <!-- /joke -->
 
-*Last update: Mon, 26 Aug 2024 00:45:24 GMT*
+*Last update: Tue, 27 Aug 2024 00:45:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
