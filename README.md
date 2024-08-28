@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 27 2024)
+### Joke of the day (Wed Aug 28 2024)
 <!-- joke -->
->TNT was originally developed by Chuck Norris to cure indigestion.
+>Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
 <!-- /joke -->
 
-*Last update: Tue, 27 Aug 2024 00:45:31 GMT*
+*Last update: Wed, 28 Aug 2024 00:45:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
