@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 28 2024)
+### Joke of the day (Thu Aug 29 2024)
 <!-- joke -->
->Paper beats rock, rock beats scissors, and scissors beats paper, but Chuck Norris beats all 3 at the same time.
+>Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.
 <!-- /joke -->
 
-*Last update: Wed, 28 Aug 2024 00:45:37 GMT*
+*Last update: Thu, 29 Aug 2024 00:46:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
