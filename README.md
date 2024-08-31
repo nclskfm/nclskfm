@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 30 2024)
+### Joke of the day (Sat Aug 31 2024)
 <!-- joke -->
->One day Chuck Norris walked down the street with a massive erection. There were no survivors.
+>Chuck Norris played Russian Roulette with a fully loaded gun and won.
 <!-- /joke -->
 
-*Last update: Fri, 30 Aug 2024 00:46:33 GMT*
+*Last update: Sat, 31 Aug 2024 00:46:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
