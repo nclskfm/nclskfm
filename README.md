@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 31 2024)
+### Joke of the day (Sun Sep 01 2024)
 <!-- joke -->
->Chuck Norris played Russian Roulette with a fully loaded gun and won.
+>July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
 <!-- /joke -->
 
-*Last update: Sat, 31 Aug 2024 00:46:25 GMT*
+*Last update: Sun, 01 Sep 2024 00:55:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
