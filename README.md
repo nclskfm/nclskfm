@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 01 2024)
+### Joke of the day (Mon Sep 02 2024)
 <!-- joke -->
->July 4th is Independence day. And the day Chuck Norris was born. Coincidence? I think not.
+>Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
 <!-- /joke -->
 
-*Last update: Sun, 01 Sep 2024 00:55:52 GMT*
+*Last update: Mon, 02 Sep 2024 00:48:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
