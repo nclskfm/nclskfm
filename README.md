@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 02 2024)
+### Joke of the day (Tue Sep 03 2024)
 <!-- joke -->
->Tom Clancy has to pay royalties to Chuck Norris because 'The Sum of All Fears' is the name of Chuck Norris' autobiography.
+>Chuck Norris once ate four 30lb bowling balls without chewing.
 <!-- /joke -->
 
-*Last update: Mon, 02 Sep 2024 00:48:41 GMT*
+*Last update: Tue, 03 Sep 2024 00:46:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
