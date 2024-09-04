@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 03 2024)
+### Joke of the day (Wed Sep 04 2024)
 <!-- joke -->
->Chuck Norris once ate four 30lb bowling balls without chewing.
+>Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
 <!-- /joke -->
 
-*Last update: Tue, 03 Sep 2024 00:46:11 GMT*
+*Last update: Wed, 04 Sep 2024 00:46:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
