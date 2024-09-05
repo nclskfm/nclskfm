@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 04 2024)
+### Joke of the day (Thu Sep 05 2024)
 <!-- joke -->
->Yuvraj's Batting- 1 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 1 1 0 W.He has specialization in Digital Electronics.
+>There are three kinds of people: those who can count and those who can’t.
 <!-- /joke -->
 
-*Last update: Wed, 04 Sep 2024 00:46:59 GMT*
+*Last update: Thu, 05 Sep 2024 00:47:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
