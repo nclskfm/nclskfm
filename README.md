@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 05 2024)
+### Joke of the day (Fri Sep 06 2024)
 <!-- joke -->
->There are three kinds of people: those who can count and those who can’t.
+>There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
 <!-- /joke -->
 
-*Last update: Thu, 05 Sep 2024 00:47:06 GMT*
+*Last update: Fri, 06 Sep 2024 00:47:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
