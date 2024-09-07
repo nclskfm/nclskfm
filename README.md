@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 06 2024)
+### Joke of the day (Sat Sep 07 2024)
 <!-- joke -->
->There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
+>Black holes are where God divided by zero.
 <!-- /joke -->
 
-*Last update: Fri, 06 Sep 2024 00:47:01 GMT*
+*Last update: Sat, 07 Sep 2024 00:45:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
