@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 07 2024)
+### Joke of the day (Sun Sep 08 2024)
 <!-- joke -->
->Black holes are where God divided by zero.
+>Chuck Norris has two speeds: Walk and Kill.
 <!-- /joke -->
 
-*Last update: Sat, 07 Sep 2024 00:45:58 GMT*
+*Last update: Sun, 08 Sep 2024 00:52:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
