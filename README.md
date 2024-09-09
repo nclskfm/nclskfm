@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 08 2024)
+### Joke of the day (Mon Sep 09 2024)
 <!-- joke -->
->Chuck Norris has two speeds: Walk and Kill.
+>In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
 <!-- /joke -->
 
-*Last update: Sun, 08 Sep 2024 00:52:20 GMT*
+*Last update: Mon, 09 Sep 2024 00:50:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
