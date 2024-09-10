@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 09 2024)
+### Joke of the day (Tue Sep 10 2024)
 <!-- joke -->
->In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
+>The last thing you hear before Chuck Norris gives you a roundhouse kick? No one knows because dead men tell no tales.
 <!-- /joke -->
 
-*Last update: Mon, 09 Sep 2024 00:50:15 GMT*
+*Last update: Tue, 10 Sep 2024 00:48:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
