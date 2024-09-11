@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 10 2024)
+### Joke of the day (Wed Sep 11 2024)
 <!-- joke -->
->The last thing you hear before Chuck Norris gives you a roundhouse kick? No one knows because dead men tell no tales.
+>Chuck Norris can set ants on fire with a magnifying glass. At night.
 <!-- /joke -->
 
-*Last update: Tue, 10 Sep 2024 00:48:03 GMT*
+*Last update: Wed, 11 Sep 2024 00:47:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
