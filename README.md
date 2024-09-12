@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 11 2024)
+### Joke of the day (Thu Sep 12 2024)
 <!-- joke -->
->Chuck Norris can set ants on fire with a magnifying glass. At night.
+>Chuck Norris can taste lies.
 <!-- /joke -->
 
-*Last update: Wed, 11 Sep 2024 00:47:12 GMT*
+*Last update: Thu, 12 Sep 2024 00:47:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
