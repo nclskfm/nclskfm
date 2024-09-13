@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 12 2024)
+### Joke of the day (Fri Sep 13 2024)
 <!-- joke -->
->Chuck Norris can taste lies.
+>Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
 <!-- /joke -->
 
-*Last update: Thu, 12 Sep 2024 00:47:42 GMT*
+*Last update: Fri, 13 Sep 2024 00:47:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
