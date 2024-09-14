@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 13 2024)
+### Joke of the day (Sat Sep 14 2024)
 <!-- joke -->
->Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
+>Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
 <!-- /joke -->
 
-*Last update: Fri, 13 Sep 2024 00:47:38 GMT*
+*Last update: Sat, 14 Sep 2024 00:46:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
