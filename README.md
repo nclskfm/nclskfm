@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 14 2024)
+### Joke of the day (Sun Sep 15 2024)
 <!-- joke -->
->Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
+>A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 <!-- /joke -->
 
-*Last update: Sat, 14 Sep 2024 00:46:53 GMT*
+*Last update: Sun, 15 Sep 2024 00:54:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
