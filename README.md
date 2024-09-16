@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 15 2024)
+### Joke of the day (Mon Sep 16 2024)
 <!-- joke -->
->A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
+>When Chuck Norris talks, everybody listens. And dies.
 <!-- /joke -->
 
-*Last update: Sun, 15 Sep 2024 00:54:05 GMT*
+*Last update: Mon, 16 Sep 2024 00:51:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
