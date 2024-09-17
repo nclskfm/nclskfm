@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 16 2024)
+### Joke of the day (Tue Sep 17 2024)
 <!-- joke -->
->When Chuck Norris talks, everybody listens. And dies.
+>Chuck Norris can unit test entire applications with a single assert.
 <!-- /joke -->
 
-*Last update: Mon, 16 Sep 2024 00:51:45 GMT*
+*Last update: Tue, 17 Sep 2024 00:39:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
