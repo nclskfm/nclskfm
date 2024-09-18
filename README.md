@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 17 2024)
+### Joke of the day (Wed Sep 18 2024)
 <!-- joke -->
->Chuck Norris can unit test entire applications with a single assert.
+># Chuck Norris's show is called Walker: Texas Ranger, because Chuck Norris doesn't run.
 <!-- /joke -->
 
-*Last update: Tue, 17 Sep 2024 00:39:27 GMT*
+*Last update: Wed, 18 Sep 2024 00:47:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
