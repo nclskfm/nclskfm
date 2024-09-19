@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 18 2024)
+### Joke of the day (Thu Sep 19 2024)
 <!-- joke -->
-># Chuck Norris's show is called Walker: Texas Ranger, because Chuck Norris doesn't run.
+>Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 18 Sep 2024 00:47:50 GMT*
+*Last update: Thu, 19 Sep 2024 00:49:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
