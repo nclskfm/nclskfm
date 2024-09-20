@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 19 2024)
+### Joke of the day (Fri Sep 20 2024)
 <!-- joke -->
->Chuck Norris doesnt shave; he kicks himself in the face. The only thing that can cut Chuck Norris is Chuck Norris.
+>Science Fact: Roundhouse kicks are comprised primarily of an element called Chucktanium.
 <!-- /joke -->
 
-*Last update: Thu, 19 Sep 2024 00:49:02 GMT*
+*Last update: Fri, 20 Sep 2024 00:49:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
