@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 21 2024)
+### Joke of the day (Sun Sep 22 2024)
 <!-- joke -->
->When Chuck Norris is in a crowded area, he doesn't walk around people. He walks through them.
+>Chuck Norris's first program was kill -9.
 <!-- /joke -->
 
-*Last update: Sat, 21 Sep 2024 00:47:42 GMT*
+*Last update: Sun, 22 Sep 2024 00:54:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
