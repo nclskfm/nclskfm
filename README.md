@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 22 2024)
+### Joke of the day (Mon Sep 23 2024)
 <!-- joke -->
->Chuck Norris's first program was kill -9.
+>Chuck Norris invented the internet? just so he had a place to store his porn.
 <!-- /joke -->
 
-*Last update: Sun, 22 Sep 2024 00:54:12 GMT*
+*Last update: Mon, 23 Sep 2024 00:51:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
