@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 23 2024)
+### Joke of the day (Tue Sep 24 2024)
 <!-- joke -->
->Chuck Norris invented the internet? just so he had a place to store his porn.
+>Chuck Norris is the reason why Waldo is hiding.
 <!-- /joke -->
 
-*Last update: Mon, 23 Sep 2024 00:51:05 GMT*
+*Last update: Tue, 24 Sep 2024 00:50:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
