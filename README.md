@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 24 2024)
+### Joke of the day (Wed Sep 25 2024)
 <!-- joke -->
->Chuck Norris is the reason why Waldo is hiding.
+>Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
 <!-- /joke -->
 
-*Last update: Tue, 24 Sep 2024 00:50:58 GMT*
+*Last update: Wed, 25 Sep 2024 00:51:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
