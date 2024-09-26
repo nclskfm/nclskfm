@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 25 2024)
+### Joke of the day (Thu Sep 26 2024)
 <!-- joke -->
->Chuck Norris is not Irish. His hair is soaked in the blood of his victims.
+>Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 <!-- /joke -->
 
-*Last update: Wed, 25 Sep 2024 00:51:24 GMT*
+*Last update: Thu, 26 Sep 2024 00:50:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
