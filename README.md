@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 27 2024)
+### Joke of the day (Sat Sep 28 2024)
 <!-- joke -->
->Chuck Norris likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
+>Chuck Norris starts everyday with a protein shake made from Carnation Instant Breakfast, one dozen eggs, pure Colombian cocaine, and rattlesnake venom. He injects it directly into his neck with a syringe.
 <!-- /joke -->
 
-*Last update: Fri, 27 Sep 2024 00:50:44 GMT*
+*Last update: Sat, 28 Sep 2024 00:50:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
