@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 28 2024)
+### Joke of the day (Sun Sep 29 2024)
 <!-- joke -->
->Chuck Norris starts everyday with a protein shake made from Carnation Instant Breakfast, one dozen eggs, pure Colombian cocaine, and rattlesnake venom. He injects it directly into his neck with a syringe.
+>Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
 <!-- /joke -->
 
-*Last update: Sat, 28 Sep 2024 00:50:15 GMT*
+*Last update: Sun, 29 Sep 2024 00:55:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
