@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 29 2024)
+### Joke of the day (Mon Sep 30 2024)
 <!-- joke -->
->Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+>If Chuck Norris writes code with bugs, the bugs fix themselves.
 <!-- /joke -->
 
-*Last update: Sun, 29 Sep 2024 00:55:07 GMT*
+*Last update: Mon, 30 Sep 2024 00:52:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
