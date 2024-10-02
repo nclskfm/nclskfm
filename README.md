@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 01 2024)
+### Joke of the day (Wed Oct 02 2024)
 <!-- joke -->
->Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+>Why is C sad? Because C++ told him 'You have no class'.
 <!-- /joke -->
 
-*Last update: Tue, 01 Oct 2024 00:55:48 GMT*
+*Last update: Wed, 02 Oct 2024 00:50:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
