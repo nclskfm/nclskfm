@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 03 2024)
+### Joke of the day (Fri Oct 04 2024)
 <!-- joke -->
->Chuck Norris does not need to type-cast. The Chuck-Norris Compiler (CNC) sees through things. All way down. Always.
+>He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
 <!-- /joke -->
 
-*Last update: Thu, 03 Oct 2024 00:50:42 GMT*
+*Last update: Fri, 04 Oct 2024 00:50:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
