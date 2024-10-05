@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 04 2024)
+### Joke of the day (Sat Oct 05 2024)
 <!-- joke -->
->He who lives by the sword, dies by the sword. He who lives by Chuck Norris, dies by the roundhouse kick.
+>Some people ask for a Kleenex when they sneeze, Chuck Norris asks for a body bag.
 <!-- /joke -->
 
-*Last update: Fri, 04 Oct 2024 00:50:47 GMT*
+*Last update: Sat, 05 Oct 2024 00:50:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
