@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 05 2024)
+### Joke of the day (Sun Oct 06 2024)
 <!-- joke -->
->Some people ask for a Kleenex when they sneeze, Chuck Norris asks for a body bag.
+>The original title for Star Wars was 'Skywalker: Texas Ranger'. Starring Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 05 Oct 2024 00:50:06 GMT*
+*Last update: Sun, 06 Oct 2024 00:54:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
