@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 07 2024)
+### Joke of the day (Tue Oct 08 2024)
 <!-- joke -->
->Chuck Norris programs do not accept input.
+>Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
 <!-- /joke -->
 
-*Last update: Mon, 07 Oct 2024 00:52:43 GMT*
+*Last update: Tue, 08 Oct 2024 00:50:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
