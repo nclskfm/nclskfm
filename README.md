@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 08 2024)
+### Joke of the day (Wed Oct 09 2024)
 <!-- joke -->
->Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
+>binary digits are called bits i love ternary digits
 <!-- /joke -->
 
-*Last update: Tue, 08 Oct 2024 00:50:38 GMT*
+*Last update: Wed, 09 Oct 2024 00:50:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
