@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 09 2024)
+### Joke of the day (Thu Oct 10 2024)
 <!-- joke -->
->binary digits are called bits i love ternary digits
+>According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
 <!-- /joke -->
 
-*Last update: Wed, 09 Oct 2024 00:50:33 GMT*
+*Last update: Thu, 10 Oct 2024 00:50:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
