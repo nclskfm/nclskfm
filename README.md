@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 10 2024)
+### Joke of the day (Fri Oct 11 2024)
 <!-- joke -->
->According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
+>Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
 <!-- /joke -->
 
-*Last update: Thu, 10 Oct 2024 00:50:35 GMT*
+*Last update: Fri, 11 Oct 2024 00:50:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
