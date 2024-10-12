@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 11 2024)
+### Joke of the day (Sat Oct 12 2024)
 <!-- joke -->
->Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
+>Chuck Norris can access the DB from the UI.
 <!-- /joke -->
 
-*Last update: Fri, 11 Oct 2024 00:50:42 GMT*
+*Last update: Sat, 12 Oct 2024 00:49:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
