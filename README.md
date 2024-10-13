@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 12 2024)
+### Joke of the day (Sun Oct 13 2024)
 <!-- joke -->
->Chuck Norris can access the DB from the UI.
+>Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 <!-- /joke -->
 
-*Last update: Sat, 12 Oct 2024 00:49:16 GMT*
+*Last update: Sun, 13 Oct 2024 00:54:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
