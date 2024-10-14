@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 13 2024)
+### Joke of the day (Mon Oct 14 2024)
 <!-- joke -->
->Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
+>In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
 <!-- /joke -->
 
-*Last update: Sun, 13 Oct 2024 00:54:31 GMT*
+*Last update: Mon, 14 Oct 2024 00:52:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
