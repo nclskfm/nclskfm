@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 14 2024)
+### Joke of the day (Tue Oct 15 2024)
 <!-- joke -->
->In the Bible, Jesus turned water into wine. But then Chuck Norris turned that wine into beer.
+>The crossing lights in Chuck Norris's home town say 'Die slowly' and 'die quickly'. They each have a picture of Chuck Norris punching or kicking a pedestrian.
 <!-- /joke -->
 
-*Last update: Mon, 14 Oct 2024 00:52:39 GMT*
+*Last update: Tue, 15 Oct 2024 00:51:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
