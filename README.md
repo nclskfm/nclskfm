@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 15 2024)
+### Joke of the day (Wed Oct 16 2024)
 <!-- joke -->
->The crossing lights in Chuck Norris's home town say 'Die slowly' and 'die quickly'. They each have a picture of Chuck Norris punching or kicking a pedestrian.
+>Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 15 Oct 2024 00:51:41 GMT*
+*Last update: Wed, 16 Oct 2024 00:51:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
