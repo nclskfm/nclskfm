@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 16 2024)
+### Joke of the day (Thu Oct 17 2024)
 <!-- joke -->
->Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
+>CPU (Coffee Processing Unit)
 <!-- /joke -->
 
-*Last update: Wed, 16 Oct 2024 00:51:23 GMT*
+*Last update: Thu, 17 Oct 2024 00:50:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
