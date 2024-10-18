@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 17 2024)
+### Joke of the day (Fri Oct 18 2024)
 <!-- joke -->
->CPU (Coffee Processing Unit)
+>There are no such things as tornados. Chuck Norris just hates trailer parks.
 <!-- /joke -->
 
-*Last update: Thu, 17 Oct 2024 00:50:56 GMT*
+*Last update: Fri, 18 Oct 2024 00:51:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
