@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 18 2024)
+### Joke of the day (Sat Oct 19 2024)
 <!-- joke -->
->There are no such things as tornados. Chuck Norris just hates trailer parks.
+>Chuck Norris can spawn threads that complete before they are started.
 <!-- /joke -->
 
-*Last update: Fri, 18 Oct 2024 00:51:01 GMT*
+*Last update: Sat, 19 Oct 2024 00:50:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
