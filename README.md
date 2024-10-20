@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 19 2024)
+### Joke of the day (Sun Oct 20 2024)
 <!-- joke -->
->Chuck Norris can spawn threads that complete before they are started.
+>To err is human – and to blame it on a computer is even more so.
 <!-- /joke -->
 
-*Last update: Sat, 19 Oct 2024 00:50:34 GMT*
+*Last update: Sun, 20 Oct 2024 00:55:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
