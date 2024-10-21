@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 20 2024)
+### Joke of the day (Mon Oct 21 2024)
 <!-- joke -->
->To err is human – and to blame it on a computer is even more so.
+>When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Sun, 20 Oct 2024 00:55:34 GMT*
+*Last update: Mon, 21 Oct 2024 00:53:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
