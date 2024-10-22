@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 21 2024)
+### Joke of the day (Tue Oct 22 2024)
 <!-- joke -->
->When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+>The crossing lights in Chuck Norris's home town say 'Die slowly' and 'die quickly'. They each have a picture of Chuck Norris punching or kicking a pedestrian.
 <!-- /joke -->
 
-*Last update: Mon, 21 Oct 2024 00:53:03 GMT*
+*Last update: Tue, 22 Oct 2024 00:51:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
