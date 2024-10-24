@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 23 2024)
+### Joke of the day (Thu Oct 24 2024)
 <!-- joke -->
->I can't access Git. I guess I have... commitment issues
+>There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
 <!-- /joke -->
 
-*Last update: Wed, 23 Oct 2024 00:50:53 GMT*
+*Last update: Thu, 24 Oct 2024 00:50:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
