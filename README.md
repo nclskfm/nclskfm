@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 24 2024)
+### Joke of the day (Fri Oct 25 2024)
 <!-- joke -->
->There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
+>Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
 <!-- /joke -->
 
-*Last update: Thu, 24 Oct 2024 00:50:59 GMT*
+*Last update: Fri, 25 Oct 2024 00:51:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
