@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 27 2024)
+### Joke of the day (Mon Oct 28 2024)
 <!-- joke -->
->Chuck Norris once ate a whole cake before his friends could tell him there was a stripper in it.
+>Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
 <!-- /joke -->
 
-*Last update: Sun, 27 Oct 2024 00:55:15 GMT*
+*Last update: Mon, 28 Oct 2024 00:53:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
