@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 28 2024)
+### Joke of the day (Tue Oct 29 2024)
 <!-- joke -->
->Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
+>Chuck Norris has two speeds: Walk and Kill.
 <!-- /joke -->
 
-*Last update: Mon, 28 Oct 2024 00:53:45 GMT*
+*Last update: Tue, 29 Oct 2024 00:52:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
