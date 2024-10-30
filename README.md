@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 29 2024)
+### Joke of the day (Wed Oct 30 2024)
 <!-- joke -->
->Chuck Norris has two speeds: Walk and Kill.
+>Sticks and stones may break your bones, but a Chuck Norris glare will liquefy your kidneys.
 <!-- /joke -->
 
-*Last update: Tue, 29 Oct 2024 00:52:33 GMT*
+*Last update: Wed, 30 Oct 2024 00:51:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
