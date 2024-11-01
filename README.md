@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 31 2024)
+### Joke of the day (Fri Nov 01 2024)
 <!-- joke -->
->Chuck Norris played Russian Roulette with a fully loaded gun and won.
+>Chuck Norris can do a wheelie on a unicycle.
 <!-- /joke -->
 
-*Last update: Thu, 31 Oct 2024 00:52:03 GMT*
+*Last update: Fri, 01 Nov 2024 00:55:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
