@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 01 2024)
+### Joke of the day (Sat Nov 02 2024)
 <!-- joke -->
->Chuck Norris can do a wheelie on a unicycle.
+>Everything King Midas touches turnes to gold. Everything Chuck Norris touches turns up dead.
 <!-- /joke -->
 
-*Last update: Fri, 01 Nov 2024 00:55:51 GMT*
+*Last update: Sat, 02 Nov 2024 00:50:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
