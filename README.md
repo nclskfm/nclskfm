@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 02 2024)
+### Joke of the day (Sun Nov 03 2024)
 <!-- joke -->
->Everything King Midas touches turnes to gold. Everything Chuck Norris touches turns up dead.
+>Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
 <!-- /joke -->
 
-*Last update: Sat, 02 Nov 2024 00:50:35 GMT*
+*Last update: Sun, 03 Nov 2024 00:55:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
