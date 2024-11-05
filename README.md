@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 04 2024)
+### Joke of the day (Tue Nov 05 2024)
 <!-- joke -->
->SON: What are clouds made of? DAD: Linux servers, mostly
+>How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
 <!-- /joke -->
 
-*Last update: Mon, 04 Nov 2024 00:53:14 GMT*
+*Last update: Tue, 05 Nov 2024 00:50:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
