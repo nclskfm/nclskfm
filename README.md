@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 05 2024)
+### Joke of the day (Wed Nov 06 2024)
 <!-- joke -->
->How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
+>Chuck Norris has never won an Academy Award for acting... because he's not acting.
 <!-- /joke -->
 
-*Last update: Tue, 05 Nov 2024 00:50:08 GMT*
+*Last update: Wed, 06 Nov 2024 00:50:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
