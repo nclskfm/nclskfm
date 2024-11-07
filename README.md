@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 06 2024)
+### Joke of the day (Thu Nov 07 2024)
 <!-- joke -->
->Chuck Norris has never won an Academy Award for acting... because he's not acting.
+>Project managers never ask Chuck Norris for estimations... ever.
 <!-- /joke -->
 
-*Last update: Wed, 06 Nov 2024 00:50:24 GMT*
+*Last update: Thu, 07 Nov 2024 00:50:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
