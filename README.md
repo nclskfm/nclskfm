@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 07 2024)
+### Joke of the day (Fri Nov 08 2024)
 <!-- joke -->
->Project managers never ask Chuck Norris for estimations... ever.
+>The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
 <!-- /joke -->
 
-*Last update: Thu, 07 Nov 2024 00:50:26 GMT*
+*Last update: Fri, 08 Nov 2024 00:50:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
