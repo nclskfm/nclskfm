@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 08 2024)
+### Joke of the day (Sat Nov 09 2024)
 <!-- joke -->
->The best-laid plans of mice and men often go awry. Even the worst-laid plans of Chuck Norris come off without a hitch.
+>Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
 <!-- /joke -->
 
-*Last update: Fri, 08 Nov 2024 00:50:11 GMT*
+*Last update: Sat, 09 Nov 2024 00:48:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
