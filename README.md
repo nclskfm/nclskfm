@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 09 2024)
+### Joke of the day (Sun Nov 10 2024)
 <!-- joke -->
->Chuck Norris' favorite cereal is Kellogg's Nails 'N' Gravel.
+>In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
 <!-- /joke -->
 
-*Last update: Sat, 09 Nov 2024 00:48:35 GMT*
+*Last update: Sun, 10 Nov 2024 00:53:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
