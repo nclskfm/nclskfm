@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 10 2024)
+### Joke of the day (Mon Nov 11 2024)
 <!-- joke -->
->In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
+>Failure is not an option. It comes bundled with your Microsoft product.
 <!-- /joke -->
 
-*Last update: Sun, 10 Nov 2024 00:53:41 GMT*
+*Last update: Mon, 11 Nov 2024 00:51:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
