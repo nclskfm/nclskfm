@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 11 2024)
+### Joke of the day (Tue Nov 12 2024)
 <!-- joke -->
->Failure is not an option. It comes bundled with your Microsoft product.
+>Everything King Midas touches turnes to gold. Everything Chuck Norris touches turns up dead.
 <!-- /joke -->
 
-*Last update: Mon, 11 Nov 2024 00:51:55 GMT*
+*Last update: Tue, 12 Nov 2024 00:49:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
