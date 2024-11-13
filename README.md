@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 12 2024)
+### Joke of the day (Wed Nov 13 2024)
 <!-- joke -->
->Everything King Midas touches turnes to gold. Everything Chuck Norris touches turns up dead.
+>Chuck Norris doesn't bowl strikes, he just knocks down one pin and the other nine faint.
 <!-- /joke -->
 
-*Last update: Tue, 12 Nov 2024 00:49:44 GMT*
+*Last update: Wed, 13 Nov 2024 00:50:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
