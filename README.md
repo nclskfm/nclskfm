@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 13 2024)
+### Joke of the day (Thu Nov 14 2024)
 <!-- joke -->
->Chuck Norris doesn't bowl strikes, he just knocks down one pin and the other nine faint.
+>MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
 <!-- /joke -->
 
-*Last update: Wed, 13 Nov 2024 00:50:51 GMT*
+*Last update: Thu, 14 Nov 2024 00:50:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
