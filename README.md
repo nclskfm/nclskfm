@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 14 2024)
+### Joke of the day (Fri Nov 15 2024)
 <!-- joke -->
->MacGyver immediately tried to make a bomb out of some Q-Tips and Gatorade, but Chuck Norris roundhouse-kicked him in the solar plexus. MacGyver promptly threw up his own heart.
+>Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug killing.
 <!-- /joke -->
 
-*Last update: Thu, 14 Nov 2024 00:50:53 GMT*
+*Last update: Fri, 15 Nov 2024 00:54:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
