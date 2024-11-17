@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 16 2024)
+### Joke of the day (Sun Nov 17 2024)
 <!-- joke -->
->Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+>When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
 <!-- /joke -->
 
-*Last update: Sat, 16 Nov 2024 00:52:52 GMT*
+*Last update: Sun, 17 Nov 2024 00:56:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
