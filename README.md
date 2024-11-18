@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 17 2024)
+### Joke of the day (Mon Nov 18 2024)
 <!-- joke -->
->When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
+>A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
 <!-- /joke -->
 
-*Last update: Sun, 17 Nov 2024 00:56:56 GMT*
+*Last update: Mon, 18 Nov 2024 00:55:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
