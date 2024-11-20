@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 19 2024)
+### Joke of the day (Wed Nov 20 2024)
 <!-- joke -->
->Fact: Chuck Norris doesn't consider it sex if the woman survives.
+>The Internet: where men are men women are men and children are FBI agents.
 <!-- /joke -->
 
-*Last update: Tue, 19 Nov 2024 00:53:43 GMT*
+*Last update: Wed, 20 Nov 2024 00:53:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
