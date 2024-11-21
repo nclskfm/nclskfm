@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 20 2024)
+### Joke of the day (Thu Nov 21 2024)
 <!-- joke -->
->The Internet: where men are men women are men and children are FBI agents.
+>Chuck Norris's beard can type 140 wpm.
 <!-- /joke -->
 
-*Last update: Wed, 20 Nov 2024 00:53:26 GMT*
+*Last update: Thu, 21 Nov 2024 00:53:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
