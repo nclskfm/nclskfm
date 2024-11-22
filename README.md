@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 21 2024)
+### Joke of the day (Fri Nov 22 2024)
 <!-- joke -->
->Chuck Norris's beard can type 140 wpm.
+>Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
 <!-- /joke -->
 
-*Last update: Thu, 21 Nov 2024 00:53:20 GMT*
+*Last update: Fri, 22 Nov 2024 00:54:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
