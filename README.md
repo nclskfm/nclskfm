@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 22 2024)
+### Joke of the day (Sat Nov 23 2024)
 <!-- joke -->
->Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
+>Windows isn’t a virus atleast viruses do something.
 <!-- /joke -->
 
-*Last update: Fri, 22 Nov 2024 00:54:15 GMT*
+*Last update: Sat, 23 Nov 2024 00:52:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
