@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 24 2024)
+### Joke of the day (Mon Nov 25 2024)
 <!-- joke -->
->According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
+>A handicapped parking sign does not signify that this spot is for handicapped people. It is actually in fact a warning, that the spot belongs to Chuck Norris and that you will be handicapped if you park there.
 <!-- /joke -->
 
-*Last update: Sun, 24 Nov 2024 00:58:17 GMT*
+*Last update: Mon, 25 Nov 2024 00:55:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
