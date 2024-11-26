@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 25 2024)
+### Joke of the day (Tue Nov 26 2024)
 <!-- joke -->
->A handicapped parking sign does not signify that this spot is for handicapped people. It is actually in fact a warning, that the spot belongs to Chuck Norris and that you will be handicapped if you park there.
+>Hey! It compiles! Ship it!
 <!-- /joke -->
 
-*Last update: Mon, 25 Nov 2024 00:55:07 GMT*
+*Last update: Tue, 26 Nov 2024 00:54:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
