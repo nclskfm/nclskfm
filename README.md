@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 26 2024)
+### Joke of the day (Wed Nov 27 2024)
 <!-- joke -->
->Hey! It compiles! Ship it!
+>In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.
 <!-- /joke -->
 
-*Last update: Tue, 26 Nov 2024 00:54:11 GMT*
+*Last update: Wed, 27 Nov 2024 00:54:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
