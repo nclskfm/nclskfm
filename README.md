@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 28 2024)
+### Joke of the day (Fri Nov 29 2024)
 <!-- joke -->
->Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
+>Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
 <!-- /joke -->
 
-*Last update: Thu, 28 Nov 2024 00:54:47 GMT*
+*Last update: Fri, 29 Nov 2024 00:54:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
