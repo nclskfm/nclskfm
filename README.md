@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 29 2024)
+### Joke of the day (Sat Nov 30 2024)
 <!-- joke -->
->Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
+>Chuck Norris doesn't use GUI, he prefers COMMAND line.
 <!-- /joke -->
 
-*Last update: Fri, 29 Nov 2024 00:54:56 GMT*
+*Last update: Sat, 30 Nov 2024 00:53:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
