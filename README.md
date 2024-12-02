@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 01 2024)
+### Joke of the day (Mon Dec 02 2024)
 <!-- joke -->
->With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
+>Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
 <!-- /joke -->
 
-*Last update: Sun, 01 Dec 2024 01:04:25 GMT*
+*Last update: Mon, 02 Dec 2024 00:57:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
