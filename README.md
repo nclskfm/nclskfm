@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 02 2024)
+### Joke of the day (Tue Dec 03 2024)
 <!-- joke -->
->Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
+>Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
 <!-- /joke -->
 
-*Last update: Mon, 02 Dec 2024 00:57:14 GMT*
+*Last update: Tue, 03 Dec 2024 00:56:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
