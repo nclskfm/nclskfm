@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 03 2024)
+### Joke of the day (Wed Dec 04 2024)
 <!-- joke -->
->Police label anyone attacking Chuck Norris as a Code 45-11.... A suicide.
+>With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
 <!-- /joke -->
 
-*Last update: Tue, 03 Dec 2024 00:56:15 GMT*
+*Last update: Wed, 04 Dec 2024 00:56:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
