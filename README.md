@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 04 2024)
+### Joke of the day (Thu Dec 05 2024)
 <!-- joke -->
->With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
+>binary digits are called bits i love ternary digits
 <!-- /joke -->
 
-*Last update: Wed, 04 Dec 2024 00:56:16 GMT*
+*Last update: Thu, 05 Dec 2024 00:56:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
