@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 07 2024)
+### Joke of the day (Sun Dec 08 2024)
 <!-- joke -->
->The Chuck Norris military unit was not used in the game Civilization 4, because a single Chuck Norris could defeat the entire combined nations of the world in one turn.
+>Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
 <!-- /joke -->
 
-*Last update: Sat, 07 Dec 2024 00:55:05 GMT*
+*Last update: Sun, 08 Dec 2024 01:00:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
