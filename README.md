@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 10 2024)
+### Joke of the day (Wed Dec 11 2024)
 <!-- joke -->
->A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
+>Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
 <!-- /joke -->
 
-*Last update: Tue, 10 Dec 2024 00:57:05 GMT*
+*Last update: Wed, 11 Dec 2024 00:56:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
