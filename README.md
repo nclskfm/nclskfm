@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 11 2024)
+### Joke of the day (Thu Dec 12 2024)
 <!-- joke -->
->Microsoft: “You’ve got questions. We’ve got dancing paperclips.”
+>Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
 <!-- /joke -->
 
-*Last update: Wed, 11 Dec 2024 00:56:00 GMT*
+*Last update: Thu, 12 Dec 2024 00:55:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
