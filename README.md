@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 12 2024)
+### Joke of the day (Fri Dec 13 2024)
 <!-- joke -->
->Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
+>What does a subatomic duck say? Quark.
 <!-- /joke -->
 
-*Last update: Thu, 12 Dec 2024 00:55:44 GMT*
+*Last update: Fri, 13 Dec 2024 00:56:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
