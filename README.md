@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 13 2024)
+### Joke of the day (Sat Dec 14 2024)
 <!-- joke -->
->What does a subatomic duck say? Quark.
+>Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
 <!-- /joke -->
 
-*Last update: Fri, 13 Dec 2024 00:56:46 GMT*
+*Last update: Sat, 14 Dec 2024 00:54:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
