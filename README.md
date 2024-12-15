@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 14 2024)
+### Joke of the day (Sun Dec 15 2024)
 <!-- joke -->
->Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
+>On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
 <!-- /joke -->
 
-*Last update: Sat, 14 Dec 2024 00:54:21 GMT*
+*Last update: Sun, 15 Dec 2024 01:00:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
