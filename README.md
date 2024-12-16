@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 15 2024)
+### Joke of the day (Mon Dec 16 2024)
 <!-- joke -->
->On his birthday, Chuck Norris randomly selects one lucky child to be thrown into the sun.
+>'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
 <!-- /joke -->
 
-*Last update: Sun, 15 Dec 2024 01:00:17 GMT*
+*Last update: Mon, 16 Dec 2024 00:58:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
