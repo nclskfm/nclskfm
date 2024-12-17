@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 16 2024)
+### Joke of the day (Tue Dec 17 2024)
 <!-- joke -->
->'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
+>Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 <!-- /joke -->
 
-*Last update: Mon, 16 Dec 2024 00:58:14 GMT*
+*Last update: Tue, 17 Dec 2024 00:56:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
