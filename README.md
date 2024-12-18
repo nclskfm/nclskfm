@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 17 2024)
+### Joke of the day (Wed Dec 18 2024)
 <!-- joke -->
->Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
+>Java programmers are some of the most materialistic people I know, very object-oriented
 <!-- /joke -->
 
-*Last update: Tue, 17 Dec 2024 00:56:09 GMT*
+*Last update: Wed, 18 Dec 2024 00:53:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
