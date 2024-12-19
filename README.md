@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 18 2024)
+### Joke of the day (Thu Dec 19 2024)
 <!-- joke -->
->Java programmers are some of the most materialistic people I know, very object-oriented
+>When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
 <!-- /joke -->
 
-*Last update: Wed, 18 Dec 2024 00:53:56 GMT*
+*Last update: Thu, 19 Dec 2024 00:54:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
