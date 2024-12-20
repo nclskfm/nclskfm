@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 19 2024)
+### Joke of the day (Fri Dec 20 2024)
 <!-- joke -->
->When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
+>The crossing lights in Chuck Norris's home town say 'Die slowly' and 'die quickly'. They each have a picture of Chuck Norris punching or kicking a pedestrian.
 <!-- /joke -->
 
-*Last update: Thu, 19 Dec 2024 00:54:23 GMT*
+*Last update: Fri, 20 Dec 2024 00:51:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
