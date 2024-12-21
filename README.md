@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 20 2024)
+### Joke of the day (Sat Dec 21 2024)
 <!-- joke -->
->The crossing lights in Chuck Norris's home town say 'Die slowly' and 'die quickly'. They each have a picture of Chuck Norris punching or kicking a pedestrian.
+>Chuck Norris can't test for equality because he has no equal.
 <!-- /joke -->
 
-*Last update: Fri, 20 Dec 2024 00:51:40 GMT*
+*Last update: Sat, 21 Dec 2024 00:50:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
