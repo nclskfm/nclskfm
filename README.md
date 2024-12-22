@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 21 2024)
+### Joke of the day (Sun Dec 22 2024)
 <!-- joke -->
->Chuck Norris can't test for equality because he has no equal.
+>Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
 <!-- /joke -->
 
-*Last update: Sat, 21 Dec 2024 00:50:38 GMT*
+*Last update: Sun, 22 Dec 2024 00:55:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
