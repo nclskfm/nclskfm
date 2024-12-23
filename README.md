@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 22 2024)
+### Joke of the day (Mon Dec 23 2024)
 <!-- joke -->
->Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
+>When Chuck Norris does a push-up he doesn't go up, the earth goes down
 <!-- /joke -->
 
-*Last update: Sun, 22 Dec 2024 00:55:52 GMT*
+*Last update: Mon, 23 Dec 2024 00:53:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
