@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 23 2024)
+### Joke of the day (Tue Dec 24 2024)
 <!-- joke -->
->When Chuck Norris does a push-up he doesn't go up, the earth goes down
+>Nobody doesn't like Sara Lee. Except Chuck Norris.
 <!-- /joke -->
 
-*Last update: Mon, 23 Dec 2024 00:53:03 GMT*
+*Last update: Tue, 24 Dec 2024 00:51:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
