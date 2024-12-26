@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 25 2024)
+### Joke of the day (Thu Dec 26 2024)
 <!-- joke -->
->Chuck Norris does not need to type-cast. The Chuck-Norris Compiler (CNC) sees through things. All way down. Always.
+>The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
 <!-- /joke -->
 
-*Last update: Wed, 25 Dec 2024 00:50:50 GMT*
+*Last update: Thu, 26 Dec 2024 00:51:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
