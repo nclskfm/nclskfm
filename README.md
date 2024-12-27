@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 26 2024)
+### Joke of the day (Fri Dec 27 2024)
 <!-- joke -->
->The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+>Chuck Norris knows everything there is to know - Except for the definition of mercy.
 <!-- /joke -->
 
-*Last update: Thu, 26 Dec 2024 00:51:05 GMT*
+*Last update: Fri, 27 Dec 2024 00:51:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
