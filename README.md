@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 27 2024)
+### Joke of the day (Sat Dec 28 2024)
 <!-- joke -->
->Chuck Norris knows everything there is to know - Except for the definition of mercy.
+>Chuck Norris is responsible for China's over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
 <!-- /joke -->
 
-*Last update: Fri, 27 Dec 2024 00:51:10 GMT*
+*Last update: Sat, 28 Dec 2024 00:50:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
