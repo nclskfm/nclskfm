@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 28 2024)
+### Joke of the day (Sun Dec 29 2024)
 <!-- joke -->
->Chuck Norris is responsible for China's over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
+>There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
 <!-- /joke -->
 
-*Last update: Sat, 28 Dec 2024 00:50:16 GMT*
+*Last update: Sun, 29 Dec 2024 00:56:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
