@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 29 2024)
+### Joke of the day (Mon Dec 30 2024)
 <!-- joke -->
->There?s an order to the universe: space, time, Chuck Norris.... Just kidding, Chuck Norris is first.
+>There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 29 Dec 2024 00:56:27 GMT*
+*Last update: Mon, 30 Dec 2024 00:53:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
