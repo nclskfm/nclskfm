@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 30 2024)
+### Joke of the day (Tue Dec 31 2024)
 <!-- joke -->
->There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
+>Hand over the calculator... friends don’t let friends derive drunk.
 <!-- /joke -->
 
-*Last update: Mon, 30 Dec 2024 00:53:20 GMT*
+*Last update: Tue, 31 Dec 2024 00:51:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
