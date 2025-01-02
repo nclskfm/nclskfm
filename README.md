@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 01 2025)
+### Joke of the day (Thu Jan 02 2025)
 <!-- joke -->
->Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+>The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
 <!-- /joke -->
 
-*Last update: Wed, 01 Jan 2025 00:56:20 GMT*
+*Last update: Thu, 02 Jan 2025 00:51:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
