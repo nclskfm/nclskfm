@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 02 2025)
+### Joke of the day (Fri Jan 03 2025)
 <!-- joke -->
->The Drummer for Def Leppard's only got one arm. Chuck Norris needed a back scratcher.
+>Chuck Norris can skeletize a cow in two minutes.
 <!-- /joke -->
 
-*Last update: Thu, 02 Jan 2025 00:51:05 GMT*
+*Last update: Fri, 03 Jan 2025 00:51:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
