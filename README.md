@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 03 2025)
+### Joke of the day (Sat Jan 04 2025)
 <!-- joke -->
->Chuck Norris can skeletize a cow in two minutes.
+>99 Bugs in the Code.  99 Bugs in the Code.  You take one down, patch it around, 127 Bugs in the code
 <!-- /joke -->
 
-*Last update: Fri, 03 Jan 2025 00:51:31 GMT*
+*Last update: Sat, 04 Jan 2025 00:50:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
