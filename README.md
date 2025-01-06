@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 05 2025)
+### Joke of the day (Mon Jan 06 2025)
 <!-- joke -->
->Chuck Norris does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+>Chuck Norris is widely predicted to be first black president. If you're thinking to yourself, 'But Chuck Norris isn't black', then you are dead wrong. And stop being a racist.
 <!-- /joke -->
 
-*Last update: Sun, 05 Jan 2025 00:56:04 GMT*
+*Last update: Mon, 06 Jan 2025 00:54:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
