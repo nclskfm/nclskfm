@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 06 2025)
+### Joke of the day (Tue Jan 07 2025)
 <!-- joke -->
->Chuck Norris is widely predicted to be first black president. If you're thinking to yourself, 'But Chuck Norris isn't black', then you are dead wrong. And stop being a racist.
+>A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 <!-- /joke -->
 
-*Last update: Mon, 06 Jan 2025 00:54:10 GMT*
+*Last update: Tue, 07 Jan 2025 00:52:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
