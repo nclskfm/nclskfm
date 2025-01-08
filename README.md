@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 07 2025)
+### Joke of the day (Wed Jan 08 2025)
 <!-- joke -->
->A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
+>The First rule of Chuck Norris is: you do not talk about Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 07 Jan 2025 00:52:04 GMT*
+*Last update: Wed, 08 Jan 2025 00:51:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
