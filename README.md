@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 08 2025)
+### Joke of the day (Thu Jan 09 2025)
 <!-- joke -->
->The First rule of Chuck Norris is: you do not talk about Chuck Norris.
+>Chuck Norris knows everything there is to know - Except for the definition of mercy.
 <!-- /joke -->
 
-*Last update: Wed, 08 Jan 2025 00:51:56 GMT*
+*Last update: Thu, 09 Jan 2025 00:51:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
