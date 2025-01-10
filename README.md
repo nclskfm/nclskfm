@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 09 2025)
+### Joke of the day (Fri Jan 10 2025)
 <!-- joke -->
->Chuck Norris knows everything there is to know - Except for the definition of mercy.
+>Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
 <!-- /joke -->
 
-*Last update: Thu, 09 Jan 2025 00:51:36 GMT*
+*Last update: Fri, 10 Jan 2025 00:53:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
