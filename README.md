@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 10 2025)
+### Joke of the day (Sat Jan 11 2025)
 <!-- joke -->
->Little known medical fact: Chuck Norris invented the Caesarean section when he roundhouse-kicked his way out of his monther's womb.
+>Chuck Norris can win at solitaire with only 18 cards.
 <!-- /joke -->
 
-*Last update: Fri, 10 Jan 2025 00:53:10 GMT*
+*Last update: Sat, 11 Jan 2025 00:51:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
