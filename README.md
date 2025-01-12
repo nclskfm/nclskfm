@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 11 2025)
+### Joke of the day (Sun Jan 12 2025)
 <!-- joke -->
->Chuck Norris can win at solitaire with only 18 cards.
+>Chuck Norris was once in a knife fight, and the knife lost.
 <!-- /joke -->
 
-*Last update: Sat, 11 Jan 2025 00:51:55 GMT*
+*Last update: Sun, 12 Jan 2025 00:56:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
