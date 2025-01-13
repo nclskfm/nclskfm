@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 12 2025)
+### Joke of the day (Mon Jan 13 2025)
 <!-- joke -->
->Chuck Norris was once in a knife fight, and the knife lost.
+>binary digits are called bits i love ternary digits
 <!-- /joke -->
 
-*Last update: Sun, 12 Jan 2025 00:56:46 GMT*
+*Last update: Mon, 13 Jan 2025 00:54:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
