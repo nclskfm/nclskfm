@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 13 2025)
+### Joke of the day (Tue Jan 14 2025)
 <!-- joke -->
->binary digits are called bits i love ternary digits
+>On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life by nuzzling it with his beard. As the onlookers gathered, the lamb sprang to life. Chuck Norris then roundhouse kicked it, killing it instantly. This was just to prove that the good Chuck givet
 <!-- /joke -->
 
-*Last update: Mon, 13 Jan 2025 00:54:52 GMT*
+*Last update: Tue, 14 Jan 2025 00:49:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
