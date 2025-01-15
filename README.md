@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 14 2025)
+### Joke of the day (Wed Jan 15 2025)
 <!-- joke -->
->On the set of Walker Texas Ranger Chuck Norris brought a dying lamb back to life by nuzzling it with his beard. As the onlookers gathered, the lamb sprang to life. Chuck Norris then roundhouse kicked it, killing it instantly. This was just to prove that the good Chuck givet
+>The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 14 Jan 2025 00:49:13 GMT*
+*Last update: Wed, 15 Jan 2025 00:50:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
