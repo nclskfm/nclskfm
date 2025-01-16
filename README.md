@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 15 2025)
+### Joke of the day (Thu Jan 16 2025)
 <!-- joke -->
->The pen is mighter than the sword, but only if the pen is held by Chuck Norris.
+>The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
 <!-- /joke -->
 
-*Last update: Wed, 15 Jan 2025 00:50:54 GMT*
+*Last update: Thu, 16 Jan 2025 00:50:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
