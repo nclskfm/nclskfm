@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 16 2025)
+### Joke of the day (Fri Jan 17 2025)
 <!-- joke -->
->The 11th commandment is ?Thou shalt not piss off Chuck Norris? This commandment is rarely enforced, as it is impossible to accomplish.
+>Chuck Norris doesn't look both ways before he crosses the street... he just roundhouses any cars that get too close.
 <!-- /joke -->
 
-*Last update: Thu, 16 Jan 2025 00:50:09 GMT*
+*Last update: Fri, 17 Jan 2025 00:49:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
