@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 17 2025)
+### Joke of the day (Sat Jan 18 2025)
 <!-- joke -->
->Chuck Norris doesn't look both ways before he crosses the street... he just roundhouses any cars that get too close.
+>The only pattern Chuck Norris knows is God Object.
 <!-- /joke -->
 
-*Last update: Fri, 17 Jan 2025 00:49:52 GMT*
+*Last update: Sat, 18 Jan 2025 00:47:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
