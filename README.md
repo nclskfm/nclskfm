@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 19 2025)
+### Joke of the day (Mon Jan 20 2025)
 <!-- joke -->
->Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
+>It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
 <!-- /joke -->
 
-*Last update: Sun, 19 Jan 2025 00:54:11 GMT*
+*Last update: Mon, 20 Jan 2025 00:51:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
