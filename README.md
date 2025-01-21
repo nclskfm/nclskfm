@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 20 2025)
+### Joke of the day (Tue Jan 21 2025)
 <!-- joke -->
->It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
+>Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 <!-- /joke -->
 
-*Last update: Mon, 20 Jan 2025 00:51:25 GMT*
+*Last update: Tue, 21 Jan 2025 00:50:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
