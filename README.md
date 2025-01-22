@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 21 2025)
+### Joke of the day (Wed Jan 22 2025)
 <!-- joke -->
->Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+>Think of a hot woman. Chuck Norris did her.
 <!-- /joke -->
 
-*Last update: Tue, 21 Jan 2025 00:50:01 GMT*
+*Last update: Wed, 22 Jan 2025 00:51:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
