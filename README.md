@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 22 2025)
+### Joke of the day (Thu Jan 23 2025)
 <!-- joke -->
->Think of a hot woman. Chuck Norris did her.
+>Chuck Norris sheds his skin twice a year.
 <!-- /joke -->
 
-*Last update: Wed, 22 Jan 2025 00:51:34 GMT*
+*Last update: Thu, 23 Jan 2025 00:50:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
