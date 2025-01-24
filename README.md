@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 23 2025)
+### Joke of the day (Fri Jan 24 2025)
 <!-- joke -->
->Chuck Norris sheds his skin twice a year.
+>In an average living room there are 1,242 objects Chuck Norris could use to kill you, including the room itself.
 <!-- /joke -->
 
-*Last update: Thu, 23 Jan 2025 00:50:31 GMT*
+*Last update: Fri, 24 Jan 2025 00:50:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
