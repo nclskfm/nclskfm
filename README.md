@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 25 2025)
+### Joke of the day (Sun Jan 26 2025)
 <!-- joke -->
->How does a Programmer COok food ? In O(1)
+>Chuck Norris can win a game of Connect Four in only three moves.
 <!-- /joke -->
 
-*Last update: Sat, 25 Jan 2025 00:46:46 GMT*
+*Last update: Sun, 26 Jan 2025 00:51:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
