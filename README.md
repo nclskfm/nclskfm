@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 26 2025)
+### Joke of the day (Mon Jan 27 2025)
 <!-- joke -->
->Chuck Norris can win a game of Connect Four in only three moves.
+>Chuck Norris' house has no doors, only walls that he walks through.
 <!-- /joke -->
 
-*Last update: Sun, 26 Jan 2025 00:51:52 GMT*
+*Last update: Mon, 27 Jan 2025 00:51:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
