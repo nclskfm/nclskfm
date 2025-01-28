@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 27 2025)
+### Joke of the day (Tue Jan 28 2025)
 <!-- joke -->
->Chuck Norris' house has no doors, only walls that he walks through.
+>The quickest way to a man's heart is with Chuck Norris' fist.
 <!-- /joke -->
 
-*Last update: Mon, 27 Jan 2025 00:51:47 GMT*
+*Last update: Tue, 28 Jan 2025 00:50:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
