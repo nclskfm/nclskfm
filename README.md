@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 28 2025)
+### Joke of the day (Wed Jan 29 2025)
 <!-- joke -->
->The quickest way to a man's heart is with Chuck Norris' fist.
+>Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
 <!-- /joke -->
 
-*Last update: Tue, 28 Jan 2025 00:50:35 GMT*
+*Last update: Wed, 29 Jan 2025 00:50:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
