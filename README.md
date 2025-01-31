@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 30 2025)
+### Joke of the day (Fri Jan 31 2025)
 <!-- joke -->
->When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
+>Chuck Norris can binary search unsorted data.
 <!-- /joke -->
 
-*Last update: Thu, 30 Jan 2025 00:49:21 GMT*
+*Last update: Fri, 31 Jan 2025 00:50:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
