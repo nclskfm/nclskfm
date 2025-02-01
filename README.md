@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 31 2025)
+### Joke of the day (Sat Feb 01 2025)
 <!-- joke -->
->Chuck Norris can binary search unsorted data.
+>Chuck Norris is responsible for China's over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
 <!-- /joke -->
 
-*Last update: Fri, 31 Jan 2025 00:50:43 GMT*
+*Last update: Sat, 01 Feb 2025 00:53:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
