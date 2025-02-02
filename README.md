@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 01 2025)
+### Joke of the day (Sun Feb 02 2025)
 <!-- joke -->
->Chuck Norris is responsible for China's over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
+>Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
 <!-- /joke -->
 
-*Last update: Sat, 01 Feb 2025 00:53:45 GMT*
+*Last update: Sun, 02 Feb 2025 00:53:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
