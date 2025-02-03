@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 02 2025)
+### Joke of the day (Mon Feb 03 2025)
 <!-- joke -->
->Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
+>When Chuck Norris talks, everybody listens. And dies.
 <!-- /joke -->
 
-*Last update: Sun, 02 Feb 2025 00:53:20 GMT*
+*Last update: Mon, 03 Feb 2025 00:51:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
