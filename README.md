@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 03 2025)
+### Joke of the day (Tue Feb 04 2025)
 <!-- joke -->
->When Chuck Norris talks, everybody listens. And dies.
+>Chuck Norris can touch MC Hammer.
 <!-- /joke -->
 
-*Last update: Mon, 03 Feb 2025 00:51:46 GMT*
+*Last update: Tue, 04 Feb 2025 00:50:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
