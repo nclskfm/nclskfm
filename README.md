@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 05 2025)
+### Joke of the day (Thu Feb 06 2025)
 <!-- joke -->
->Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+>Chuck Norris can overflow your stack just by looking at it.
 <!-- /joke -->
 
-*Last update: Wed, 05 Feb 2025 00:51:18 GMT*
+*Last update: Thu, 06 Feb 2025 00:51:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
