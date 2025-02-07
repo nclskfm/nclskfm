@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 06 2025)
+### Joke of the day (Fri Feb 07 2025)
 <!-- joke -->
->Chuck Norris can overflow your stack just by looking at it.
+>Computers are like air conditioners: they stop working when you open Windows.
 <!-- /joke -->
 
-*Last update: Thu, 06 Feb 2025 00:51:24 GMT*
+*Last update: Fri, 07 Feb 2025 00:51:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
