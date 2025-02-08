@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 07 2025)
+### Joke of the day (Sat Feb 08 2025)
 <!-- joke -->
->Computers are like air conditioners: they stop working when you open Windows.
+>Think of a hot woman. Chuck Norris did her.
 <!-- /joke -->
 
-*Last update: Fri, 07 Feb 2025 00:51:36 GMT*
+*Last update: Sat, 08 Feb 2025 00:49:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
