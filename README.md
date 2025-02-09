@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 08 2025)
+### Joke of the day (Sun Feb 09 2025)
 <!-- joke -->
->Think of a hot woman. Chuck Norris did her.
+>Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
 <!-- /joke -->
 
-*Last update: Sat, 08 Feb 2025 00:49:50 GMT*
+*Last update: Sun, 09 Feb 2025 00:54:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
