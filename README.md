@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 11 2025)
+### Joke of the day (Wed Feb 12 2025)
 <!-- joke -->
->Artificial intelligence usually beats real stupidity.
+>Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Tue, 11 Feb 2025 00:51:14 GMT*
+*Last update: Wed, 12 Feb 2025 00:51:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
