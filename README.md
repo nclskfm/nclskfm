@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 13 2025)
+### Joke of the day (Fri Feb 14 2025)
 <!-- joke -->
->Fact: Chuck Norris doesn't consider it sex if the woman survives.
+>A man once claimed Chuck Norris kicked his ass twice, but it was promptly dismissed as false - no one could survive it the first time.
 <!-- /joke -->
 
-*Last update: Thu, 13 Feb 2025 00:51:38 GMT*
+*Last update: Fri, 14 Feb 2025 00:51:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
