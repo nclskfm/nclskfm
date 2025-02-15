@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 14 2025)
+### Joke of the day (Sat Feb 15 2025)
 <!-- joke -->
->A man once claimed Chuck Norris kicked his ass twice, but it was promptly dismissed as false - no one could survive it the first time.
+>Chuck Norris never has to wax his skis because they're always slick with blood.
 <!-- /joke -->
 
-*Last update: Fri, 14 Feb 2025 00:51:18 GMT*
+*Last update: Sat, 15 Feb 2025 00:50:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
