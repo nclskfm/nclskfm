@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 15 2025)
+### Joke of the day (Sun Feb 16 2025)
 <!-- joke -->
->Chuck Norris never has to wax his skis because they're always slick with blood.
+>If you spell Chuck Norris in Scrabble, you win. Forever.
 <!-- /joke -->
 
-*Last update: Sat, 15 Feb 2025 00:50:51 GMT*
+*Last update: Sun, 16 Feb 2025 00:55:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
