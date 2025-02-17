@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 16 2025)
+### Joke of the day (Mon Feb 17 2025)
 <!-- joke -->
->If you spell Chuck Norris in Scrabble, you win. Forever.
+>Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
 <!-- /joke -->
 
-*Last update: Sun, 16 Feb 2025 00:55:48 GMT*
+*Last update: Mon, 17 Feb 2025 00:53:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
