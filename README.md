@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 17 2025)
+### Joke of the day (Tue Feb 18 2025)
 <!-- joke -->
->Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+>Chuck Norris drives an ice cream truck covered in human skulls.
 <!-- /joke -->
 
-*Last update: Mon, 17 Feb 2025 00:53:55 GMT*
+*Last update: Tue, 18 Feb 2025 00:51:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
