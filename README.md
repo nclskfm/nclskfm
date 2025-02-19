@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 18 2025)
+### Joke of the day (Wed Feb 19 2025)
 <!-- joke -->
->Chuck Norris drives an ice cream truck covered in human skulls.
+>The Manhattan Project was not intended to create nuclear weapons, it was meant to recreate the destructive power in a Chuck Norris Roundhouse Kick. They didn't even come close.
 <!-- /joke -->
 
-*Last update: Tue, 18 Feb 2025 00:51:17 GMT*
+*Last update: Wed, 19 Feb 2025 00:51:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
