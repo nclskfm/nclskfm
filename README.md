@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 19 2025)
+### Joke of the day (Thu Feb 20 2025)
 <!-- joke -->
->The Manhattan Project was not intended to create nuclear weapons, it was meant to recreate the destructive power in a Chuck Norris Roundhouse Kick. They didn't even come close.
+>There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
 <!-- /joke -->
 
-*Last update: Wed, 19 Feb 2025 00:51:49 GMT*
+*Last update: Thu, 20 Feb 2025 00:52:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
