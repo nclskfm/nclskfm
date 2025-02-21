@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 20 2025)
+### Joke of the day (Fri Feb 21 2025)
 <!-- joke -->
->There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
+>Chuck Norris can do a wheelie on a unicycle.
 <!-- /joke -->
 
-*Last update: Thu, 20 Feb 2025 00:52:03 GMT*
+*Last update: Fri, 21 Feb 2025 00:52:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
