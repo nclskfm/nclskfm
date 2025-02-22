@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 21 2025)
+### Joke of the day (Sat Feb 22 2025)
 <!-- joke -->
->Chuck Norris can do a wheelie on a unicycle.
+>When Chuck Norris throws exceptions, it's across the room.
 <!-- /joke -->
 
-*Last update: Fri, 21 Feb 2025 00:52:02 GMT*
+*Last update: Sat, 22 Feb 2025 00:50:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
