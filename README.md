@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 22 2025)
+### Joke of the day (Sun Feb 23 2025)
 <!-- joke -->
->When Chuck Norris throws exceptions, it's across the room.
+>In a tagteam match, Chuck Norris was teamed with Hulk Hogan against King Kong Bundy and Andre The Giant. He pinned all 3 at the same time.
 <!-- /joke -->
 
-*Last update: Sat, 22 Feb 2025 00:50:11 GMT*
+*Last update: Sun, 23 Feb 2025 00:55:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
