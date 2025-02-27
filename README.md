@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 26 2025)
+### Joke of the day (Thu Feb 27 2025)
 <!-- joke -->
->Chuck Norris can binary search unsorted data.
+>Along with his black belt, Chuck Norris often chooses to wear brown shoes. No one has DARED call him on it. Ever.
 <!-- /joke -->
 
-*Last update: Wed, 26 Feb 2025 00:52:57 GMT*
+*Last update: Thu, 27 Feb 2025 00:52:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
