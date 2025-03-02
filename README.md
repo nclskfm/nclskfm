@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 01 2025)
+### Joke of the day (Sun Mar 02 2025)
 <!-- joke -->
->Contrary to popular belief, the Titanic didn't hit an iceberg. The ship was off course and ran into Chuck Norris while he was doing the backstroke across the Atlantic.
+>If at first you don’t succeed; call it version 1.0.
 <!-- /joke -->
 
-*Last update: Sat, 01 Mar 2025 00:57:10 GMT*
+*Last update: Sun, 02 Mar 2025 00:56:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
