@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 03 2025)
+### Joke of the day (Tue Mar 04 2025)
 <!-- joke -->
->While urinating, Chuck Norris is easily capable of welding titanium.
+>Chuck Norris lost his virginity before his dad did.
 <!-- /joke -->
 
-*Last update: Mon, 03 Mar 2025 00:54:55 GMT*
+*Last update: Tue, 04 Mar 2025 00:53:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
