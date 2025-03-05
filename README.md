@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 04 2025)
+### Joke of the day (Wed Mar 05 2025)
 <!-- joke -->
->Chuck Norris lost his virginity before his dad did.
+>Chuck Norris can divide by zero.
 <!-- /joke -->
 
-*Last update: Tue, 04 Mar 2025 00:53:51 GMT*
+*Last update: Wed, 05 Mar 2025 00:54:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
