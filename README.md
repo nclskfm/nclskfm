@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 05 2025)
+### Joke of the day (Thu Mar 06 2025)
 <!-- joke -->
->Chuck Norris can divide by zero.
+>Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
 <!-- /joke -->
 
-*Last update: Wed, 05 Mar 2025 00:54:02 GMT*
+*Last update: Thu, 06 Mar 2025 00:53:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
