@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 10 2025)
+### Joke of the day (Tue Mar 11 2025)
 <!-- joke -->
->Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
+>Chuck Norris knows the last digit of pi.
 <!-- /joke -->
 
-*Last update: Mon, 10 Mar 2025 00:44:34 GMT*
+*Last update: Tue, 11 Mar 2025 00:54:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
