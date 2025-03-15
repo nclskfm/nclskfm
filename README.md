@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 14 2025)
+### Joke of the day (Sat Mar 15 2025)
 <!-- joke -->
->Chuck Norris doesn't use reflection, reflection asks politely for his help.
+>Black holes are where God divided by zero.
 <!-- /joke -->
 
-*Last update: Fri, 14 Mar 2025 00:53:49 GMT*
+*Last update: Sat, 15 Mar 2025 00:53:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
