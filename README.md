@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 15 2025)
+### Joke of the day (Sun Mar 16 2025)
 <!-- joke -->
->Black holes are where God divided by zero.
+>Contrary to popular belief, there is indeed enough Chuck Norris to go around.
 <!-- /joke -->
 
-*Last update: Sat, 15 Mar 2025 00:53:07 GMT*
+*Last update: Sun, 16 Mar 2025 00:58:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
