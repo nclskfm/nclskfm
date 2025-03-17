@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 16 2025)
+### Joke of the day (Mon Mar 17 2025)
 <!-- joke -->
->Contrary to popular belief, there is indeed enough Chuck Norris to go around.
+>If at first you don’t succeed; call it version 1.0.
 <!-- /joke -->
 
-*Last update: Sun, 16 Mar 2025 00:58:23 GMT*
+*Last update: Mon, 17 Mar 2025 00:56:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
