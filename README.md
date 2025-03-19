@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 18 2025)
+### Joke of the day (Wed Mar 19 2025)
 <!-- joke -->
->Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
+>A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
 <!-- /joke -->
 
-*Last update: Tue, 18 Mar 2025 00:54:26 GMT*
+*Last update: Wed, 19 Mar 2025 00:54:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
