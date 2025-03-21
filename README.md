@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 20 2025)
+### Joke of the day (Fri Mar 21 2025)
 <!-- joke -->
->Who called it female foeticide and not Binary ?
+>Chuck Norris doesn't use a computer because a computer does everything slower than Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 20 Mar 2025 00:53:58 GMT*
+*Last update: Fri, 21 Mar 2025 00:55:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
