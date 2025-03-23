@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 22 2025)
+### Joke of the day (Sun Mar 23 2025)
 <!-- joke -->
->Jack Bauer tried to use his detailed knowledge of torture techniques, but to no avail: Chuck Norris thrives on pain. Chuck Norris then ripped off Jack Bauer's arm and beat him to death with it. Game, set, match.
+>There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 <!-- /joke -->
 
-*Last update: Sat, 22 Mar 2025 00:53:18 GMT*
+*Last update: Sun, 23 Mar 2025 00:58:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
