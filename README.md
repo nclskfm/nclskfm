@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 24 2025)
+### Joke of the day (Tue Mar 25 2025)
 <!-- joke -->
->There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
+>Chuck Norris can write an OS in Brainfuck
 <!-- /joke -->
 
-*Last update: Mon, 24 Mar 2025 00:56:52 GMT*
+*Last update: Tue, 25 Mar 2025 00:55:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
