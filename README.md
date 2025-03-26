@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 25 2025)
+### Joke of the day (Wed Mar 26 2025)
 <!-- joke -->
->Chuck Norris can write an OS in Brainfuck
+>Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
 <!-- /joke -->
 
-*Last update: Tue, 25 Mar 2025 00:55:26 GMT*
+*Last update: Wed, 26 Mar 2025 00:54:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
