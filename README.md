@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 26 2025)
+### Joke of the day (Thu Mar 27 2025)
 <!-- joke -->
->Chuck Norris qualified with a top speed of 324 mph at the Daytona 500, without a car.
+>Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
 <!-- /joke -->
 
-*Last update: Wed, 26 Mar 2025 00:54:58 GMT*
+*Last update: Thu, 27 Mar 2025 00:55:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
