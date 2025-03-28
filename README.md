@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 27 2025)
+### Joke of the day (Fri Mar 28 2025)
 <!-- joke -->
->Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
+>Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
 <!-- /joke -->
 
-*Last update: Thu, 27 Mar 2025 00:55:00 GMT*
+*Last update: Fri, 28 Mar 2025 00:55:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
