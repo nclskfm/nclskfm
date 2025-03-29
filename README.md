@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 28 2025)
+### Joke of the day (Sat Mar 29 2025)
 <!-- joke -->
->Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+>Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
 <!-- /joke -->
 
-*Last update: Fri, 28 Mar 2025 00:55:01 GMT*
+*Last update: Sat, 29 Mar 2025 00:54:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
