@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 29 2025)
+### Joke of the day (Sun Mar 30 2025)
 <!-- joke -->
->Count from one to ten. That's how long it would take Chuck Norris to kill you...Fourty seven times.
+>The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 <!-- /joke -->
 
-*Last update: Sat, 29 Mar 2025 00:54:27 GMT*
+*Last update: Sun, 30 Mar 2025 00:59:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
