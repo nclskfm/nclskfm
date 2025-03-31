@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 30 2025)
+### Joke of the day (Mon Mar 31 2025)
 <!-- joke -->
->The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
+>The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
 <!-- /joke -->
 
-*Last update: Sun, 30 Mar 2025 00:59:48 GMT*
+*Last update: Mon, 31 Mar 2025 00:58:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
