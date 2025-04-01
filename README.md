@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 31 2025)
+### Joke of the day (Tue Apr 01 2025)
 <!-- joke -->
->The chemical formula for the highly toxic cyanide ion is CN-. These are also Chuck Norris' initials. This is not a coincidence.
+>Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
 <!-- /joke -->
 
-*Last update: Mon, 31 Mar 2025 00:58:32 GMT*
+*Last update: Tue, 01 Apr 2025 01:02:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
