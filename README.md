@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 01 2025)
+### Joke of the day (Wed Apr 02 2025)
 <!-- joke -->
->Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+>Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 <!-- /joke -->
 
-*Last update: Tue, 01 Apr 2025 01:02:25 GMT*
+*Last update: Wed, 02 Apr 2025 00:56:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
