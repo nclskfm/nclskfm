@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 02 2025)
+### Joke of the day (Thu Apr 03 2025)
 <!-- joke -->
->Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+>Every SQL statement that Chuck Norris codes has an implicit 'COMMIT' in its end.
 <!-- /joke -->
 
-*Last update: Wed, 02 Apr 2025 00:56:17 GMT*
+*Last update: Thu, 03 Apr 2025 00:55:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
