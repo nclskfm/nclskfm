@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 06 2025)
+### Joke of the day (Mon Apr 07 2025)
 <!-- joke -->
->The Internet: where men are men women are men and children are FBI agents.
+>Chuck Norris burst the dot com bubble.
 <!-- /joke -->
 
-*Last update: Sun, 06 Apr 2025 00:59:14 GMT*
+*Last update: Mon, 07 Apr 2025 00:57:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
