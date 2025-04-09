@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 08 2025)
+### Joke of the day (Wed Apr 09 2025)
 <!-- joke -->
->Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+>Chuck Norris got his drivers license at the age of 16. Seconds.
 <!-- /joke -->
 
-*Last update: Tue, 08 Apr 2025 00:55:33 GMT*
+*Last update: Wed, 09 Apr 2025 00:55:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
