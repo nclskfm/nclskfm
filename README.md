@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 09 2025)
+### Joke of the day (Thu Apr 10 2025)
 <!-- joke -->
->Chuck Norris got his drivers license at the age of 16. Seconds.
+>Chuck Norris does not need to type-cast. The Chuck-Norris Compiler (CNC) sees through things. All way down. Always.
 <!-- /joke -->
 
-*Last update: Wed, 09 Apr 2025 00:55:57 GMT*
+*Last update: Thu, 10 Apr 2025 00:56:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
