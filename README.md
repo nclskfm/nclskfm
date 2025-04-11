@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 10 2025)
+### Joke of the day (Fri Apr 11 2025)
 <!-- joke -->
->Chuck Norris does not need to type-cast. The Chuck-Norris Compiler (CNC) sees through things. All way down. Always.
+>Evolution is God’s way of issuing upgrades.
 <!-- /joke -->
 
-*Last update: Thu, 10 Apr 2025 00:56:02 GMT*
+*Last update: Fri, 11 Apr 2025 00:56:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
