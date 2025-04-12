@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 11 2025)
+### Joke of the day (Sat Apr 12 2025)
 <!-- joke -->
->Evolution is God’s way of issuing upgrades.
+>Chuck Norris doesn't use web standards as the web will conform to him.
 <!-- /joke -->
 
-*Last update: Fri, 11 Apr 2025 00:56:20 GMT*
+*Last update: Sat, 12 Apr 2025 00:55:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
