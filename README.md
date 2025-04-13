@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 12 2025)
+### Joke of the day (Sun Apr 13 2025)
 <!-- joke -->
->Chuck Norris doesn't use web standards as the web will conform to him.
+>Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
 <!-- /joke -->
 
-*Last update: Sat, 12 Apr 2025 00:55:22 GMT*
+*Last update: Sun, 13 Apr 2025 02:25:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
