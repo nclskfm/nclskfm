@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 14 2025)
+### Joke of the day (Tue Apr 15 2025)
 <!-- joke -->
->Once you go Norris, you are physically unable to go back.
+>Scotty in Star Trek often says 'Ye cannae change the laws of physics.' This is untrue. Chuck Norris can change the laws of physics. With his fists.
 <!-- /joke -->
 
-*Last update: Mon, 14 Apr 2025 00:59:12 GMT*
+*Last update: Tue, 15 Apr 2025 00:57:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
