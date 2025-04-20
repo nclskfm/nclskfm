@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Apr 19 2025)
+### Joke of the day (Sun Apr 20 2025)
 <!-- joke -->
->Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
+>There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
 <!-- /joke -->
 
-*Last update: Sat, 19 Apr 2025 00:54:16 GMT*
+*Last update: Sun, 20 Apr 2025 01:01:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
