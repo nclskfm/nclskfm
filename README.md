@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 20 2025)
+### Joke of the day (Mon Apr 21 2025)
 <!-- joke -->
->There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
+>Chuck Norris likes his ice like he likes his skulls: crushed.
 <!-- /joke -->
 
-*Last update: Sun, 20 Apr 2025 01:01:01 GMT*
+*Last update: Mon, 21 Apr 2025 00:59:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
