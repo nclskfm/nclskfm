@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 21 2025)
+### Joke of the day (Tue Apr 22 2025)
 <!-- joke -->
->Chuck Norris likes his ice like he likes his skulls: crushed.
+>Teenage Mutant Ninja Turtles is based on a true story: Chuck Norris once swallowed a turtle whole, and when he crapped it out, the turtle was six feet tall and had learned karate.
 <!-- /joke -->
 
-*Last update: Mon, 21 Apr 2025 00:59:49 GMT*
+*Last update: Tue, 22 Apr 2025 00:57:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
