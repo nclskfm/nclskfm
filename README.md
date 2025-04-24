@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 23 2025)
+### Joke of the day (Thu Apr 24 2025)
 <!-- joke -->
->The 1972 Miami Dolphins lost one game, it was a game vs. Chuck Norris and three seven year old girls. Chuck Norris won with a roundhouse-kick to the face in overtime.
+>Chuck Norris doesn't need an OS.
 <!-- /joke -->
 
-*Last update: Wed, 23 Apr 2025 00:57:19 GMT*
+*Last update: Thu, 24 Apr 2025 00:57:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
