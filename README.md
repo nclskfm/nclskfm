@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 24 2025)
+### Joke of the day (Fri Apr 25 2025)
 <!-- joke -->
->Chuck Norris doesn't need an OS.
+>The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
 <!-- /joke -->
 
-*Last update: Thu, 24 Apr 2025 00:57:27 GMT*
+*Last update: Fri, 25 Apr 2025 00:57:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
