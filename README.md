@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Apr 25 2025)
+### Joke of the day (Sat Apr 26 2025)
 <!-- joke -->
->The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
+>Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
 <!-- /joke -->
 
-*Last update: Fri, 25 Apr 2025 00:57:32 GMT*
+*Last update: Sat, 26 Apr 2025 00:55:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
