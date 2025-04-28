@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 27 2025)
+### Joke of the day (Mon Apr 28 2025)
 <!-- joke -->
->When Chuck Norris works out on the Total Gym, the Total Gym feels like it's been raped.
+>You know how they say if you die in your dream then you will die in real life? In actuality, if you dream of death then Chuck Norris will find you and kill you.
 <!-- /joke -->
 
-*Last update: Sun, 27 Apr 2025 01:01:03 GMT*
+*Last update: Mon, 28 Apr 2025 00:59:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
