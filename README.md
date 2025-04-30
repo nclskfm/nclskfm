@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 29 2025)
+### Joke of the day (Wed Apr 30 2025)
 <!-- joke -->
->Chuck Norris is the only person to ever win a staring contest against Ray Charles and Stevie Wonder.
+>The US did not boycott the 1980 Summer Olympics in Moscow due to political reasons: Chuck Norris killed the entire US team with a single round-house kick during TaeKwonDo practice.
 <!-- /joke -->
 
-*Last update: Tue, 29 Apr 2025 00:57:32 GMT*
+*Last update: Wed, 30 Apr 2025 00:57:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
