@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 30 2025)
+### Joke of the day (Thu May 01 2025)
 <!-- joke -->
->The US did not boycott the 1980 Summer Olympics in Moscow due to political reasons: Chuck Norris killed the entire US team with a single round-house kick during TaeKwonDo practice.
+>Chuck Norris is the reason why Waldo is hiding.
 <!-- /joke -->
 
-*Last update: Wed, 30 Apr 2025 00:57:59 GMT*
+*Last update: Thu, 01 May 2025 01:03:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
