@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 01 2025)
+### Joke of the day (Fri May 02 2025)
 <!-- joke -->
->Chuck Norris is the reason why Waldo is hiding.
+>The Internet: where men are men women are men and children are FBI agents.
 <!-- /joke -->
 
-*Last update: Thu, 01 May 2025 01:03:27 GMT*
+*Last update: Fri, 02 May 2025 00:58:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
