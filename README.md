@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 02 2025)
+### Joke of the day (Sat May 03 2025)
 <!-- joke -->
->The Internet: where men are men women are men and children are FBI agents.
+>Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 02 May 2025 00:58:06 GMT*
+*Last update: Sat, 03 May 2025 00:56:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
