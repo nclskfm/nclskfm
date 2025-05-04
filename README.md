@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 03 2025)
+### Joke of the day (Sun May 04 2025)
 <!-- joke -->
->Chuck Norris does not wear a condom. Because there is no such thing as protection from Chuck Norris.
+>Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
 <!-- /joke -->
 
-*Last update: Sat, 03 May 2025 00:56:37 GMT*
+*Last update: Sun, 04 May 2025 01:03:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
