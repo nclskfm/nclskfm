@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 04 2025)
+### Joke of the day (Mon May 05 2025)
 <!-- joke -->
->Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
+>What does a subatomic duck say? Quark.
 <!-- /joke -->
 
-*Last update: Sun, 04 May 2025 01:03:43 GMT*
+*Last update: Mon, 05 May 2025 01:01:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
