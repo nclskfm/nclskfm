@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 05 2025)
+### Joke of the day (Tue May 06 2025)
 <!-- joke -->
->What does a subatomic duck say? Quark.
+>Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
 <!-- /joke -->
 
-*Last update: Mon, 05 May 2025 01:01:03 GMT*
+*Last update: Tue, 06 May 2025 00:58:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
