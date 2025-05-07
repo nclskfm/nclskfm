@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 06 2025)
+### Joke of the day (Wed May 07 2025)
 <!-- joke -->
->Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
+>Chuck Norris doesn't use reflection, reflection asks politely for his help.
 <!-- /joke -->
 
-*Last update: Tue, 06 May 2025 00:58:32 GMT*
+*Last update: Wed, 07 May 2025 00:58:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
