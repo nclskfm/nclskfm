@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 08 2025)
+### Joke of the day (Fri May 09 2025)
 <!-- joke -->
->When Chuck Norris plays Monopoly, it affects the actual world economy.
+>Chuck Norris invented his own type of karate. It's called Chuck-Will-Kill.
 <!-- /joke -->
 
-*Last update: Thu, 08 May 2025 00:59:09 GMT*
+*Last update: Fri, 09 May 2025 00:58:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
