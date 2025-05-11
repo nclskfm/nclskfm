@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 10 2025)
+### Joke of the day (Sun May 11 2025)
 <!-- joke -->
->Why did the programmer quit his job? Because he didn't get arrays.
+>Hand over the calculator... friends don’t let friends derive drunk.
 <!-- /joke -->
 
-*Last update: Sat, 10 May 2025 00:56:34 GMT*
+*Last update: Sun, 11 May 2025 01:02:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
