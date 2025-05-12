@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 11 2025)
+### Joke of the day (Mon May 12 2025)
 <!-- joke -->
->Hand over the calculator... friends don’t let friends derive drunk.
+>Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 <!-- /joke -->
 
-*Last update: Sun, 11 May 2025 01:02:35 GMT*
+*Last update: Mon, 12 May 2025 01:01:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
