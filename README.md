@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 12 2025)
+### Joke of the day (Tue May 13 2025)
 <!-- joke -->
->Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+>UNIX is user friendly, it's just very particular about who it's friends are.
 <!-- /joke -->
 
-*Last update: Mon, 12 May 2025 01:01:23 GMT*
+*Last update: Tue, 13 May 2025 00:59:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
