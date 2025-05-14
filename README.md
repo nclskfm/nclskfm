@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 13 2025)
+### Joke of the day (Wed May 14 2025)
 <!-- joke -->
->UNIX is user friendly, it's just very particular about who it's friends are.
+>UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
 <!-- /joke -->
 
-*Last update: Tue, 13 May 2025 00:59:22 GMT*
+*Last update: Wed, 14 May 2025 00:58:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
