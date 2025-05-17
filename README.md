@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 16 2025)
+### Joke of the day (Sat May 17 2025)
 <!-- joke -->
->Chuck Norris doesn't play god. Playing is for children.
+>Chuck Norris always knows the EXACT location of Carmen SanDiego.
 <!-- /joke -->
 
-*Last update: Fri, 16 May 2025 00:59:48 GMT*
+*Last update: Sat, 17 May 2025 00:58:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
