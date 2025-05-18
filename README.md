@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 17 2025)
+### Joke of the day (Sun May 18 2025)
 <!-- joke -->
->Chuck Norris always knows the EXACT location of Carmen SanDiego.
+>Chuck Norris's keyboard has the Any key.
 <!-- /joke -->
 
-*Last update: Sat, 17 May 2025 00:58:02 GMT*
+*Last update: Sun, 18 May 2025 01:03:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
