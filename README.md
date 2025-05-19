@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 18 2025)
+### Joke of the day (Mon May 19 2025)
 <!-- joke -->
->Chuck Norris's keyboard has the Any key.
+>Chuck Norris can solve the Towers of Hanoi in one move.
 <!-- /joke -->
 
-*Last update: Sun, 18 May 2025 01:03:15 GMT*
+*Last update: Mon, 19 May 2025 01:02:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
