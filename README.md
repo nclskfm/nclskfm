@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 20 2025)
+### Joke of the day (Wed May 21 2025)
 <!-- joke -->
->Industrial logging isn't the cause of deforestation. Chuck Norris needs toothpicks.
+>When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
 <!-- /joke -->
 
-*Last update: Tue, 20 May 2025 01:00:15 GMT*
+*Last update: Wed, 21 May 2025 00:59:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
