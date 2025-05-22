@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 21 2025)
+### Joke of the day (Thu May 22 2025)
 <!-- joke -->
->When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
+>In an act of great philanthropy, Chuck made a generous donation to the American Cancer Society. He donated 6,000 dead bodies for scientific research.
 <!-- /joke -->
 
-*Last update: Wed, 21 May 2025 00:59:46 GMT*
+*Last update: Thu, 22 May 2025 00:59:17 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
