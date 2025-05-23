@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 22 2025)
+### Joke of the day (Fri May 23 2025)
 <!-- joke -->
->In an act of great philanthropy, Chuck made a generous donation to the American Cancer Society. He donated 6,000 dead bodies for scientific research.
+>Why do fish likes nibbles the size of 2^n? So they can byte
 <!-- /joke -->
 
-*Last update: Thu, 22 May 2025 00:59:17 GMT*
+*Last update: Fri, 23 May 2025 00:59:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
