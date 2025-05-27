@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 26 2025)
+### Joke of the day (Tue May 27 2025)
 <!-- joke -->
->When God said, 'let there be light', Chuck Norris said, 'say 'please'.'
+>Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
 <!-- /joke -->
 
-*Last update: Mon, 26 May 2025 01:01:09 GMT*
+*Last update: Tue, 27 May 2025 00:58:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
