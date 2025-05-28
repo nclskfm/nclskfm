@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 27 2025)
+### Joke of the day (Wed May 28 2025)
 <!-- joke -->
->Chuck Norris doesn't throw up if he drinks too much. Chuck Norris throws down!
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Tue, 27 May 2025 00:58:26 GMT*
+*Last update: Wed, 28 May 2025 00:59:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
