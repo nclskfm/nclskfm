@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 28 2025)
+### Joke of the day (Thu May 29 2025)
 <!-- joke -->
->A UDP packet walks into a bar. The bartender doesn't acknowledge him.
+>Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
 <!-- /joke -->
 
-*Last update: Wed, 28 May 2025 00:59:44 GMT*
+*Last update: Thu, 29 May 2025 00:59:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
