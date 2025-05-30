@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 29 2025)
+### Joke of the day (Fri May 30 2025)
 <!-- joke -->
->Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
+>When taking the SAT, write 'Chuck Norris' for every answer. You will score over 8000.
 <!-- /joke -->
 
-*Last update: Thu, 29 May 2025 00:59:48 GMT*
+*Last update: Fri, 30 May 2025 00:58:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
