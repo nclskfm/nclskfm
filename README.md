@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 30 2025)
+### Joke of the day (Sat May 31 2025)
 <!-- joke -->
->When taking the SAT, write 'Chuck Norris' for every answer. You will score over 8000.
+>Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
 <!-- /joke -->
 
-*Last update: Fri, 30 May 2025 00:58:53 GMT*
+*Last update: Sat, 31 May 2025 00:58:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
