@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 31 2025)
+### Joke of the day (Sun Jun 01 2025)
 <!-- joke -->
->Chuck Norris did not 'lose' his virginity, he stalked it and then destroyed it with extreme prejudice.
+>Chuck Norris's first program was kill -9.
 <!-- /joke -->
 
-*Last update: Sat, 31 May 2025 00:58:29 GMT*
+*Last update: Sun, 01 Jun 2025 01:11:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
