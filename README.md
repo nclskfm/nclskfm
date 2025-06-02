@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 01 2025)
+### Joke of the day (Mon Jun 02 2025)
 <!-- joke -->
->Chuck Norris's first program was kill -9.
+>Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
 <!-- /joke -->
 
-*Last update: Sun, 01 Jun 2025 01:11:50 GMT*
+*Last update: Mon, 02 Jun 2025 01:02:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
