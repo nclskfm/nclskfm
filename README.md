@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 02 2025)
+### Joke of the day (Tue Jun 03 2025)
 <!-- joke -->
->Chuck Norris' credit cards have no limit. Last weekend, he maxed them out.
+>All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Mon, 02 Jun 2025 01:02:32 GMT*
+*Last update: Tue, 03 Jun 2025 01:00:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
