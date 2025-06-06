@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 05 2025)
+### Joke of the day (Fri Jun 06 2025)
 <!-- joke -->
->Chuck Norris was once in a knife fight, and the knife lost.
+>Chuck Norris does, in fact, live in a round house.
 <!-- /joke -->
 
-*Last update: Thu, 05 Jun 2025 01:00:04 GMT*
+*Last update: Fri, 06 Jun 2025 01:00:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
