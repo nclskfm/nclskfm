@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 06 2025)
+### Joke of the day (Sat Jun 07 2025)
 <!-- joke -->
->Chuck Norris does, in fact, live in a round house.
+>Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
 <!-- /joke -->
 
-*Last update: Fri, 06 Jun 2025 01:00:02 GMT*
+*Last update: Sat, 07 Jun 2025 00:59:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
