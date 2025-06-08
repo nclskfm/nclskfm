@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 07 2025)
+### Joke of the day (Sun Jun 08 2025)
 <!-- joke -->
->Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
+>Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
 <!-- /joke -->
 
-*Last update: Sat, 07 Jun 2025 00:59:26 GMT*
+*Last update: Sun, 08 Jun 2025 01:06:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
