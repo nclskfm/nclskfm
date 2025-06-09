@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 08 2025)
+### Joke of the day (Mon Jun 09 2025)
 <!-- joke -->
->Gotta love the people who wrote the algorithm for Ola share,They go out of their way to help others
+>In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.
 <!-- /joke -->
 
-*Last update: Sun, 08 Jun 2025 01:06:09 GMT*
+*Last update: Mon, 09 Jun 2025 01:03:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
