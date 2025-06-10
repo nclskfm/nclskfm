@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 09 2025)
+### Joke of the day (Tue Jun 10 2025)
 <!-- joke -->
->In the X-Men movies, none of the X-Men super-powers are done with special effects. Chuck Norris is the stuntman for every character.
+>All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Mon, 09 Jun 2025 01:03:50 GMT*
+*Last update: Tue, 10 Jun 2025 01:01:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
