@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 10 2025)
+### Joke of the day (Wed Jun 11 2025)
 <!-- joke -->
->All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
+>Chuck Norris can solve the Towers of Hanoi in one move.
 <!-- /joke -->
 
-*Last update: Tue, 10 Jun 2025 01:01:15 GMT*
+*Last update: Wed, 11 Jun 2025 01:00:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
