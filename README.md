@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 11 2025)
+### Joke of the day (Thu Jun 12 2025)
 <!-- joke -->
->Chuck Norris can solve the Towers of Hanoi in one move.
+>Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
 <!-- /joke -->
 
-*Last update: Wed, 11 Jun 2025 01:00:56 GMT*
+*Last update: Thu, 12 Jun 2025 01:00:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
