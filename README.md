@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 13 2025)
+### Joke of the day (Sat Jun 14 2025)
 <!-- joke -->
->When Chuck Norris talks, everybody listens. And dies.
+>According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
 <!-- /joke -->
 
-*Last update: Fri, 13 Jun 2025 01:01:18 GMT*
+*Last update: Sat, 14 Jun 2025 00:58:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
