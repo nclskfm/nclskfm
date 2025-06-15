@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 14 2025)
+### Joke of the day (Sun Jun 15 2025)
 <!-- joke -->
->According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
+>The term 'Cleveland Steamer' got its name from Chuck Norris, when he took a dump while visiting the Rock and Roll Hall of fame and buried northern Ohio under a glacier of fecal matter.
 <!-- /joke -->
 
-*Last update: Sat, 14 Jun 2025 00:58:41 GMT*
+*Last update: Sun, 15 Jun 2025 01:07:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
