@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 16 2025)
+### Joke of the day (Tue Jun 17 2025)
 <!-- joke -->
->Chuck Norris was banned from competitive bullriding after a 1992 exhibition in San Antonio, when he rode the bull 1,346 miles from Texas to Milwaukee Wisconsin to pick up his dry cleaning.
+>The Internet: where men are men women are men and children are FBI agents.
 <!-- /joke -->
 
-*Last update: Mon, 16 Jun 2025 01:03:00 GMT*
+*Last update: Tue, 17 Jun 2025 01:00:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
