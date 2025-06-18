@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 17 2025)
+### Joke of the day (Wed Jun 18 2025)
 <!-- joke -->
->The Internet: where men are men women are men and children are FBI agents.
+>Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
 <!-- /joke -->
 
-*Last update: Tue, 17 Jun 2025 01:00:58 GMT*
+*Last update: Wed, 18 Jun 2025 01:00:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
