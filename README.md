@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 18 2025)
+### Joke of the day (Thu Jun 19 2025)
 <!-- joke -->
->Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
+>Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
 <!-- /joke -->
 
-*Last update: Wed, 18 Jun 2025 01:00:52 GMT*
+*Last update: Thu, 19 Jun 2025 01:00:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
