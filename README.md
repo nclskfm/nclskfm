@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 19 2025)
+### Joke of the day (Fri Jun 20 2025)
 <!-- joke -->
->Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
+>CPU (Coffee Processing Unit)
 <!-- /joke -->
 
-*Last update: Thu, 19 Jun 2025 01:00:58 GMT*
+*Last update: Fri, 20 Jun 2025 01:00:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
