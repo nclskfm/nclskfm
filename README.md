@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 20 2025)
+### Joke of the day (Sat Jun 21 2025)
 <!-- joke -->
->CPU (Coffee Processing Unit)
+>'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
 <!-- /joke -->
 
-*Last update: Fri, 20 Jun 2025 01:00:45 GMT*
+*Last update: Sat, 21 Jun 2025 00:59:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
