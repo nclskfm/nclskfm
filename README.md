@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 21 2025)
+### Joke of the day (Sun Jun 22 2025)
 <!-- joke -->
->'Sweating bullets' is literally what happens when Chuck Norris gets too hot.
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Sat, 21 Jun 2025 00:59:47 GMT*
+*Last update: Sun, 22 Jun 2025 01:06:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
