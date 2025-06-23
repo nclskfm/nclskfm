@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 22 2025)
+### Joke of the day (Mon Jun 23 2025)
 <!-- joke -->
->A UDP packet walks into a bar. The bartender doesn't acknowledge him.
+>There are only 10 types of people in the world: those that understand binary and those that don’t.
 <!-- /joke -->
 
-*Last update: Sun, 22 Jun 2025 01:06:49 GMT*
+*Last update: Mon, 23 Jun 2025 01:04:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
