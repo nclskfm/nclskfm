@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 23 2025)
+### Joke of the day (Tue Jun 24 2025)
 <!-- joke -->
->There are only 10 types of people in the world: those that understand binary and those that don’t.
+>Sticks and stones may break your bones, but a Chuck Norris glare will liquefy your kidneys.
 <!-- /joke -->
 
-*Last update: Mon, 23 Jun 2025 01:04:52 GMT*
+*Last update: Tue, 24 Jun 2025 01:01:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
