@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 24 2025)
+### Joke of the day (Wed Jun 25 2025)
 <!-- joke -->
->Sticks and stones may break your bones, but a Chuck Norris glare will liquefy your kidneys.
+>The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 24 Jun 2025 01:01:32 GMT*
+*Last update: Wed, 25 Jun 2025 01:02:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
