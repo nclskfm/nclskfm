@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 26 2025)
+### Joke of the day (Fri Jun 27 2025)
 <!-- joke -->
->C://dos  <br>C://dos.run  <br>run.dos.run
+>Chuck Norris can unit test entire applications with a single assert.
 <!-- /joke -->
 
-*Last update: Thu, 26 Jun 2025 01:01:16 GMT*
+*Last update: Fri, 27 Jun 2025 01:02:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
