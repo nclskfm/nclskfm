@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 27 2025)
+### Joke of the day (Sat Jun 28 2025)
 <!-- joke -->
->Chuck Norris can unit test entire applications with a single assert.
+>Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
 <!-- /joke -->
 
-*Last update: Fri, 27 Jun 2025 01:02:00 GMT*
+*Last update: Sat, 28 Jun 2025 00:59:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
