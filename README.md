@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 28 2025)
+### Joke of the day (Sun Jun 29 2025)
 <!-- joke -->
->Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
+>undefined
 <!-- /joke -->
 
-*Last update: Sat, 28 Jun 2025 00:59:32 GMT*
+*Last update: Sun, 29 Jun 2025 01:08:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
