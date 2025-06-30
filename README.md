@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 29 2025)
+### Joke of the day (Mon Jun 30 2025)
 <!-- joke -->
->undefined
+>Chuck Norris starts everyday with a protein shake made from Carnation Instant Breakfast, one dozen eggs, pure Colombian cocaine, and rattlesnake venom. He injects it directly into his neck with a syringe.
 <!-- /joke -->
 
-*Last update: Sun, 29 Jun 2025 01:08:18 GMT*
+*Last update: Mon, 30 Jun 2025 01:05:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
