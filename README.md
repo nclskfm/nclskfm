@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 01 2025)
+### Joke of the day (Wed Jul 02 2025)
 <!-- joke -->
->With Chuck Norris P = NP. There's no nondeterminism with Chuck Norris decisions.
+>Programmer (noun.): A machine that turns coffee into code
 <!-- /joke -->
 
-*Last update: Tue, 01 Jul 2025 01:08:37 GMT*
+*Last update: Wed, 02 Jul 2025 01:01:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
