@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 02 2025)
+### Joke of the day (Thu Jul 03 2025)
 <!-- joke -->
->Programmer (noun.): A machine that turns coffee into code
+>Chuck Norris' sperm can be seen with the naked eye. Each one is the size of a quarter.
 <!-- /joke -->
 
-*Last update: Wed, 02 Jul 2025 01:01:42 GMT*
+*Last update: Thu, 03 Jul 2025 01:01:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
