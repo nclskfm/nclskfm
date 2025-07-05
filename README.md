@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 04 2025)
+### Joke of the day (Sat Jul 05 2025)
 <!-- joke -->
->The code that is the hardest to debug is the code that you know cannot possibly be wrong.
+>The original draft of The Lord of the Rings featured Chuck Norris instead of Frodo Baggins. It was only 5 pages long, as Chuck roundhouse-kicked Sauron's ass halfway through the first chapter.
 <!-- /joke -->
 
-*Last update: Fri, 04 Jul 2025 01:01:10 GMT*
+*Last update: Sat, 05 Jul 2025 00:59:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
