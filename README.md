@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 09 2025)
+### Joke of the day (Thu Jul 10 2025)
 <!-- joke -->
->Chuck Norris doesn't play god. Playing is for children.
+>Chuck Norris does not own a house. He walks into random houses and people move.
 <!-- /joke -->
 
-*Last update: Wed, 09 Jul 2025 01:02:44 GMT*
+*Last update: Thu, 10 Jul 2025 01:02:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
