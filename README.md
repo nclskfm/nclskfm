@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 10 2025)
+### Joke of the day (Fri Jul 11 2025)
 <!-- joke -->
->Chuck Norris does not own a house. He walks into random houses and people move.
+>Chuck Norris knows the last digit of pi.
 <!-- /joke -->
 
-*Last update: Thu, 10 Jul 2025 01:02:46 GMT*
+*Last update: Fri, 11 Jul 2025 01:03:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
