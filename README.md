@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 13 2025)
+### Joke of the day (Mon Jul 14 2025)
 <!-- joke -->
->Chuck Norris can slam a revolving door.
+>Evolution is God’s way of issuing upgrades.
 <!-- /joke -->
 
-*Last update: Sun, 13 Jul 2025 01:09:30 GMT*
+*Last update: Mon, 14 Jul 2025 01:06:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
