@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 16 2025)
+### Joke of the day (Thu Jul 17 2025)
 <!-- joke -->
->Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
+>Chuck Norris drives an ice cream truck covered in human skulls.
 <!-- /joke -->
 
-*Last update: Wed, 16 Jul 2025 01:04:23 GMT*
+*Last update: Thu, 17 Jul 2025 01:05:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
