@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 17 2025)
+### Joke of the day (Fri Jul 18 2025)
 <!-- joke -->
->Chuck Norris drives an ice cream truck covered in human skulls.
+>Fool me once, shame on you. Fool Chuck Norris once and he will roundhouse kick you in the face.
 <!-- /joke -->
 
-*Last update: Thu, 17 Jul 2025 01:05:02 GMT*
+*Last update: Fri, 18 Jul 2025 01:04:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
