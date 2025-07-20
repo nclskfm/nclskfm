@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 19 2025)
+### Joke of the day (Sun Jul 20 2025)
 <!-- joke -->
->Chuck Norris never goes to the dentist because his teeth are unbreakable. His enemies never go to the dentist because they have no teeth.
+>If you work in an office with Chuck Norris, don't ask him for his three-hole-punch.
 <!-- /joke -->
 
-*Last update: Sat, 19 Jul 2025 01:02:40 GMT*
+*Last update: Sun, 20 Jul 2025 01:11:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
