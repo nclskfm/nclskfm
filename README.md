@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 21 2025)
+### Joke of the day (Tue Jul 22 2025)
 <!-- joke -->
->What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
+>In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
 <!-- /joke -->
 
-*Last update: Mon, 21 Jul 2025 01:08:27 GMT*
+*Last update: Tue, 22 Jul 2025 01:04:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
