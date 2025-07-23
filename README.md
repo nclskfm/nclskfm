@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 22 2025)
+### Joke of the day (Wed Jul 23 2025)
 <!-- joke -->
->In the beginning there was nothing...then Chuck Norris Roundhouse kicked that nothing in the face and said 'Get a job'. That is the story of the universe.
+>Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
 <!-- /joke -->
 
-*Last update: Tue, 22 Jul 2025 01:04:46 GMT*
+*Last update: Wed, 23 Jul 2025 01:05:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
