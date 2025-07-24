@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 23 2025)
+### Joke of the day (Thu Jul 24 2025)
 <!-- joke -->
->Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+>Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
 <!-- /joke -->
 
-*Last update: Wed, 23 Jul 2025 01:05:58 GMT*
+*Last update: Thu, 24 Jul 2025 01:05:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
