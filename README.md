@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 24 2025)
+### Joke of the day (Fri Jul 25 2025)
 <!-- joke -->
->Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
+>Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
 <!-- /joke -->
 
-*Last update: Thu, 24 Jul 2025 01:05:03 GMT*
+*Last update: Fri, 25 Jul 2025 01:04:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
