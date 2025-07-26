@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jul 25 2025)
+### Joke of the day (Sat Jul 26 2025)
 <!-- joke -->
->Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
+>Mac users swear by their Mac and PC users swear at their PC.
 <!-- /joke -->
 
-*Last update: Fri, 25 Jul 2025 01:04:37 GMT*
+*Last update: Sat, 26 Jul 2025 01:02:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
