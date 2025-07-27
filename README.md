@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 26 2025)
+### Joke of the day (Sun Jul 27 2025)
 <!-- joke -->
->Mac users swear by their Mac and PC users swear at their PC.
+>When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
 <!-- /joke -->
 
-*Last update: Sat, 26 Jul 2025 01:02:55 GMT*
+*Last update: Sun, 27 Jul 2025 01:11:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
