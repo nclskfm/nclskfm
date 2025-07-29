@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 28 2025)
+### Joke of the day (Tue Jul 29 2025)
 <!-- joke -->
->Chuck Norris writes code that optimizes itself.
+>Chuck Norris? sperm is so badass, he had sex with Nicole Kidman, and 7 months later she prematurely gave birth to a Ford Excursion.
 <!-- /joke -->
 
-*Last update: Mon, 28 Jul 2025 01:09:33 GMT*
+*Last update: Tue, 29 Jul 2025 01:12:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
