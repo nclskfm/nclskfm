@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 30 2025)
+### Joke of the day (Thu Jul 31 2025)
 <!-- joke -->
->Why did the programmer die in the shower? The shampoo bottle said: Wash, rinse, repeat.
+>Chuck Norris did in fact, build Rome in a day.
 <!-- /joke -->
 
-*Last update: Wed, 30 Jul 2025 01:05:53 GMT*
+*Last update: Thu, 31 Jul 2025 01:06:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
