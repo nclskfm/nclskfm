@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 31 2025)
+### Joke of the day (Fri Aug 01 2025)
 <!-- joke -->
->Chuck Norris did in fact, build Rome in a day.
+>Chuck Norris once rode a bull, and nine months later it had a calf.
 <!-- /joke -->
 
-*Last update: Thu, 31 Jul 2025 01:06:00 GMT*
+*Last update: Fri, 01 Aug 2025 01:13:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
