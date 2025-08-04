@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 03 2025)
+### Joke of the day (Mon Aug 04 2025)
 <!-- joke -->
->When you play Monopoly with Chuck Norris, you do not pass go, and you do not collect two hundred dollars. You will be lucky if you make it out alive.
+>Chuck Norris never has to wax his skis because they're always slick with blood.
 <!-- /joke -->
 
-*Last update: Sun, 03 Aug 2025 01:12:39 GMT*
+*Last update: Mon, 04 Aug 2025 01:11:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
