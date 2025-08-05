@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 04 2025)
+### Joke of the day (Tue Aug 05 2025)
 <!-- joke -->
->Chuck Norris never has to wax his skis because they're always slick with blood.
+>Coroners refer to dead people as 'ABC's'. Already Been Chucked.
 <!-- /joke -->
 
-*Last update: Mon, 04 Aug 2025 01:11:13 GMT*
+*Last update: Tue, 05 Aug 2025 01:07:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
