@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 05 2025)
+### Joke of the day (Wed Aug 06 2025)
 <!-- joke -->
->Coroners refer to dead people as 'ABC's'. Already Been Chucked.
+>Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
 <!-- /joke -->
 
-*Last update: Tue, 05 Aug 2025 01:07:48 GMT*
+*Last update: Wed, 06 Aug 2025 01:06:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
