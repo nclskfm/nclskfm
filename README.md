@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 06 2025)
+### Joke of the day (Thu Aug 07 2025)
 <!-- joke -->
->Chuck Norris built a better mousetrap, but the world was too frightened to beat a path to his door.
+>Chuck Norris shot the sheriff, but he round house kicked the deputy.
 <!-- /joke -->
 
-*Last update: Wed, 06 Aug 2025 01:06:29 GMT*
+*Last update: Thu, 07 Aug 2025 01:06:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
