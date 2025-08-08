@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 07 2025)
+### Joke of the day (Fri Aug 08 2025)
 <!-- joke -->
->Chuck Norris shot the sheriff, but he round house kicked the deputy.
+>Why Do programmers always mix up Haloween and Christmas? Because Oct31 == Dec25.
 <!-- /joke -->
 
-*Last update: Thu, 07 Aug 2025 01:06:56 GMT*
+*Last update: Fri, 08 Aug 2025 01:06:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
