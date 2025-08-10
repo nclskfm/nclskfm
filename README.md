@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 09 2025)
+### Joke of the day (Sun Aug 10 2025)
 <!-- joke -->
->Chuck Norris doesn't daydream. He's too busy giving other people nightmares.
+>The quickest way to a man's heart is with Chuck Norris' fist.
 <!-- /joke -->
 
-*Last update: Sat, 09 Aug 2025 01:00:49 GMT*
+*Last update: Sun, 10 Aug 2025 01:10:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
