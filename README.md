@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 10 2025)
+### Joke of the day (Mon Aug 11 2025)
 <!-- joke -->
->The quickest way to a man's heart is with Chuck Norris' fist.
+>Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
 <!-- /joke -->
 
-*Last update: Sun, 10 Aug 2025 01:10:09 GMT*
+*Last update: Mon, 11 Aug 2025 01:07:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
