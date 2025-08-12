@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 11 2025)
+### Joke of the day (Tue Aug 12 2025)
 <!-- joke -->
->Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
+>Diamonds are not, despite popular belief, carbon. They are, in fact, Chuck Norris fecal matter. This was proven a recently, when scientific analysis revealed what appeared to be Jean-Claude Van Damme bone fragments inside the Hope Diamond.
 <!-- /joke -->
 
-*Last update: Mon, 11 Aug 2025 01:07:23 GMT*
+*Last update: Tue, 12 Aug 2025 01:00:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
