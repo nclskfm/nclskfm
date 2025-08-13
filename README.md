@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 12 2025)
+### Joke of the day (Wed Aug 13 2025)
 <!-- joke -->
->Diamonds are not, despite popular belief, carbon. They are, in fact, Chuck Norris fecal matter. This was proven a recently, when scientific analysis revealed what appeared to be Jean-Claude Van Damme bone fragments inside the Hope Diamond.
+>No one has ever pair-programmed with Chuck Norris and lived to tell about it.
 <!-- /joke -->
 
-*Last update: Tue, 12 Aug 2025 01:00:36 GMT*
+*Last update: Wed, 13 Aug 2025 01:01:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
