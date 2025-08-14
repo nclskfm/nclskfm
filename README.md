@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 13 2025)
+### Joke of the day (Thu Aug 14 2025)
 <!-- joke -->
->No one has ever pair-programmed with Chuck Norris and lived to tell about it.
+>Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
 <!-- /joke -->
 
-*Last update: Wed, 13 Aug 2025 01:01:54 GMT*
+*Last update: Thu, 14 Aug 2025 01:02:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
