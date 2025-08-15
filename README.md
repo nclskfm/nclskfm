@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 14 2025)
+### Joke of the day (Fri Aug 15 2025)
 <!-- joke -->
->Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
+>Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
 <!-- /joke -->
 
-*Last update: Thu, 14 Aug 2025 01:02:15 GMT*
+*Last update: Fri, 15 Aug 2025 01:02:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
