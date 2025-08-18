@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 17 2025)
+### Joke of the day (Mon Aug 18 2025)
 <!-- joke -->
->A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
+>Windows isn’t a virus atleast viruses do something.
 <!-- /joke -->
 
-*Last update: Sun, 17 Aug 2025 01:06:38 GMT*
+*Last update: Mon, 18 Aug 2025 01:06:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
