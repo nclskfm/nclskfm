@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 18 2025)
+### Joke of the day (Tue Aug 19 2025)
 <!-- joke -->
->Windows isn’t a virus atleast viruses do something.
+>Chuck Norris plays racquetball with a waffle iron and a bowling ball.
 <!-- /joke -->
 
-*Last update: Mon, 18 Aug 2025 01:06:00 GMT*
+*Last update: Tue, 19 Aug 2025 00:59:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
