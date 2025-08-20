@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 19 2025)
+### Joke of the day (Wed Aug 20 2025)
 <!-- joke -->
->Chuck Norris plays racquetball with a waffle iron and a bowling ball.
+>Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
 <!-- /joke -->
 
-*Last update: Tue, 19 Aug 2025 00:59:48 GMT*
+*Last update: Wed, 20 Aug 2025 00:57:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
