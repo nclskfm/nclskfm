@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 20 2025)
+### Joke of the day (Thu Aug 21 2025)
 <!-- joke -->
->Most people fear the Reaper. Chuck Norris considers him 'a promising Rookie'.
+>If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
 <!-- /joke -->
 
-*Last update: Wed, 20 Aug 2025 00:57:35 GMT*
+*Last update: Thu, 21 Aug 2025 00:56:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
