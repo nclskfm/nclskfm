@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 21 2025)
+### Joke of the day (Fri Aug 22 2025)
 <!-- joke -->
->If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.
+>Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
 <!-- /joke -->
 
-*Last update: Thu, 21 Aug 2025 00:56:56 GMT*
+*Last update: Fri, 22 Aug 2025 00:58:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
