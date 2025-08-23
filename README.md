@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 22 2025)
+### Joke of the day (Sat Aug 23 2025)
 <!-- joke -->
->Most boots are made for walkin'. Chuck Norris' boots ain't that merciful.
+>According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
 <!-- /joke -->
 
-*Last update: Fri, 22 Aug 2025 00:58:06 GMT*
+*Last update: Sat, 23 Aug 2025 00:55:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
