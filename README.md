@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 24 2025)
+### Joke of the day (Mon Aug 25 2025)
 <!-- joke -->
->Chuck Norris can compile syntax errors.
+>Why are fishes illiterate?Because C doesnt have Classes
 <!-- /joke -->
 
-*Last update: Sun, 24 Aug 2025 01:04:15 GMT*
+*Last update: Mon, 25 Aug 2025 01:00:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
