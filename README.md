@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 26 2025)
+### Joke of the day (Wed Aug 27 2025)
 <!-- joke -->
->Chuck Norris hosting is 101% uptime guaranteed.
+>Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
 <!-- /joke -->
 
-*Last update: Tue, 26 Aug 2025 00:59:00 GMT*
+*Last update: Wed, 27 Aug 2025 00:56:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
