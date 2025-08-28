@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 27 2025)
+### Joke of the day (Thu Aug 28 2025)
 <!-- joke -->
->Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
+>The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
 <!-- /joke -->
 
-*Last update: Wed, 27 Aug 2025 00:56:37 GMT*
+*Last update: Thu, 28 Aug 2025 00:56:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
