@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 28 2025)
+### Joke of the day (Fri Aug 29 2025)
 <!-- joke -->
->The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
+>According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
 <!-- /joke -->
 
-*Last update: Thu, 28 Aug 2025 00:56:03 GMT*
+*Last update: Fri, 29 Aug 2025 00:56:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
