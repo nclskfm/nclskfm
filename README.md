@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 30 2025)
+### Joke of the day (Sun Aug 31 2025)
 <!-- joke -->
->Chuck Norris doesn't need an OS.
+>When Chuck Norris sends in his taxes, he sends blank forms and includes only a picture of himself, crouched and ready to attack. Chuck Norris has not had to pay taxes, ever.
 <!-- /joke -->
 
-*Last update: Sat, 30 Aug 2025 00:53:32 GMT*
+*Last update: Sun, 31 Aug 2025 01:00:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
