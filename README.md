@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 02 2025)
+### Joke of the day (Wed Sep 03 2025)
 <!-- joke -->
->The show Survivor had the original premise of putting people on an island with Chuck Norris. There were no survivors, and nobody is brave enough to go to the island to retrieve the footage.
+>There is endless debate about the existence of the human soul. Well it does exist and Chuck Norris finds it delicious.
 <!-- /joke -->
 
-*Last update: Tue, 02 Sep 2025 00:57:07 GMT*
+*Last update: Wed, 03 Sep 2025 00:53:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
