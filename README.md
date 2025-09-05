@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 04 2025)
+### Joke of the day (Fri Sep 05 2025)
 <!-- joke -->
->Jesus can walk on water, but Chuck Norris can walk on Jesus.
+>Chuck Norris doesn't read books. He stares them down until he gets the information he wants.
 <!-- /joke -->
 
-*Last update: Thu, 04 Sep 2025 00:53:47 GMT*
+*Last update: Fri, 05 Sep 2025 00:54:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
