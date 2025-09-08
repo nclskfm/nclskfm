@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 07 2025)
+### Joke of the day (Mon Sep 08 2025)
 <!-- joke -->
->How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
+>Chuck Norris was what Willis was talkin' about.
 <!-- /joke -->
 
-*Last update: Sun, 07 Sep 2025 00:59:28 GMT*
+*Last update: Mon, 08 Sep 2025 00:58:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
