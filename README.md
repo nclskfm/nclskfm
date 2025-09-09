@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 08 2025)
+### Joke of the day (Tue Sep 09 2025)
 <!-- joke -->
->Chuck Norris was what Willis was talkin' about.
+>All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Mon, 08 Sep 2025 00:58:20 GMT*
+*Last update: Tue, 09 Sep 2025 00:55:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
