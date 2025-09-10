@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 09 2025)
+### Joke of the day (Wed Sep 10 2025)
 <!-- joke -->
->All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
+>Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
 <!-- /joke -->
 
-*Last update: Tue, 09 Sep 2025 00:55:54 GMT*
+*Last update: Wed, 10 Sep 2025 00:54:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
