@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 10 2025)
+### Joke of the day (Thu Sep 11 2025)
 <!-- joke -->
->Little Miss Muffet sat on her tuffet, until Chuck Norris roundhouse kicked her into a glacier.
+>Chuck Norris doesn't need an OS.
 <!-- /joke -->
 
-*Last update: Wed, 10 Sep 2025 00:54:19 GMT*
+*Last update: Thu, 11 Sep 2025 00:55:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
