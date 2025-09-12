@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 11 2025)
+### Joke of the day (Fri Sep 12 2025)
 <!-- joke -->
->Chuck Norris doesn't need an OS.
+>Chuck Norris once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 <!-- /joke -->
 
-*Last update: Thu, 11 Sep 2025 00:55:33 GMT*
+*Last update: Fri, 12 Sep 2025 00:53:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
