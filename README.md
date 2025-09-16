@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 15 2025)
+### Joke of the day (Tue Sep 16 2025)
 <!-- joke -->
->Chuck Norris doesn't chew gum. Chuck Norris chews tin foil.
+>When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
 <!-- /joke -->
 
-*Last update: Mon, 15 Sep 2025 00:59:02 GMT*
+*Last update: Tue, 16 Sep 2025 00:54:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
