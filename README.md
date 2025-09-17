@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 16 2025)
+### Joke of the day (Wed Sep 17 2025)
 <!-- joke -->
->When Chuck Norris was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
+>Some people ask for a Kleenex when they sneeze, Chuck Norris asks for a body bag.
 <!-- /joke -->
 
-*Last update: Tue, 16 Sep 2025 00:54:13 GMT*
+*Last update: Wed, 17 Sep 2025 00:54:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
