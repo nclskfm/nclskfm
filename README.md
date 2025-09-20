@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 19 2025)
+### Joke of the day (Sat Sep 20 2025)
 <!-- joke -->
->SUPERCOMPUTER: what it sounded like before you bought it.
+>Movie trivia: The movie 'Invasion U.S.A.' is, in fact, a documentary.
 <!-- /joke -->
 
-*Last update: Fri, 19 Sep 2025 00:55:56 GMT*
+*Last update: Sat, 20 Sep 2025 00:52:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
