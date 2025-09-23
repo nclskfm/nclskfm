@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 22 2025)
+### Joke of the day (Tue Sep 23 2025)
 <!-- joke -->
->Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
+>According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
 <!-- /joke -->
 
-*Last update: Mon, 22 Sep 2025 00:59:34 GMT*
+*Last update: Tue, 23 Sep 2025 00:54:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
