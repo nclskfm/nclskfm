@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 24 2025)
+### Joke of the day (Thu Sep 25 2025)
 <!-- joke -->
->Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking.
+>4 out of 5 doctors fail to recommend Chuck Norris as a solution to most problems. Also, 80% of doctors die unexplained, needlessly brutal deaths.
 <!-- /joke -->
 
-*Last update: Wed, 24 Sep 2025 00:55:06 GMT*
+*Last update: Thu, 25 Sep 2025 00:55:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
