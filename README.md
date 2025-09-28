@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 27 2025)
+### Joke of the day (Sun Sep 28 2025)
 <!-- joke -->
->Divide Chuck Norris by zero and you will in fact get one........one bad-ass that is.
+>Chuck Norris drinks napalm to quell his heartburn.
 <!-- /joke -->
 
-*Last update: Sat, 27 Sep 2025 00:53:04 GMT*
+*Last update: Sun, 28 Sep 2025 01:00:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
