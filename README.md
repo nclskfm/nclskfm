@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 28 2025)
+### Joke of the day (Mon Sep 29 2025)
 <!-- joke -->
->Chuck Norris drinks napalm to quell his heartburn.
+>1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
 <!-- /joke -->
 
-*Last update: Sun, 28 Sep 2025 01:00:58 GMT*
+*Last update: Mon, 29 Sep 2025 00:56:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
