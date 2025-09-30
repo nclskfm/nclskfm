@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 29 2025)
+### Joke of the day (Tue Sep 30 2025)
 <!-- joke -->
->1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
+>Fact: Chuck Norris doesn't consider it sex if the woman survives.
 <!-- /joke -->
 
-*Last update: Mon, 29 Sep 2025 00:56:59 GMT*
+*Last update: Tue, 30 Sep 2025 00:56:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
