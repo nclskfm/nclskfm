@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 30 2025)
+### Joke of the day (Wed Oct 01 2025)
 <!-- joke -->
->Fact: Chuck Norris doesn't consider it sex if the woman survives.
+>Chuck Norris doesn't shower, he only takes blood baths.
 <!-- /joke -->
 
-*Last update: Tue, 30 Sep 2025 00:56:00 GMT*
+*Last update: Wed, 01 Oct 2025 01:01:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
