@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 01 2025)
+### Joke of the day (Thu Oct 02 2025)
 <!-- joke -->
->Chuck Norris doesn't shower, he only takes blood baths.
+>Failure is not an option. It comes bundled with your Microsoft product.
 <!-- /joke -->
 
-*Last update: Wed, 01 Oct 2025 01:01:55 GMT*
+*Last update: Thu, 02 Oct 2025 00:54:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
