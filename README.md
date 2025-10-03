@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 02 2025)
+### Joke of the day (Fri Oct 03 2025)
 <!-- joke -->
->Failure is not an option. It comes bundled with your Microsoft product.
+>Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
 <!-- /joke -->
 
-*Last update: Thu, 02 Oct 2025 00:54:14 GMT*
+*Last update: Fri, 03 Oct 2025 00:54:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
