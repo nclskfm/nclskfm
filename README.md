@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 04 2025)
+### Joke of the day (Sun Oct 05 2025)
 <!-- joke -->
->Chuck Norris can start a fire by rubbing two ice cubes together.
+>Chuck Norris can judge a book by its cover.
 <!-- /joke -->
 
-*Last update: Sat, 04 Oct 2025 00:51:53 GMT*
+*Last update: Sun, 05 Oct 2025 01:00:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
