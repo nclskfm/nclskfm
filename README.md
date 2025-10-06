@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 05 2025)
+### Joke of the day (Mon Oct 06 2025)
 <!-- joke -->
->Chuck Norris can judge a book by its cover.
+>What do computers and air conditioners have in common? They both become useless when you open windows.
 <!-- /joke -->
 
-*Last update: Sun, 05 Oct 2025 01:00:04 GMT*
+*Last update: Mon, 06 Oct 2025 00:56:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
