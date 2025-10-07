@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 06 2025)
+### Joke of the day (Tue Oct 07 2025)
 <!-- joke -->
->What do computers and air conditioners have in common? They both become useless when you open windows.
+>Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
 <!-- /joke -->
 
-*Last update: Mon, 06 Oct 2025 00:56:14 GMT*
+*Last update: Tue, 07 Oct 2025 00:55:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
