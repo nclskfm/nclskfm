@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 07 2025)
+### Joke of the day (Wed Oct 08 2025)
 <!-- joke -->
->Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
+>Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
 <!-- /joke -->
 
-*Last update: Tue, 07 Oct 2025 00:55:13 GMT*
+*Last update: Wed, 08 Oct 2025 00:54:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
