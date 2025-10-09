@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 08 2025)
+### Joke of the day (Thu Oct 09 2025)
 <!-- joke -->
->Saddam Hussein was not found hiding in a 'hole.' Saddam was roundhouse-kicked in the head by Chuck Norris in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
+>Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
 <!-- /joke -->
 
-*Last update: Wed, 08 Oct 2025 00:54:50 GMT*
+*Last update: Thu, 09 Oct 2025 00:55:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
