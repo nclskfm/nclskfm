@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 09 2025)
+### Joke of the day (Fri Oct 10 2025)
 <!-- joke -->
->Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
+>A movie scene depicting Chuck Norris losing a fight with Bruce Lee was the product of history's most expensive visual effect. When adjusted for inflation, the effect cost more than the Gross National Product of Paraguay.
 <!-- /joke -->
 
-*Last update: Thu, 09 Oct 2025 00:55:27 GMT*
+*Last update: Fri, 10 Oct 2025 00:55:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
