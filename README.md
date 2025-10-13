@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 12 2025)
+### Joke of the day (Mon Oct 13 2025)
 <!-- joke -->
->Contrary to popular belief, there is indeed enough Chuck Norris to go around.
+>UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
 <!-- /joke -->
 
-*Last update: Sun, 12 Oct 2025 00:58:11 GMT*
+*Last update: Mon, 13 Oct 2025 00:59:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
