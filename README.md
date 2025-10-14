@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Oct 13 2025)
+### Joke of the day (Tue Oct 14 2025)
 <!-- joke -->
->UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.
+>The beginning of the programmer’s wisdom is understanding the difference between getting program to run and having a runnable program.
 <!-- /joke -->
 
-*Last update: Mon, 13 Oct 2025 00:59:22 GMT*
+*Last update: Tue, 14 Oct 2025 00:55:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
