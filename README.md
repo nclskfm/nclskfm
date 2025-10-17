@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 16 2025)
+### Joke of the day (Fri Oct 17 2025)
 <!-- joke -->
->The opening scene of the movie 'Saving Private Ryan' is loosely based on games of dodgeball Chuck Norris played in second grade.
+>I told him I can't open the jar, he said download and install Java
 <!-- /joke -->
 
-*Last update: Thu, 16 Oct 2025 00:56:28 GMT*
+*Last update: Fri, 17 Oct 2025 00:56:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
