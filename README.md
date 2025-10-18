@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 17 2025)
+### Joke of the day (Sat Oct 18 2025)
 <!-- joke -->
->I told him I can't open the jar, he said download and install Java
+>Chuck Norris sheds his skin twice a year.
 <!-- /joke -->
 
-*Last update: Fri, 17 Oct 2025 00:56:10 GMT*
+*Last update: Sat, 18 Oct 2025 00:53:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
