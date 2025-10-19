@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 18 2025)
+### Joke of the day (Sun Oct 19 2025)
 <!-- joke -->
->Chuck Norris sheds his skin twice a year.
+>Chuck Norris can write an OS in Brainfuck
 <!-- /joke -->
 
-*Last update: Sat, 18 Oct 2025 00:53:38 GMT*
+*Last update: Sun, 19 Oct 2025 01:02:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
