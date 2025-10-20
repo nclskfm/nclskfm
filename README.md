@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 19 2025)
+### Joke of the day (Mon Oct 20 2025)
 <!-- joke -->
->Chuck Norris can write an OS in Brainfuck
+>The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris. The film was cancelled shortly after going into preproduction. No one would pay nine dollars to see a movie fourteen seconds long.
 <!-- /joke -->
 
-*Last update: Sun, 19 Oct 2025 01:02:56 GMT*
+*Last update: Mon, 20 Oct 2025 01:00:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
