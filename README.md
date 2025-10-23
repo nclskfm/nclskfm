@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 22 2025)
+### Joke of the day (Thu Oct 23 2025)
 <!-- joke -->
->There are no races, only countries of people Chuck Norris has beaten to different shades of black and blue.
+>There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 <!-- /joke -->
 
-*Last update: Wed, 22 Oct 2025 00:58:40 GMT*
+*Last update: Thu, 23 Oct 2025 00:57:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
