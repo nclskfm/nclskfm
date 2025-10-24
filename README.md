@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 23 2025)
+### Joke of the day (Fri Oct 24 2025)
 <!-- joke -->
->There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
+>Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
 <!-- /joke -->
 
-*Last update: Thu, 23 Oct 2025 00:57:15 GMT*
+*Last update: Fri, 24 Oct 2025 00:54:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
