@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 24 2025)
+### Joke of the day (Sat Oct 25 2025)
 <!-- joke -->
->Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
+>Scientists have estimated that the energy given off during the Big Bang is roughly equal to 1CNRhK (Chuck Norris Roundhouse Kick).
 <!-- /joke -->
 
-*Last update: Fri, 24 Oct 2025 00:54:01 GMT*
+*Last update: Sat, 25 Oct 2025 00:55:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
