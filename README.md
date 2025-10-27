@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 26 2025)
+### Joke of the day (Mon Oct 27 2025)
 <!-- joke -->
->Chuck Norris's keyboard has the Any key.
+>Why do Java programmers have to wear glasses? Because they don't C#.
 <!-- /joke -->
 
-*Last update: Sun, 26 Oct 2025 01:00:53 GMT*
+*Last update: Mon, 27 Oct 2025 01:02:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
