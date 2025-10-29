@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 28 2025)
+### Joke of the day (Wed Oct 29 2025)
 <!-- joke -->
->The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off.
+>I’m not anti-social; I’m just not user friendly.
 <!-- /joke -->
 
-*Last update: Tue, 28 Oct 2025 00:56:16 GMT*
+*Last update: Wed, 29 Oct 2025 01:00:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
