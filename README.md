@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 29 2025)
+### Joke of the day (Thu Oct 30 2025)
 <!-- joke -->
->I’m not anti-social; I’m just not user friendly.
+>Chuck Norris once worked as a weatherman for the San Diego evening news. Every night he would make the same forecast: Partly cloudy with a 75% chance of Pain.
 <!-- /joke -->
 
-*Last update: Wed, 29 Oct 2025 01:00:28 GMT*
+*Last update: Thu, 30 Oct 2025 01:00:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
