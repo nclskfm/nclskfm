@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 31 2025)
+### Joke of the day (Sat Nov 01 2025)
 <!-- joke -->
->Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+>Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
 <!-- /joke -->
 
-*Last update: Fri, 31 Oct 2025 00:57:57 GMT*
+*Last update: Sat, 01 Nov 2025 01:01:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
