@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 01 2025)
+### Joke of the day (Sun Nov 02 2025)
 <!-- joke -->
->Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
+>When Chuck Norris falls in water, Chuck Norris doesn't get wet. Water gets Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 01 Nov 2025 01:01:09 GMT*
+*Last update: Sun, 02 Nov 2025 01:02:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
