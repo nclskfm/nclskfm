@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 02 2025)
+### Joke of the day (Mon Nov 03 2025)
 <!-- joke -->
->When Chuck Norris falls in water, Chuck Norris doesn't get wet. Water gets Chuck Norris.
+>When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Sun, 02 Nov 2025 01:02:03 GMT*
+*Last update: Mon, 03 Nov 2025 01:01:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
