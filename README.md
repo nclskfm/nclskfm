@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 03 2025)
+### Joke of the day (Tue Nov 04 2025)
 <!-- joke -->
->When you're Chuck Norris, anything + anything is equal to 1. One roundhouse kick to the face.
+>Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
 <!-- /joke -->
 
-*Last update: Mon, 03 Nov 2025 01:01:31 GMT*
+*Last update: Tue, 04 Nov 2025 00:58:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
