@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 04 2025)
+### Joke of the day (Wed Nov 05 2025)
 <!-- joke -->
->Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
+>When Chuck Norris makes a burrito, its main ingredient is real toes.
 <!-- /joke -->
 
-*Last update: Tue, 04 Nov 2025 00:58:42 GMT*
+*Last update: Wed, 05 Nov 2025 01:00:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
