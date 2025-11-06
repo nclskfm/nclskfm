@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 05 2025)
+### Joke of the day (Thu Nov 06 2025)
 <!-- joke -->
->When Chuck Norris makes a burrito, its main ingredient is real toes.
+>Some people ask for a Kleenex when they sneeze, Chuck Norris asks for a body bag.
 <!-- /joke -->
 
-*Last update: Wed, 05 Nov 2025 01:00:08 GMT*
+*Last update: Thu, 06 Nov 2025 00:59:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
