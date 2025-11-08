@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 07 2025)
+### Joke of the day (Sat Nov 08 2025)
 <!-- joke -->
->'Icy-Hot' is too weak for Chuck Norris. After a workout, Chuck Norris rubs his muscles down with liquid-hot MAGMA.
+>Never look a gift Chuck Norris in the mouth, because he will bite your damn eyes off.
 <!-- /joke -->
 
-*Last update: Fri, 07 Nov 2025 00:58:59 GMT*
+*Last update: Sat, 08 Nov 2025 00:55:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
