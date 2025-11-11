@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 10 2025)
+### Joke of the day (Tue Nov 11 2025)
 <!-- joke -->
->Chuck Norris recently had the idea to sell his urine as a canned beverage. We know this beverage as Red Bull.
+>Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and smothers it in pig's blood.
 <!-- /joke -->
 
-*Last update: Mon, 10 Nov 2025 01:02:03 GMT*
+*Last update: Tue, 11 Nov 2025 00:59:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
