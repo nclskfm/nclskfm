@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 12 2025)
+### Joke of the day (Thu Nov 13 2025)
 <!-- joke -->
->1f u c4n r34d th1s u r34lly n33d t0 g37 l41d.
+>When Chuck Norris does division, there are no remainders.
 <!-- /joke -->
 
-*Last update: Wed, 12 Nov 2025 00:59:31 GMT*
+*Last update: Thu, 13 Nov 2025 00:59:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
