@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 14 2025)
+### Joke of the day (Sat Nov 15 2025)
 <!-- joke -->
->Crop circles are Chuck Norris' way of telling the world that sometimes corn needs to lie down.
+>According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
 <!-- /joke -->
 
-*Last update: Fri, 14 Nov 2025 00:59:26 GMT*
+*Last update: Sat, 15 Nov 2025 00:58:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
