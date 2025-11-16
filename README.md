@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 15 2025)
+### Joke of the day (Sun Nov 16 2025)
 <!-- joke -->
->According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
+>Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and smothers it in pig's blood.
 <!-- /joke -->
 
-*Last update: Sat, 15 Nov 2025 00:58:04 GMT*
+*Last update: Sun, 16 Nov 2025 01:03:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
