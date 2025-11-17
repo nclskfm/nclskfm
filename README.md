@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 16 2025)
+### Joke of the day (Mon Nov 17 2025)
 <!-- joke -->
->Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and smothers it in pig's blood.
+>Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 16 Nov 2025 01:03:27 GMT*
+*Last update: Mon, 17 Nov 2025 01:00:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
