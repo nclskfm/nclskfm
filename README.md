@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 17 2025)
+### Joke of the day (Tue Nov 18 2025)
 <!-- joke -->
->Behind every successful man, there is a woman. Behind every dead man, there is Chuck Norris.
+>Those aren't credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
 <!-- /joke -->
 
-*Last update: Mon, 17 Nov 2025 01:00:30 GMT*
+*Last update: Tue, 18 Nov 2025 00:59:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
