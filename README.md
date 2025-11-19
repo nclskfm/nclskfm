@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 18 2025)
+### Joke of the day (Wed Nov 19 2025)
 <!-- joke -->
->Those aren't credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
+>Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
 <!-- /joke -->
 
-*Last update: Tue, 18 Nov 2025 00:59:13 GMT*
+*Last update: Wed, 19 Nov 2025 00:59:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
