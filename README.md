@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 19 2025)
+### Joke of the day (Thu Nov 20 2025)
 <!-- joke -->
->Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+>There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
 <!-- /joke -->
 
-*Last update: Wed, 19 Nov 2025 00:59:08 GMT*
+*Last update: Thu, 20 Nov 2025 00:58:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
