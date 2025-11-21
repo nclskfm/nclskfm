@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 20 2025)
+### Joke of the day (Fri Nov 21 2025)
 <!-- joke -->
->There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
+>How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
 <!-- /joke -->
 
-*Last update: Thu, 20 Nov 2025 00:58:03 GMT*
+*Last update: Fri, 21 Nov 2025 00:58:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
