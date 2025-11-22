@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 21 2025)
+### Joke of the day (Sat Nov 22 2025)
 <!-- joke -->
->How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
+>Chuck Norris once participated in the running of the bulls. He walked.
 <!-- /joke -->
 
-*Last update: Fri, 21 Nov 2025 00:58:46 GMT*
+*Last update: Sat, 22 Nov 2025 00:56:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
