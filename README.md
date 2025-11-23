@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 22 2025)
+### Joke of the day (Sun Nov 23 2025)
 <!-- joke -->
->Chuck Norris once participated in the running of the bulls. He walked.
+>A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 <!-- /joke -->
 
-*Last update: Sat, 22 Nov 2025 00:56:41 GMT*
+*Last update: Sun, 23 Nov 2025 01:07:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
