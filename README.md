@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 24 2025)
+### Joke of the day (Tue Nov 25 2025)
 <!-- joke -->
->The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
+>With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
 <!-- /joke -->
 
-*Last update: Mon, 24 Nov 2025 01:03:21 GMT*
+*Last update: Tue, 25 Nov 2025 00:58:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
