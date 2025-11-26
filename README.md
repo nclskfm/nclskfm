@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 25 2025)
+### Joke of the day (Wed Nov 26 2025)
 <!-- joke -->
->With the rising cost of gasoline, Chuck Norris is beginning to worry about his drinking habit.
+>Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
 <!-- /joke -->
 
-*Last update: Tue, 25 Nov 2025 00:58:45 GMT*
+*Last update: Wed, 26 Nov 2025 00:59:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
