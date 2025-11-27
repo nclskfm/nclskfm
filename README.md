@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 26 2025)
+### Joke of the day (Thu Nov 27 2025)
 <!-- joke -->
->Chuck Norris is the only person who can simultaneously hold and fire FIVE Uzis: One in each hand, one in each foot -- and the 5th one he roundhouse-kicks into the air, so that it sprays bullets.
+>Chuck Norris can overflow your stack just by looking at it.
 <!-- /joke -->
 
-*Last update: Wed, 26 Nov 2025 00:59:38 GMT*
+*Last update: Thu, 27 Nov 2025 00:58:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
