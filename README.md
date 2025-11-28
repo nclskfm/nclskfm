@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Nov 27 2025)
+### Joke of the day (Fri Nov 28 2025)
 <!-- joke -->
->Chuck Norris can overflow your stack just by looking at it.
+>Why does a burger have less energy than a steak? A burger is in its ground state.
 <!-- /joke -->
 
-*Last update: Thu, 27 Nov 2025 00:58:37 GMT*
+*Last update: Fri, 28 Nov 2025 00:57:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
