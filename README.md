@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 28 2025)
+### Joke of the day (Sat Nov 29 2025)
 <!-- joke -->
->Why does a burger have less energy than a steak? A burger is in its ground state.
+>Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
 <!-- /joke -->
 
-*Last update: Fri, 28 Nov 2025 00:57:51 GMT*
+*Last update: Sat, 29 Nov 2025 00:58:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
