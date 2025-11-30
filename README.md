@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 29 2025)
+### Joke of the day (Sun Nov 30 2025)
 <!-- joke -->
->Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
+>Chuck Norris's OSI network model has only one layer - Physical.
 <!-- /joke -->
 
-*Last update: Sat, 29 Nov 2025 00:58:01 GMT*
+*Last update: Sun, 30 Nov 2025 01:07:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
