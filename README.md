@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 30 2025)
+### Joke of the day (Mon Dec 01 2025)
 <!-- joke -->
->Chuck Norris's OSI network model has only one layer - Physical.
+>Chuck Norris's keyboard has the Any key.
 <!-- /joke -->
 
-*Last update: Sun, 30 Nov 2025 01:07:01 GMT*
+*Last update: Mon, 01 Dec 2025 01:11:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
