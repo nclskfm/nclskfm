@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 01 2025)
+### Joke of the day (Tue Dec 02 2025)
 <!-- joke -->
->Chuck Norris's keyboard has the Any key.
+>They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
 <!-- /joke -->
 
-*Last update: Mon, 01 Dec 2025 01:11:48 GMT*
+*Last update: Tue, 02 Dec 2025 01:00:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
