@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 02 2025)
+### Joke of the day (Wed Dec 03 2025)
 <!-- joke -->
->They say curiosity killed the cat. This is false. Chuck Norris killed the cat. Every single one of them.
+>A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
 <!-- /joke -->
 
-*Last update: Tue, 02 Dec 2025 01:00:38 GMT*
+*Last update: Wed, 03 Dec 2025 01:01:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
