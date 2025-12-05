@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 04 2025)
+### Joke of the day (Fri Dec 05 2025)
 <!-- joke -->
->A UDP packet walks into a bar. The bartender doesn't acknowledge him.
+>To err is human – and to blame it on a computer is even more so.
 <!-- /joke -->
 
-*Last update: Thu, 04 Dec 2025 01:00:52 GMT*
+*Last update: Fri, 05 Dec 2025 01:01:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
