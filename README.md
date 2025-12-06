@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 05 2025)
+### Joke of the day (Sat Dec 06 2025)
 <!-- joke -->
->To err is human – and to blame it on a computer is even more so.
+>Chuck Norris can lead a horse to water AND make it drink.
 <!-- /joke -->
 
-*Last update: Fri, 05 Dec 2025 01:01:30 GMT*
+*Last update: Sat, 06 Dec 2025 00:58:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
