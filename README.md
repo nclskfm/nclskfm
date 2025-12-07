@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 06 2025)
+### Joke of the day (Sun Dec 07 2025)
 <!-- joke -->
->Chuck Norris can lead a horse to water AND make it drink.
+>It takes Chuck Norris 20 minutes to watch 60 Minutes.
 <!-- /joke -->
 
-*Last update: Sat, 06 Dec 2025 00:58:16 GMT*
+*Last update: Sun, 07 Dec 2025 01:07:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
