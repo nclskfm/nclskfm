@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 07 2025)
+### Joke of the day (Mon Dec 08 2025)
 <!-- joke -->
->It takes Chuck Norris 20 minutes to watch 60 Minutes.
+>Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
 <!-- /joke -->
 
-*Last update: Sun, 07 Dec 2025 01:07:10 GMT*
+*Last update: Mon, 08 Dec 2025 01:01:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
