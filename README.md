@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 08 2025)
+### Joke of the day (Tue Dec 09 2025)
 <!-- joke -->
->Chuck Norris is the only human being to display the Heisenberg uncertainty principle - you can never know both exactly where and how quickly he will roundhouse-kick you in the face.
+>Chuck Norris once participated in the running of the bulls. He walked.
 <!-- /joke -->
 
-*Last update: Mon, 08 Dec 2025 01:01:28 GMT*
+*Last update: Tue, 09 Dec 2025 01:01:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
