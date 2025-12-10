@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 09 2025)
+### Joke of the day (Wed Dec 10 2025)
 <!-- joke -->
->Chuck Norris once participated in the running of the bulls. He walked.
+>After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history.
 <!-- /joke -->
 
-*Last update: Tue, 09 Dec 2025 01:01:06 GMT*
+*Last update: Wed, 10 Dec 2025 01:02:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
