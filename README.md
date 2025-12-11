@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 10 2025)
+### Joke of the day (Thu Dec 11 2025)
 <!-- joke -->
->After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history.
+>Chuck Norris has volunteered to remain on earth after the Rapture; he will spend his time fighting the Anti-Christ.
 <!-- /joke -->
 
-*Last update: Wed, 10 Dec 2025 01:02:29 GMT*
+*Last update: Thu, 11 Dec 2025 01:03:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
