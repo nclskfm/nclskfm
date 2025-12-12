@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 11 2025)
+### Joke of the day (Fri Dec 12 2025)
 <!-- joke -->
->Chuck Norris has volunteered to remain on earth after the Rapture; he will spend his time fighting the Anti-Christ.
+>Chuck Norris knows the last digit of pi.
 <!-- /joke -->
 
-*Last update: Thu, 11 Dec 2025 01:03:21 GMT*
+*Last update: Fri, 12 Dec 2025 01:03:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
