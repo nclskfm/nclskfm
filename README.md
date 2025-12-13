@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 12 2025)
+### Joke of the day (Sat Dec 13 2025)
 <!-- joke -->
->Chuck Norris knows the last digit of pi.
+>When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
 <!-- /joke -->
 
-*Last update: Fri, 12 Dec 2025 01:03:11 GMT*
+*Last update: Sat, 13 Dec 2025 00:59:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
