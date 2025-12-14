@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 13 2025)
+### Joke of the day (Sun Dec 14 2025)
 <!-- joke -->
->When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
+>COBOL programmers understand why women hate periods.
 <!-- /joke -->
 
-*Last update: Sat, 13 Dec 2025 00:59:05 GMT*
+*Last update: Sun, 14 Dec 2025 01:07:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
