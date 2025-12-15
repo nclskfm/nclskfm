@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 14 2025)
+### Joke of the day (Mon Dec 15 2025)
 <!-- joke -->
->COBOL programmers understand why women hate periods.
+>Chuck Norris can win in a game of Russian roulette with a fully loaded gun.
 <!-- /joke -->
 
-*Last update: Sun, 14 Dec 2025 01:07:30 GMT*
+*Last update: Mon, 15 Dec 2025 01:05:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
