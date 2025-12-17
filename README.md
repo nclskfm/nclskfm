@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 16 2025)
+### Joke of the day (Wed Dec 17 2025)
 <!-- joke -->
->Chuck Norris knows everything there is to know - Except for the definition of mercy.
+>Once you go Norris, you are physically unable to go back.
 <!-- /joke -->
 
-*Last update: Tue, 16 Dec 2025 01:03:22 GMT*
+*Last update: Wed, 17 Dec 2025 00:59:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
