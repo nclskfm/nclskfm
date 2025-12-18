@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 17 2025)
+### Joke of the day (Thu Dec 18 2025)
 <!-- joke -->
->Once you go Norris, you are physically unable to go back.
+>Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
 <!-- /joke -->
 
-*Last update: Wed, 17 Dec 2025 00:59:11 GMT*
+*Last update: Thu, 18 Dec 2025 00:59:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
