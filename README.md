@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 18 2025)
+### Joke of the day (Fri Dec 19 2025)
 <!-- joke -->
->Chuck Norris has a deep and abiding respect for human life... unless it gets in his way.
+>Chuck Norris doesn't use reflection, reflection asks politely for his help.
 <!-- /joke -->
 
-*Last update: Thu, 18 Dec 2025 00:59:55 GMT*
+*Last update: Fri, 19 Dec 2025 01:02:48 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
