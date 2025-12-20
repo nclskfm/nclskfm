@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Dec 19 2025)
+### Joke of the day (Sat Dec 20 2025)
 <!-- joke -->
->Chuck Norris doesn't use reflection, reflection asks politely for his help.
+>Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
 <!-- /joke -->
 
-*Last update: Fri, 19 Dec 2025 01:02:48 GMT*
+*Last update: Sat, 20 Dec 2025 00:59:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
