@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 21 2025)
+### Joke of the day (Mon Dec 22 2025)
 <!-- joke -->
->Chuck Norris can install iTunes without installing Quicktime.
+>Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
 <!-- /joke -->
 
-*Last update: Sun, 21 Dec 2025 01:07:14 GMT*
+*Last update: Mon, 22 Dec 2025 01:05:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
