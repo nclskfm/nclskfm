@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 22 2025)
+### Joke of the day (Tue Dec 23 2025)
 <!-- joke -->
->Chuck Norris' dick is so big, it has it's own dick, and that dick is still bigger than yours.
+>Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
 <!-- /joke -->
 
-*Last update: Mon, 22 Dec 2025 01:05:57 GMT*
+*Last update: Tue, 23 Dec 2025 01:02:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
