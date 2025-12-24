@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 23 2025)
+### Joke of the day (Wed Dec 24 2025)
 <!-- joke -->
->Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
+>Chuck Norris is the reason why Waldo is hiding.
 <!-- /joke -->
 
-*Last update: Tue, 23 Dec 2025 01:02:45 GMT*
+*Last update: Wed, 24 Dec 2025 01:02:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
