@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 24 2025)
+### Joke of the day (Thu Dec 25 2025)
 <!-- joke -->
->Chuck Norris is the reason why Waldo is hiding.
+>Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
 <!-- /joke -->
 
-*Last update: Wed, 24 Dec 2025 01:02:31 GMT*
+*Last update: Thu, 25 Dec 2025 01:02:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
