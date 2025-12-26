@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Dec 25 2025)
+### Joke of the day (Fri Dec 26 2025)
 <!-- joke -->
->Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
+>To Chuck Norris, everything contains a vulnerability.
 <!-- /joke -->
 
-*Last update: Thu, 25 Dec 2025 01:02:44 GMT*
+*Last update: Fri, 26 Dec 2025 01:02:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
