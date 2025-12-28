@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Dec 27 2025)
+### Joke of the day (Sun Dec 28 2025)
 <!-- joke -->
->In the movie 'The Matrix', Chuck Norris is the Matrix. If you pay close attention in the green 'falling code' scenes, you can make out the faint texture of his beard.
+>Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
 <!-- /joke -->
 
-*Last update: Sat, 27 Dec 2025 01:01:16 GMT*
+*Last update: Sun, 28 Dec 2025 01:10:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
