@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Dec 28 2025)
+### Joke of the day (Mon Dec 29 2025)
 <!-- joke -->
->Aliens DO indeed exist. They just know better than to visit a planet that Chuck Norris is on.
+>The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
 <!-- /joke -->
 
-*Last update: Sun, 28 Dec 2025 01:10:52 GMT*
+*Last update: Mon, 29 Dec 2025 01:08:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
