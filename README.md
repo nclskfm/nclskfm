@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Dec 29 2025)
+### Joke of the day (Tue Dec 30 2025)
 <!-- joke -->
->The truth will set you free. Unless Chuck Norris has you, in which case, forget it buddy!
+>When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
 <!-- /joke -->
 
-*Last update: Mon, 29 Dec 2025 01:08:38 GMT*
+*Last update: Tue, 30 Dec 2025 01:03:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
