@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Dec 30 2025)
+### Joke of the day (Wed Dec 31 2025)
 <!-- joke -->
->When Chuck Norris goes to out to eat, he orders a whole chicken, but he only eats its soul.
+>Chuck Norris can compile syntax errors.
 <!-- /joke -->
 
-*Last update: Tue, 30 Dec 2025 01:03:20 GMT*
+*Last update: Wed, 31 Dec 2025 01:04:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
