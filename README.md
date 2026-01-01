@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Dec 31 2025)
+### Joke of the day (Thu Jan 01 2026)
 <!-- joke -->
->Chuck Norris can compile syntax errors.
+>Chuck Norris doesn't stub his toes. He accidentally destroys chairs, bedframes, and sidewalks.
 <!-- /joke -->
 
-*Last update: Wed, 31 Dec 2025 01:04:27 GMT*
+*Last update: Thu, 01 Jan 2026 01:10:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
