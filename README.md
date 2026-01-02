@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 01 2026)
+### Joke of the day (Fri Jan 02 2026)
 <!-- joke -->
->Chuck Norris doesn't stub his toes. He accidentally destroys chairs, bedframes, and sidewalks.
+>Windows isn’t a virus atleast viruses do something.
 <!-- /joke -->
 
-*Last update: Thu, 01 Jan 2026 01:10:54 GMT*
+*Last update: Fri, 02 Jan 2026 01:04:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
