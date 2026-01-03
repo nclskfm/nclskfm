@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 02 2026)
+### Joke of the day (Sat Jan 03 2026)
 <!-- joke -->
->Windows isn’t a virus atleast viruses do something.
+>Chuck Norris drinks napalm to quell his heartburn.
 <!-- /joke -->
 
-*Last update: Fri, 02 Jan 2026 01:04:39 GMT*
+*Last update: Sat, 03 Jan 2026 01:00:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
