@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 03 2026)
+### Joke of the day (Sun Jan 04 2026)
 <!-- joke -->
->Chuck Norris drinks napalm to quell his heartburn.
+>What was going through the minds of all of Chuck Norris' victims before they died? His shoe.
 <!-- /joke -->
 
-*Last update: Sat, 03 Jan 2026 01:00:39 GMT*
+*Last update: Sun, 04 Jan 2026 01:11:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
