@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 04 2026)
+### Joke of the day (Mon Jan 05 2026)
 <!-- joke -->
->What was going through the minds of all of Chuck Norris' victims before they died? His shoe.
+>When Chuck Norris wants an egg, he cracks open a chicken.
 <!-- /joke -->
 
-*Last update: Sun, 04 Jan 2026 01:11:30 GMT*
+*Last update: Mon, 05 Jan 2026 01:10:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
