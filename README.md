@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 05 2026)
+### Joke of the day (Tue Jan 06 2026)
 <!-- joke -->
->When Chuck Norris wants an egg, he cracks open a chicken.
+>Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
 <!-- /joke -->
 
-*Last update: Mon, 05 Jan 2026 01:10:27 GMT*
+*Last update: Tue, 06 Jan 2026 01:04:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
