@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 06 2026)
+### Joke of the day (Wed Jan 07 2026)
 <!-- joke -->
->Nothing can escape the gravity of a black hole, except for Chuck Norris. Chuck Norris eats black holes. They taste like chicken.
+>Whiteboards are white because Chuck Norris scared them that way.
 <!-- /joke -->
 
-*Last update: Tue, 06 Jan 2026 01:04:39 GMT*
+*Last update: Wed, 07 Jan 2026 01:04:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
