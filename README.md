@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 07 2026)
+### Joke of the day (Thu Jan 08 2026)
 <!-- joke -->
->Whiteboards are white because Chuck Norris scared them that way.
+>If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
 <!-- /joke -->
 
-*Last update: Wed, 07 Jan 2026 01:04:53 GMT*
+*Last update: Thu, 08 Jan 2026 01:04:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
