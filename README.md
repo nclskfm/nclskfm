@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 08 2026)
+### Joke of the day (Fri Jan 09 2026)
 <!-- joke -->
->If you were somehow able to land a punch on Chuck Norris your entire arm would shatter upon impact. This is only in theory, since, come on, who in their right mind would try this?
+>I told him I can't open the jar, he said download and install Java
 <!-- /joke -->
 
-*Last update: Thu, 08 Jan 2026 01:04:51 GMT*
+*Last update: Fri, 09 Jan 2026 01:05:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
