@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 09 2026)
+### Joke of the day (Sat Jan 10 2026)
 <!-- joke -->
->I told him I can't open the jar, he said download and install Java
+>Those aren't credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
 <!-- /joke -->
 
-*Last update: Fri, 09 Jan 2026 01:05:18 GMT*
+*Last update: Sat, 10 Jan 2026 01:02:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
