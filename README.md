@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 11 2026)
+### Joke of the day (Mon Jan 12 2026)
 <!-- joke -->
->When Chuck Norris does a push-up he doesn't go up, the earth goes down
+>Chuck Norris can overflow your stack just by looking at it.
 <!-- /joke -->
 
-*Last update: Sun, 11 Jan 2026 01:11:16 GMT*
+*Last update: Mon, 12 Jan 2026 01:08:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
