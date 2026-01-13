@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jan 12 2026)
+### Joke of the day (Tue Jan 13 2026)
 <!-- joke -->
->Chuck Norris can overflow your stack just by looking at it.
+>Chuck Norris doesn't use GUI, he prefers COMMAND line.
 <!-- /joke -->
 
-*Last update: Mon, 12 Jan 2026 01:08:10 GMT*
+*Last update: Tue, 13 Jan 2026 01:01:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
