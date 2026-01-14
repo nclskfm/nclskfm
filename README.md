@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 13 2026)
+### Joke of the day (Wed Jan 14 2026)
 <!-- joke -->
->Chuck Norris doesn't use GUI, he prefers COMMAND line.
+>If Chuck Norris wants your opinion, he'll beat it into you.
 <!-- /joke -->
 
-*Last update: Tue, 13 Jan 2026 01:01:34 GMT*
+*Last update: Wed, 14 Jan 2026 01:07:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
