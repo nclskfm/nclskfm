@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 14 2026)
+### Joke of the day (Thu Jan 15 2026)
 <!-- joke -->
->If Chuck Norris wants your opinion, he'll beat it into you.
+>Chuck Norris does not teabag the ladies. He potato-sacks them.
 <!-- /joke -->
 
-*Last update: Wed, 14 Jan 2026 01:07:33 GMT*
+*Last update: Thu, 15 Jan 2026 01:03:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
