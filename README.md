@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 17 2026)
+### Joke of the day (Sun Jan 18 2026)
 <!-- joke -->
->Chuck Norris can believe it's not butter.
+>Chuck Norris kills anyone that asks: 'Do you want fries with that?'. Because by now everyone should know that Chuck doesn't want fries with anything. Ever.
 <!-- /joke -->
 
-*Last update: Sat, 17 Jan 2026 01:02:27 GMT*
+*Last update: Sun, 18 Jan 2026 01:10:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
