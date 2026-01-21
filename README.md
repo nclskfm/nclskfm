@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jan 20 2026)
+### Joke of the day (Wed Jan 21 2026)
 <!-- joke -->
->Who let the dogs out? Chuck Norris let the dogs out... and then roundhouse kicked them through an Oldsmobile.
+>Bugs come in through open Windows.
 <!-- /joke -->
 
-*Last update: Tue, 20 Jan 2026 01:04:18 GMT*
+*Last update: Wed, 21 Jan 2026 01:06:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
