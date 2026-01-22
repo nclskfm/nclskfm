@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 21 2026)
+### Joke of the day (Thu Jan 22 2026)
 <!-- joke -->
->Bugs come in through open Windows.
+>Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
 <!-- /joke -->
 
-*Last update: Wed, 21 Jan 2026 01:06:45 GMT*
+*Last update: Thu, 22 Jan 2026 01:06:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
