@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 22 2026)
+### Joke of the day (Fri Jan 23 2026)
 <!-- joke -->
->Staring at Chuck Norris for extended periods of time without proper eye protection will cause blindess, and possibly foot sized brusies on the face.
+>'It works on my machine' always holds true for Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 22 Jan 2026 01:06:47 GMT*
+*Last update: Fri, 23 Jan 2026 01:06:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
