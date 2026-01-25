@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jan 24 2026)
+### Joke of the day (Sun Jan 25 2026)
 <!-- joke -->
->Chuck Norris doesn't stub his toes. He accidentally destroys chairs, bedframes, and sidewalks.
+>To be or not to be? That is the question. The answer? Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 24 Jan 2026 01:03:17 GMT*
+*Last update: Sun, 25 Jan 2026 01:12:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
