@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jan 25 2026)
+### Joke of the day (Mon Jan 26 2026)
 <!-- joke -->
->To be or not to be? That is the question. The answer? Chuck Norris.
+>Chuck Norris can do a roundhouse kick faster than the speed of light. This means that if you turn on a light switch, you will be dead before the lightbulb turns on.
 <!-- /joke -->
 
-*Last update: Sun, 25 Jan 2026 01:12:22 GMT*
+*Last update: Mon, 26 Jan 2026 01:11:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
