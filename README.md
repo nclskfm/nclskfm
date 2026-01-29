@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jan 28 2026)
+### Joke of the day (Thu Jan 29 2026)
 <!-- joke -->
->Chuck Norris is the only man who has, literally, beaten the odds. With his fists.
+>Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
 <!-- /joke -->
 
-*Last update: Wed, 28 Jan 2026 01:05:54 GMT*
+*Last update: Thu, 29 Jan 2026 01:15:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
