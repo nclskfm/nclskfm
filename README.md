@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jan 29 2026)
+### Joke of the day (Fri Jan 30 2026)
 <!-- joke -->
->Chuck Norris has never been in a fight, ever. Do you call one roundhouse kick to the face a fight?
+>Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
 <!-- /joke -->
 
-*Last update: Thu, 29 Jan 2026 01:15:29 GMT*
+*Last update: Fri, 30 Jan 2026 01:15:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
