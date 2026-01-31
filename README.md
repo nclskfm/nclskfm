@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jan 30 2026)
+### Joke of the day (Sat Jan 31 2026)
 <!-- joke -->
->Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
+>The code that is the hardest to debug is the code that you know cannot possibly be wrong.
 <!-- /joke -->
 
-*Last update: Fri, 30 Jan 2026 01:15:06 GMT*
+*Last update: Sat, 31 Jan 2026 01:12:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
