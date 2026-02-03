@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 02 2026)
+### Joke of the day (Tue Feb 03 2026)
 <!-- joke -->
->If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+>Why does a burger have less energy than a steak? A burger is in its ground state.
 <!-- /joke -->
 
-*Last update: Mon, 02 Feb 2026 01:19:33 GMT*
+*Last update: Tue, 03 Feb 2026 01:19:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
