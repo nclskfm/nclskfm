@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 03 2026)
+### Joke of the day (Wed Feb 04 2026)
 <!-- joke -->
->Why does a burger have less energy than a steak? A burger is in its ground state.
+>According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
 <!-- /joke -->
 
-*Last update: Tue, 03 Feb 2026 01:19:36 GMT*
+*Last update: Wed, 04 Feb 2026 01:15:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
