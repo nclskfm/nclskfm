@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 04 2026)
+### Joke of the day (Thu Feb 05 2026)
 <!-- joke -->
->According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
+>Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
 <!-- /joke -->
 
-*Last update: Wed, 04 Feb 2026 01:15:03 GMT*
+*Last update: Thu, 05 Feb 2026 01:15:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
