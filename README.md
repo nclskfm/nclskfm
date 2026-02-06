@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 05 2026)
+### Joke of the day (Fri Feb 06 2026)
 <!-- joke -->
->Chuck Norris' testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy.
+>Chuck Norris is widely predicted to be first black president. If you're thinking to yourself, 'But Chuck Norris isn't black', then you are dead wrong. And stop being a racist.
 <!-- /joke -->
 
-*Last update: Thu, 05 Feb 2026 01:15:45 GMT*
+*Last update: Fri, 06 Feb 2026 01:15:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
