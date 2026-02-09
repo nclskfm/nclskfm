@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 08 2026)
+### Joke of the day (Mon Feb 09 2026)
 <!-- joke -->
->Chuck Norris doesn't believe in ravioli. He stuffs a live turtle with beef and smothers it in pig's blood.
+>Chuck Norris insists on strongly-typed programming languages.
 <!-- /joke -->
 
-*Last update: Sun, 08 Feb 2026 01:53:45 GMT*
+*Last update: Mon, 09 Feb 2026 01:21:21 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
