@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 14 2026)
+### Joke of the day (Sun Feb 15 2026)
 <!-- joke -->
->Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
+>Mac users swear by their Mac and PC users swear at their PC.
 <!-- /joke -->
 
-*Last update: Sat, 14 Feb 2026 01:16:12 GMT*
+*Last update: Sun, 15 Feb 2026 01:23:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
