@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 15 2026)
+### Joke of the day (Mon Feb 16 2026)
 <!-- joke -->
->Mac users swear by their Mac and PC users swear at their PC.
+>Failure is not an option. It comes bundled with your Microsoft product.
 <!-- /joke -->
 
-*Last update: Sun, 15 Feb 2026 01:23:47 GMT*
+*Last update: Mon, 16 Feb 2026 01:20:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
