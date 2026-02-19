@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 18 2026)
+### Joke of the day (Thu Feb 19 2026)
 <!-- joke -->
->Wo hu cang long. The translation from Mandarin Chinese reads: 'Crouching Chuck, Hidden Norris'
+>Beware of programmers that carry screwdrivers.
 <!-- /joke -->
 
-*Last update: Wed, 18 Feb 2026 01:21:48 GMT*
+*Last update: Thu, 19 Feb 2026 01:20:53 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
