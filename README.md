@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Feb 19 2026)
+### Joke of the day (Fri Feb 20 2026)
 <!-- joke -->
->Beware of programmers that carry screwdrivers.
+>Linus Torvalds: “Real men don’t use backups... they post their stuff on a public ftp server and let the rest of the world make copies.”
 <!-- /joke -->
 
-*Last update: Thu, 19 Feb 2026 01:20:53 GMT*
+*Last update: Fri, 20 Feb 2026 01:16:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
