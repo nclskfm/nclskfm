@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Feb 21 2026)
+### Joke of the day (Sun Feb 22 2026)
 <!-- joke -->
->Every time Chuck Norris smiles, someone dies. Unless he smiles while he?s roundhouse kicking someone in the face. Then two people die.
+># Chuck Norris's show is called Walker: Texas Ranger, because Chuck Norris doesn't run.
 <!-- /joke -->
 
-*Last update: Sat, 21 Feb 2026 01:14:25 GMT*
+*Last update: Sun, 22 Feb 2026 01:20:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
