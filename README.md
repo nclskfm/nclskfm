@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Feb 22 2026)
+### Joke of the day (Mon Feb 23 2026)
 <!-- joke -->
-># Chuck Norris's show is called Walker: Texas Ranger, because Chuck Norris doesn't run.
+>Chuck Norris does, in fact, live in a round house.
 <!-- /joke -->
 
-*Last update: Sun, 22 Feb 2026 01:20:27 GMT*
+*Last update: Mon, 23 Feb 2026 01:19:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
