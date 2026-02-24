@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Feb 23 2026)
+### Joke of the day (Tue Feb 24 2026)
 <!-- joke -->
->Chuck Norris does, in fact, live in a round house.
+>There are three kinds of people: those who can count and those who can’t.
 <!-- /joke -->
 
-*Last update: Mon, 23 Feb 2026 01:19:23 GMT*
+*Last update: Tue, 24 Feb 2026 01:18:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
