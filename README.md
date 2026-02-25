@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Feb 24 2026)
+### Joke of the day (Wed Feb 25 2026)
 <!-- joke -->
->There are three kinds of people: those who can count and those who can’t.
+>Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
 <!-- /joke -->
 
-*Last update: Tue, 24 Feb 2026 01:18:14 GMT*
+*Last update: Wed, 25 Feb 2026 01:22:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
