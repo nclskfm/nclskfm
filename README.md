@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Feb 25 2026)
+### Joke of the day (Thu Feb 26 2026)
 <!-- joke -->
->Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
+>When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
 <!-- /joke -->
 
-*Last update: Wed, 25 Feb 2026 01:22:19 GMT*
+*Last update: Thu, 26 Feb 2026 01:17:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
