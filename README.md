@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Feb 27 2026)
+### Joke of the day (Sat Feb 28 2026)
 <!-- joke -->
->Chuck Norris does not kick ass and take names. In fact, Chuck Norris kicks ass and assigns the corpse a number. It is currently recorded to be in the billions.
+>In the Words of Julius Caesar, 'Veni, Vidi, Vici, Chuck Norris'. Translation: I came, I saw, and I was roundhouse-kicked inthe face by Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 27 Feb 2026 01:15:52 GMT*
+*Last update: Sat, 28 Feb 2026 01:10:20 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
