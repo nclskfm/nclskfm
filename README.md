@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Mar 03 2026)
+### Joke of the day (Wed Mar 04 2026)
 <!-- joke -->
->The truth is out there. Anybody got the URL?
+>The only sure things are Death and Taxes?and when Chuck Norris goes to work for the IRS, they'll be the same thing.
 <!-- /joke -->
 
-*Last update: Tue, 03 Mar 2026 01:20:23 GMT*
+*Last update: Wed, 04 Mar 2026 01:16:05 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
