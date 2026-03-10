@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 09 2026)
+### Joke of the day (Tue Mar 10 2026)
 <!-- joke -->
->Chuck Norris has two speeds: Walk and Kill.
+>Chuck Norris has volunteered to remain on earth after the Rapture; he will spend his time fighting the Anti-Christ.
 <!-- /joke -->
 
-*Last update: Mon, 09 Mar 2026 01:18:58 GMT*
+*Last update: Tue, 10 Mar 2026 01:13:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
