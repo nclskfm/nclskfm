@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Mar 16 2026)
+### Joke of the day (Tue Mar 17 2026)
 <!-- joke -->
->How many roundhouse kicks does it take to get to the center of a tootsie pop? Just one. From Chuck Norris.
+>Chuck Norris is his own line at the DMV.
 <!-- /joke -->
 
-*Last update: Mon, 16 Mar 2026 01:27:35 GMT*
+*Last update: Tue, 17 Mar 2026 01:19:26 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
