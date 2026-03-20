@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 19 2026)
+### Joke of the day (Fri Mar 20 2026)
 <!-- joke -->
->SHE: Are you just gonna sit here on the computer OR are we going out? HE: Yes
+>As a teen, Chuck Norris had sex with every nun in a convent tucked away in the hills of Tuscany. Nine months later the nuns gave birth to the 1972 Miami Dolphins, the only undefeated and untied team in professional football history.
 <!-- /joke -->
 
-*Last update: Thu, 19 Mar 2026 01:23:25 GMT*
+*Last update: Fri, 20 Mar 2026 01:18:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
