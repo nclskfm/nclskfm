@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 21 2026)
+### Joke of the day (Sun Mar 22 2026)
 <!-- joke -->
->Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+>Chuck Norris's version of a 'chocolate milkshake' is a raw porterhouse wrapped around ten Hershey bars, and doused in diesel fuel.
 <!-- /joke -->
 
-*Last update: Sat, 21 Mar 2026 01:13:40 GMT*
+*Last update: Sun, 22 Mar 2026 01:22:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
