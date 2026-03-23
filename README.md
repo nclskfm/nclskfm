@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Mar 22 2026)
+### Joke of the day (Mon Mar 23 2026)
 <!-- joke -->
->Chuck Norris's version of a 'chocolate milkshake' is a raw porterhouse wrapped around ten Hershey bars, and doused in diesel fuel.
+>Chuck Norris doesn't stub his toes. He accidentally destroys chairs, bedframes, and sidewalks.
 <!-- /joke -->
 
-*Last update: Sun, 22 Mar 2026 01:22:50 GMT*
+*Last update: Mon, 23 Mar 2026 01:23:13 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
