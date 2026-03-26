@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Mar 25 2026)
+### Joke of the day (Thu Mar 26 2026)
 <!-- joke -->
->My software never has bugs. It just develops random features.
+>Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
 <!-- /joke -->
 
-*Last update: Wed, 25 Mar 2026 01:21:44 GMT*
+*Last update: Thu, 26 Mar 2026 01:26:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
