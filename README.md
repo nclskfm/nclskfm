@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Mar 26 2026)
+### Joke of the day (Fri Mar 27 2026)
 <!-- joke -->
->Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
+>If at first you don't succeed, you're not Chuck Norris.
 <!-- /joke -->
 
-*Last update: Thu, 26 Mar 2026 01:26:58 GMT*
+*Last update: Fri, 27 Mar 2026 01:26:46 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
