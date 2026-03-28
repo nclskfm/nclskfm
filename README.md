@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Mar 27 2026)
+### Joke of the day (Sat Mar 28 2026)
 <!-- joke -->
->If at first you don't succeed, you're not Chuck Norris.
+>As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
 <!-- /joke -->
 
-*Last update: Fri, 27 Mar 2026 01:26:46 GMT*
+*Last update: Sat, 28 Mar 2026 01:20:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
