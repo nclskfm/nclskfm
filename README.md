@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Mar 28 2026)
+### Joke of the day (Sun Mar 29 2026)
 <!-- joke -->
->As President Roosevelt said: 'We have nothing to fear but fear itself. And Chuck Norris.'
+>The First Law of Thermodynamics states that energy can neither be created nor destroyed... unless it meets Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 28 Mar 2026 01:20:59 GMT*
+*Last update: Sun, 29 Mar 2026 01:42:47 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
