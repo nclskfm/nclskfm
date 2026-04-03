@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 02 2026)
+### Joke of the day (Fri Apr 03 2026)
 <!-- joke -->
->Chuck Norris can access the DB from the UI.
+>Crime does not pay - unless you are an undertaker following Walker, Texas Ranger, on a routine patrol.
 <!-- /joke -->
 
-*Last update: Thu, 02 Apr 2026 01:25:24 GMT*
+*Last update: Fri, 03 Apr 2026 01:27:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
