@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 05 2026)
+### Joke of the day (Mon Apr 06 2026)
 <!-- joke -->
->My software never has bugs. It just develops random features.
+>Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
 <!-- /joke -->
 
-*Last update: Sun, 05 Apr 2026 01:44:23 GMT*
+*Last update: Mon, 06 Apr 2026 01:46:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
