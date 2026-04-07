@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 06 2026)
+### Joke of the day (Tue Apr 07 2026)
 <!-- joke -->
->Chuck Norris owns a chain of fast-food restaurants throughout the southwest. They serve nothing but barbecue-flavored ice cream and Hot Pockets.
+>A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.
 <!-- /joke -->
 
-*Last update: Mon, 06 Apr 2026 01:46:11 GMT*
+*Last update: Tue, 07 Apr 2026 01:29:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
