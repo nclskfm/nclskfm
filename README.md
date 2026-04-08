@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 07 2026)
+### Joke of the day (Wed Apr 08 2026)
 <!-- joke -->
->A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.
+>Chuck Norris likes his ice like he likes his skulls: crushed.
 <!-- /joke -->
 
-*Last update: Tue, 07 Apr 2026 01:29:00 GMT*
+*Last update: Wed, 08 Apr 2026 01:43:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
