@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 08 2026)
+### Joke of the day (Thu Apr 09 2026)
 <!-- joke -->
->Chuck Norris likes his ice like he likes his skulls: crushed.
+>Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
 <!-- /joke -->
 
-*Last update: Wed, 08 Apr 2026 01:43:25 GMT*
+*Last update: Thu, 09 Apr 2026 01:22:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
