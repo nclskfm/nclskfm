@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Apr 16 2026)
+### Joke of the day (Fri Apr 17 2026)
 <!-- joke -->
->Chuck Norris can binary search unsorted data.
+>Artificial intelligence usually beats real stupidity.
 <!-- /joke -->
 
-*Last update: Thu, 16 Apr 2026 01:53:23 GMT*
+*Last update: Fri, 17 Apr 2026 01:49:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
