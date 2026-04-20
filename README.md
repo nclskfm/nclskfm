@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 19 2026)
+### Joke of the day (Mon Apr 20 2026)
 <!-- joke -->
->Not everyone that Chuck Norris is mad at gets killed. Some get away. They are called astronauts.
+>Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
 <!-- /joke -->
 
-*Last update: Sun, 19 Apr 2026 01:52:41 GMT*
+*Last update: Mon, 20 Apr 2026 01:54:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
