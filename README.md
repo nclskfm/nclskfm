@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 20 2026)
+### Joke of the day (Tue Apr 21 2026)
 <!-- joke -->
->Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+>Chuck Norris knows everything there is to know - Except for the definition of mercy.
 <!-- /joke -->
 
-*Last update: Mon, 20 Apr 2026 01:54:31 GMT*
+*Last update: Tue, 21 Apr 2026 01:49:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
