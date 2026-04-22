@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Apr 21 2026)
+### Joke of the day (Wed Apr 22 2026)
 <!-- joke -->
->Chuck Norris knows everything there is to know - Except for the definition of mercy.
+>Chuck Norris was once in a knife fight, and the knife lost.
 <!-- /joke -->
 
-*Last update: Tue, 21 Apr 2026 01:49:56 GMT*
+*Last update: Wed, 22 Apr 2026 01:48:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
