@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 22 2026)
+### Joke of the day (Thu Apr 23 2026)
 <!-- joke -->
->Chuck Norris was once in a knife fight, and the knife lost.
+>Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
 <!-- /joke -->
 
-*Last update: Wed, 22 Apr 2026 01:48:37 GMT*
+*Last update: Thu, 23 Apr 2026 01:52:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
