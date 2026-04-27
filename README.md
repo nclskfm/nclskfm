@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Apr 26 2026)
+### Joke of the day (Mon Apr 27 2026)
 <!-- joke -->
->Chuck Norris will never have a heart attack. His heart isn't nearly foolish enough to attack him.
+>Chuck Norris invented a language that incorporates karate and roundhouse kicks. So next time Chuck Norris is kicking your ass, don?t be offended or hurt, he may be just trying to tell you he likes your hat.
 <!-- /joke -->
 
-*Last update: Sun, 26 Apr 2026 01:55:56 GMT*
+*Last update: Mon, 27 Apr 2026 01:59:02 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
