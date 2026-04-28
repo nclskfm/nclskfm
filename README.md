@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Apr 27 2026)
+### Joke of the day (Tue Apr 28 2026)
 <!-- joke -->
->Chuck Norris invented a language that incorporates karate and roundhouse kicks. So next time Chuck Norris is kicking your ass, don?t be offended or hurt, he may be just trying to tell you he likes your hat.
+>If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.
 <!-- /joke -->
 
-*Last update: Mon, 27 Apr 2026 01:59:02 GMT*
+*Last update: Tue, 28 Apr 2026 02:05:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
