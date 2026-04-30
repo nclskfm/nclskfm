@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Apr 29 2026)
+### Joke of the day (Thu Apr 30 2026)
 <!-- joke -->
->Chuck Norris drinks napalm to quell his heartburn.
+>When Arnold says 'I'll be back' in Terminator movie it is implied that he's going to ask Chuck Norris for help.
 <!-- /joke -->
 
-*Last update: Wed, 29 Apr 2026 02:06:56 GMT*
+*Last update: Thu, 30 Apr 2026 02:06:49 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
