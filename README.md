@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri May 01 2026)
+### Joke of the day (Sat May 02 2026)
 <!-- joke -->
->Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
+>When taking the SAT, write 'Chuck Norris' for every answer. You will score over 8000.
 <!-- /joke -->
 
-*Last update: Fri, 01 May 2026 02:11:05 GMT*
+*Last update: Sat, 02 May 2026 01:58:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
