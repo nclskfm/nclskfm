@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 02 2026)
+### Joke of the day (Sun May 03 2026)
 <!-- joke -->
->When taking the SAT, write 'Chuck Norris' for every answer. You will score over 8000.
+>There are only two things that can cut diamonds: other diamonds, and Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 02 May 2026 01:58:11 GMT*
+*Last update: Sun, 03 May 2026 02:02:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
