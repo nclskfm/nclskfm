@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 05 2026)
+### Joke of the day (Wed May 06 2026)
 <!-- joke -->
->If tapped, a Chuck Norris roundhouse kick could power the country of Australia for 44 minutes.
+>When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
 <!-- /joke -->
 
-*Last update: Tue, 05 May 2026 02:02:27 GMT*
+*Last update: Wed, 06 May 2026 02:01:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
