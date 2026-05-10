@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 09 2026)
+### Joke of the day (Sun May 10 2026)
 <!-- joke -->
->Chuck Norris is ten feet tall, weighs two-tons, breathes fire, and could eat a hammer and take a shotgun blast standing.
+>Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
 <!-- /joke -->
 
-*Last update: Sat, 09 May 2026 02:04:43 GMT*
+*Last update: Sun, 10 May 2026 02:05:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
