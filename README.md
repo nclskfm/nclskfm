@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 10 2026)
+### Joke of the day (Mon May 11 2026)
 <!-- joke -->
->Some people like to eat frogs' legs. Chuck Norris likes to eat lizard legs. Hence, snakes.
+>Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
 <!-- /joke -->
 
-*Last update: Sun, 10 May 2026 02:05:39 GMT*
+*Last update: Mon, 11 May 2026 02:24:32 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
