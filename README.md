@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 11 2026)
+### Joke of the day (Tue May 12 2026)
 <!-- joke -->
->Ozzy Osbourne bites the heads off of bats. Chuck Norris bites the heads off of Siberian Tigers.
+>Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris' fists is inside his own body.
 <!-- /joke -->
 
-*Last update: Mon, 11 May 2026 02:24:32 GMT*
+*Last update: Tue, 12 May 2026 02:09:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
