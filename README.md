@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 16 2026)
+### Joke of the day (Sun May 17 2026)
 <!-- joke -->
->Everything King Midas touches turnes to gold. Everything Chuck Norris touches turns up dead.
+>A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
 <!-- /joke -->
 
-*Last update: Sat, 16 May 2026 02:07:38 GMT*
+*Last update: Sun, 17 May 2026 02:12:15 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
