@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 17 2026)
+### Joke of the day (Mon May 18 2026)
 <!-- joke -->
->A Chuck Norris-delivered Roundhouse Kick is the preferred method of execution in 16 states.
+>According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
 <!-- /joke -->
 
-*Last update: Sun, 17 May 2026 02:12:15 GMT*
+*Last update: Mon, 18 May 2026 02:32:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
