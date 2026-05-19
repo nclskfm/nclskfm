@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon May 18 2026)
+### Joke of the day (Tue May 19 2026)
 <!-- joke -->
->According to the Encyclopedia Brittanica, the Native American 'Trail of Tears' has been redefined as anywhere that Chuck Norris walks.
+>Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
 <!-- /joke -->
 
-*Last update: Mon, 18 May 2026 02:32:56 GMT*
+*Last update: Tue, 19 May 2026 02:31:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
