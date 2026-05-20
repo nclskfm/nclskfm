@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue May 19 2026)
+### Joke of the day (Wed May 20 2026)
 <!-- joke -->
->Nagasaki never had a bomb dropped on it. Chuck Norris jumped out of a plane and punched the ground
+>When Chuck Norris plays Monopoly, it affects the actual world economy.
 <!-- /joke -->
 
-*Last update: Tue, 19 May 2026 02:31:39 GMT*
+*Last update: Wed, 20 May 2026 02:31:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
