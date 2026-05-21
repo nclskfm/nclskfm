@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 20 2026)
+### Joke of the day (Thu May 21 2026)
 <!-- joke -->
->When Chuck Norris plays Monopoly, it affects the actual world economy.
+>James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger.
 <!-- /joke -->
 
-*Last update: Wed, 20 May 2026 02:31:42 GMT*
+*Last update: Thu, 21 May 2026 02:32:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
