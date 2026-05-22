@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 21 2026)
+### Joke of the day (Fri May 22 2026)
 <!-- joke -->
->James Cameron wanted Chuck Norris to play the Terminator. However, upon reflection, he realized that would have turned his movie into a documentary, so he went with Arnold Schwarzenegger.
+>How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
 <!-- /joke -->
 
-*Last update: Thu, 21 May 2026 02:32:45 GMT*
+*Last update: Fri, 22 May 2026 02:34:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
