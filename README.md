@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 23 2026)
+### Joke of the day (Sun May 24 2026)
 <!-- joke -->
->Once you go Norris, you are physically unable to go back.
+>For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
 <!-- /joke -->
 
-*Last update: Sat, 23 May 2026 02:11:06 GMT*
+*Last update: Sun, 24 May 2026 02:29:43 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
