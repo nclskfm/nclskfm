@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 24 2026)
+### Joke of the day (Mon May 25 2026)
 <!-- joke -->
->For undercover police work, Chuck Norris pins his badge underneath his shirt, directly into his chest.
+>A high tide means Chuck Norris is flying over your coast. The tide is caused by God pissing his pants.
 <!-- /joke -->
 
-*Last update: Sun, 24 May 2026 02:29:43 GMT*
+*Last update: Mon, 25 May 2026 02:37:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
