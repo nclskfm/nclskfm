@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed May 27 2026)
+### Joke of the day (Thu May 28 2026)
 <!-- joke -->
->Chuck Norris doesn't wash his clothes. He disembowels them.
+>In a fight between Batman and Darth Vader, the winner would be Chuck Norris.
 <!-- /joke -->
 
-*Last update: Wed, 27 May 2026 02:37:27 GMT*
+*Last update: Thu, 28 May 2026 02:24:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
