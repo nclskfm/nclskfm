@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu May 28 2026)
+### Joke of the day (Fri May 29 2026)
 <!-- joke -->
->In a fight between Batman and Darth Vader, the winner would be Chuck Norris.
+>Chuck Norris does not need to type-cast. The Chuck-Norris Compiler (CNC) sees through things. All way down. Always.
 <!-- /joke -->
 
-*Last update: Thu, 28 May 2026 02:24:10 GMT*
+*Last update: Fri, 29 May 2026 02:29:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
