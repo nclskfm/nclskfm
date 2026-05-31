@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat May 30 2026)
+### Joke of the day (Sun May 31 2026)
 <!-- joke -->
->Scientifically speaking, it is impossible to charge Chuck Norris with 'obstruction of justice.' This is because even Chuck Norris cannot be in two places at the same time.
+>Do you have a girlfriend? I will leave the relationship to the databases
 <!-- /joke -->
 
-*Last update: Sat, 30 May 2026 02:13:25 GMT*
+*Last update: Sun, 31 May 2026 02:39:04 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
