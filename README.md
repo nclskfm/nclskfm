@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun May 31 2026)
+### Joke of the day (Mon Jun 01 2026)
 <!-- joke -->
->Do you have a girlfriend? I will leave the relationship to the databases
+>Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
 <!-- /joke -->
 
-*Last update: Sun, 31 May 2026 02:39:04 GMT*
+*Last update: Mon, 01 Jun 2026 02:48:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
