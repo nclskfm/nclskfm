@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 01 2026)
+### Joke of the day (Tue Jun 02 2026)
 <!-- joke -->
->Chuck Norris invented Kentucky Fried Chicken's famous secret recipe with eleven herbs and spices. Nobody ever mentions the twelfth ingredient: Fear.
+>Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
 <!-- /joke -->
 
-*Last update: Mon, 01 Jun 2026 02:48:18 GMT*
+*Last update: Tue, 02 Jun 2026 02:45:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
