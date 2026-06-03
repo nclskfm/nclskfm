@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 02 2026)
+### Joke of the day (Wed Jun 03 2026)
 <!-- joke -->
->Chuck Norris and Mr. T walked into a bar. The bar was instantly destroyed, as that level of awesome cannot be contained in one building.
+>Chuck Norris' house has no doors, only walls that he walks through.
 <!-- /joke -->
 
-*Last update: Tue, 02 Jun 2026 02:45:41 GMT*
+*Last update: Wed, 03 Jun 2026 02:54:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
