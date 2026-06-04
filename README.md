@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 03 2026)
+### Joke of the day (Thu Jun 04 2026)
 <!-- joke -->
->Chuck Norris' house has no doors, only walls that he walks through.
+>The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
 <!-- /joke -->
 
-*Last update: Wed, 03 Jun 2026 02:54:19 GMT*
+*Last update: Thu, 04 Jun 2026 02:49:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
