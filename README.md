@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 04 2026)
+### Joke of the day (Fri Jun 05 2026)
 <!-- joke -->
->The Great Wall of China was originally created to keep Chuck Norris out. It failed miserably.
+>If Chuck Norris wants your opinion, he'll beat it into you.
 <!-- /joke -->
 
-*Last update: Thu, 04 Jun 2026 02:49:34 GMT*
+*Last update: Fri, 05 Jun 2026 02:36:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
