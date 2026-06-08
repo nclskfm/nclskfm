@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 07 2026)
+### Joke of the day (Mon Jun 08 2026)
 <!-- joke -->
->The word 'Kill' was invented by Chuck Norris. Other words were 'Die', 'Beer', and 'What'.
+>Chuck Norris once ate three 72 oz. steaks in one hour. He spent the first 45 minutes having sex with his waitress.
 <!-- /joke -->
 
-*Last update: Sun, 07 Jun 2026 02:42:54 GMT*
+*Last update: Mon, 08 Jun 2026 02:46:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
