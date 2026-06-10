@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 09 2026)
+### Joke of the day (Wed Jun 10 2026)
 <!-- joke -->
->Chuck Norris burst the dot com bubble.
+>Chuck Norris once sued Burger King after they refused to put razor wire in his Whopper Jr, insisting that that actually is 'his' way.
 <!-- /joke -->
 
-*Last update: Tue, 09 Jun 2026 02:13:17 GMT*
+*Last update: Wed, 10 Jun 2026 02:36:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
