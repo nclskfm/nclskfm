@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 11 2026)
+### Joke of the day (Fri Jun 12 2026)
 <!-- joke -->
->The Bermuda Triangle used to be the Bermuda Square, until Chuck Norris Roundhouse kicked one of the corners off.
+>Chuck Norris drives an ice cream truck covered in human skulls.
 <!-- /joke -->
 
-*Last update: Thu, 11 Jun 2026 02:46:42 GMT*
+*Last update: Fri, 12 Jun 2026 02:43:10 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
