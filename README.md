@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 12 2026)
+### Joke of the day (Sat Jun 13 2026)
 <!-- joke -->
->Chuck Norris drives an ice cream truck covered in human skulls.
+>182,000 Americans die from Chuck Norris-related accidents every year.
 <!-- /joke -->
 
-*Last update: Fri, 12 Jun 2026 02:43:10 GMT*
+*Last update: Sat, 13 Jun 2026 02:35:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
