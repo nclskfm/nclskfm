@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 16 2026)
+### Joke of the day (Wed Jun 17 2026)
 <!-- joke -->
->Chuck Norris once pulled out a single hair from his beard and skewered three men through the heart with it.
+>Don't fart in an Apple Store, because they don't have Windows.
 <!-- /joke -->
 
-*Last update: Tue, 16 Jun 2026 02:52:59 GMT*
+*Last update: Wed, 17 Jun 2026 02:50:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
