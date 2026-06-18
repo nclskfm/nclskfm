@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 17 2026)
+### Joke of the day (Thu Jun 18 2026)
 <!-- joke -->
->Don't fart in an Apple Store, because they don't have Windows.
+>Chuck Norris knows the last digit of pi.
 <!-- /joke -->
 
-*Last update: Wed, 17 Jun 2026 02:50:09 GMT*
+*Last update: Thu, 18 Jun 2026 02:45:14 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
