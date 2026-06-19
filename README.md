@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 18 2026)
+### Joke of the day (Fri Jun 19 2026)
 <!-- joke -->
->Chuck Norris knows the last digit of pi.
+>The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
 <!-- /joke -->
 
-*Last update: Thu, 18 Jun 2026 02:45:14 GMT*
+*Last update: Fri, 19 Jun 2026 03:30:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
