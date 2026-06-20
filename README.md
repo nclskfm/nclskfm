@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Jun 19 2026)
+### Joke of the day (Sat Jun 20 2026)
 <!-- joke -->
->The movie 'Delta Force' was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.
+>How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
 <!-- /joke -->
 
-*Last update: Fri, 19 Jun 2026 03:30:24 GMT*
+*Last update: Sat, 20 Jun 2026 02:35:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
