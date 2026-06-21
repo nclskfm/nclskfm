@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 20 2026)
+### Joke of the day (Sun Jun 21 2026)
 <!-- joke -->
->How many theoretical physicists does it take to screw in a light bulb? Two. One to hold the bulb and one to rotate the universe.
+>Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.
 <!-- /joke -->
 
-*Last update: Sat, 20 Jun 2026 02:35:01 GMT*
+*Last update: Sun, 21 Jun 2026 02:50:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
