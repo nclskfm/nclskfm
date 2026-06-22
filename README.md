@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 21 2026)
+### Joke of the day (Mon Jun 22 2026)
 <!-- joke -->
->Pluto is actually an orbiting group of British soldiers from the American Revolution who entered space after the Chuck gave them a roundhouse kick to the face.
+>Chuck Norris does not 'style' his hair. It lays perfectly in place out of sheer terror.
 <!-- /joke -->
 
-*Last update: Sun, 21 Jun 2026 02:50:59 GMT*
+*Last update: Mon, 22 Jun 2026 02:53:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
