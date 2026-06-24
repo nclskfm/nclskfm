@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jun 23 2026)
+### Joke of the day (Wed Jun 24 2026)
 <!-- joke -->
->Chuck Norris once kicked a horse in the chin. Its decendants are known today as Giraffes.
+>The box said ‘Requires Windows Vista or better’. So I installed LINUX.
 <!-- /joke -->
 
-*Last update: Tue, 23 Jun 2026 02:28:35 GMT*
+*Last update: Wed, 24 Jun 2026 02:29:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
