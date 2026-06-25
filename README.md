@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jun 24 2026)
+### Joke of the day (Thu Jun 25 2026)
 <!-- joke -->
->The box said ‘Requires Windows Vista or better’. So I installed LINUX.
+>Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
 <!-- /joke -->
 
-*Last update: Wed, 24 Jun 2026 02:29:52 GMT*
+*Last update: Thu, 25 Jun 2026 02:31:12 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
