@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jun 25 2026)
+### Joke of the day (Fri Jun 26 2026)
 <!-- joke -->
->Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face.
+>MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
 <!-- /joke -->
 
-*Last update: Thu, 25 Jun 2026 02:31:12 GMT*
+*Last update: Fri, 26 Jun 2026 02:33:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
