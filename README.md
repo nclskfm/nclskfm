@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jun 27 2026)
+### Joke of the day (Sun Jun 28 2026)
 <!-- joke -->
->While urinating, Chuck Norris is easily capable of welding titanium.
+>In ancient China there is a legend that one day a child will be born from a dragon, grow to be a man, and vanquish evil from the land. That man is not Chuck Norris, because Chuck Norris killed that man.
 <!-- /joke -->
 
-*Last update: Sat, 27 Jun 2026 02:27:12 GMT*
+*Last update: Sun, 28 Jun 2026 02:39:27 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
