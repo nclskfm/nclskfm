@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jun 28 2026)
+### Joke of the day (Mon Jun 29 2026)
 <!-- joke -->
->In ancient China there is a legend that one day a child will be born from a dragon, grow to be a man, and vanquish evil from the land. That man is not Chuck Norris, because Chuck Norris killed that man.
+>It takes Chuck Norris 20 minutes to watch 60 Minutes.
 <!-- /joke -->
 
-*Last update: Sun, 28 Jun 2026 02:39:27 GMT*
+*Last update: Mon, 29 Jun 2026 02:40:07 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
