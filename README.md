@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jun 29 2026)
+### Joke of the day (Tue Jun 30 2026)
 <!-- joke -->
->It takes Chuck Norris 20 minutes to watch 60 Minutes.
+>Chuck Norris once ate an entire bottle of sleeping pills. They made him blink.
 <!-- /joke -->
 
-*Last update: Mon, 29 Jun 2026 02:40:07 GMT*
+*Last update: Tue, 30 Jun 2026 02:34:19 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
