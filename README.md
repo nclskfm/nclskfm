@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 05 2026)
+### Joke of the day (Mon Jul 06 2026)
 <!-- joke -->
->All roads lead to Chuck Norris. And by the transitive property, a roundhouse kick to the face.
+>What does a subatomic duck say? Quark.
 <!-- /joke -->
 
-*Last update: Sun, 05 Jul 2026 02:11:36 GMT*
+*Last update: Mon, 06 Jul 2026 02:23:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
