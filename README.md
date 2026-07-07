@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 06 2026)
+### Joke of the day (Tue Jul 07 2026)
 <!-- joke -->
->What does a subatomic duck say? Quark.
+>If you rearrange the letters in 'Chuck Norris', they also spell 'Crush Rock In'. The words 'with his fists' are understood.
 <!-- /joke -->
 
-*Last update: Mon, 06 Jul 2026 02:23:31 GMT*
+*Last update: Tue, 07 Jul 2026 02:11:51 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
