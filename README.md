@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 11 2026)
+### Joke of the day (Sun Jul 12 2026)
 <!-- joke -->
->The square root of Chuck Norris is pain. Do not try to square Chuck Norris, the result is death.
+>Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
 <!-- /joke -->
 
-*Last update: Sat, 11 Jul 2026 01:51:01 GMT*
+*Last update: Sun, 12 Jul 2026 01:53:57 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
