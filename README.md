@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 12 2026)
+### Joke of the day (Mon Jul 13 2026)
 <!-- joke -->
->Guantuanamo Bay, Cuba, is the military code-word for 'Chuck Norris' basement'.
+>When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
 <!-- /joke -->
 
-*Last update: Sun, 12 Jul 2026 01:53:57 GMT*
+*Last update: Mon, 13 Jul 2026 01:56:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
