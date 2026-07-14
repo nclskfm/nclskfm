@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 13 2026)
+### Joke of the day (Tue Jul 14 2026)
 <!-- joke -->
->When in a bar, you can order a drink called a 'Chuck Norris'. It is also known as a 'Bloody Mary', if your name happens to be Mary.
+>Chuck Norris shot the sheriff, but he round house kicked the deputy.
 <!-- /joke -->
 
-*Last update: Mon, 13 Jul 2026 01:56:09 GMT*
+*Last update: Tue, 14 Jul 2026 01:43:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
