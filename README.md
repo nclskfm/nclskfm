@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Jul 14 2026)
+### Joke of the day (Wed Jul 15 2026)
 <!-- joke -->
->Chuck Norris shot the sheriff, but he round house kicked the deputy.
+>Chuck Norris doesn't use web standards as the web will conform to him.
 <!-- /joke -->
 
-*Last update: Tue, 14 Jul 2026 01:43:00 GMT*
+*Last update: Wed, 15 Jul 2026 01:28:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
