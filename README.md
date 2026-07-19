@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Jul 18 2026)
+### Joke of the day (Sun Jul 19 2026)
 <!-- joke -->
->When Chuck Norris was denied an Egg McMuffin at McDonald's because it was 10:35, he roundhouse kicked the store so hard it became a Wendy's.
+>After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history.
 <!-- /joke -->
 
-*Last update: Sat, 18 Jul 2026 01:43:12 GMT*
+*Last update: Sun, 19 Jul 2026 01:51:22 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
