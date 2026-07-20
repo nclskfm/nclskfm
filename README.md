@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 19 2026)
+### Joke of the day (Mon Jul 20 2026)
 <!-- joke -->
->After returning from World War 2 unscrathed, Bob Dole was congratulated by Chuck Norris with a handshake. The rest is history.
+>Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 <!-- /joke -->
 
-*Last update: Sun, 19 Jul 2026 01:51:22 GMT*
+*Last update: Mon, 20 Jul 2026 03:18:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
