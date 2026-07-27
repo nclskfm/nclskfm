@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Jul 26 2026)
+### Joke of the day (Mon Jul 27 2026)
 <!-- joke -->
->Why did Microsoft release Windows 10 ( and not windows 9) ?Because 7 8 9
+>4 out of 5 doctors fail to recommend Chuck Norris as a solution to most problems. Also, 80% of doctors die unexplained, needlessly brutal deaths.
 <!-- /joke -->
 
-*Last update: Sun, 26 Jul 2026 01:56:44 GMT*
+*Last update: Mon, 27 Jul 2026 02:04:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
