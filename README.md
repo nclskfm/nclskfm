@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Jul 27 2026)
+### Joke of the day (Tue Jul 28 2026)
 <!-- joke -->
->4 out of 5 doctors fail to recommend Chuck Norris as a solution to most problems. Also, 80% of doctors die unexplained, needlessly brutal deaths.
+>Those aren't credits that roll after Walker Texas Ranger. It is actually a list of fatalities that occurred during the making of the episode.
 <!-- /joke -->
 
-*Last update: Mon, 27 Jul 2026 02:04:30 GMT*
+*Last update: Tue, 28 Jul 2026 01:46:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
