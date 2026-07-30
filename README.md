@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Jul 29 2026)
+### Joke of the day (Thu Jul 30 2026)
 <!-- joke -->
->When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
+>There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
 <!-- /joke -->
 
-*Last update: Wed, 29 Jul 2026 01:48:15 GMT*
+*Last update: Thu, 30 Jul 2026 01:41:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
