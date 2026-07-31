@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Jul 30 2026)
+### Joke of the day (Fri Jul 31 2026)
 <!-- joke -->
->There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
+>Michael Sinz: “Programming is like sex... one mistake and you have to support it for the rest of your life.”
 <!-- /joke -->
 
-*Last update: Thu, 30 Jul 2026 01:41:25 GMT*
+*Last update: Fri, 31 Jul 2026 01:58:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
