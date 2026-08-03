@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 02 2026)
+### Joke of the day (Mon Aug 03 2026)
 <!-- joke -->
->Chuck Norris' Penis is a third degree blackbelt, and an honorable 32nd-degree mason.
+>Chuck Norris has the greatest Poker-Face of all time. He won the 1983 World Series of Poker, despite holding only a Joker, a Get out of Jail Free Monopoloy card, a 2 of clubs, 7 of spades and a green #4 card from the game UNO.
 <!-- /joke -->
 
-*Last update: Sun, 02 Aug 2026 01:55:57 GMT*
+*Last update: Mon, 03 Aug 2026 01:58:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
