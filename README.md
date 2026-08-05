@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 04 2026)
+### Joke of the day (Wed Aug 05 2026)
 <!-- joke -->
->Chuck Norris is responsible for China's over-population. He hosted a Karate tournament in Beijing and all women within 1,000 miles became pregnant instantly.
+>Why did the chicken cross the road? It was called with theOtherSide(chicken)
 <!-- /joke -->
 
-*Last update: Tue, 04 Aug 2026 01:44:22 GMT*
+*Last update: Wed, 05 Aug 2026 01:46:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
