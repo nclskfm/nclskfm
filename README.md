@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 05 2026)
+### Joke of the day (Thu Aug 06 2026)
 <!-- joke -->
->Why did the chicken cross the road? It was called with theOtherSide(chicken)
+>Chuck Norris starts everyday with a protein shake made from Carnation Instant Breakfast, one dozen eggs, pure Colombian cocaine, and rattlesnake venom. He injects it directly into his neck with a syringe.
 <!-- /joke -->
 
-*Last update: Wed, 05 Aug 2026 01:46:23 GMT*
+*Last update: Thu, 06 Aug 2026 01:46:39 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
