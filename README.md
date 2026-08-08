@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 07 2026)
+### Joke of the day (Sat Aug 08 2026)
 <!-- joke -->
->Contrary to popular belief, there is indeed enough Chuck Norris to go around.
+>Chuck Norris drives an ice cream truck covered in human skulls.
 <!-- /joke -->
 
-*Last update: Fri, 07 Aug 2026 02:10:21 GMT*
+*Last update: Sat, 08 Aug 2026 00:58:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
