@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 08 2026)
+### Joke of the day (Sun Aug 09 2026)
 <!-- joke -->
->Chuck Norris drives an ice cream truck covered in human skulls.
+>A study showed the leading causes of death in the United States are: 1. Heart disease, 2. Chuck Norris, 3. Cancer
 <!-- /joke -->
 
-*Last update: Sat, 08 Aug 2026 00:58:00 GMT*
+*Last update: Sun, 09 Aug 2026 01:01:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
