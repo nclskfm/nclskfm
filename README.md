@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 10 2026)
+### Joke of the day (Tue Aug 11 2026)
 <!-- joke -->
->Chuck Norris doesn't use GUI, he prefers COMMAND line.
+>The more I C.... the less I see.
 <!-- /joke -->
 
-*Last update: Mon, 10 Aug 2026 01:03:34 GMT*
+*Last update: Tue, 11 Aug 2026 01:02:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
