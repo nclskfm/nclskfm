@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 14 2026)
+### Joke of the day (Sat Aug 15 2026)
 <!-- joke -->
->70% of a human's weight is water. 70% of Chuck Norris' weight is his dick.
+>Programmer (noun.): A machine that turns coffee into code
 <!-- /joke -->
 
-*Last update: Fri, 14 Aug 2026 01:10:40 GMT*
+*Last update: Sat, 15 Aug 2026 00:42:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
