@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 15 2026)
+### Joke of the day (Sun Aug 16 2026)
 <!-- joke -->
->Programmer (noun.): A machine that turns coffee into code
+>Chuck Norris got his drivers license at the age of 16. Seconds.
 <!-- /joke -->
 
-*Last update: Sat, 15 Aug 2026 00:42:41 GMT*
+*Last update: Sun, 16 Aug 2026 00:45:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
