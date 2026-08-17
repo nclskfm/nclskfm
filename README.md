@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 16 2026)
+### Joke of the day (Mon Aug 17 2026)
 <!-- joke -->
->Chuck Norris got his drivers license at the age of 16. Seconds.
+>Jesus can walk on water, but Chuck Norris can walk on Jesus.
 <!-- /joke -->
 
-*Last update: Sun, 16 Aug 2026 00:45:18 GMT*
+*Last update: Mon, 17 Aug 2026 00:43:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
