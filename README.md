@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 17 2026)
+### Joke of the day (Tue Aug 18 2026)
 <!-- joke -->
->Jesus can walk on water, but Chuck Norris can walk on Jesus.
+>It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
 <!-- /joke -->
 
-*Last update: Mon, 17 Aug 2026 00:43:00 GMT*
+*Last update: Tue, 18 Aug 2026 00:42:18 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
