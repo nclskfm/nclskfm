@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Aug 18 2026)
+### Joke of the day (Wed Aug 19 2026)
 <!-- joke -->
->It is scientifically impossible for Chuck Norris to have had a mortal father. The most popular theory is that he went back in time and fathered himself.
+>Chuck Norris wears a live rattlesnake as a condom.
 <!-- /joke -->
 
-*Last update: Tue, 18 Aug 2026 00:42:18 GMT*
+*Last update: Wed, 19 Aug 2026 00:42:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
