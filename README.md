@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Aug 19 2026)
+### Joke of the day (Thu Aug 20 2026)
 <!-- joke -->
->Chuck Norris wears a live rattlesnake as a condom.
+>An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.
 <!-- /joke -->
 
-*Last update: Wed, 19 Aug 2026 00:42:41 GMT*
+*Last update: Thu, 20 Aug 2026 00:42:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
