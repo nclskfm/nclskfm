@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 21 2026)
+### Joke of the day (Sat Aug 22 2026)
 <!-- joke -->
->Chuck Norris can't finish a 'color by numbers' because his markers are filled with the blood of his victims. Unfortunately, all blood is dark red.
+>'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
 <!-- /joke -->
 
-*Last update: Fri, 21 Aug 2026 00:46:21 GMT*
+*Last update: Sat, 22 Aug 2026 00:42:45 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
