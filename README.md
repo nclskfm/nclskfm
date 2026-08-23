@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Aug 22 2026)
+### Joke of the day (Sun Aug 23 2026)
 <!-- joke -->
->'Brokeback Mountain' is not just a movie. It's also what Chuck Norris calls the pile of dead ninjas in his front yard.
+>Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
 <!-- /joke -->
 
-*Last update: Sat, 22 Aug 2026 00:42:45 GMT*
+*Last update: Sun, 23 Aug 2026 00:47:11 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
