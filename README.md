@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Aug 23 2026)
+### Joke of the day (Mon Aug 24 2026)
 <!-- joke -->
->Chuck Norris can drink an entire gallon of milk in thirty-seven seconds.
+>Chuck Norris sheds his skin twice a year.
 <!-- /joke -->
 
-*Last update: Sun, 23 Aug 2026 00:47:11 GMT*
+*Last update: Mon, 24 Aug 2026 00:44:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
