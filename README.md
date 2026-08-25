@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Aug 24 2026)
+### Joke of the day (Tue Aug 25 2026)
 <!-- joke -->
->Chuck Norris sheds his skin twice a year.
+>I don't see women as objects. I consider each to be in a class of her own.
 <!-- /joke -->
 
-*Last update: Mon, 24 Aug 2026 00:44:28 GMT*
+*Last update: Tue, 25 Aug 2026 00:43:56 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
