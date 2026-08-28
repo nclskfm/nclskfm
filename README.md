@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Aug 27 2026)
+### Joke of the day (Fri Aug 28 2026)
 <!-- joke -->
->Chuck Norris did in fact, build Rome in a day.
+>Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
 <!-- /joke -->
 
-*Last update: Thu, 27 Aug 2026 05:56:47 GMT*
+*Last update: Fri, 28 Aug 2026 08:08:34 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
