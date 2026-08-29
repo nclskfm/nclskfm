@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Aug 28 2026)
+### Joke of the day (Sat Aug 29 2026)
 <!-- joke -->
->Chuck Norris doesn't say 'who's your daddy', because he knows the answer.
+>If Ruby is not and Perl is the answer then you don’t understand the question.
 <!-- /joke -->
 
-*Last update: Fri, 28 Aug 2026 08:08:34 GMT*
+*Last update: Sat, 29 Aug 2026 04:54:41 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
