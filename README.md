@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 01 2026)
+### Joke of the day (Wed Sep 02 2026)
 <!-- joke -->
->Chuck Norris can be unlocked on the hardest level of Tekken. But only Chuck Norris is skilled enough to unlock himself. Then he roundhouse kicks the Playstation back to Japan.
+>Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
 <!-- /joke -->
 
-*Last update: Tue, 01 Sep 2026 02:47:06 GMT*
+*Last update: Wed, 02 Sep 2026 02:07:36 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
