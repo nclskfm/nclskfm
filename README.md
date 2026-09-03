@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 02 2026)
+### Joke of the day (Thu Sep 03 2026)
 <!-- joke -->
->Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
+>Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
 <!-- /joke -->
 
-*Last update: Wed, 02 Sep 2026 02:07:36 GMT*
+*Last update: Thu, 03 Sep 2026 02:13:33 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
