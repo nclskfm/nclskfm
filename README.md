@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 03 2026)
+### Joke of the day (Fri Sep 04 2026)
 <!-- joke -->
->Algorith (noun.): Word used by programmers when... they do not want to explain what they did.
+>Why did the chicken cross the road? It was called with theOtherSide(chicken)
 <!-- /joke -->
 
-*Last update: Thu, 03 Sep 2026 02:13:33 GMT*
+*Last update: Fri, 04 Sep 2026 02:09:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
