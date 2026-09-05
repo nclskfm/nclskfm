@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Sep 04 2026)
+### Joke of the day (Sat Sep 05 2026)
 <!-- joke -->
->Why did the chicken cross the road? It was called with theOtherSide(chicken)
+>When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.
 <!-- /joke -->
 
-*Last update: Fri, 04 Sep 2026 02:09:31 GMT*
+*Last update: Sat, 05 Sep 2026 02:10:06 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
