@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 06 2026)
+### Joke of the day (Mon Sep 07 2026)
 <!-- joke -->
->Roses are #ff0000, violets are #0000ff, I use hex codes, but I'd use RGB for you
+>Chuck Norris' first job was as a paperboy. There were no survivors.
 <!-- /joke -->
 
-*Last update: Sun, 06 Sep 2026 02:05:27 GMT*
+*Last update: Mon, 07 Sep 2026 02:02:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
