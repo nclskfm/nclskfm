@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 07 2026)
+### Joke of the day (Tue Sep 08 2026)
 <!-- joke -->
->Chuck Norris' first job was as a paperboy. There were no survivors.
+>Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
 <!-- /joke -->
 
-*Last update: Mon, 07 Sep 2026 02:02:44 GMT*
+*Last update: Tue, 08 Sep 2026 02:14:16 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
