@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Sep 08 2026)
+### Joke of the day (Wed Sep 09 2026)
 <!-- joke -->
->Thousands of years ago Chuck Norris came across a bear. It was so terrified that it fled north into the arctic. It was also so terrified that all of its decendents now have white hair.
+>Chuck Norris's keyboard has the Any key.
 <!-- /joke -->
 
-*Last update: Tue, 08 Sep 2026 02:14:16 GMT*
+*Last update: Wed, 09 Sep 2026 02:17:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
