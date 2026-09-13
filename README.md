@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 12 2026)
+### Joke of the day (Sun Sep 13 2026)
 <!-- joke -->
->There is no theory of evolution, just a list of creatures Chuck Norris allows to live.
+>After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
 <!-- /joke -->
 
-*Last update: Sat, 12 Sep 2026 02:18:48 GMT*
+*Last update: Sun, 13 Sep 2026 02:16:31 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
