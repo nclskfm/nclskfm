@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Sep 19 2026)
+### Joke of the day (Sun Sep 20 2026)
 <!-- joke -->
->Chuck Norris doesn't actually write books, the words assemble themselves out of fear.
+>When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
 <!-- /joke -->
 
-*Last update: Sat, 19 Sep 2026 02:23:50 GMT*
+*Last update: Sun, 20 Sep 2026 02:33:55 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
