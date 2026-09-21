@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 20 2026)
+### Joke of the day (Mon Sep 21 2026)
 <!-- joke -->
->When Chuck Norris is web surfing websites get the message 'Warning: Internet Explorer has deemed this user to be malicious or dangerous. Proceed?'.
+>Everybody loves Raymond. Except Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 20 Sep 2026 02:33:55 GMT*
+*Last update: Mon, 21 Sep 2026 02:31:24 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
