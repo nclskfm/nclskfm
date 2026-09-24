@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Sep 23 2026)
+### Joke of the day (Thu Sep 24 2026)
 <!-- joke -->
->Faster than a speeding bullet... More powerful than a locomotive... Able to leap tall buildings in a single bound... These are some of Chuck Norris's warm-up exercises.
+>When you play Monopoly with Chuck Norris, you do not pass go, and you do not collect two hundred dollars. You will be lucky if you make it out alive.
 <!-- /joke -->
 
-*Last update: Wed, 23 Sep 2026 02:34:05 GMT*
+*Last update: Thu, 24 Sep 2026 02:23:28 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
