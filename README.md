@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Sep 24 2026)
+### Joke of the day (Fri Sep 25 2026)
 <!-- joke -->
->When you play Monopoly with Chuck Norris, you do not pass go, and you do not collect two hundred dollars. You will be lucky if you make it out alive.
+>I told him I can't open the jar, he said download and install Java
 <!-- /joke -->
 
-*Last update: Thu, 24 Sep 2026 02:23:28 GMT*
+*Last update: Fri, 25 Sep 2026 02:39:59 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
