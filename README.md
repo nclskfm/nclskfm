@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Sep 27 2026)
+### Joke of the day (Mon Sep 28 2026)
 <!-- joke -->
->Fear is not the only emotion Chuck Norris can smell. He can also detect hope, as in 'I hope I don't get a roundhouse kick from Chuck Norris.'
+>Chuck Norris programs occupy 150% of CPU, even when they are not executing.
 <!-- /joke -->
 
-*Last update: Sun, 27 Sep 2026 02:42:58 GMT*
+*Last update: Mon, 28 Sep 2026 02:44:58 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
