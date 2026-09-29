@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Sep 28 2026)
+### Joke of the day (Tue Sep 29 2026)
 <!-- joke -->
->Chuck Norris programs occupy 150% of CPU, even when they are not executing.
+>Rules of fighting: 1) Don't bring a knife to a gun fight. 2) Don't bring a gun to a Chuck Norris fight.
 <!-- /joke -->
 
-*Last update: Mon, 28 Sep 2026 02:44:58 GMT*
+*Last update: Tue, 29 Sep 2026 03:26:40 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
