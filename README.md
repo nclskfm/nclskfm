@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Thu Oct 01 2026)
+### Joke of the day (Fri Oct 02 2026)
 <!-- joke -->
->When Chuck Norris plays Monopoly, it affects the actual world economy.
+>A programmer is having trouble with his keyboard double-pressing. He asks his coworker what he should do. 'Hit it,' he says. The programmer hits it, but nothing changes. His coworker exclaims 'No, really BASH it!'
 <!-- /joke -->
 
-*Last update: Thu, 01 Oct 2026 03:17:00 GMT*
+*Last update: Fri, 02 Oct 2026 03:17:38 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
