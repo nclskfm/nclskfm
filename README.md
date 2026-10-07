@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 06 2026)
+### Joke of the day (Wed Oct 07 2026)
 <!-- joke -->
->MacGyver can build an airplane out of gum and paper clips. Chuck Norris can kill him and take it.
+>There are no such things as tornados. Chuck Norris just hates trailer parks.
 <!-- /joke -->
 
-*Last update: Tue, 06 Oct 2026 04:00:28 GMT*
+*Last update: Wed, 07 Oct 2026 03:28:30 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
