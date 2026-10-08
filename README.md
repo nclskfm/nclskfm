@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Oct 07 2026)
+### Joke of the day (Thu Oct 08 2026)
 <!-- joke -->
->There are no such things as tornados. Chuck Norris just hates trailer parks.
+>Chuck Norris uses tabasco sauce instead of visine.
 <!-- /joke -->
 
-*Last update: Wed, 07 Oct 2026 03:28:30 GMT*
+*Last update: Thu, 08 Oct 2026 03:43:01 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
