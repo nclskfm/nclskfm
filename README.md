@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 11 2026)
+### Joke of the day (Mon Oct 12 2026)
 <!-- joke -->
->What many people dont know is Chuck Norris is the founder of planned parenthood. Not even unborn children can escape his wrath.
+>When you play Monopoly with Chuck Norris, you do not pass go, and you do not collect two hundred dollars. You will be lucky if you make it out alive.
 <!-- /joke -->
 
-*Last update: Sun, 11 Oct 2026 03:04:40 GMT*
+*Last update: Mon, 12 Oct 2026 03:28:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
