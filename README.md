@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Oct 16 2026)
+### Joke of the day (Sat Oct 17 2026)
 <!-- joke -->
->If you Google search 'Chuck Norris getting his ass kicked' you will generate zero results. It just doesn't happen.
+>Don't fart in an Apple Store, because they don't have Windows.
 <!-- /joke -->
 
-*Last update: Fri, 16 Oct 2026 02:24:38 GMT*
+*Last update: Sat, 17 Oct 2026 02:17:09 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
