@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Oct 17 2026)
+### Joke of the day (Sun Oct 18 2026)
 <!-- joke -->
->Don't fart in an Apple Store, because they don't have Windows.
+>Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
 <!-- /joke -->
 
-*Last update: Sat, 17 Oct 2026 02:17:09 GMT*
+*Last update: Sun, 18 Oct 2026 02:17:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
