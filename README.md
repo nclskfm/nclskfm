@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 18 2026)
+### Joke of the day (Mon Oct 19 2026)
 <!-- joke -->
->Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
+>In the Words of Julius Caesar, 'Veni, Vidi, Vici, Chuck Norris'. Translation: I came, I saw, and I was roundhouse-kicked inthe face by Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sun, 18 Oct 2026 02:17:03 GMT*
+*Last update: Mon, 19 Oct 2026 02:32:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
