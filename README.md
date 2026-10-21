@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Oct 20 2026)
+### Joke of the day (Wed Oct 21 2026)
 <!-- joke -->
->When Chuck Norris does division, there are no remainders.
+>When Chuck Norris says 'More cowbell', he MEANS it.
 <!-- /joke -->
 
-*Last update: Tue, 20 Oct 2026 02:45:05 GMT*
+*Last update: Wed, 21 Oct 2026 02:38:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
