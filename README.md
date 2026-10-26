@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Oct 25 2026)
+### Joke of the day (Mon Oct 26 2026)
 <!-- joke -->
->Chuck Norris uses 8'x10' sheets of plywood as toilet paper.
+>It is better to give than to receive. This is especially true of a Chuck Norris roundhouse kick.
 <!-- /joke -->
 
-*Last update: Sun, 25 Oct 2026 02:27:26 GMT*
+*Last update: Mon, 26 Oct 2026 02:26:54 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
