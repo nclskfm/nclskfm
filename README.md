@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 01 2026)
+### Joke of the day (Mon Nov 02 2026)
 <!-- joke -->
->Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
+>Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
 <!-- /joke -->
 
-*Last update: Sun, 01 Nov 2026 03:27:56 GMT*
+*Last update: Mon, 02 Nov 2026 03:36:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
