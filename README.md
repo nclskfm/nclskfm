@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 02 2026)
+### Joke of the day (Tue Nov 03 2026)
 <!-- joke -->
->Chuck Norris is the only known mammal in history to have an opposable thumb. On his penis.
+>Chuck Norris has to register every part of his body as a separate lethal weapon. His spleen is considered a concealed weapon in over 50 states.
 <!-- /joke -->
 
-*Last update: Mon, 02 Nov 2026 03:36:29 GMT*
+*Last update: Tue, 03 Nov 2026 04:42:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
