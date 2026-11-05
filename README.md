@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 04 2026)
+### Joke of the day (Thu Nov 05 2026)
 <!-- joke -->
->Chuck Norris can win at solitaire with only 18 cards.
+>Project managers never ask Chuck Norris for estimations... ever.
 <!-- /joke -->
 
-*Last update: Wed, 04 Nov 2026 04:02:54 GMT*
+*Last update: Thu, 05 Nov 2026 04:24:52 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
