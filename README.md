@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 07 2026)
+### Joke of the day (Sun Nov 08 2026)
 <!-- joke -->
->Hey! It compiles! Ship it!
+>If at first you don't succeed, you're not Chuck Norris.
 <!-- /joke -->
 
-*Last update: Sat, 07 Nov 2026 03:51:47 GMT*
+*Last update: Sun, 08 Nov 2026 03:34:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
