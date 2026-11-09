@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 08 2026)
+### Joke of the day (Mon Nov 09 2026)
 <!-- joke -->
->If at first you don't succeed, you're not Chuck Norris.
+>Chuck Norris built a time machine and went back in time to stop the JFK assassination. As Oswald shot, Chuck met all three bullets with his beard, deflecting them. JFK's head exploded out of sheer amazement.
 <!-- /joke -->
 
-*Last update: Sun, 08 Nov 2026 03:34:03 GMT*
+*Last update: Mon, 09 Nov 2026 03:48:42 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
