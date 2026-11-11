@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 10 2026)
+### Joke of the day (Wed Nov 11 2026)
 <!-- joke -->
->A man once taunted Chuck Norris with a bag of Lay's potato chips, saying 'Betcha can't eat just one!' Chuck Norris proceeded to eat the chips, the bag, and the man in one deft move.
+>Chuck Norris runs on batteries. Specifically, Die Hards.
 <!-- /joke -->
 
-*Last update: Tue, 10 Nov 2026 05:22:53 GMT*
+*Last update: Wed, 11 Nov 2026 03:53:29 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
