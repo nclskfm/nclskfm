@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 11 2026)
+### Joke of the day (Thu Nov 12 2026)
 <!-- joke -->
->Chuck Norris runs on batteries. Specifically, Die Hards.
+>Chuck Norris can instantiate an abstract class.
 <!-- /joke -->
 
-*Last update: Wed, 11 Nov 2026 03:53:29 GMT*
+*Last update: Thu, 12 Nov 2026 05:00:44 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
