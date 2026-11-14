@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 13 2026)
+### Joke of the day (Sat Nov 14 2026)
 <!-- joke -->
->It is believed dinosaurs are extinct due to a giant meteor. That's true if you want to call Chuck Norris a giant meteor.
+>How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
 <!-- /joke -->
 
-*Last update: Fri, 13 Nov 2026 04:16:55 GMT*
+*Last update: Sat, 14 Nov 2026 04:13:08 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
