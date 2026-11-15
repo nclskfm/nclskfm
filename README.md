@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 14 2026)
+### Joke of the day (Sun Nov 15 2026)
 <!-- joke -->
->How do you tell an introverted computer scientist from an extroverted computer scientist? The extrovert looks at *your* shoes when he talks to you.
+>After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
 <!-- /joke -->
 
-*Last update: Sat, 14 Nov 2026 04:13:08 GMT*
+*Last update: Sun, 15 Nov 2026 03:58:00 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
