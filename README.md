@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sun Nov 15 2026)
+### Joke of the day (Mon Nov 16 2026)
 <!-- joke -->
->After taking a steroids test doctors informed Chuck Norris that he had tested positive. He laughed upon receiving this information, and said 'of course my urine tested positive, what do you think they make steroids from?'
+>The Internet: where men are men women are men and children are FBI agents.
 <!-- /joke -->
 
-*Last update: Sun, 15 Nov 2026 03:58:00 GMT*
+*Last update: Mon, 16 Nov 2026 03:58:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
