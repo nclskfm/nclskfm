@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 18 2026)
+### Joke of the day (Thu Nov 19 2026)
 <!-- joke -->
->Chuck Norris's keyboard has the Any key.
+>The Bible was originally titled 'Chuck Norris and Friends'
 <!-- /joke -->
 
-*Last update: Wed, 18 Nov 2026 05:16:34 GMT*
+*Last update: Thu, 19 Nov 2026 05:11:35 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
