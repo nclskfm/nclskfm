@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 20 2026)
+### Joke of the day (Sat Nov 21 2026)
 <!-- joke -->
->Latest survey shows that 3 out of 4 people make up 75% of the world’s population.
+>There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
 <!-- /joke -->
 
-*Last update: Fri, 20 Nov 2026 04:59:10 GMT*
+*Last update: Sat, 21 Nov 2026 04:55:03 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
