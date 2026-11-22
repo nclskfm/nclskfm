@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Sat Nov 21 2026)
+### Joke of the day (Sun Nov 22 2026)
 <!-- joke -->
->There is no such thing as global warming. Chuck Norris was cold, so he turned the sun up.
+>Bill Gates thinks he's Chuck Norris. Chuck Norris actually laughed. Once.
 <!-- /joke -->
 
-*Last update: Sat, 21 Nov 2026 04:55:03 GMT*
+*Last update: Sun, 22 Nov 2026 04:14:25 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
