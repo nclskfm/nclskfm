@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Mon Nov 23 2026)
+### Joke of the day (Tue Nov 24 2026)
 <!-- joke -->
->Maslow's theory of higher needs does not apply to Chuck Norris. He only has two needs: killing people and finding people to kill.
+>Beware of programmers that carry screwdrivers.
 <!-- /joke -->
 
-*Last update: Mon, 23 Nov 2026 04:53:58 GMT*
+*Last update: Tue, 24 Nov 2026 07:42:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
