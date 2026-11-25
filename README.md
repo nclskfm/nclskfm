@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Tue Nov 24 2026)
+### Joke of the day (Wed Nov 25 2026)
 <!-- joke -->
->Beware of programmers that carry screwdrivers.
+>Chuck Norris can believe it's not butter.
 <!-- /joke -->
 
-*Last update: Tue, 24 Nov 2026 07:42:50 GMT*
+*Last update: Wed, 25 Nov 2026 06:13:37 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
