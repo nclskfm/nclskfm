@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Wed Nov 25 2026)
+### Joke of the day (Thu Nov 26 2026)
 <!-- joke -->
->Chuck Norris can believe it's not butter.
+>How many Chuck Norris' does it take to change a light bulb? None, Chuck Norris prefers to kill in the dark.
 <!-- /joke -->
 
-*Last update: Wed, 25 Nov 2026 06:13:37 GMT*
+*Last update: Thu, 26 Nov 2026 06:05:23 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
