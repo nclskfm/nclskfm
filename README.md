@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-### Joke of the day (Fri Nov 27 2026)
+### Joke of the day (Sat Nov 28 2026)
 <!-- joke -->
->Chuck Norris doesn't believe in Germany.
+>Kryptonite has been found to contain trace elements of Chuck Norris roundhouse kicks to the face. This is why it is so deadly to Superman.
 <!-- /joke -->
 
-*Last update: Fri, 27 Nov 2026 05:57:12 GMT*
+*Last update: Sat, 28 Nov 2026 05:38:50 GMT*
 
 [![Update joke](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml/badge.svg)](https://github.com/nclskfm/nclskfm/actions/workflows/joke.yml)
 
